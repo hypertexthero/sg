@@ -1,0 +1,14 @@
+/* Bug fixes for damned Microsoft Internet Explorer 6 */
+
+div#textframe {width:30em;}
+div#information_index {padding:0;}
+div#information_index h1 a {margin:0; padding:0; display:block;}
+p.breadcrumbs {line-height:inherit !important; bottom:3px !important;}
+ol.thumbs li {width:160px !important;}
+ol.thumbs li a {border:none !important; margin:0 auto !important;}
+ul.archivelist, ul#notebooktitlelist {margin-left:-14px !important; padding-left:0 !important;}
+body#notebook div#plateframe {margin-bottom:0.25em !important;}
+#content {overflow:visible !important;}
+div.homethumb {position:relative;} /* Fix for IE negative margin bug http://haslayout.net/css/negmargin#solution_l */
+div.ThumbTitleCaption img {margin-bottom:0.25em !important;}
+div#sidebox {width:16em;}

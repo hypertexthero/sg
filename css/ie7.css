@@ -1,0 +1,15 @@
+/* 
+Bug fixes for damned Microsoft Internet Explorer 7 
+Saturday,12 June 2010
+*/
+
+/*body.textpage #content {padding-top:0;1}*/
+.floatright {display:inline;}
+p {overflow:auto;} /* Amazingly, this fixes the mystery horizontal scrollbar in IE7. http://www.brugbart.com/Articles/2/ */
+div#information_index {padding:0 2.75em 0 0;}
+div#information_index h1 a {margin:0; padding:0; display:block;}
+p.breadcrumbs {line-height:inherit !important; bottom:3px !important;}
+ul.thumbs li {width:160px !important;}
+ul.thumbs li a {border:none !important; margin:0 auto !important;}
+ul.archivelist, ul#notebooktitlelist {margin-left:-14px !important; padding-left:0 !important;}
+div.homethumb {position:relative;} /* Fix for IE negative margin bug http://haslayout.net/css/negmargin#solution_l */

@@ -79,8 +79,8 @@ li {
     line-height: 1.4em;
     list-style: none;
     }
-.quiet {color:#888 !important;}
-.quiet a {color:#888;}
+.quiet {color:#666 !important;}
+.quiet a {color:#666;}
 em {font-style:italic;}
 strong {font-style:bold;}
 blockquote {padding-left:1em; border-left:1px solid #ddd; margin-bottom:1em;}
