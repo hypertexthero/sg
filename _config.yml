@@ -1,0 +1,6 @@
+name: Stories - Simon Griffee
+markdown: redcarpet
+pygments: true
+destination: _site
+permalink: none
+url: http://localhost:4000
