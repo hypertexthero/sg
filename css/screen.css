@@ -34,9 +34,9 @@ img {margin-bottom:0.25em;}
 /* =Links, =Images ------------------------------------------------ */
 
 a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
-a:link {text-decoration:none; color:#c96; border-bottom:1px solid #666;}
-a:visited {text-decoration:none; color:#c96; border-bottom:1px solid #555;}
-a:hover {text-decoration:none; color:#c96; border-color:#2b2b2b; outline:none;}
+a:link {text-decoration:none; color:#888; /*color:#c96;*/ border-bottom:1px solid #444;}
+a:visited {text-decoration:none; color:#888; border-bottom:1px solid #333;}
+a:hover {text-decoration:none; color:#ccc; border-color:#2b2b2b; outline:none;}
 a:active {color:#f60; outline:none; border-bottom:none;}
 
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
