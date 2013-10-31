@@ -4,6 +4,10 @@ Static site generation template for the [Stories section](http://simongriffee.co
 
 Uses [Jekyll](http://jekyllrb.com/).
 
+## Preview site locally
+
+    jekyll serve -w
+
 ## Automatic deployment with Git
 
 A. Make sure [Jekyll and RubyGems are installed](http://jekyllrb.com/docs/installation/) on both local and server machines.

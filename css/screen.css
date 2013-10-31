@@ -139,7 +139,7 @@ p.caption {font-size:85%; color:#666; margin:0 0 2em;}
 
 div#cap p {margin:0 0 2em;}
 
-div.controls {line-height:1em; margin:0 0 10px;}
+div.controls {line-height:1em; margin:0 0 10px; font-size:90% !important;}
 div.controls a {
     padding:5px;
     margin-right:-5px;
