@@ -70,4 +70,3 @@ D. To deploy:
 
 1. Eventually [transfer all content to Jekyll](http://jekyllrb.com/docs/migrations/)?
 2. Set up [static file search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)?
-
