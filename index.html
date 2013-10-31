@@ -4,5 +4,5 @@ title: Stories
 ---
 
 {% for post in site.posts %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.timeframe }}</small></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <small>{{ post.timeframe }}</small></li>
 {% endfor %}

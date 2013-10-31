@@ -4,3 +4,4 @@ pygments: true
 destination: _site
 permalink: none
 url: http://localhost:4000
+baseurl: /stories
