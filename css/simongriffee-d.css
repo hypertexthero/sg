@@ -142,7 +142,6 @@ div.ThumbTitleCaption p.small {font-size:0.65em; line-height:1.25em; display:inl
 
 div.homethumb {width:9em; margin-right:-5.7em; clear:both;}
 div.homethumb h3, div.homethumb p {margin-bottom:0;}
-ul#titlelist, ul#timelinelist, ul.archivelist {list-style:none;}
 
 ol.thumbs {margin:0 0 0 10px !important;}
 body.storiesstoryindex ol.thumbs {margin:0 0 0 247px !important;}
@@ -241,11 +240,12 @@ body.searchresults strong {background:#ff0; color:#000;}
 
 /* =lists ---------- */
 ul {font-size:inherit; list-style:disc inside;}
-body.textpage #content ul, body.textpage #content ol {list-style:outside !important; margin-left:1.25em !important;}
+/*body.textpage #content ul, body.textpage #content ol {list-style:outside; margin-left:1.25em !important;}*/
 ul.left {float:left;}
 ul.right {float:right;}
 dl {font-size:1em; line-height:1.4em;}
-	
+ul#titlelist, ul#timelinelist, ul.archivelist {margin-left:0 !important; padding-left:0 !important; list-style:none inside !important;}
+
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
 ol {font-size:inherit; list-style:decimal inside;}
 #textframe ul, #textframe ol {list-style:outside; padding-left:1em;}
