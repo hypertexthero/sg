@@ -16,6 +16,8 @@ p.ruler {clear:both; height:0; width:0; border:none; margin:0; padding:0; text-i
 .small {font-size:0.8em;}
 .left {text-align:left !important;}
 .floatright {float:right; margin:0 0 1em 1em;}
+.capitalize {text-transform:capitalize;}
+.smallcaps {text-transform:uppercase; letter-spacing:0.1em; font-size:80% !important;}
 
 body {
     line-height:1.5em; 
