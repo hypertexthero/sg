@@ -17,8 +17,8 @@ p.skip {display:none;}
 a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
 a:link {text-decoration:none; color:#000; border-bottom:1px solid #ccc; font-weight:bold;}
 a:visited {text-decoration:none; color:#111; border-bottom:1px solid #bbb; font-weight:bold;}
-a:hover {text-decoration:none; color:#000; background:#bbb; border-color:#bbb; outline:none;}
-a:active {color:#f60; outline:none; border-bottom:none;}
+a:hover {text-decoration:none; color:#c00; background:#bbb; border-color:#bbb; outline:none;}
+a:active {color:#c00; outline:none; border-bottom:none;}
 
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
 a:link img, a:visited img {border:0 !important; border-style:none; text-decoration:none; border-bottom:none; cursor:pointer;}
@@ -76,7 +76,7 @@ body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-l
 #navcontainer ul a:hover, #navcontainer ul a:focus {color:#000; background:#ccc !important;}
 
 ul.subnav em {font-style:normal;}
-ul.subnav a {background:#ccc;}
+ul.subnav a {background:#ccc; font-weight:normal;}
 ul.subnav a:hover, ul.subnav a:focus {background:#ccc !important;} 
 
 body.storieslatest li#nav-storieslatest a,
@@ -151,7 +151,8 @@ ol.thumbs {margin:0 0 0 10px !important;}
 body.storiesstoryindex ol.thumbs {margin:0 0 0 247px !important;}
 ol.thumbs li {float:left; list-style:decimal outside; color:#333; margin:0 0 10px 30px; }
 ol.thumbs li a {display:block; height:210px; border:none;}
-ol.thumbs li:hover, ol.thumbs li:active {color:#fff !important;}
+ol.thumbs li a:hover, ol.thumbs li a:active {background:transparent; color:#c00 !important;}
+ol.thumbs li:hover {color:#c00;}
 ol.thumbs li img {margin:-10px 0 0 -20px; padding:10px;}
 
 ol.thumbs li.textthumb {padding:0 10px 0; /*display:block !important;*/ width:100px !important; height:155px !important;}
@@ -159,7 +160,7 @@ ol.thumbs li.textthumb a {display:inline !important;}
 ol.thumbs li.textthumb h3 {display:block !important;}
 
 ol.thumbs.potm li {margin-bottom:1.5em;}
-ol.thumbs.potm li:hover, ol.thumbs.potm li:active {background:#333;}
+/*ol.thumbs.potm li:hover, ol.thumbs.potm li:active {background:#333;}*/
 ol.thumbs.potm li a {display:inline !important;}
 ol.thumbs.potm li p {margin-left:10px !important;}
 
