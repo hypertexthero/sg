@@ -67,7 +67,7 @@ body.storiesstoryindex h1#logo {text-align:left; margin:0 0 0 -0.4em;}
 body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-left:-0.3em;}
 #navcontainer ul {padding:0; margin:0 0 0.25em; list-style-type:none; position:relative; line-height:1em;}
 /*body#notebook #navcontainer ul {margin-bottom:1.15em;}*/
-#navcontainer li {display:inline; margin:0; font-size:0.8em; line-height:1.8em;}
+#navcontainer li {display:inline; margin:0; font-size:0.8em; line-height:2em;}
 #navcontainer li.active {font-weight:bold; letter-spacing:-0.025em;}
 #navcontainer li.active span {font-weight:normal;}
 .normal {font-weight:normal;}
@@ -76,7 +76,7 @@ body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-l
 
 ul.subnav em {font-style:normal;}
 ul.subnav a {background:#ccc; font-weight:normal;}
-/*ul.subnav a:hover, ul.subnav a:focus {background:#ccc !important;} */
+ul.subnav a:hover, ul.subnav a:focus {background:#fff !important;} 
 
 body.storieslatest li#nav-storieslatest a,
 body.storiestitle li#nav-storiestitle a,
