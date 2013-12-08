@@ -37,9 +37,9 @@ img {margin-bottom:0.25em;}
 
 a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
 a:link {text-decoration:none; color:#000; border-bottom:1px solid #ccc; font-weight:bold;}
-a:visited {text-decoration:none; color:#111; border-bottom:1px solid #bbb; font-weight:bold;}
-a:hover {text-decoration:none; color:#000; background:#bbb; border-color:#bbb; outline:none;}
-a:active {color:#f60; outline:none; border-bottom:none;}
+a:visited {text-decoration:none; color:#111; border-bottom:1px solid #ccc; font-weight:bold;}
+a:hover {text-decoration:none; color:#111; background:#ccc; border-color:#ccc; outline:none;}
+a:active {color:#c00; outline:none; border-bottom:none;}
 
 
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
@@ -102,7 +102,7 @@ div#header, div#subheader {
     width: 17%;
     text-align:right;
     }
-div#header a, div#subheader a {border:none;}
+div#subheader h1 a {border:none;}
 
 div#page {
     margin:0 1em 0 0;
@@ -142,13 +142,14 @@ p.caption {font-size:85%; color:#333; margin:0 0 2em;}
 
 div#cap p {margin:0 0 2em;}
 
-div.controls {line-height:1em; margin:0 0 10px; font-size:90% !important;}
+div.controls {line-height:1em; margin:0 0 10px; font-size:0.8em !important;}
 div.controls a {
+    background:#ccc;
     padding:5px;
     margin-right:-5px;
     line-height:1.5em;
     text-decoration:none !important;
-    letter-spacing: 0.1em;
+    font-weight:normal;
     }
 div.controls a:hover {color:#333 !important;}
 div.ss-controls {
