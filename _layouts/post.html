@@ -11,8 +11,16 @@ layout: default
   </div> <!-- end page --> 
   
   <div id="subheader" role="banner">
-    <p class="quiet small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small>/</small> <a href="/stories/" title="List of Stories.">Stories</a> <small>/</small></p>
-    <h1><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}<br><small class="capitalize"><!-- {{ page.categories }}<br> -->{{ page.type}}<br>{{ page.timeframe }}</a></small></h1>
+    <p class="small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small>/</small> <a href="/stories/" title="List of Stories.">Stories</a> <small>/</small></p>
+    <h1>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}
+      <br>
+      <span class="normal"><!-- {{ page.categories }}<br> -->{{ page.type}}
+      <br>
+        {{ page.timeframe }}
+      </span>
+      </a>
+    </h1>
     <div id="controls" class="controls">
     </div>
     <div id="thumbs-min" class="imgnav">
@@ -21,7 +29,7 @@ layout: default
   </div> <!-- end #subheader -->
   
   <div id="footer">
-    <p><a href="/" title="Homepage.">Photographs</a> &copy; Copyright <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a> 1999-{{ page.date|date:"%Y" }}</p>
+    <p><a href="/" title="Homepage.">Photographs</a> &copy; Copyright <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a> 1999-{{ site.time|date:"%Y" }}</p>
     
     <p class="small center"><a id="showshare" href="#" title="Or an enemy.">Show to a Friend</a></p>
     <p id="share" class="center small" style="display:none;">
