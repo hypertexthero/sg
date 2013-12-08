@@ -17,7 +17,7 @@ p.skip {display:none;}
 a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
 a:link {text-decoration:none; color:#000; border-bottom:1px solid #ccc; font-weight:bold;}
 a:visited {text-decoration:none; color:#111; border-bottom:1px solid #bbb; font-weight:bold;}
-a:hover {text-decoration:none; color:#c00; background:#bbb; border-color:#bbb; outline:none;}
+a:hover {text-decoration:none; color:#111; background:#bbb; border-color:#bbb; outline:none;}
 a:active {color:#c00; outline:none; border-bottom:none;}
 
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
@@ -61,7 +61,6 @@ body.storiestimeline h1#logo
 {margin-bottom:0.6em;}*/
 
 h1#logo a {margin:0; padding:0.25em 0.45em;}
-h1#logo a:hover {background:#2b2b2b;}
 body.storiesstoryindex h1#logo {text-align:left; margin:0 0 0 -0.4em;}
 
 #navcontainer {padding:0; text-align:center;}
@@ -121,9 +120,9 @@ h2 {
     margin: 1em 0 0.25em;
     letter-spacing:1px;
     }
-h2 a:link, h2 a:visited {border:none;} 
+/*h2 a:link, h2 a:visited {border:none;} */
 body#home h2 a:link, body#home h2 a:visited {border:none;}
-h2 a:hover, h2 a:active {border-bottom:1px solid #2b2b2b; color:#000 !important;}
+/*h2 a:hover, h2 a:active {border-bottom:1px solid #2b2b2b; color:#000 !important;}*/
 h3 {font:bold 0.75em/1.461em helvetica, arial, sans-serif; margin:0 0 0.6em; }
 h3 a:link, h3 a:visited {border-color:#2b2b2b;}
 h3 a:hover, h3 a:active {color:#f60; border:none;}
