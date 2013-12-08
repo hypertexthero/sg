@@ -46,7 +46,7 @@ body#stories #content, body.storieslatest #content, body.storiessingles #content
 div#textframe {max-width:32em; margin:0.5em auto 0;}
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
 div#textframe.withimage {margin-bottom:3em;}
-body.story div#textframe {margin:0 auto !important;}
+body#stories div#textframe {margin:0 auto !important; max-width:50em;}
 div#textframe h1, div#textframe h2 {text-align:center;}
 body.textpage div#textframe h1, body.textpage div#textframe h2 {text-align:left;}
 

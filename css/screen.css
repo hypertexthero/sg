@@ -145,9 +145,9 @@ div#cap p {margin:0 0 2em;}
 div.controls {line-height:1em; margin:0 0 10px; font-size:0.8em !important;}
 div.controls a {
     background:#ccc;
-    padding:5px;
+    padding:3px 5px;
     margin-right:-5px;
-    line-height:1.5em;
+    line-height:2em;
     text-decoration:none !important;
     font-weight:normal;
     }
@@ -190,7 +190,7 @@ a.thumb img {margin:0; padding:0;}
     #page {float:none !important; text-align:center !important; width:100% !important;}
     #slideshow img {max-width:100% !important; height:auto !important; margin:0 auto !important; text-align:center !important;}
     #subheader {text-align:center !important;}
-    #controls, .nav-controls, .ss-controls {text-align:center !important; float:none !important; display:block !important;}
+    #controls, .nav-controls, .ss-controls {text-align:center !important; float:none !important; display:inline-block !important;}
     #thumbs-min {float:none !important; max-width:100% !important; text-align:center !important;}
     #subheader {float:none !important; width:100% !important; clear:both !important;}
     #footer {margin: 1em auto !important; text-align:center !important;}

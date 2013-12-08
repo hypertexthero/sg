@@ -54,25 +54,23 @@
 <!-- <ul class="archivelist">
   {{ content }}
 </ul> -->
+<div style="float:left; width:18em; margin-right:1em;">
+  <h2>Cultural</h2>
+  <ul class="archivelist">
+    {% for post in site.categories.cultural %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {{ post.type }} <small>{{ post.timeframe }}</small></li>
+    {% endfor %}
+  </ul>
+</div>
 
-<h2>Cultural</h2>
-
-<ul class="archivelist">
-  {% for post in site.categories.cultural %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {{ post.type }} <small>{{ post.timeframe }}</small></li>
-  {% endfor %}
-</ul>
-
-<h2>Fashion</h2>
-
-<ul class="archivelist">
-  {% for post in site.categories.fashion %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {{ post.type }} <small>{{ post.timeframe }}</small></li>
-  {% endfor %}
-</ul>
-
-
-
+<div style="float:left; width:18em;">
+  <h2>Fashion</h2>
+  <ul class="archivelist">
+    {% for post in site.categories.fashion %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> {{ post.type }} <small>{{ post.timeframe }}</small></li>
+    {% endfor %}
+  </ul>
+</div>
 
 </div> <!-- textframe end -->
 </div> <!-- content end -->
