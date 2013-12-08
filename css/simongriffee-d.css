@@ -76,7 +76,7 @@ body#notebook #navcontainer ul {margin-bottom:1.15em;}
 #navcontainer ul a:hover, #navcontainer ul a:focus {color:#000; background:#ccc !important;}
 
 ul.subnav em {font-style:normal;}
-ul.subnav a {background:#333;}
+ul.subnav a {background:#ccc;}
 ul.subnav a:hover, ul.subnav a:focus {background:#ccc !important;} 
 
 body.storieslatest li#nav-storieslatest a,
@@ -102,9 +102,8 @@ body.storiesstoryindex #footer {padding-top:6em;}
 #footer a {color:#666 !important; font-size:0.9em;}
 #footer a:hover, #footer a:active {border:none; background:#ccc;}
 
-h1 {font:bold 1.0625em/1.375em helvetica, arial, sans-serif; margin:-0.15em 0 0.3em; color:#ccc;}
+h1 {font:bold 1.0625em/1.375em helvetica, arial, sans-serif; margin:-0.15em 0 0.3em;}
 h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; font:normal 0.85em/1em helvetica, arial, sans-serif; margin:0 0 1em !important; font-weight:normal; text-align:center;} /*white-space:nowrap; */
-h2#NotebookPhotoTitle a, h2#StoryPhotoTitle a {color:#777;}
 div#textframe.withimage h2 {text-align:left;}
 /*body#stories div#textframe {color:#777;}*/
 h1.weakcaption {font-weight:normal !important; font-size:0.75em !important;}
@@ -165,11 +164,10 @@ ol.thumbs.potm li a {display:inline !important;}
 ol.thumbs.potm li p {margin-left:10px !important;}
 
 ul.pagination {margin:0; clear:both;}
-ul.pagination li {list-style:none; float:left; display:block; margin-right:3px; border:1px solid #2b2b2b;}
+ul.pagination li {list-style:none; float:left; display:block; margin-right:3px;}
 ul.pagination li a {display:block; padding:3px 7px; border-bottom:none;}
-ul.pagination li a:hover {background:#2b2b2b;}
-li.inactive {padding:3px 7px; border-color:#2b2b2b !important; color:#2b2b2b !important;}
-li.currentpage {background:#333; border-color:#141414 !important;}
+li.inactive {padding:3px 7px; color:#999 !important;}
+li.currentpage {background:#ccc;}
 
 h1#storytitle {text-align:left; letter-spacing:1px; font-size:2.25em; font-weight:bold; line-height:1em; margin:0.7em 0 1em;}
 /*h1#storytitle a {color:#ccc !important;}*/
