@@ -53,12 +53,12 @@ body.textpage div#textframe h1, body.textpage div#textframe h2 {text-align:left;
 /*  =logo ---------------- */
 
 h1#logo {letter-spacing:0.1em; font-size:1em !important; font-weight:normal; margin:0 0 0.4em; line-height:1em;}
-body#about h1#logo,
+/*body#about h1#logo,
 body#contact h1#logo,
 body.storieslatest h1#logo,
 body.storiestitle h1#logo,
 body.storiestimeline h1#logo
-{margin-bottom:0.6em;}
+{margin-bottom:0.6em;}*/
 
 h1#logo a {margin:0; padding:0.25em 0.45em;}
 h1#logo a:hover {background:#2b2b2b;}
@@ -67,7 +67,7 @@ body.storiesstoryindex h1#logo {text-align:left; margin:0 0 0 -0.4em;}
 #navcontainer {padding:0; text-align:center;}
 body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-left:-0.3em;}
 #navcontainer ul {padding:0; margin:0 0 0.5em; list-style-type:none; position:relative; line-height:2em;}
-body#notebook #navcontainer ul {margin-bottom:1.15em;}
+/*body#notebook #navcontainer ul {margin-bottom:1.15em;}*/
 #navcontainer li {display:inline; margin:0; font-size:0.8em; line-height:1.8em;}
 #navcontainer li.active {font-weight:bold; letter-spacing:-0.025em;}
 #navcontainer li.active span {font-weight:normal;}
