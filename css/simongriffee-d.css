@@ -16,8 +16,8 @@ p.skip {display:none;}
 
 a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
 a:link {text-decoration:none; color:#000; border-bottom:1px solid #ccc; font-weight:bold;}
-a:visited {text-decoration:none; color:#111; border-bottom:1px solid #bbb; font-weight:bold;}
-a:hover {text-decoration:none; color:#111; background:#bbb; border-color:#bbb; outline:none;}
+a:visited {text-decoration:none; color:#111; border-bottom:1px solid #ccc; font-weight:bold;}
+a:hover {text-decoration:none; color:#111; background:#ccc; border-color:#ccc; outline:none;}
 a:active {color:#c00; outline:none; border-bottom:none;}
 
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
@@ -116,8 +116,8 @@ h1.printofthemonthtitle {font-family:georgia, times, sans-serif; font-weight:nor
 
 h2 {
     line-height: 1.4em;
-    font-size: 120%;
-    margin: 1em 0 0.25em;
+    font-size: 100%;
+    margin: 1.5em 0 0.25em;
     letter-spacing:1px;
     }
 /*h2 a:link, h2 a:visited {border:none;} */
