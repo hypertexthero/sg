@@ -17,7 +17,7 @@ p.skip {display:none;}
 a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
 a:link {text-decoration:none; color:#000; border-bottom:1px solid #ccc; font-weight:bold;}
 a:visited {text-decoration:none; color:#111; border-bottom:1px solid #ccc; font-weight:bold;}
-a:hover {text-decoration:none; color:#111; background:#ccc; border-color:#ccc; outline:none;}
+a:hover {text-decoration:none; color:#111; background:#fff; border-color:#ccc; outline:none;}
 a:active {color:#c00; outline:none; border-bottom:none;}
 
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
@@ -46,7 +46,7 @@ body#stories #content, body.storieslatest #content, body.storiessingles #content
 div#textframe {max-width:32em; margin:0.5em auto 0;}
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
 div#textframe.withimage {margin-bottom:3em;}
-body#stories div#textframe {margin:0 auto !important; max-width:50em;}
+body#stories div#textframe {max-width:50em !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
 body.textpage div#textframe h1, body.textpage div#textframe h2 {text-align:left;}
 
@@ -72,11 +72,11 @@ body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-l
 #navcontainer li.active span {font-weight:normal;}
 .normal {font-weight:normal;}
 #navcontainer ul a, #navcontainer ul a:link,#navcontainer ul a:visited {padding:0.65em; border:none;}
-#navcontainer ul a:hover, #navcontainer ul a:focus {color:#000; background:#ccc !important;}
+#navcontainer ul a:hover, #navcontainer ul a:focus {color:#000;}
 
 ul.subnav em {font-style:normal;}
 ul.subnav a {background:#ccc; font-weight:normal;}
-ul.subnav a:hover, ul.subnav a:focus {background:#ccc !important;} 
+/*ul.subnav a:hover, ul.subnav a:focus {background:#ccc !important;} */
 
 body.storieslatest li#nav-storieslatest a,
 body.storiestitle li#nav-storiestitle a,
@@ -92,17 +92,17 @@ body#maps #navcontainer li#nav-maps a,
 body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;}
 /* TODO: Thumbnail archive pages: http://masonry.desandro.com/docs/intro.html */
 
-#footer {clear:both; margin:0 auto; text-align:center; padding-top:1.5em;}
+#footer {clear:both; margin:0 auto; text-align:center; padding-top:2.5em;}
+#footer p {font-size:0.75em !important; color:#666;}
 body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
 #footer input {margin:0 0 0.75em; background:none;}
 /*#footer p {color:#777 !important; font-size:0.75em; line-height:1.65em; margin:0 0 0.55em;}*/
-#footer a {color:#666 !important; font-size:0.9em;}
-#footer a:hover, #footer a:active {border:none; background:#ccc;}
+#footer a {color:#666 !important; font-weight:normal;}
 
 h1 {font:bold 1.0625em/1.375em helvetica, arial, sans-serif; margin:-0.15em 0 0.3em;}
-h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; font:normal 0.85em/1em helvetica, arial, sans-serif; margin:0 0 1em !important; font-weight:normal; text-align:center;} /*white-space:nowrap; */
+h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center;} /*white-space:nowrap; */
 div#textframe.withimage h2 {text-align:left;}
 /*body#stories div#textframe {color:#777;}*/
 h1.weakcaption {font-weight:normal !important; font-size:0.75em !important;}
@@ -124,8 +124,6 @@ h2 {
 body#home h2 a:link, body#home h2 a:visited {border:none;}
 /*h2 a:hover, h2 a:active {border-bottom:1px solid #2b2b2b; color:#000 !important;}*/
 h3 {font:bold 0.75em/1.461em helvetica, arial, sans-serif; margin:0 0 0.6em; }
-h3 a:link, h3 a:visited {border-color:#2b2b2b;}
-h3 a:hover, h3 a:active {color:#f60; border:none;}
 h4 {font-size:0.75em; font-weight:normal; font-style:italic; margin:1.7em 0 0.5em; }
 h5 {font-size:0.55em; text-transform:uppercase; margin:1.7em 0 0.5em; }
 h6 {font-size:0.55em; text-transform:uppercase; font-style:italic; margin:1.7em 0 0.5em; }
@@ -278,7 +276,7 @@ input.zemRadio {margin:0 0 0 1em; padding:0;}
 select {display:block; margin-bottom:1em;}
 fieldset {padding:1em 0; border:none;}
 form#search label {display:none;}
-input:hover, input:focus, input:active {background:#fafafa !important; color:#000 !important;}
+input:hover, input:focus, input:active {background:#fff !important; color:#000 !important;}
 
 ul.zemError {color:#c00 !important; padding:10px; border:2px solid #c00; width:auto; background:#fafafa;}
 div.zemThanks p {padding:2em 3em; background:transparent; text-align:center; font-family:georgia, times, serif; font-size:1.125em; line-height:1.375em; font-style:italic;}

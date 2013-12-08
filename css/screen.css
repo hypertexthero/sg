@@ -118,9 +118,10 @@ div#footer {
     clear:both;
     margin-left: 22%;
     font-size:90%;
-    color:#333 !important;
+    color:#666 !important;
     text-align:left;
     }
+/*#footer p {font-size:0.75em !important; color:#666;}*/
 /*div#footer a {text-decoration:none; color:#666;}*/
 
 /* =gallery
