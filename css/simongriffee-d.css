@@ -66,7 +66,7 @@ body.storiesstoryindex h1#logo {text-align:left; margin:0 0 0 -0.4em;}
 
 #navcontainer {padding:0; text-align:center;}
 body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-left:-0.3em;}
-#navcontainer ul {padding:0; margin:0 0 0.5em; list-style-type:none; position:relative; line-height:2em;}
+#navcontainer ul {padding:0; margin:0 0 0.25em; list-style-type:none; position:relative; line-height:1em;}
 /*body#notebook #navcontainer ul {margin-bottom:1.15em;}*/
 #navcontainer li {display:inline; margin:0; font-size:0.8em; line-height:1.8em;}
 #navcontainer li.active {font-weight:bold; letter-spacing:-0.025em;}
@@ -90,7 +90,7 @@ body#contact #navcontainer li#nav-contact a,
 body#stories #navcontainer li#nav-stories a,
 body#stories #navcontainer li#nav-archives a,
 body#maps #navcontainer li#nav-maps a,
-body#archives.notebookthumbnails #navcontainer li#nav-latest a {letter-spacing:-0.025em; background:#ccc;}
+body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;}
 /* TODO: Thumbnail archive pages: http://masonry.desandro.com/docs/intro.html */
 
 #footer {clear:both; margin:0 auto; text-align:center; padding-top:1.5em;}
