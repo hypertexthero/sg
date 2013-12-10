@@ -1,7 +1,7 @@
 /* 
 simongriffee-d.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2013-12-08
+Last update: 2013-12-10
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -42,6 +42,8 @@ body.notebookthumbnails {margin-left:30px; margin-right:20px;}
 body.textpage #content {margin-top:3em;}
 
 body#stories #content, body.storieslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.storiestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
+
+div.storycolumn {float:left; width:18em;}
 
 div#textframe {max-width:32em; margin:0.5em auto 0;}
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
@@ -310,4 +312,5 @@ ul#photos li a:hover {border-color:#633;}
     textarea {width:96% !important;}
     div#information_index {width:auto; float:none;}
     body.storiesstoryindex ol.thumbs {margin:0 !important;}
+    div.storycolumn {width:auto !important;}
     }
