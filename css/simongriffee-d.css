@@ -7,7 +7,7 @@ Last update: 2013-12-10
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
 
 body {text-align:center; color:#000; background:#dcdcdc; /*background:#000;*/
-font-family:helvetica, verdana, sans-serif; font-size:100%; line-height:1em; /* 16x1.125=18px */
+font-family: 'Gentium Basic', times, 'times new roman', serif; font-size:100%; line-height:1em; /* 16x1.125=18px */
 margin:0 0 15em;}
 
 p.skip {display:none;}
@@ -50,7 +50,7 @@ body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !im
 div#textframe.withimage {margin-bottom:3em;}
 body#stories div#textframe {max-width:50em !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
-body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, body#stories div#textframe h2 {text-align:left;}
+body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0.5em; text-transform:uppercase; letter-spacing:0.1em;}
 
 /*  =logo ---------------- */
 
@@ -70,10 +70,10 @@ body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-l
 #navcontainer ul {padding:0; margin:0 0 0.25em; list-style-type:none; position:relative; line-height:1em;}
 /*body#notebook #navcontainer ul {margin-bottom:1.15em;}*/
 #navcontainer li {display:inline; margin:0; font-size:0.8em; line-height:2em;}
-#navcontainer li.active {font-weight:bold; letter-spacing:-0.025em;}
+#navcontainer li.active {font-weight:bold;}
 #navcontainer li.active span {font-weight:normal;}
 .normal {font-weight:normal;}
-#navcontainer ul a, #navcontainer ul a:link,#navcontainer ul a:visited {padding:0.65em; border:none;}
+#navcontainer ul a, #navcontainer ul a:link,#navcontainer ul a:visited {padding:0.4em 0.65em; border:none;}
 #navcontainer ul a:hover, #navcontainer ul a:focus {color:#000;}
 
 ul.subnav em {font-style:normal;}
@@ -99,11 +99,13 @@ body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;
 body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
-#footer input {margin:0 0 0.75em; background:none;}
+#footer input {margin:0 0 0.75em; background:none; padding:5px;}
+input.zemSubmit {padding:4px !important;}
+input.zemSubmit:hover {cursor:pointer;}
 /*#footer p {color:#777 !important; font-size:0.75em; line-height:1.65em; margin:0 0 0.55em;}*/
 #footer a {color:#666 !important; font-weight:normal;}
 
-h1 {font:bold 1.0625em/1.375em helvetica, arial, sans-serif; margin:-0.15em 0 0.3em;}
+/*h1 {font:bold 1.0625em/1.375em helvetica, arial, sans-serif; margin:-0.15em 0 0.3em;}*/
 h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center;} /*white-space:nowrap; */
 div#textframe.withimage h2 {text-align:left;}
 /*body#stories div#textframe {color:#777;}*/
@@ -125,7 +127,7 @@ h2 {
 /*h2 a:link, h2 a:visited {border:none;} */
 body#home h2 a:link, body#home h2 a:visited {border:none;}
 /*h2 a:hover, h2 a:active {border-bottom:1px solid #2b2b2b; color:#000 !important;}*/
-h3 {font:bold 0.75em/1.461em helvetica, arial, sans-serif; margin:0 0 0.6em; }
+h3 {font-size:0.75em; margin:0 0 0.6em; }
 h4 {font-size:0.75em; font-weight:normal; font-style:italic; margin:1.7em 0 0.5em; }
 h5 {font-size:0.55em; text-transform:uppercase; margin:1.7em 0 0.5em; }
 h6 {font-size:0.55em; text-transform:uppercase; font-style:italic; margin:1.7em 0 0.5em; }
@@ -180,7 +182,7 @@ div#information ul.storynav {list-style:none;}
 div#information ul.storynav li {font-size:0.75em; line-height:1.461em;}
 div#information ul.storynav li.arrownav a, div#information ul.storynav li.pagenav a {border:solid 1px #2b2b2b; padding:3px 4px 1px 4px; display:block;}
 div#information ul.storynav li.storynavselected {font-weight:bold; background:#c00;}
-div#information h1 a {font:bold 1.125em/1.375em helvetica, arial, sans-serif;}
+/*div#information h1 a {font:bold 1.125em/1.375em helvetica, arial, sans-serif;}*/
 p.sectiontitlemeta {font-style:italic; line-height:inherit; margin:0 0 0.25em !important;}
 p.sectiontitlemeta a:link, p.sectiontitlemeta a:visited {border:none;}
 p.sectiontitlemeta a:hover, p.sectiontitlemeta a:active {color:#000;}
@@ -291,8 +293,8 @@ table caption {padding:0 0 0.8em 0; width:auto; font-style:italic; text-align:ri
 table th {text-align:left; border:1px solid #353535; padding:0.7em; letter-spacing:0.1em; font-size:0.75em; line-height:1.461em;}
 table td {border:1px solid #353535; padding:0.7em; font-size:0.75em; line-height:1.461em;}
 table td.alt {}
-table th.vert {border-left:1px solid #ccc; border-top:0; font:bold 10px helvetica, sans-serif;}
-table th.vertalt {border-left:1px solid #ccc; border-top:0; font:bold 10px helvetica, sans-serif;}
+table th.vert {border-left:1px solid #ccc; border-top:0; font-weight:bold;}
+table th.vertalt {border-left:1px solid #ccc; border-top:0; font-weight:bold;}
 .alignright {text-align:right;}
 .aligncenter {text-align:center;}
 table#printdetails {width:26em;}
