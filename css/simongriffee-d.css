@@ -224,7 +224,7 @@ div.sec {margin-bottom:4em; clear:both;}
 hr, div.end {   height:1px; background:#cc9; margin:3em -240px 3.5em; width:740px; border:none 0; 
     display:block; clear:both; color:#ccc; }
 * html body hr {height:0; background:none; margin-top:-10px;}
-blockquote {margin:1em 0 1.4em; padding-left:1em; border-left:1px solid #444;}
+blockquote {margin:1em 0 1.4em; padding-left:1em; border-left:1px solid #ccc;}
 pre {   font-family:monospace; font-size:1em; padding:10px; }
 em, i, cite {font-style:italic;}
 strong, b {font-weight:bold;}
@@ -261,9 +261,9 @@ ol {font-size:inherit; list-style:decimal inside;}
 ul ul, ol ol, ul ol, ol ul {margin:0 0 0 2.1em !important;}
 
 a#defaultstyle {border:none; font-weight:bold;}
-a#darkstyle {border-bottom:solid 1px #444; font-weight:normal;}
-a#lightstyle {border-bottom:solid 1px #444; font-weight:normal;}
-a#largerstyle {border-bottom:solid 1px #444; font-weight:normal;}
+a#darkstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
+a#lightstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
+a#largerstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
 
 /* =forms ------ */
 form.zemContactForm {margin:0 0 2em;}
