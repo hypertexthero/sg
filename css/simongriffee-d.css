@@ -50,7 +50,7 @@ body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !im
 div#textframe.withimage {margin-bottom:3em;}
 body#stories div#textframe {max-width:50em !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
-body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0.5em; text-transform:uppercase; letter-spacing:0.1em;}
+h1, body.textpage div#textframe h2, body#stories div#textframe h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0.5em; text-transform:uppercase; letter-spacing:0.1em;}
 
 /*  =logo ---------------- */
 
