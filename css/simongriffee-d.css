@@ -77,7 +77,7 @@ body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-l
 #navcontainer ul a:hover, #navcontainer ul a:focus {color:#000;}
 
 ul.subnav em {font-style:normal;}
-ul.subnav a {background:#ccc; font-weight:normal;}
+ul.subnav a {font-weight:normal;}
 ul.subnav a:hover, ul.subnav a:focus {background:#fff !important;} 
 
 body.storieslatest li#nav-storieslatest a,
