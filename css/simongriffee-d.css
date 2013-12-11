@@ -52,6 +52,8 @@ body#stories div#textframe {max-width:50em !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
 body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, #content h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0.5em; text-transform:uppercase; letter-spacing:0.1em;}
 
+#content h1 {margin-top:1em;}
+
 /*  =logo ---------------- */
 
 h1#logo {letter-spacing:0.1em; font-size:1em !important; font-weight:normal; margin:0 0 0.4em; line-height:1em;}
