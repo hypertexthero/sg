@@ -136,7 +136,7 @@ div.content {
     }
 
 div#slideshow img, div.photo img {
-    padding:0 0 0 0; 
+    padding:0; 
     border:4px solid #000 !important;
     border-radius:1px;
     }
@@ -190,8 +190,10 @@ a.thumb img {margin:0; padding:0;}
 /* =responsive structure - work in progress ---------------------- */
 
 @media (max-width: 1230px) {
-    #page {float:none !important; text-align:center !important; width:100% !important;}
-    #slideshow img {max-width:100% !important; height:auto !important; margin:0 auto !important; text-align:center !important;}
+    body {padding:0 !important;}
+    #container {text-align:center !important; margin-top:0 !important;}
+    #page {float:none !important; text-align:center !important; width:100% !important; margin:0 auto !important;}
+    #slideshow img {max-width:100% !important; height:auto !important; margin:0 auto !important;}
     #subheader {text-align:center !important;}
     #controls, .nav-controls, .ss-controls {text-align:center !important; float:none !important; display:inline-block !important;}
     #thumbs-min {float:none !important; max-width:100% !important; text-align:center !important;}
