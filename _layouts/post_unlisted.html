@@ -1,0 +1,95 @@
+---
+layout: default_unlisted
+---
+
+<div id="container">
+  <div id="page" role="main">
+    <div id="gallery">
+      <div id="slideshow" class="slideshow"></div>
+      <div id="captiondisplay"></div>
+    </div>
+  </div> <!-- end page --> 
+  
+  <div id="subheader" role="banner">
+    <!-- <p class="small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small class="quiet">/</small> <a href="/stories/" title="List of Stories.">Stories</a> <small class="quiet">/</small></p> -->
+    <h1>
+      <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}
+      <br>
+      <span class="normal small"><!-- {{ page.categories }}<br> -->{{ page.type}}
+      <br>
+        {{ page.timeframe }}
+      </span>
+      </a>
+    </h1>
+    <div id="controls" class="controls">
+    </div>
+    <div id="thumbs-min" class="imgnav">
+      {{ content }}
+    </div>
+  </div> <!-- end #subheader -->
+  
+  <div id="footer">
+    <!-- <p>&copy; {{ site.time|date:"%Y" }} <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p> -->
+  </div> <!-- end footer -->
+  
+</div> <!-- end container -->
+
+<script type="text/javascript">
+$('div.content').css('display', 'block');
+// Initially set opacity on thumbs and add
+      // additional styling for hover effect on thumbs
+      var onMouseOutOpacity = 0.30;
+      $('#thumbs-min ul.thumbs li').css('opacity', onMouseOutOpacity)
+        .hover(
+          function () {
+            $(this).not('.selected').fadeTo('fast', 0.70);
+          }, 
+          function () {
+            $(this).not('.selected').fadeTo('fast', onMouseOutOpacity);
+          }
+        );
+
+        $(document).ready(function() {
+                // Initialize Advanced Galleriffic Gallery
+                var galleryAdv = $('#gallery').galleriffic('#thumbs-min', {
+                  delay:                  4000,
+                  numThumbs:              12,
+                  preloadAhead:           12,
+                  enableTopPager:         true,
+                  enableBottomPager:      false,
+                  imageContainerSel:      '#slideshow',
+                  controlsContainerSel:   '#controls',
+                  captionContainerSel:    '#captiondisplay',
+                  loadingContainerSel:    '#loading',
+                  renderSSControls:       true,
+                  renderNavControls:      true,
+                  playLinkText:           '&#9658;play',
+                  pauseLinkText:          '&#x25FC;stop',
+                  prevLinkText:           '&larr;prior',
+                  nextLinkText:           'next&rarr;',
+                  nextPageLinkText:       '»',
+                  prevPageLinkText:       '«',
+                  enableHistory:          true,
+                  autoStart:              false,
+                  onChange:               function(prevIndex, nextIndex) {
+                    $('#thumbs-min ul.thumbs').children()
+                      .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+                      .eq(nextIndex).fadeTo('fast', 0.7);
+                  },
+                  onTransitionOut:        function(callback) {
+                    $('#captiondisplay').fadeTo('fast', 0.0);
+                    $('#slideshow').fadeTo('fast', 0.0, callback);
+                  },
+                  onTransitionIn:         function() {
+                    $('#slideshow').fadeTo('fast', 1.0);
+                    $('#captiondisplay').fadeTo('fast', 1.0);
+                  },
+                  onPageTransitionOut:    function(callback) {
+                    $('#thumbs-min ul.thumbs').fadeTo('fast', 0.0, callback);
+                  },
+                  onPageTransitionIn:     function() {
+                    $('#thumbs-min ul.thumbs').fadeTo('fast', 1.0);
+                  }
+                });
+              });
+</script>
