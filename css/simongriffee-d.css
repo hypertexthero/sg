@@ -136,9 +136,9 @@ h6 {font-size:0.55em; text-transform:uppercase; font-style:italic; margin:1.7em 
 
 /* =paragraphs, =misc ---------- */
 
-p {margin-bottom:1.186em; font-size:0.9em; line-height:1.45em;} /* 13x0.8125=13px */
+p {margin-bottom:1.186em; font-size:1em; line-height:1.5em;} /* 13x0.8125=13px */
 .center {text-align:center;}
-li, dd {font-size:0.9em; line-height:1.4em;} /* 14x1.4=18px */
+li, dd {font-size:1em; line-height:1.5em;} /* 14x1.4=18px */
 
 div.ThumbTitleCaption {float:left; width:12em; height:200px; margin:0.5em 1.25em 2em; padding:0;}
     div.ThumbTitleCaption:hover, div.ThumbTitleCaption:active {color:#fff !important;}
