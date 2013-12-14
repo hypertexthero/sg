@@ -43,7 +43,7 @@ body.textpage #content {margin-top:3em;}
 
 body#stories #content, body.storieslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.storiestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
 
-div.storycolumn {float:left; width:18em;}
+div.storycolumn {float:left; width:22em;}
 
 div#textframe {max-width:32em; margin:0.5em auto 0;}
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
@@ -101,8 +101,8 @@ body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;
 body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
-#footer input {margin:0 0 0.75em; background:none; padding:5px;}
-input.zemSubmit {padding:4px !important;}
+#footer input {margin:0 0 0.75em; background:#ddd; padding:5px;}
+input.zemSubmit {padding:4px !important; letter-spacing:0.1em;}
 input.zemSubmit:hover {cursor:pointer;}
 /*#footer p {color:#777 !important; font-size:0.75em; line-height:1.65em; margin:0 0 0.55em;}*/
 #footer a {color:#666 !important; font-weight:normal;}
@@ -111,7 +111,7 @@ input.zemSubmit:hover {cursor:pointer;}
 h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center;} /*white-space:nowrap; */
 div#textframe.withimage h2 {text-align:left;}
 /*body#stories div#textframe {color:#777;}*/
-h1.weakcaption {font-weight:normal !important; font-size:0.75em !important;}
+h1.weakcaption {font-weight:normal !important; font-size:0.9em !important;}
 
 body#prints h1#StoryPhotoTitle {font-style:normal; font-weight:bold;}
 h1 a:link, h1 a:visited {border:none;}
@@ -267,7 +267,7 @@ a#largerstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
 
 /* =forms ------ */
 form.zemContactForm {margin:0 0 2em;}
-input, textarea {margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.5em; background:#fafafa;}
+input, textarea {margin:0 0 1em; border-width:1px; font-weight:normal !important; padding:0.5em; background:#fafafa;}
 div#packetform label {font-style:italic;}
 div#packetform select {padding:2px;}
 div#packetform input {padding:0; background:transparent;}
