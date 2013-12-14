@@ -1,7 +1,7 @@
 /* 
 simongriffee-d.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2013-12-13
+Last update: 2013-12-14
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -271,7 +271,7 @@ input, textarea {font-size:0.75em; line-height:1.25em; margin:0 0 1em; border:1p
 div#packetform label {font-style:italic;}
 div#packetform select {padding:2px; font-size:0.75em;}
 div#packetform input {padding:0; background:transparent;}
-label {font-size:0.75em; line-height:1.461em; font-weight:bold;}
+label {font-weight:bold;}
 div#purchaseform form {background:#fafafa; padding:10px;}
 div#purchaseform input, div#purchaseform textarea {background:#cf9;}
 div#purchaseform h3 {margin-bottom:1.4em;}
