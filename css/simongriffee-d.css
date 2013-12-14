@@ -97,7 +97,7 @@ body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;
 /* TODO: Thumbnail archive pages: http://masonry.desandro.com/docs/intro.html */
 
 #footer {clear:both; margin:0 auto; text-align:center; padding-top:2.5em;}
-#footer p {font-size:0.75em !important; color:#666;}
+#footer p {font-size:0.9em !important; color:#666;}
 body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
@@ -267,9 +267,9 @@ a#largerstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
 
 /* =forms ------ */
 form.zemContactForm {margin:0 0 2em;}
-input, textarea {font-size:0.75em; line-height:1.25em; margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.25em 0.55em; background:#fafafa;}
+input, textarea {margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.25em 0.55em; background:#fafafa;}
 div#packetform label {font-style:italic;}
-div#packetform select {padding:2px; font-size:0.75em;}
+div#packetform select {padding:2px;}
 div#packetform input {padding:0; background:transparent;}
 label {font-weight:bold;}
 div#purchaseform form {background:#fafafa; padding:10px;}
@@ -277,7 +277,7 @@ div#purchaseform input, div#purchaseform textarea {background:#cf9;}
 div#purchaseform h3 {margin-bottom:1.4em;}
 div#purchaseform h3 span {color:inherit; font-weight:normal;}
 div.purchasebutton input {border:none !important; padding:0 !important; margin-bottom:0.25em;}
-p.thankyou {background:transparent; font-family:georgia, times, sans-serif; font-weight:normal; letter-spacing:0.050em; padding:2em; font-style:italic; text-align:center;}
+p.thankyou {background:transparent; font-weight:normal; letter-spacing:0.050em; padding:2em; font-style:italic; text-align:center;}
 input.checkbox {margin:1em 0 0;}
 input.zemRadio {margin:0 0 0 1em; padding:0;}
 select {display:block; margin-bottom:1em;}
@@ -286,7 +286,7 @@ form#search label {display:none;}
 input:hover, input:focus, input:active {background:#fff !important; color:#000 !important;}
 
 ul.zemError {color:#c00 !important; padding:10px; border:2px solid #c00; width:auto; background:#fafafa;}
-div.zemThanks p {padding:2em 3em; background:transparent; text-align:center; font-family:georgia, times, serif; font-size:1.125em; line-height:1.375em; font-style:italic;}
+div.zemThanks p {padding:2em 3em; background:transparent; text-align:center; font-style:italic;}
 
 /* =tables --------------------------------------------- */
 
