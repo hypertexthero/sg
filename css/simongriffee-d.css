@@ -121,9 +121,9 @@ h1.printofthemonthtitle {font-family:georgia, times, sans-serif; font-weight:nor
 .extramargin {margin:0.5em 0 1em;}
 
 h2 {
-    line-height: 1.4em;
-    font-size: 100%;
-    margin: 1.5em 0 0.25em;
+    line-height: 1.5em;
+    font-size: 110%;
+    margin: 1em 0 0.25em;
     letter-spacing:1px;
     }
 /*h2 a:link, h2 a:visited {border:none;} */
@@ -157,8 +157,6 @@ ol.thumbs li a {display:block; height:210px; border:none;}
 ol.thumbs li a:hover, ol.thumbs li a:active {background:transparent; color:#c00 !important;}
 ol.thumbs li:hover {color:#c00;}
 ol.thumbs li img {margin:-10px 0 0 -20px; padding:10px;}
-
-img.introthumb {margin:1em 0 0; display:block;}
 
 ol.thumbs li.textthumb {padding:0 10px 0; /*display:block !important;*/ width:100px !important; height:155px !important;}
 ol.thumbs li.textthumb a {display:inline !important;}
@@ -241,7 +239,7 @@ sup.footnote {line-height:0; font-size:0.9em !important;}
 body#archive #content p {margin-top:0; margin-bottom:0.25em;}
 body#archive #content p em {	font-size:0.75em !important; line-height:1.461em; 	}
 ul#notebooktitlelist {list-style:none;}
-body.notebooktimeline div#content dl#timelinelist dt {margin:1.4em 0 0; /*same as h2*/}
+body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0; /*same as h2*/}
 body.notebooktimeline div#content dl#timelinelist dd.archiveday {font-weight:normal; margin:0 0 -1.4em 0;}
 body.notebooktimeline div#content dl#timelinelist dd.archivetitle {position:relative; color:#2b2b2b; margin-left:1.5em;}
 em.capturedate, .small {font-size:0.75em; line-height:1.35em; color:#777;}
@@ -309,6 +307,7 @@ ul#photos {margin:0; padding:0;}
 ul#photos li {display:block; float:left;}
 ul#photos li a {display:block; width:120px; height:90px; list-style:none; border:2px solid #bbb; margin:0 8px 8px 0;}
 ul#photos li a:hover {border-color:#633;}
+.introthumb {margin:1em 0 0; display:block; outline:1px solid #ccc !important;}
 
 /* =responsive structure ---------------------- */
 
