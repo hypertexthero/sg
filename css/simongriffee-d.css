@@ -267,7 +267,7 @@ a#largerstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
 
 /* =forms ------ */
 form.zemContactForm {margin:0 0 2em;}
-input, textarea {margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.25em 0.55em; background:#fafafa;}
+input, textarea {margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.5em; background:#fafafa;}
 div#packetform label {font-style:italic;}
 div#packetform select {padding:2px;}
 div#packetform input {padding:0; background:transparent;}
