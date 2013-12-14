@@ -158,6 +158,8 @@ ol.thumbs li a:hover, ol.thumbs li a:active {background:transparent; color:#c00 
 ol.thumbs li:hover {color:#c00;}
 ol.thumbs li img {margin:-10px 0 0 -20px; padding:10px;}
 
+img.introthumb {margin:1em 0 0; display:block;}
+
 ol.thumbs li.textthumb {padding:0 10px 0; /*display:block !important;*/ width:100px !important; height:155px !important;}
 ol.thumbs li.textthumb a {display:inline !important;}
 ol.thumbs li.textthumb h3 {display:block !important;}
