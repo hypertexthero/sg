@@ -307,7 +307,7 @@ ul#photos {margin:0; padding:0;}
 ul#photos li {display:block; float:left;}
 ul#photos li a {display:block; width:120px; height:90px; list-style:none; border:2px solid #bbb; margin:0 8px 8px 0;}
 ul#photos li a:hover {border-color:#633;}
-.introthumb {margin:1em 0 0; display:block; outline:1px solid #ccc !important;}
+.introthumb {margin:1em 0 0.25em; display:block; outline:1px solid #ccc !important;}
 
 /* =responsive structure ---------------------- */
 
