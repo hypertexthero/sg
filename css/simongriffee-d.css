@@ -253,6 +253,7 @@ ul.left {float:left;}
 ul.right {float:right;}
 dl {font-size:1em; line-height:1.4em;}
 ul#titlelist, ul#timelinelist, ul.archivelist {margin-left:0 !important; padding-left:0 !important; list-style:none inside !important;}
+ul.archivelist li {padding:0 0 1.5em;}
 
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
 ol {font-size:inherit; list-style:decimal inside;}
