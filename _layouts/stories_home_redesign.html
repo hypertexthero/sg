@@ -50,12 +50,20 @@
 <div id="content">
 <div id="textframe">
 
-<h1 style="margin:0;">Stories</h1>
+<!-- <h1>Stories, Essays, Dreams</h1> -->
 
 <!-- <ul class="archivelist">
   {{ content }}
 </ul> -->
 
+<div class="storycolumn storycolumnmarginright">
+  <h2>Advertising</h2>
+  <ul class="archivelist">
+    {% for post in site.categories.fashion %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }}</a> <br>{{ post.type }} <small>{{ post.timeframe }}</small></li>
+    {% endfor %}
+  </ul>
+</div>
 
 <div class="storycolumn storycolumnmarginright">
   <h2>Cultural</h2>

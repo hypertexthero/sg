@@ -43,14 +43,12 @@ body.textpage #content {margin-top:3em;}
 
 body#stories #content, body.storieslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.storiestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
 
-div.storycolumn {float:left; width:22em;}
-
 div#textframe {max-width:32em; margin:0.5em auto 0;}
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
 div#textframe.withimage {margin-bottom:3em;}
 body#stories div#textframe {max-width:50em !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
-body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, #content h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0.5em; text-transform:uppercase; letter-spacing:0.1em;}
+body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, #content h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0;}
 
 #content h1 {margin-top:1em; line-height:1.5em;}
 
@@ -113,9 +111,8 @@ h1.printofthemonthtitle {font-family:georgia, times, sans-serif; font-weight:nor
 
 h2 {
     line-height: 1.5em;
-    font-size: 110%;
+    font-size: 130%;
     margin: 1em 0 0.25em;
-    letter-spacing:1px;
     }
 body#home h2 a:link, body#home h2 a:visited {border:none;}
 h3 {font-size:0.75em; margin:0 0 0.6em; }
@@ -237,7 +234,7 @@ ul.left {float:left;}
 ul.right {float:right;}
 dl {font-size:1em; line-height:1.4em;}
 ul#titlelist, ul#timelinelist, ul.archivelist {margin-left:0 !important; padding-left:0 !important; list-style:none inside !important;}
-ul.archivelist li {padding:0 0 1.5em;}
+ul.archivelist li {padding:0 0 1em; /*display:inline-block; margin-right:20px;*/}
 
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
 ol {font-size:inherit; list-style:decimal inside;}
@@ -292,7 +289,9 @@ ul#photos {margin:0; padding:0;}
 ul#photos li {display:block; float:left;}
 ul#photos li a {display:block; width:120px; height:90px; list-style:none; border:2px solid #bbb; margin:0 8px 8px 0;}
 ul#photos li a:hover {border-color:#633;}
-.introthumb {margin:1em 0 0.25em; display:block; outline:1px solid #ccc !important;}
+div.storycolumn {float:left; width:auto;}
+div.storycolumnmarginright {margin-right:6em;}
+.introthumb {margin:1em 0 0.25em; display:block; outline:1px solid #ccc !important; /*width:200px; height:133px;*/}
 
 /* =responsive structure ---------------------- */
 
