@@ -1,7 +1,7 @@
 /* 
 simongriffee-d.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2013-12-14
+Last update: 2014-01-20
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -56,13 +56,7 @@ body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div
 
 /*  =logo ---------------- */
 
-h1#logo {letter-spacing:0.1em; font-size:1.2em !important; font-weight:normal; margin:0 0 0.4em; line-height:1em;}
-/*body#about h1#logo,
-body#contact h1#logo,
-body.storieslatest h1#logo,
-body.storiestitle h1#logo,
-body.storiestimeline h1#logo
-{margin-bottom:0.6em;}*/
+h1#logo {font-size:1.2em !important; font-weight:normal; margin:0 0 0.4em; line-height:1em;}
 
 h1#logo a {margin:0; padding:0.25em 0.45em;}
 body.storiesstoryindex h1#logo {text-align:left; margin:0 0 0 -0.4em;}
@@ -104,13 +98,10 @@ body.storiesstoryindex #footer {padding-top:6em;}
 #footer input {margin:0 0 0.75em; background:#ddd; padding:5px;}
 input.zemSubmit {padding:4px !important; letter-spacing:0.1em;}
 input.zemSubmit:hover {cursor:pointer;}
-/*#footer p {color:#777 !important; font-size:0.75em; line-height:1.65em; margin:0 0 0.55em;}*/
 #footer a {color:#666 !important; font-weight:normal;}
 
-/*h1 {font:bold 1.0625em/1.375em helvetica, arial, sans-serif; margin:-0.15em 0 0.3em;}*/
-h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center;} /*white-space:nowrap; */
+h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center; letter-spacing:0 !important;}
 div#textframe.withimage h2 {text-align:left;}
-/*body#stories div#textframe {color:#777;}*/
 h1.weakcaption {font-weight:normal !important; font-size:0.9em !important;}
 
 body#prints h1#StoryPhotoTitle {font-style:normal; font-weight:bold;}
@@ -126,9 +117,7 @@ h2 {
     margin: 1em 0 0.25em;
     letter-spacing:1px;
     }
-/*h2 a:link, h2 a:visited {border:none;} */
 body#home h2 a:link, body#home h2 a:visited {border:none;}
-/*h2 a:hover, h2 a:active {border-bottom:1px solid #2b2b2b; color:#000 !important;}*/
 h3 {font-size:0.75em; margin:0 0 0.6em; }
 h4 {font-size:0.75em; font-weight:normal; font-style:italic; margin:1.7em 0 0.5em; }
 h5 {font-size:0.55em; text-transform:uppercase; margin:1.7em 0 0.5em; }
@@ -136,9 +125,9 @@ h6 {font-size:0.55em; text-transform:uppercase; font-style:italic; margin:1.7em 
 
 /* =paragraphs, =misc ---------- */
 
-p {margin-bottom:1.186em; font-size:1em; line-height:1.5em;} /* 13x0.8125=13px */
+p {margin-bottom:1.186em; font-size:1em; line-height:1.5em;}
 .center {text-align:center;}
-li, dd {font-size:1em; line-height:1.5em;} /* 14x1.4=18px */
+li, dd {font-size:1em; line-height:1.5em;}
 
 div.ThumbTitleCaption {float:left; width:12em; height:200px; margin:0.5em 1.25em 2em; padding:0;}
     div.ThumbTitleCaption:hover, div.ThumbTitleCaption:active {color:#fff !important;}
@@ -158,12 +147,11 @@ ol.thumbs li a:hover, ol.thumbs li a:active {background:transparent; color:#c00 
 ol.thumbs li:hover {color:#c00;}
 ol.thumbs li img {margin:-10px 0 0 -20px; padding:10px;}
 
-ol.thumbs li.textthumb {padding:0 10px 0; /*display:block !important;*/ width:100px !important; height:155px !important;}
+ol.thumbs li.textthumb {padding:0 10px 0; width:100px !important; height:155px !important;}
 ol.thumbs li.textthumb a {display:inline !important;}
 ol.thumbs li.textthumb h3 {display:block !important;}
 
 ol.thumbs.potm li {margin-bottom:1.5em;}
-/*ol.thumbs.potm li:hover, ol.thumbs.potm li:active {background:#333;}*/
 ol.thumbs.potm li a {display:inline !important;}
 ol.thumbs.potm li p {margin-left:10px !important;}
 
@@ -174,7 +162,6 @@ li.inactive {padding:3px 7px; color:#999 !important;}
 li.currentpage {background:#ccc;}
 
 h1#storytitle {text-align:left; letter-spacing:1px; font-size:2.25em; font-weight:bold; line-height:1em; margin:0.7em 0 1em;}
-/*h1#storytitle a {color:#ccc !important;}*/
 
 div#information, div#information_index {width:234px; float:left; margin:0 0 3em 0; }
 div#information.autowidth {width:auto !important; max-width:26em;}
@@ -184,7 +171,6 @@ div#information ul.storynav {list-style:none;}
 div#information ul.storynav li {font-size:0.75em; line-height:1.461em;}
 div#information ul.storynav li.arrownav a, div#information ul.storynav li.pagenav a {border:solid 1px #2b2b2b; padding:3px 4px 1px 4px; display:block;}
 div#information ul.storynav li.storynavselected {font-weight:bold; background:#c00;}
-/*div#information h1 a {font:bold 1.125em/1.375em helvetica, arial, sans-serif;}*/
 p.sectiontitlemeta {font-style:italic; line-height:inherit; margin:0 0 0.25em !important;}
 p.sectiontitlemeta a:link, p.sectiontitlemeta a:visited {border:none;}
 p.sectiontitlemeta a:hover, p.sectiontitlemeta a:active {color:#000;}
@@ -211,7 +197,6 @@ p.smallprint, p.footnote {font-size:0.75em; letter-spacing:0.055em;}
 p.footnote {color:#666;}
 span.caps, strong.caps {font-size:0.95em; line-height:0;}
 .current {font-style:italic; border-left:8px solid #ccc; padding-left:5px;}
-/*li.current a {color:#ccc !important;}*/
 .clear {clear:both;}
 .quiet {color:#333;}
 h1 span.smaller {font-size:0.875em; line-height:0;}
@@ -239,7 +224,7 @@ sup.footnote {line-height:0; font-size:0.9em !important;}
 body#archive #content p {margin-top:0; margin-bottom:0.25em;}
 body#archive #content p em {	font-size:0.75em !important; line-height:1.461em; 	}
 ul#notebooktitlelist {list-style:none;}
-body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0; /*same as h2*/}
+body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0;}
 body.notebooktimeline div#content dl#timelinelist dd.archiveday {font-weight:normal; margin:0 0 -1.4em 0;}
 body.notebooktimeline div#content dl#timelinelist dd.archivetitle {position:relative; color:#2b2b2b; margin-left:1.5em;}
 em.capturedate, .small {font-size:0.75em; line-height:1.35em; color:#777;}
@@ -248,7 +233,6 @@ body.searchresults strong {background:#ff0; color:#000;}
 
 /* =lists ---------- */
 ul {font-size:inherit; list-style:disc inside;}
-/*body.textpage #content ul, body.textpage #content ol {list-style:outside; margin-left:1.25em !important;}*/
 ul.left {float:left;}
 ul.right {float:right;}
 dl {font-size:1em; line-height:1.4em;}
