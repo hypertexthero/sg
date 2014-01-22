@@ -234,7 +234,7 @@ ul.left {float:left;}
 ul.right {float:right;}
 dl {font-size:1em; line-height:1.4em;}
 ul#titlelist, ul#timelinelist, ul.archivelist {margin-left:0 !important; padding-left:0 !important; list-style:none inside !important;}
-ul.archivelist li {padding:0 0 2em; /*display:inline-block; margin-right:20px;*/ text-align:center;}
+ul.archivelist li {padding:0 0 2em; /*display:inline-block; margin-right:20px;*/}
 ul.archivelist li a {border:0;}
 
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
@@ -292,7 +292,7 @@ ul#photos li a {display:block; width:120px; height:90px; list-style:none; border
 ul#photos li a:hover {border-color:#633;}
 div.storycolumn {float:left; width:auto;}
 div.storycolumnmarginright {margin-right:6em;}
-.introthumb {margin:1em auto 0.6em; display:block; outline:0 !important; /*width:200px; height:133px;*/}
+.introthumb {margin:1em 0 0.5em; display:block; outline:0 !important; /*width:200px; height:133px;*/}
 
 /* =responsive structure ---------------------- */
 
