@@ -187,7 +187,7 @@ div#storyintro {font-size:90%;}
 
 div#quietbox {text-align:left; margin-left:21%;}
 a#silence {font-size:73%;}
-.silenced {color:#999 !important; border:0 !important; padding:0 3px !important;}
+.silenced {color:#999 !important; border:0 !important; padding:0 3px !important; width:100% !important; clear:both !important; float:left !important;}
 
 /* =responsive structure - work in progress ---------------------- */
 
