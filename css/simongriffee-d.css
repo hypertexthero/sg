@@ -291,6 +291,7 @@ ul#photos li {display:block; float:left;}
 ul#photos li a {display:block; width:120px; height:90px; list-style:none; border:2px solid #bbb; margin:0 8px 8px 0;}
 ul#photos li a:hover {border-color:#633;}
 div.storycolumn {float:left; width:auto;}
+div.storycolumn h2 {font-size:1.5em;}
 div.storycolumnmarginright {margin-right:6em;}
 .introthumb {margin:1em 0 0.5em; display:block; outline:0 !important; /*width:200px; height:133px;*/}
 

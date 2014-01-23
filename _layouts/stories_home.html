@@ -58,7 +58,7 @@
 
 
 <div class="storycolumn storycolumnmarginright">
-  <h2 style="border-bottom:solid 1px #ccc;">Cultural</h2>
+  <h2>Cultural</h2>
   <ul class="archivelist">
     {% for post in site.categories.cultural %}
         <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }} <br><span class="normal">{{ post.type }}</span> <small class="normal">{{ post.timeframe }}</small></a></li>
@@ -67,7 +67,7 @@
 </div>
 
 <div class="storycolumn">
-  <h2 style="border-bottom:solid 1px #ccc;">Fashion</h2>
+  <h2>Fashion</h2>
   <ul class="archivelist">
     {% for post in site.categories.fashion %}
         <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }} <br><span class="normal">{{ post.type }}</span> <small class="normal">{{ post.timeframe }}</small></a></li>
