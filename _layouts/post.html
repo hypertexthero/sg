@@ -11,7 +11,7 @@ layout: default
   </div> <!-- end page --> 
   
   <div id="subheader" role="banner">
-    <p class="small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small class="quiet">/</small> <a href="/stories/" title="List of Stories.">Stories</a> <small class="quiet">/</small></p>
+    <p class="small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small class="quiet">/</small> <a href="/stories/" title="List of Stories.">Stories</a></p>
     <h1>
       <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}
       <br>
@@ -21,11 +21,10 @@ layout: default
       </span>
       </a>
     </h1>
-    <div id="controls" class="controls">
-    </div>
     <div id="thumbs-min" class="imgnav">
       {{ content }}
     </div>
+    <div id="controls" class="controls"></div>
   </div> <!-- end #subheader -->
   
   <div id="footer">
@@ -47,10 +46,12 @@ layout: default
       <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com{{page.url}}/&amp;source=tweetbutton&amp;text={{ page.title }} - Photographs by Simon Griffee&amp;url=http://simongriffee.com{{page.url}}" title="Tweet tweet.">Twit</a> · 
       <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com{{page.url}}" title="Book of many faces.">Face</a> · 
       <a href="https://plus.google.com/share?url=http://simongriffee.com{{page.url}}" title="Googoo">Goo</a>
-    </p>
-    
+    </p>  
   </div> <!-- end footer -->
-  
+
+  <div id="quietbox">  
+    <a id="silence" href="#" title="Hide and show meta information.">Silence</a>
+  </div>
 </div> <!-- end container -->
 
 <script type="text/javascript">
@@ -71,9 +72,9 @@ $('div.content').css('display', 'block');
         $(document).ready(function() {
                 // Initialize Advanced Galleriffic Gallery
                 var galleryAdv = $('#gallery').galleriffic('#thumbs-min', {
-                  delay:                  4000,
-                  numThumbs:              12,
-                  preloadAhead:           12,
+                  delay:                  6000,
+                  numThumbs:              21,
+                  preloadAhead:           21,
                   enableTopPager:         true,
                   enableBottomPager:      false,
                   imageContainerSel:      '#slideshow',
