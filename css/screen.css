@@ -186,6 +186,7 @@ a.thumb img {margin:0; padding:0;}
     color: #444;
     border:none;
     }
+div#storyintro {font-size:0.9em;}
 
 /* =responsive structure - work in progress ---------------------- */
 
@@ -199,4 +200,5 @@ a.thumb img {margin:0; padding:0;}
     #thumbs-min {float:none !important; max-width:100% !important; text-align:center !important;}
     #subheader {float:none !important; width:100% !important; clear:both !important;}
     #footer {margin: 1em auto !important; text-align:center !important;}
+    div#storyintro {padding:1.25em 3em 1em; margin:0 auto; max-width:32em; text-align:left;}
 }
