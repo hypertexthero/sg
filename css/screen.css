@@ -88,7 +88,7 @@ blockquote {padding-left:1em; border-left:1px solid #ddd; margin-bottom:1em;}
 p.biocontact {position:absolute; top:0; right:0;}
 
 div#container {
-    margin:1em auto 2em 0;
+    margin:1em 36% 2em auto;
     max-width:1280px;
     }
     
@@ -97,7 +97,7 @@ div#container {
 div#header, div#subheader {
     position: relative;
     float: left;
-    width: 17%;
+    width: 18%;
     text-align:right;
     }
 div#subheader p a {font-weight:normal;}
@@ -106,7 +106,7 @@ div#subheader h1 a {border:none;}
 div#page {
     margin:0 1em 0 0;
     height:1%;
-    width:78%;
+    width:77%;
     max-width:980px;
     overflow:visible;
     float:right;
@@ -115,7 +115,7 @@ div#page {
 
 div#footer {
     clear:both;
-    margin-left:22%;
+    margin-left:21%;
     font-size:90%;
     color:#666 !important;
     text-align:left;
@@ -185,15 +185,15 @@ a.thumb img {margin:0; padding:0;}
     }
 div#storyintro {font-size:90%;}
 
-div#quietbox {text-align:left; margin-left:22%;}
-a#silence {font-size:74%;}
+div#quietbox {text-align:left; margin-left:21%;}
+a#silence {font-size:73%;}
 .silenced {color:#999 !important; border:0 !important; padding:0 3px !important;}
 
 /* =responsive structure - work in progress ---------------------- */
 
-@media (max-width: 1230px) {
+@media (max-width: 1280px) {
     body {padding:0 !important;}
-    #container {text-align:center !important; margin-top:0 !important;}
+    #container {text-align:center !important; margin:0 8px 2em -1px !important;}
     #page {float:none !important; text-align:center !important; width:100% !important; margin:0 auto !important;}
     #slideshow img {max-width:100% !important; height:auto !important; margin:0 auto !important;}
     #subheader {text-align:center !important;}
