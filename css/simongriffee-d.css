@@ -1,7 +1,7 @@
 /* 
 simongriffee-d.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2014-01-20
+Last update: 2014-02-02
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -23,6 +23,8 @@ a:active {color:#c00; outline:none; border-bottom:none;}
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
 a:link img, a:visited img {border:0 !important; border-style:none; text-decoration:none; border-bottom:none; cursor:pointer;}
 a.imglink:link, a.imglink:visited, div.imglink a:link, div.imglink a:visited {border:none !important; cursor:pointer;}
+
+:target {background: #ffc !important;}
 
 /* =layout ------------------------------------------------ */
 
