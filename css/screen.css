@@ -121,7 +121,7 @@ div#footer {
     text-align:left;
     }
 /*#footer p {font-size:0.75em !important; color:#666;}*/
-div#footer a {color:#666;}
+div#footer a {color:#666; font-weight:normal;}
 
 /* =gallery
 ---------------------------------------- */
@@ -186,7 +186,7 @@ a.thumb img {margin:0; padding:0;}
 div#storyintro {}
 
 div#quietbox {text-align:left; margin-left:21%;}
-a#silence {color:#666;}
+a#silence {color:#666; font-weight:normal;}
 .silenced {color:#999 !important; border:0 !important; width:100% !important; clear:both !important; float:left !important;}
 
 /* =responsive structure - work in progress ---------------------- */
@@ -197,11 +197,11 @@ a#silence {color:#666;}
     #page {float:none !important; text-align:center !important; width:100% !important; margin:0 auto !important;}
     #slideshow img {max-width:100% !important; height:auto !important; margin:0 auto !important;}
     #subheader {text-align:center !important;}
-    #controls, .nav-controls, .ss-controls {text-align:center !important; float:none !important; display:inline-block !important; margin-bottom:2em;}
+    #controls, .nav-controls, .ss-controls {text-align:center !important; float:none !important; display:inline-block !important;}
     #thumbs-min {float:none !important; max-width:100% !important; text-align:center !important;}
     #subheader {float:none !important; width:100% !important; clear:both !important;}
     #footer {margin: 1em auto 0 !important; text-align:center !important;}
-    div#storyintro {padding:0 3em 0; margin:0 auto; max-width:32em; text-align:left;}
+    div#storyintro {padding:0 3em 0; margin:0 auto; max-width:32em; text-align:center;}
     a#silence {text-align:center;}
     div#quietbox {margin:0 auto; text-align:center;}
     p.caption {margin-bottom:2em; margin-top:0;}
