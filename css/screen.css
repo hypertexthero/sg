@@ -115,12 +115,13 @@ div#page {
 
 div#footer {
     clear:both;
+    padding-top:2em;
     margin-left:21%;
     color:#666 !important;
     text-align:left;
     }
 /*#footer p {font-size:0.75em !important; color:#666;}*/
-/*div#footer a {text-decoration:none; color:#666;}*/
+div#footer a {color:#666;}
 
 /* =gallery
 ---------------------------------------- */
@@ -138,7 +139,7 @@ div#slideshow img, div.photo img {
     border-radius:1px;
     }
 
-p.caption {font-size:90%; color:#333; margin:0 0 1em;}
+p.caption {color:#333; margin:-1em 0 1em;}
 
 div#cap p {margin:0 0 2em;}
 
@@ -185,8 +186,8 @@ a.thumb img {margin:0; padding:0;}
 div#storyintro {}
 
 div#quietbox {text-align:left; margin-left:21%;}
-/*a#silence {font-size:73%;}*/
-.silenced {color:#999 !important; border:0 !important; padding:0 3px !important; width:100% !important; clear:both !important; float:left !important;}
+a#silence {color:#666;}
+.silenced {color:#999 !important; border:0 !important; width:100% !important; clear:both !important; float:left !important;}
 
 /* =responsive structure - work in progress ---------------------- */
 
@@ -203,5 +204,5 @@ div#quietbox {text-align:left; margin-left:21%;}
     div#storyintro {padding:0 3em 0; margin:0 auto; max-width:32em; text-align:left;}
     a#silence {text-align:center;}
     div#quietbox {margin:0 auto; text-align:center;}
-    p.caption {margin-bottom:2em;}
+    p.caption {margin-bottom:2em; margin-top:0;}
 }
