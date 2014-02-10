@@ -46,9 +46,10 @@ body.textpage #content {margin-top:3em;}
 body#stories #content, body.storieslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.storiestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
 
 div#textframe {max-width:32em; margin:0.5em auto 0;}
+
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
 div#textframe.withimage {margin-bottom:3em;}
-body#stories div#textframe {max-width:50em !important;}
+body#stories div#textframe {max-width:100% !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
 body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, #content h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0;}
 
@@ -237,7 +238,7 @@ ul.left {float:left;}
 ul.right {float:right;}
 dl {font-size:1em; line-height:1.4em;}
 ul#titlelist, ul#timelinelist, ul.archivelist {margin-left:0 !important; padding-left:0 !important; list-style:none inside !important;}
-ul.archivelist li {padding:0 0 2em; display:inline-block; margin-right:2em; text-align:center;}
+ul.archivelist li {padding:0 0 2em; display:inline-block; margin-right:24px; text-align:center;}
 ul.archivelist li a {border:0;}
 
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
