@@ -48,7 +48,7 @@
 </div> <!-- header end -->
 
 <div id="content">
-<div id="textframe">
+<!-- <div id="textframe"> -->
 
 <h1 style="margin:0;">Stories</h1>
 
@@ -57,25 +57,21 @@
 </ul> -->
 
 
-<div class="storycolumn storycolumnmarginright">
-  <h2>Cultural</h2>
+<!-- <div class="storycolumn storycolumnmarginright"> -->
+  <!-- <h2>Cultural</h2>  -->
   <ul class="archivelist">
-    {% for post in site.categories.cultural %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }} <br><span class="normal">{{ post.type }}</span> <small class="normal">{{ post.timeframe }}</small></a></li>
+    {% for post in site.posts %}
+      {% if post.categories contains 'unlisted' %}
+      {% else %}
+        <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }} <!-- <br><span class="normal quiet">{{ post.type }} <small>{{ post.timeframe }}</small></span></a> --></li>
+      {% endif %}
     {% endfor %}
   </ul>
-</div>
+<!-- </div> -->
 
-<div class="storycolumn">
-  <h2>Fashion</h2>
-  <ul class="archivelist">
-    {% for post in site.categories.fashion %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }} <br><span class="normal">{{ post.type }}</span> <small class="normal">{{ post.timeframe }}</small></a></li>
-    {% endfor %}
-  </ul>
-</div>
 
-</div> <!-- textframe end -->
+
+<!-- </div> textframe end -->
 </div> <!-- content end -->
 
 <div id="footer" class="largetopmargin">

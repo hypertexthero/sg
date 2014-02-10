@@ -27,6 +27,16 @@
       $( "#share" ).toggle( "fast", function() {
       });
     });
+    // $( "#quietview" ).click(function() {
+    //   $( "#subheader, #footer" ).toggle( "fast", function() {
+    //   });
+    // });
+    $("#silence").click(function(){
+      $(this).text($(this).text() == 'Silence' ? '· · ·' : 'Silence'); 
+      $(this).addClass("silenced");
+      $("#subheader, #footer").slideToggle("fast");
+    });
+
   });
   </script>
 

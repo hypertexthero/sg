@@ -11,14 +11,10 @@ layout: default
   </div> <!-- end page --> 
   
   <div id="subheader" role="banner">
-    <p class="small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small class="quiet">/</small> <a href="/stories/" title="List of Stories.">Stories</a></p>
     <h1>
       <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}
-      <br>
-      <span class="normal"><!-- {{ page.categories }}<br> --><i>{{ page.type}}</i>
-      <br>
-        <small>{{ page.timeframe }}</small>
-      </span>
+        <br>
+        <span class="normal"><!-- {{ page.categories }}<br> --><i>{{ page.type}} <br> {{ page.timeframe }}</i></span>
       </a>
     </h1>
     <div id="thumbs-min" class="imgnav">
@@ -28,10 +24,11 @@ layout: default
   </div> <!-- end #subheader -->
   
   <div id="footer">
+    <p><a href="/stories/" title="List of Stories.">« Back to Stories Index</a></p>
     <p>&copy; {{ site.time|date:"%Y" }} <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p>
     
-    <p class="small center"><a id="showshare" href="#" title="Or an enemy.">Show to a Friend</a></p>
-    <p id="share" class="center small" style="display:none;">
+    <p class="center"><a id="showshare" href="#" title="Or an enemy.">Show to a Friend</a></p>
+    <p id="share" class="center" style="display:none;">
       <script type="text/javascript" charset="utf-8">
         function emailFriend(){
         var strrep ,ptitle = document.title;
@@ -83,10 +80,10 @@ $('div.content').css('display', 'block');
                   loadingContainerSel:    '#loading',
                   renderSSControls:       true,
                   renderNavControls:      true,
-                  playLinkText:           '&#9658;play',
-                  pauseLinkText:          '&#x25FC;stop',
-                  prevLinkText:           '&larr;prior',
-                  nextLinkText:           'next&rarr;',
+                  playLinkText:           '&#9658;Play',
+                  pauseLinkText:          '&#x25FC;Stop',
+                  prevLinkText:           '&larr;Prior',
+                  nextLinkText:           'Next&rarr;',
                   nextPageLinkText:       '»',
                   prevPageLinkText:       '«',
                   enableHistory:          true,
