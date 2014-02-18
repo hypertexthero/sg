@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Walking in Fog
 image: "386"
 location: Bracciano, Italy

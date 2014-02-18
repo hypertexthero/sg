@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Waiting at Uscita B
 image: "499"
 location: Fiumicino, Italy

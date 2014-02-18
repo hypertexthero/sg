@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Beto em Dia de Partida
 image: "794"
 location: Formello, Italy

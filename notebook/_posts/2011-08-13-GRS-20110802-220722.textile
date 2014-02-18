@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: L'Approdo
 image: "1183"
 location: Isola del Giglio, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Vicino Ministero Pubblica Istruzione\xE2\x80\x8E"
 image: "818"
 location: Rome, Italy

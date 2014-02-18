@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Drew
 image: "1143"
 location: Wisconsin, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar in Viale delle Cave Ardeatine
 image: "902"
 location: Rome, Italy

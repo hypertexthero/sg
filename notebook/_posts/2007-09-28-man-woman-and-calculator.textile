@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man, Woman and Calculator
 image: "216"
 location: Verona, Italy

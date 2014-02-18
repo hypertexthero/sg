@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl Running
 image: "565"
 location: Rome, Italy

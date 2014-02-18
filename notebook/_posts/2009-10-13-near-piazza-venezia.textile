@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Piazza Venezia
 image: "595"
 location: Rome, Italy

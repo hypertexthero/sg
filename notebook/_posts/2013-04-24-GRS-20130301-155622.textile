@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Regent Street
 image: "1773"
 location: London, England

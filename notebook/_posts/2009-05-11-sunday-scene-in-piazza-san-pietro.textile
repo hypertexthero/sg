@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sunday Scene in Piazza San Pietro
 image: "554"
 location: Rome, Italy

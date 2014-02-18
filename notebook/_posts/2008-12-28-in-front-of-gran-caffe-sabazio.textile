@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "In Front of Gran Caff\xC3\xA8 Sabazio"
 image: "465"
 location: Bracciano, Italy

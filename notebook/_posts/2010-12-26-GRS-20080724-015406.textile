@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Jimmy and Frankie in 'Pizza Buona'
 image: "992"
 location: Rome, Italy

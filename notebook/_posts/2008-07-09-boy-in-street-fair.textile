@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy in Street Fair
 image: "387"
 location: Bracciano, Italy

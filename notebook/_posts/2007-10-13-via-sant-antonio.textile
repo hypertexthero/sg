@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Sant' Antonio
 image: "233"
 location: Bracciano, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione di Valle Aurelia
 image: "1509"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lamp, Night Bar
 image: "939"
 location: "Hu\xE1\xBA\xBF, Vietnam"

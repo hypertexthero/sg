@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dubai, 3am
 image: "616"
 location: Dubai, United Arab Emirates

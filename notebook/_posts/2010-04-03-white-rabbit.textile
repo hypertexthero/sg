@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: White Rabbit
 image: "682"
 location: Koh Phayam, Andaman Sea

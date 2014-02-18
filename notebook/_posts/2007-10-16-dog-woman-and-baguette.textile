@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dog, Woman and Baguette
 image: "234"
 location: Bracciano, Italy

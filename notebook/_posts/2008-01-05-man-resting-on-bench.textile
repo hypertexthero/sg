@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Resting on Bench
 image: "290"
 location: Pescheria del Garda

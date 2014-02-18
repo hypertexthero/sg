@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Campese
 image: "1856"
 location: Isola del Giglio, Italy

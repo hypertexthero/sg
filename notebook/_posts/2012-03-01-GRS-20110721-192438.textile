@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Museo dell'Accademia Etrusca e della Citt\xC3\xA0 di Cortona"
 image: "1425"
 location: Cortona, Italy

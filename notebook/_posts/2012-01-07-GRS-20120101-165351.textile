@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Amber
 image: "1368"
 location: Brussels, Belgium

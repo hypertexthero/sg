@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lichfield Street
 image: "1536"
 location: Wolverhampton, UK

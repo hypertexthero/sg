@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bush and Rocks
 image: "81"
 location: Joshua Tree, California, US

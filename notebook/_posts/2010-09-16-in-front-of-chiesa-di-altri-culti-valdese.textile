@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In Front of Chiesa di Altri Culti Valdese
 image: "891"
 location: Rome, Italy

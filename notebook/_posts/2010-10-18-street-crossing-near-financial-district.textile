@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Crossing Near Financial District
 image: "914"
 location: Saigon, Vietnam

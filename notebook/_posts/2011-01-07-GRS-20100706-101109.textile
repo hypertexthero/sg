@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Monte Capitolino
 image: "1004"
 location: Rome, Italy

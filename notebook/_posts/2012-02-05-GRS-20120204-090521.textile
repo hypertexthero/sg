@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Nicola Salvi
 image: "1399"
 location: Rome, Italy

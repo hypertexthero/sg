@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Editing
 excerpt: Editing
 category: notebook

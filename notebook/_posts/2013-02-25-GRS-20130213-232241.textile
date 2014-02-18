@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza di Santa Maria Liberatrice
 image: "1727"
 location: Rome, Italy

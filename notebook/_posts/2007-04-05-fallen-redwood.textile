@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fallen Redwood
 image: "112"
 location: California, US

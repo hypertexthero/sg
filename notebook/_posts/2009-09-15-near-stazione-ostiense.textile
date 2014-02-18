@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Stazione Ostiense
 image: "584"
 location: Rome, Italy

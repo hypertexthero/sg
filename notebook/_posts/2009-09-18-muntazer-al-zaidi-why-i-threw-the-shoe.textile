@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Muntazer al-Zaidi: Why I threw the shoe"
 category: imaginarylines
 tags: 

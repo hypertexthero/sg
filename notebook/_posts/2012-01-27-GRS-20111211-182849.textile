@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Eleniana
 image: "1379"
 location: Rome, Italy

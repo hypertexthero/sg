@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Air and Cathedral
 image: "89"
 location: London, UK

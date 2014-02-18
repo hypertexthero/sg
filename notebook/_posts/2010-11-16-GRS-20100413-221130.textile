@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Scene GRS-20100413-221130
 image: "953"
 location: Hanoi, Vietnam

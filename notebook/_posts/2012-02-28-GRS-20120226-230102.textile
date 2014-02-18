@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Tuscolana
 image: "1416"
 location: Rome, Italy

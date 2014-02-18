@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mandler Shopping Centre
 image: "1533"
 location: Wolverhampton, UK

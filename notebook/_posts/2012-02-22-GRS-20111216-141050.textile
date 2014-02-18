@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazzale Ugo La Malfa
 image: "1412"
 location: Rome, Italy

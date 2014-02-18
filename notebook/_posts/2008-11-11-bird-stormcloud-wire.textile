@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bird, Stormcloud, Wire
 image: "462"
 location: Rome, Italy

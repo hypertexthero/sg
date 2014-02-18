@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Loggia dei Lanzi
 image: "1498"
 location: Florence, Italy

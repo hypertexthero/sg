@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Torrevechia Circus Advertisement
 image: "23"
 location: Rome, Italy

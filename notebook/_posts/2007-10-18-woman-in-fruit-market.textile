@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Woman in Fruit Market
 image: "239"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Robert Doisneau Would Be 100 Today
 excerpt: Robert Doisneau Would Be 100 Today
 category: notebook

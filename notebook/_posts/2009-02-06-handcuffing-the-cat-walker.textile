@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Handcuffing the Cat-Walker
 category: imaginarylines
 tags: []

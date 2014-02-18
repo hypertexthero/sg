@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Waiter and Mirror
 image: "225"
 location: Santa Lucia, Italy

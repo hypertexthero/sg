@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dad, Olgiata Station
 image: "1853"
 location: Rome, Italy

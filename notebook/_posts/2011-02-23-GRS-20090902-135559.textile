@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus
 image: "1054"
 location: Rome, Italy

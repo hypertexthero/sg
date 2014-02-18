@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Ph\xE1\xBA\xA1m Ng\xC5\xA9 L\xC3\xA3o"
 image: "922"
 location: Saigon, Vietnam

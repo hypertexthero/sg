@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Feeding the Birds
 image: "317"
 location: Rome, Italy

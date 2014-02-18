@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di Santissimi Quattro
 image: "1665"
 location: Rome, Italy

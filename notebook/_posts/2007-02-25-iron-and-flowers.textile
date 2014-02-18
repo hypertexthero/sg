@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Iron and Flowers
 image: "90"
 location: Palo Alto, California, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Curtain and Television
 image: "85"
 location: Taft, California, US

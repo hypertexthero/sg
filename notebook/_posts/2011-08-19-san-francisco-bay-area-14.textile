@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: San Francisco Bay Area - 14
 image: "1241"
 category: story-p4

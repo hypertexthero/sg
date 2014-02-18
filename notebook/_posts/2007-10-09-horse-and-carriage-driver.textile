@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Horse and Carriage Driver
 image: "229"
 location: New York City, New York, US

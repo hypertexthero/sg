@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Logs
 image: "201"
 location: Michigan, US

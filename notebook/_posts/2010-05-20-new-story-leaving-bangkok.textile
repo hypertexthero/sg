@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "New Story: Leaving Bangkok"
 excerpt: "New Story: Leaving Bangkok"
 category: notebook

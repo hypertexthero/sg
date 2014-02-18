@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Villa Farnesina
 image: "1435"
 location: Rome, Italy

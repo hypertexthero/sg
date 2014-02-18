@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Ranong #2"
 image: "690"
 location: Ranong, Thailand

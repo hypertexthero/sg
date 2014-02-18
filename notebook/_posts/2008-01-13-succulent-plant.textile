@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Succulent Plant
 image: "294"
 location: Trevignano Romano, Italy

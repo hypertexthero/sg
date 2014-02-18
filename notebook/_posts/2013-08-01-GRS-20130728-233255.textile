@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Outside The Wall
 image: "1844"
 location: Rome, Italy

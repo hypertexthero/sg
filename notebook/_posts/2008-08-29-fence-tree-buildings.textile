@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fence, Tree, Buildings
 image: "426"
 location: Bracciano, Italy

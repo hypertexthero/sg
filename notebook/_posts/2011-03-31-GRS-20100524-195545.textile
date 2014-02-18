@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Caff\xC3\xA9 degli Angeli"
 image: "1079"
 location: Rome

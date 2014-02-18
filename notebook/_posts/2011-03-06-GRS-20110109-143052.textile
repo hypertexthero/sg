@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ara Pacis Fountains
 image: "1061"
 location: Rome, Italy

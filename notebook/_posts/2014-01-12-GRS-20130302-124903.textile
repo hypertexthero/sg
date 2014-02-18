@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wren Road
 image: "1977"
 location: London, England

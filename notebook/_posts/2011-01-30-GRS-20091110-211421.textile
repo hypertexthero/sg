@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Cassia, Night
 image: "1030"
 location: Near Rome, Italy

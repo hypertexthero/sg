@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Giulio Cesare
 image: "1310"
 location: Rome, Italy

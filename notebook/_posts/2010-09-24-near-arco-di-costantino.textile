@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Arco di Costantino
 image: "896"
 location: Rome, Italy

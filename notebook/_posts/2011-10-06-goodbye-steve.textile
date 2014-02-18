@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Goodbye, Steve
 excerpt: "Goodbye, Steve. I never met you, but your work helped make my life and time with computers happier. "
 category: notebook

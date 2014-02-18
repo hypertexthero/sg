@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "M\xC3\xAAs Collection \xC2\xB7 January 2009"
 image: "303"
 location: Wyoming, US

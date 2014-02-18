@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Route 66: Cruising the American Dream"
 excerpt: "\"_Route 66: Cruising the American Dream_ is about the systems of value and meaning attached to the American highway\":http://www.yale.edu/amstud/r66/about.html."
 category: notebook

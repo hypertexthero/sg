@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dell'Incrociata
 image: "1555"
 location: Isola del Giglio, Tyrrhenian Sea

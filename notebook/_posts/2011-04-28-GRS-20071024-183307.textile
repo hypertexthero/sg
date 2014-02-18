@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Metro Flaminio
 image: "1093"
 location: Rome, Italy

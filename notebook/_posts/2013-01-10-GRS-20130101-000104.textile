@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Campo de Fiore, Capodanno
 image: "1693"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: GRS-20050430-162307
 image: "1194"
 category: story-p2

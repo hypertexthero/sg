@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rythm Guitarist Tryout Set
 excerpt: Only one song with a woman, yet the singer is a girl, which should be <a href="http://www.guardian.co.uk/arts/features/story/0,11710,1406798,00.html" title="Where have all the rock girls gone?">interesting</a>.
 category: notebook

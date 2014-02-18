@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Taxi to The Dark Side Poster Censored by Motion Picture Association of America
 excerpt: |-
   bq. "The viewing public is constantly rewarded for suspending disbelief and ethical revulsion about the conduct of violence; just play along and you get all the pleasures of the show. On the other hand, actual violence being perpetrated by the government is minimized, sanitized, or outright censored."

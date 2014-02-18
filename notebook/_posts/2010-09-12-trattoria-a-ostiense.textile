@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Trattoria a Ostiense
 image: "886"
 location: Rome, Italy

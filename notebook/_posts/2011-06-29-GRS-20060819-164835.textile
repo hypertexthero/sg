@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Carolyn
 image: "1144"
 location: Wisconsin, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Steps of Il Vittoriano
 image: "772"
 location: Rome, Italy

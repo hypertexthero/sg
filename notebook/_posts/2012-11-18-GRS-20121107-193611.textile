@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ai Tre Scalini
 image: "1653"
 location: Rome, Italy

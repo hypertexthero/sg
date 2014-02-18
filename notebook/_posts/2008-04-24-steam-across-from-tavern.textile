@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Steam Across From Tavern
 image: "330"
 location: London, UK

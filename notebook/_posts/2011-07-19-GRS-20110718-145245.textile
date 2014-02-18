@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Coronari
 image: "1168"
 location: Rome, Italy

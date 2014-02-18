@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza della Signoria
 image: "1525"
 location: Florence, Italy

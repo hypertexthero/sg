@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vatican Transmitters and Wall
 image: "351"
 location: Santa Maria di Galeria, Italy

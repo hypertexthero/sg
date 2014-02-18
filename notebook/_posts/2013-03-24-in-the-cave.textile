@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In The Cave
 excerpt: In The Cave
 category: notebook

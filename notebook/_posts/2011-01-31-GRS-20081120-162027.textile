@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View from Monte Aguzzo
 image: "1031"
 location: Near Formello, Italy

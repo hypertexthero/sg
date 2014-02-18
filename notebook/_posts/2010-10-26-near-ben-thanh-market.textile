@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Near B\xE1\xBA\xBFn Th\xC3\xA0nh Market"
 image: "923"
 location: Saigon, Vietnam

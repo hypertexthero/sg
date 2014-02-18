@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Cupola at the Vatican
 image: "1898"
 location: Rome, Italy

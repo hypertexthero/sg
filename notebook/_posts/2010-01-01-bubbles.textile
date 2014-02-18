@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bubbles
 image: "603"
 location: Malta

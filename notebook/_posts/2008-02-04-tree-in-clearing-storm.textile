@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tree in Clearing Storm
 image: "305"
 location: South Dakota, US

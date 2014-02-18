@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: FR3 Bloccata
 image: "587"
 location: Bracciano, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "New Story: The Screen, The Cup and The Time Between"
 excerpt: "New story: The Screen, The Cup and The Time Between"
 category: notebook

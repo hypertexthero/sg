@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: God Candid
 image: "548"
 location: Rome, Italy

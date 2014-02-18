@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Minha M\xC3\xA3e no Escrit\xC3\xB3rio do Meu Pai"
 image: "809"
 location: Formello, Italy

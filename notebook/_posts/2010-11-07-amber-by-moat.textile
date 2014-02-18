@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Amber by Moat
 image: "941"
 location: "Hu\xE1\xBA\xBF, Vietnam"

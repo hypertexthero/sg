@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: A Fence That Separates Two Worlds
 excerpt: A Fence That Separates Two Worlds
 category: notebook

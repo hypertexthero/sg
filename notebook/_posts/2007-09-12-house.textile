@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: House
 image: "199"
 location: Mitchell, Nebraska, US

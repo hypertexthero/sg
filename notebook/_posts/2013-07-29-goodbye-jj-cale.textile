@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Goodbye, J.J. Cale
 excerpt: Goodbye, J.J. Cale
 category: notebook

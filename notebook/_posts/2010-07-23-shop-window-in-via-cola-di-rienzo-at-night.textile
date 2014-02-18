@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Shop Window in Via Cola di Rienzo at Night
 image: "814"
 location: Rome, Italy

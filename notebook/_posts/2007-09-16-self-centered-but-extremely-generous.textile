@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Self-centered But Extremely Generous
 excerpt: "bq. \"\xE2\x80\xA6Not only that. The basic fundamental difference between these two kinds of photographers is that one is totally self-centered, totally selfish, and the other one is self-centered but EXTREMELY generous at the same time. It's an odd combination but there you are.\"\r\n\
   \xE2\x80\x94 \"Elliott Erwitt (On Robert Capa.)\":http://digitaljournalist.org/issue0706/the-imagemakers.html"

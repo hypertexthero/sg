@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dog Behind Gate
 image: "480"
 location: Formello, Italy

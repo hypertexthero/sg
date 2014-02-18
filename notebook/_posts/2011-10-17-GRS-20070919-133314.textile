@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Peschiera del Garda
 image: "1335"
 location: Lago di Garda, Italy

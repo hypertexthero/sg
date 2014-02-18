@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Signorelli
 image: "1426"
 location: Cortona, Italy

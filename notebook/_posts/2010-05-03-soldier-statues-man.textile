@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Soldier Statues, Man
 image: "696"
 location: Washington DC, US

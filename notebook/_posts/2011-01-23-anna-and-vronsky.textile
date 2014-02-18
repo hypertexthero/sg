@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Anna and Vronsky
 excerpt: Anna and Vronsky
 category: notebook

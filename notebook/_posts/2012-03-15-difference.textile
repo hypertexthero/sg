@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Difference
 excerpt: Difference which occurs across time is what we call 'change'.
 category: notebook

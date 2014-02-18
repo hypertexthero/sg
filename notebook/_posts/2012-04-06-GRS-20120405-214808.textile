@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di Monserrato
 image: "1490"
 location: Rome, Italy

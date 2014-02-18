@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus Near Valetta
 image: "1076"
 location: Malta

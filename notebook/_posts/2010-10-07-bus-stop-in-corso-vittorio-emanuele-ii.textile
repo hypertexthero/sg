@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus Stop in Corso Vittorio Emanuele II
 image: "909"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Looking Through Vitrine
 image: "321"
 location: Sevilla, Spain

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Beach Near Chumphon
 image: "680"
 location: Near Chumphon, Thailand

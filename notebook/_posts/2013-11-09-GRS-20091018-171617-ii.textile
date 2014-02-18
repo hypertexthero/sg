@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Porta di Roma
 image: "1909"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Victor in Metro
 image: "449"
 location: Rome, Italy

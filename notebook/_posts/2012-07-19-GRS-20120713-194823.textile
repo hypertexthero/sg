@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "M\xC3\xA3e, San Filippo Neri"
 image: "1588"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Behind The Pantheon
 image: "535"
 location: Rome, Italy

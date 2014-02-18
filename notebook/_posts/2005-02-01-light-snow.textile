@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Light Snow
 excerpt: Photograph of light snow on cars in a parking lot in Formello, Italy. The view-angle is looking down from a considerable height above. Tracks of a recently departed car are evident, as is the wind direction during the snow-fall.
 category: notebook

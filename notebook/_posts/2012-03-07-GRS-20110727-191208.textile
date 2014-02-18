@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Garibaldi
 image: "1430"
 location: Cortona, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Man With Umbrella #2"
 image: "302"
 location: Bracciano, Italy

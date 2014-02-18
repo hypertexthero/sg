@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Earth's Moon Around Midnight
 image: "575"
 location: Bracciano, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boys in Brooklyn
 image: "712"
 location: New York City, US

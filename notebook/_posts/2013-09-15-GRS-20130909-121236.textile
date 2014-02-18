@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Venezia
 image: "1867"
 location: Rome, Italy

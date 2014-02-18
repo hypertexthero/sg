@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Behind Pantheon, Night
 image: "978"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Chrysler Building and Moon
 image: "141"
 location: New York City, US

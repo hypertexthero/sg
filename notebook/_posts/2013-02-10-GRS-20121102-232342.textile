@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Salita dei Borgia
 image: "1714"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Goodramgate
 image: "1043"
 location: York, England

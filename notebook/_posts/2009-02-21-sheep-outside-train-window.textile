@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sheep Outside Train Window
 image: "496"
 location: Near Vigna di Valle, Italy

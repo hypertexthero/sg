@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Redwood Park Ranger
 image: "1137"
 location: California, US

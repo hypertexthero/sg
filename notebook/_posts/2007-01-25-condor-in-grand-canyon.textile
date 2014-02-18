@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Condor in Grand Canyon
 image: "61"
 location: Grand Canyon, Arizona, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Waves Dream
 excerpt: Waves Dream
 category: notebook

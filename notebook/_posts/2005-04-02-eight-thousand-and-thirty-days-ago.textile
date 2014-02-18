@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Eight Thousand And Thirty Days Ago
 excerpt: A photograph of a red badge on a white background. The badge says "I am" in small type and "5" in large type.
 category: notebook

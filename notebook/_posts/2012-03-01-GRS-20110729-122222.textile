@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: GRS-20110729-122222
 image: "1423"
 location: Cortona, Italy

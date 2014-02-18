@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Passages II - London
 category: story-p2
 tags: 

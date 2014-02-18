@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Galeria Alberto Sordi
 image: "767"
 location: Rome, Italy

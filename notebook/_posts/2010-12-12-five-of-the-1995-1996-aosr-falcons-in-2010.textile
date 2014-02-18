@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Five of the 1995-1996 'AOSR Falcons' in 2010
 image: "979"
 location: Rome, Italy

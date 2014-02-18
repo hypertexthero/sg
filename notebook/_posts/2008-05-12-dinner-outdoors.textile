@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dinner Outdoors
 image: "350"
 location: Bracciano, Italy

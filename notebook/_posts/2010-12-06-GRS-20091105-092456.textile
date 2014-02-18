@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione Ostiense
 image: "973"
 location: Rome, Italy

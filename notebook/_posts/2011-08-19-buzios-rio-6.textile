@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "B\xC3\xBAzios, Rio - 6"
 image: "1191"
 category: story-p1

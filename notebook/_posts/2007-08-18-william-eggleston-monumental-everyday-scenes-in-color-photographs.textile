@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "William Eggleston: Monumental everyday scenes in color photographs"
 excerpt: " \"William Eggleston: Monumental everyday scenes in color photographs (EgglestonTrust.com)\":http://www.egglestontrust.com/index.html."
 category: notebook

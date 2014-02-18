@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Baullari
 image: "1629"
 location: Rome, Italy

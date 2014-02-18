@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View of Palazzo Vittorio
 image: "264"
 location: Rome, Italy

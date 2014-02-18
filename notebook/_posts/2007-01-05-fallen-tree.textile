@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fallen Tree
 image: "44"
 location: Mendocino County, California

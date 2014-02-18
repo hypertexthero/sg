@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Be Confident, Baby
 excerpt: "Eschew Clich\xC3\xA9"
 category: notebook

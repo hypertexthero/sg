@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Do Not Connect Me, Please
 excerpt: "\"Do Not Connect Me, Please (\"The use of cell phones creates distance between people despite people believing they are closer because of them. There is no intimacy when you use a cell phone, in private or, especially, in public.\")\":http://digitaljournalist.org/issue0706/do-not-connect-me-please-.html."
 category: notebook

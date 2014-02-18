@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: State Surveillance of Personal Data Is Theft
 excerpt: State Surveillance of Personal Data Is Theft
 category: imaginarylines

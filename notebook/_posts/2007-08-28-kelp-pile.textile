@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Kelp Pile
 image: "183"
 location: San Simeon, California, US

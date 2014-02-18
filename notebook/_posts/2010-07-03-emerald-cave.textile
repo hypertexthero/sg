@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Emerald Cave
 image: "791"
 location: Kho Muk, Andaman Sea

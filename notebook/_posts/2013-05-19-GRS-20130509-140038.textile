@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Le Jardin des Tuileries un Apr\xC3\xA8s-midi de Printemps"
 image: "1783"
 location: Paris, France

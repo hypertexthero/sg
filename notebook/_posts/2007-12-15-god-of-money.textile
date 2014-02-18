@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: God of Money
 excerpt: "Beppe Grillo: \"The *God of Money* is by far the most powerful of the Italian deities\":http://www.beppegrillo.it/eng/2007/12/free_tibet.html."
 category: notebook

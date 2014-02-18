@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Walkers in Basilica
 image: "59"
 location: Rome, Italy

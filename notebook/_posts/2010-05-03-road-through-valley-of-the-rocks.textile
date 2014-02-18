@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Road Through Valley of the Rocks
 image: "703"
 location: Monument Valley, Arizona, US

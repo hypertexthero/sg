@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Castello
 image: "1858"
 location: Isola del Giglio, Italy

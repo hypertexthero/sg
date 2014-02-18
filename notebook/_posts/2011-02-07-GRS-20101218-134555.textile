@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Afternoon Sunlight
 image: "1038"
 location: Rome, Italy

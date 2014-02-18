@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: New Mexico
 image: "39"
 location: New Mexico, USA

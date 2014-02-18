@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Emelyne
 image: "1476"
 location: Rome, Italy

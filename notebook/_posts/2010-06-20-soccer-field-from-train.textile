@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Soccer Field From Train
 image: "775"
 location: Rome, Italy

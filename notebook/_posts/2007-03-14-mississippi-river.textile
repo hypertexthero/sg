@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mississippi River
 image: "101"
 location: Near Lansing, Iowa, US

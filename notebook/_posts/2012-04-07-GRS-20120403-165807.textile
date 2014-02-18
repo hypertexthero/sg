@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Galleria dell'Accademia
 image: "1496"
 location: Florence, Italy

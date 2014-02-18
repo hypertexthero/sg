@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Belvedere della Sentinella Morning
 image: "430"
 location: Bracciano, Italy

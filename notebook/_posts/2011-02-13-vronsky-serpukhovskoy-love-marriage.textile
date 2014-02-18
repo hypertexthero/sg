@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vronsky &amp; Serpukhovskoy, Love &amp; Marriage
 excerpt: Vronsky & Serpukhovskoy, Love & Marriage
 category: notebook

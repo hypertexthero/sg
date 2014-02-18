@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boys on Bicycles
 image: "379"
 location: Sevilla, Spain

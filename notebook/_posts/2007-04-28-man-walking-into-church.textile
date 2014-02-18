@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Walking Into Church
 image: "121"
 location: Rome, Italy

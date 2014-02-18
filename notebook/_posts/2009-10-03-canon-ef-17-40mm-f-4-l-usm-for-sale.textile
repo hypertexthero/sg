@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Canon EF 17\xE2\x80\x9340mm f/4 L USM for Sale (Sold)"
 excerpt: "Canon EF 17\xE2\x80\x9340mm f/4 L USM for Sale (Sold)"
 category: notebook

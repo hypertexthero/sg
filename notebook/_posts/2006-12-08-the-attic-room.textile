@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Attic Room
 image: "26"
 location: Oakland, California

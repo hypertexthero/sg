@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mushroom
 image: "92"
 location: Palo Alto, California, US

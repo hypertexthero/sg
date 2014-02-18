@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dawn at Jumbo Rock
 image: "78"
 location: Joshua Tree, California, US

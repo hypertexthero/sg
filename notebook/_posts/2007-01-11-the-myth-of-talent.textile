@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Myth of Talent
 excerpt: bq. "So I made a decision in intensive care. I was not going back to an empty life lived half-awake. I was going to arrange my life, as much as possible around what I loved."
 category: notebook

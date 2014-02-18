@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Celio Vibenna
 image: "1564"
 location: Rome, Italy

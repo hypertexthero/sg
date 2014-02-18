@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Real Toy Story
 excerpt: "\"The real toy story\":http://www.photomichaelwolf.com/the_real_toy_story/index.html."
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Margo's Room
 image: "86"
 location: Oakland, California

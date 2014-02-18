@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar Door in Formello
 image: "900"
 location: Formello, Italy

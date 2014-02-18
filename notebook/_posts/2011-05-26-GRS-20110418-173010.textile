@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Triana
 image: "1116"
 location: Seville, Spain

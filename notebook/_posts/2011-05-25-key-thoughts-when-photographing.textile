@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Key Thoughts When Photographing
 excerpt: Key Thoughts When Photographing
 category: notebook

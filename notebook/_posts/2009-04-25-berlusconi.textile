@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Berlusconi
 image: "537"
 location: Rome, Italy

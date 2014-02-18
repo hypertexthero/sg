@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Mascherone
 image: "1492"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Exhausted
 excerpt: |
   "Exhausted":http://news.bbc.co.uk/2/hi/south_asia/7240590.stm.

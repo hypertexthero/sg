@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza di San Calisto
 image: "1593"
 location: Rome, Italy

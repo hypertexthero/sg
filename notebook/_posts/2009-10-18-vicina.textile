@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vicina
 image: "599"
 location: Rome, Italy

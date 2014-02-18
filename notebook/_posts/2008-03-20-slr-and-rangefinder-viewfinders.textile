@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: SLR and Rangefinder Viewfinders
 excerpt: "bq. \"A long time ago I said that an SLR viewfinder lets you make pictures and a rangefinder's bright line frame lets you take pictures.\"\r\n\
   \xE2\x80\x94 \"Bill Pierce (Nuts and Bolts - The Digital Journalist.)\":http://digitaljournalist.org/issue0803/nuts-and-bolts.html\r\n\

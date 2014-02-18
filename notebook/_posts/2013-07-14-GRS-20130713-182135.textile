@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Ottaviano
 image: "1821"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man in Via Nazionale
 image: "594"
 location: Rome, Italy

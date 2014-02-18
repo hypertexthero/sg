@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Scala dell'Arcicapitolina
 image: "1973"
 location: Rome, Italy

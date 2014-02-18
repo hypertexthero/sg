@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza San Lorenzo
 image: "1863"
 location: Rome, Italy

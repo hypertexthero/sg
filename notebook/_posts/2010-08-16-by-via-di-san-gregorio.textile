@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: By Via di San Gregorio
 image: "853"
 location: Rome, Italy

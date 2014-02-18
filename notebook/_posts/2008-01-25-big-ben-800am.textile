@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Big Ben 8:00am
 image: "299"
 location: London, UK

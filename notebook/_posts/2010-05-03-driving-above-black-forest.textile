@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Driving Above Black Forest
 image: "700"
 location: Near Colorado Springs, Colorado, US

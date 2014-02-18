@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fes el Bali
 image: "1993"
 location: Fes, Morocco

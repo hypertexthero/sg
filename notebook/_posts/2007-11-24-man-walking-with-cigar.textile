@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Walking With Cigar
 image: "270"
 location: Bracciano, Italy

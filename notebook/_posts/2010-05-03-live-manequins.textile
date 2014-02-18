@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Live Manequins
 image: "693"
 location: New York City, US

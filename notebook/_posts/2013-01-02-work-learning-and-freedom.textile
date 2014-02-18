@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Work, Learning and Freedom
 excerpt: Work, Learning and Freedom
 category: notebook

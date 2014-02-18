@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boys Walking
 image: "253"
 location: Bracciano, Italy

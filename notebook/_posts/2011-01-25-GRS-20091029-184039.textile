@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale Aventino Near Piramide
 image: "1024"
 location: Rome, Italy

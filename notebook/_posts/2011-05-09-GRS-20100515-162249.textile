@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Walking by Colosseo With Dad
 image: "1101"
 location: Rome, Italy

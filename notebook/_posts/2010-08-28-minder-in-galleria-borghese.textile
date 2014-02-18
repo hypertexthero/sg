@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Minder in Galleria Borghese
 image: "869"
 location: Rome, Italy

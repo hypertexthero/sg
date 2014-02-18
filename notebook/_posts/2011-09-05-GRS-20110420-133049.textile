@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Av. de Eduardo Dato
 image: "1304"
 location: Seville, Spain

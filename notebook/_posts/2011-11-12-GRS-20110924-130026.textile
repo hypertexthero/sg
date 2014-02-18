@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: LaStorta
 image: "1346"
 location: Rome, Italy

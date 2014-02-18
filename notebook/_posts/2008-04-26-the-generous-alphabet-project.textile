@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Generous Alphabet Project
 excerpt: |
   From now on most of my writing can be found at "GenerousAlphabet.org (Generous Alphabet Project Journal.)":http://generousalphabet.org/journal/, so please visit and bookmark "http://generousalphabet.org/journal/":http://generousalphabet.org/journal/. 

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Plant and Contrails
 image: "79"
 location: Joshua Tree, California, US

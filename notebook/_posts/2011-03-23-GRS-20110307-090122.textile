@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale Aventino Crossing
 image: "1072"
 location: Rome, Italy

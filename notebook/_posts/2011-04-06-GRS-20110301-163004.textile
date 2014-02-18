@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View from Terme di Caracalla
 image: "1083"
 location: Rome, Italy

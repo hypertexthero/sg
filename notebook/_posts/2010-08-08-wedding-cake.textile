@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wedding Cake
 image: "847"
 location: Rome, Italy

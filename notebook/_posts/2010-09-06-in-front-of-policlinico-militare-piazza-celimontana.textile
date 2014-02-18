@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In Front of Policlinico Militare, Piazza Celimontana
 image: "879"
 location: Rome, Italy

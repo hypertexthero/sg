@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pine and Oak
 image: "279"
 location: Yorkville, California, US

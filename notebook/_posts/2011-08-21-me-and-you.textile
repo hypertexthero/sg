@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Me and You
 excerpt: Me and You
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza di Spagna
 image: "1312"
 location: Rome, Italy

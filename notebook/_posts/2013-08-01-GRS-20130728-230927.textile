@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Run Like Hell
 image: "1843"
 location: Rome, Italy

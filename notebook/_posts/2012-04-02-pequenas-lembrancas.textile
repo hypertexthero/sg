@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Pequenas Lembran\xC3\xA7as"
 location: Brasil
 excerpt: "Pequenas Lembran\xC3\xA7as"

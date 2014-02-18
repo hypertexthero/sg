@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Car in Muammar al-Gaddafi's Motorcade
 image: "1053"
 location: Rome, Italy

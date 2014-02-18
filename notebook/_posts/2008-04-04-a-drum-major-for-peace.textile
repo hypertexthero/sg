@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: a-drum-major-for-peace
 excerpt: |
   "Mike Johnston remembers Martin Luther King":http://theonlinephotographer.typepad.com/the_online_photographer/2008/04/a-drum-major-fo.html.

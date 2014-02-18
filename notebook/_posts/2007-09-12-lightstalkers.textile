@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lightstalkers
 excerpt: "\"Lightstalkers is a network of unconventional travelers\":http://www.lightstalkers.org/about/manifesto."
 category: notebook

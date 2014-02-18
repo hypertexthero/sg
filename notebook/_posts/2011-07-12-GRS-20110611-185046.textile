@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gay Pride Parade
 image: "1152"
 location: Rome, Italy

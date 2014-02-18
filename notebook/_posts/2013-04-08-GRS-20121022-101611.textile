@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale delle Cave Ardeatine
 image: "1761"
 location: Rome, Italy

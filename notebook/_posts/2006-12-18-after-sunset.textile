@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: After Sunset
 image: "37"
 location: near Pierpont, South Dakota, USA

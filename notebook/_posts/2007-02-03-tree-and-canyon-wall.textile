@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tree and Canyon Wall
 image: "67"
 location: Grand Canyon, Arizona, US

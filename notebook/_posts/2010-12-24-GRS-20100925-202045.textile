@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus in Via dei Fori Imperiali
 image: "990"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Open Window in Piazza Santa Maria in Trastevere
 image: "169"
 location: Rome, Italy

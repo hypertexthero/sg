@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men and Woman on Sidewalk
 image: "324"
 location: Sevilla, Spain

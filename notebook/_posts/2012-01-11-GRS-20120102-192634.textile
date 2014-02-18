@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Horta Gallery Central
 image: "1374"
 location: Brussels, Belgium

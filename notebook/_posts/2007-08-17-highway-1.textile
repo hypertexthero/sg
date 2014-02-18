@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Highway #1"
 image: "170"
 location: Wyoming, US

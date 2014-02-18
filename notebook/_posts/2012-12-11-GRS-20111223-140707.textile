@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza San Silvestro
 image: "1675"
 location: Rome, Italy

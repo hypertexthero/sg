@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Arriving in Dubai Airport
 image: "615"
 location: Dubai, United Arab Emirates

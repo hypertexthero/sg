@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "College of DuPage: History of Photography"
 category: notebook
 tags: []

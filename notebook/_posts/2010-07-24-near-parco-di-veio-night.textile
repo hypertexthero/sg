@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Parco di Veio, Night
 image: "815"
 location: Giustiniana, Italy

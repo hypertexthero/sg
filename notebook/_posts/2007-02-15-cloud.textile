@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Cloud
 image: "84"
 location: Joshua Tree, California, US

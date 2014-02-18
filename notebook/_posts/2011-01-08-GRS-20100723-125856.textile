@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Via del Corso
 image: "1005"
 location: Rome, Italy

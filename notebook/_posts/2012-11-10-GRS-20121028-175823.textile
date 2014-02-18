@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pantheon
 image: "1645"
 location: Rome, Italy

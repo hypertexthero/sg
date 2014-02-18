@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Passages VII - Cortona
 location: Cortona, Italy
 date_taken: July 2011

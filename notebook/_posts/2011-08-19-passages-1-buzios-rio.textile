@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Passages I - B\xC3\xBAzios, Rio"
 location: "B\xC3\xBAzios, Rio de Janeiro"
 date_taken: "2001"

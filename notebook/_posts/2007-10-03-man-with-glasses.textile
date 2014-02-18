@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man With Glasses
 image: "221"
 location: Venice, Italy

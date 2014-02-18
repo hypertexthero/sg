@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Island 11
 image: "833"
 category: story-theisland

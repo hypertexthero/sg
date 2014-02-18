@@ -1,6 +1,7 @@
 --- 
-layout: post
+layout: entry
 title: Fes el Bali
+excerpt: Fes el Bali GRS-20140208-092822
 image: "1997"
 location: Fes, Morocco
 date_taken: February 2014
@@ -24,3 +25,4 @@ tags:
 - torture
 ---
 
+Hello.

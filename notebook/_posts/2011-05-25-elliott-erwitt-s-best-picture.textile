@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Elliott Erwitt\xE2\x80\x99s Best Picture"
 excerpt: "Elliott Erwitt\xE2\x80\x99s Best Picture"
 category: notebook

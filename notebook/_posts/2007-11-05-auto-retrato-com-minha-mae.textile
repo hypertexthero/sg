@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Auto-retrato Com Minha M\xC3\xA3e"
 image: "254"
 location: Rome, Italy

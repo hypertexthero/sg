@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy in Campo de' Fiori
 image: "292"
 location: Rome, Italy

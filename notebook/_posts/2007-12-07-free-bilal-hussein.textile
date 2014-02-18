@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Free Bilal Hussein
 excerpt: "\"Free Bilal Hussein\":http://www.freebilal.org/."
 category: notebook

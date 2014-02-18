@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Two Examples of Imaginary Lines From The BBC's Headlines, Today
 category: imaginarylines
 tags: []

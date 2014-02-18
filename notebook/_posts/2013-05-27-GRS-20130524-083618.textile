@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Giovanni in Laterano
 image: "1790"
 location: Rome, Italy

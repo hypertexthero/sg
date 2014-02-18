@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Nh\xC3\xA0 H\xC3\xA0ng Caf\xC3\xA9 Au Parc"
 image: "917"
 location: Saigon, Vietnam

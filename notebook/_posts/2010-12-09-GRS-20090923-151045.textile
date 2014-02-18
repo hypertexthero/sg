@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Front of Metro Circo Massimo
 image: "976"
 location: Rome, Italy

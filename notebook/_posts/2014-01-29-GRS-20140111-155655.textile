@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Monte Terminillo
 image: "1989"
 location: Apennine Mountains, Italy

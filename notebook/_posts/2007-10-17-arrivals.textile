@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Arrivals
 image: "237"
 location: Fiumicino, Italy

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="all">
+<meta http-equiv="imagetoolbar" content="false">
+<meta name="MSSmartTagsPreventParsing" content="true">
+
+<meta name="description" content="Photographs by Simon Griffee">
+
+<meta name="keywords" content="photographs,simon griffee,black and white,expression,gesture">
+<meta name="author" content="Simon Griffee" />
+<meta name="copyright" content="Copyright 1999-{{ date|date:"%Y" }} Simon Griffee.">
+
+<link href='http://fonts.googleapis.com/css?family=Gentium+Basic:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/simongriffee.css" media="screen" />
+
+<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ie7.css" />
+<![endif]-->
+
+<link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon" />
+<title>Stories - Simon Griffee · Photographer</title>
+</head>
+
+<body id="stories" class="storieslatest">
+
+<div id="page">
+
+<div id="header">
+    <a id="top" name="top"></a>
+    <h1 id="logo"><a href="/" title="SimonGriffee.com homepage.">Simon Griffee · Photographer</a></h1>
+
+    <div id="navcontainer">
+    <ul>
+      <li id="nav-notebook"><a href="/" title="Journal of photographs (site homepage).">Notebook</a></li>
+      <li id="nav-stories"><a href="/stories/" title="Projects, essays, series of photographs.">Stories</a></li>
+      <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
+      <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
+    </ul>
+
+</div>
+</div> <!-- header end -->
+
+<div id="content">
+<div id="textframe">
+
+<h1 style="margin:0;">Stories</h1>
+
+<ul class="archivelist">
+  {{ content }}
+</ul>
+
+</div> <!-- textframe end -->
+</div> <!-- content end -->
+
+<div id="footer" class="largetopmargin">
+
+    <form id="search" action="http://simongriffee.com/search/" method="get">
+      <input type="text" name="q" value="" size="32" />
+      <input type="submit" value="Search" class="zemSubmit" />
+    </form>
+
+    <p class="quiet">
+      &copy; {{ site.time|date:"%Y" }} <a href="http://simongriffee.com/about/#copyright" title="About Simon.">Simon Griffee</a>. All rights reserved.
+    </p>
+
+</div> <!-- footer end -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-293592-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div> <!-- page end -->
+
+</body>
+</html>

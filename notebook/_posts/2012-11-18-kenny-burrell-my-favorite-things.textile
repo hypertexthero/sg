@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Kenny Burrell: My Favorite Things"
 excerpt: "Kenny Burrell: My Favorite Things"
 category: notebook

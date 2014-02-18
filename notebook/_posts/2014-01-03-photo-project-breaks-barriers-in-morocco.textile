@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Photo Project Breaks Barriers in Morocco
 excerpt: Photo Project Breaks Barriers in Morocco
 category: imaginarylines

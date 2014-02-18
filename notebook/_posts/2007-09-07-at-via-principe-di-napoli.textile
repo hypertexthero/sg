@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: At Via Principe di Napoli
 image: "196"
 location: Bracciano, Italy

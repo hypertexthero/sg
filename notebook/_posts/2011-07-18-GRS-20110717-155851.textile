@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Mauritania
 image: "1166"
 location: Rome, Italy

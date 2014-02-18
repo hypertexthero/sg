@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Navona at Night
 image: "445"
 location: Rome, Italy

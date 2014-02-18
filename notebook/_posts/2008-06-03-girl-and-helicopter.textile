@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl and Helicopter
 image: "356"
 location: Bracciano, Italy

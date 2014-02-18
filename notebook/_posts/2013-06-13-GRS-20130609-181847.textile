@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Prinsengracht, Looiersgracht Bridge
 image: "1805"
 location: Amsterdam, Netherlands

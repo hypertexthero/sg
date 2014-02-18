@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Martino
 image: "1635"
 location: Rome, Italy

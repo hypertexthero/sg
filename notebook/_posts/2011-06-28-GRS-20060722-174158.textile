@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Woods Near Howard City
 image: "1140"
 location: Michigan, US

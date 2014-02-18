@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pot, Wall and Watering Can
 image: "165"
 location: Bracciano, Italy

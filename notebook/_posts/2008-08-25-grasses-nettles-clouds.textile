@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Grasses, Nettles, Clouds
 image: "421"
 location: Bracciano, Italy

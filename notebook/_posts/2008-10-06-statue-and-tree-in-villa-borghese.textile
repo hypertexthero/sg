@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Statue and Tree in Villa Borghese
 image: "443"
 location: Rome, Italy

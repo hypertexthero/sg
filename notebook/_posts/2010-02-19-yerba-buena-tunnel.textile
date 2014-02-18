@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Yerba Buena Tunnel
 image: "614"
 location: San Francisco, California

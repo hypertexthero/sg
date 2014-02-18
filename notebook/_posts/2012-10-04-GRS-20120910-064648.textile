@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: St Ives
 image: "1614"
 location: St Ives, England

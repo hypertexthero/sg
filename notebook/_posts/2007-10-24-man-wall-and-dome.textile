@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man, Wall and Dome
 image: "244"
 location: Rome, Italy

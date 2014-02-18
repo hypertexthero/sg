@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Coney Island
 image: "1138"
 location: New York City, US

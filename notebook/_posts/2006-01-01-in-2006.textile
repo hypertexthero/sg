@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In 2006
 excerpt: |-
   # Draw on paper more.

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Franco
 image: "1107"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Anziani in Piazza San Pietro
 image: "263"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Protesters Heading to Piazza Farnese
 image: "864"
 location: Rome, Italy

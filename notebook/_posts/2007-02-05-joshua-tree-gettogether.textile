@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Joshua Tree Gettogether
 excerpt: Here are some photos from the lovely weekend spent at Joshua Tree national park with "Per Volquartz (Master photographer and printer.)":http://pervolquartz.com/ and several other photographers. More about my experience in the desert is forthcoming.
 category: notebook

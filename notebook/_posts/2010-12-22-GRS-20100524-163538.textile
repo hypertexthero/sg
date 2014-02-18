@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "'Bonanni Express'"
 image: "986"
 location: Rome, Italy

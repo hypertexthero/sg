@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Where Do You Live?
 excerpt: "bq. \"So where I live, in photography, is in movement and in authenticity. And when you think about photographs that the mass of people accept as \"great,\" I believe most of them have the element of spontaneity in them, as well as the structure.\"\r\n\
   \xE2\x80\x94 \"John Camp (The Online Photographer: Where Do You Live?)\":http://theonlinephotographer.typepad.com/the_online_photographer/2008/03/where-do-you-li.html#comment-106621858\r\n\

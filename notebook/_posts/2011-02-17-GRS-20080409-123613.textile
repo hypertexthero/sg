@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Canal Waters
 image: "1048"
 location: London, England

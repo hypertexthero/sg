@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: richard-kalvar
 excerpt: "bq. \"I\xE2\x80\x99m not crazy about the term \xE2\x80\x98street photography\xE2\x80\x99 to describe what I do, because it\xE2\x80\x99s not necessarily done on the street. The pictures can be taken on a farm, at the zoo, in an office, and so on. Let\xE2\x80\x99s say we consider the general category of \xE2\x80\x98unposed pictures of people\xE2\x80\x99 (or sometimes animals or even inanimate objects when they happen to be possessed by human souls), and then the subcategory \xE2\x80\x98with nothing particularly important going on.\xE2\x80\x99 If we further narrow it down to the \xE2\x80\x98play\xE2\x80\x99 sub-subcategory, we get into the domain I\xE2\x80\x99ve worked in for forty years. That\xE2\x80\x99s what I like to do: play with ordinary reality, using unposed actors who are oblivious to the dramas I\xE2\x80\x99ve placed them in.\"\r\n\
   \r\n\

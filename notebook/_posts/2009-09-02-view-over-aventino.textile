@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View Over Aventino
 image: "580"
 location: Rome, Italy

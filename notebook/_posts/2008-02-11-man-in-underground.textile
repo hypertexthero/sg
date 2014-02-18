@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man in Underground
 image: "307"
 location: London, UK

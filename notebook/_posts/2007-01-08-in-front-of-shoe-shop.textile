@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In Front of Shoe Shop
 image: "47"
 location: Rome, Italy

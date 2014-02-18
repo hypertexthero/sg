@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Scene in Regent Street
 image: "393"
 location: London, UK

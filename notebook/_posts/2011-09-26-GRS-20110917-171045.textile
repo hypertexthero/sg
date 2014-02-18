@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Condotti
 image: "1319"
 location: Rome, Italy

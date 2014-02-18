@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Parked Car
 image: "431"
 location: Bracciano, Italy

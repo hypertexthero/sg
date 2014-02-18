@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Karl\xC5\xAFv most"
 image: "1688"
 location: Prague, Czech Republic

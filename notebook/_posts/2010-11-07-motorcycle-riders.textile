@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Motorcycle Riders
 image: "938"
 location: Saigon, Vietnam

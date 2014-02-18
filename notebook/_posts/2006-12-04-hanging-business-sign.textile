@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hanging Business Sign
 image: "25"
 location: San Francisco, California

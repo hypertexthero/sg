@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lamp, Men, Moon, Jupiter
 image: "581"
 location: Bracciano, Italy

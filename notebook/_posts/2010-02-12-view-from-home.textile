@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View From Home
 image: "606"
 location: Formello, Italy

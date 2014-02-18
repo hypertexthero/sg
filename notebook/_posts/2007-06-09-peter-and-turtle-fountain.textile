@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Peter and Turtle Fountain
 image: "140"
 location: Rome, Italy

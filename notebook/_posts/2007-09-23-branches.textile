@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Branches
 image: "211"
 location: Oakland, California, US

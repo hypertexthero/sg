@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Corner in Center GRS-20100414-151003
 image: "957"
 location: Hanoi, Vietnam

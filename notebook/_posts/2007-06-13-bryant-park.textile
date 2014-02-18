@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bryant Park
 image: "142"
 location: New York City, US

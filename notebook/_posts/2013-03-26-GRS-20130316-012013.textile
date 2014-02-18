@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Petrol Station
 image: "1748"
 location: Rome, Italy

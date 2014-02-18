@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Why the Ricoh GRD?
 excerpt: Why the Ricoh GRD?
 category: notebook

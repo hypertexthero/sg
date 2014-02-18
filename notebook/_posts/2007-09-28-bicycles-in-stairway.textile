@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bicycles in Stairway
 image: "215"
 location: Bracciano, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Room Mirror GRS-20100415-230600
 image: "966"
 location: Hanoi, Vietnam

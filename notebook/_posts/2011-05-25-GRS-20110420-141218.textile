@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: During Procession
 image: "1115"
 location: Seville, Spain

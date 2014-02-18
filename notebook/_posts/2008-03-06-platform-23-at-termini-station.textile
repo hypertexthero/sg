@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Platform 23 at Termini Station
 image: "313"
 location: Rome, Italy

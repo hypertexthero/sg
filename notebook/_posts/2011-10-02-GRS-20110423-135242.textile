@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mirador de San Nicolas
 image: "1324"
 location: Granada, Spain

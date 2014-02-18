@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Woman Walking Into Grotta
 image: "266"
 location: Sutri, Italy

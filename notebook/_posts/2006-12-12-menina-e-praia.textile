@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Menina e Praia
 image: "27"
 location: Rio de Janeiro, Brazil

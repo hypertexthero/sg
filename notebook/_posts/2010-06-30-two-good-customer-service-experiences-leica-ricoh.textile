@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Two Good Customer Service Experiences: Leica &amp; Ricoh"
 excerpt: "Two Good Customer Service Experiences: Leica & Ricoh"
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: From Bus Over Ponte Cavour
 image: "774"
 location: Rome, Italy

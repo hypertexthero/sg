@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Brussel Nationaal/ Bruxelles-National
 image: "1373"
 location: Brussels, Belgium

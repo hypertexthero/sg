@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vigili, End of Via del Corso at Venezia
 image: "905"
 location: Rome, Italy

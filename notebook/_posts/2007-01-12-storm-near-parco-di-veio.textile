@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Storm Near Parco di Veio
 image: "50"
 location: Formello, Italy

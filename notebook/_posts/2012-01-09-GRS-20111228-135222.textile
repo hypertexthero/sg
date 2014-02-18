@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Av. de la Porte de Hal
 image: "1372"
 location: Brussels, Belgium

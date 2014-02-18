@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza del Grano
 image: "1100"
 location: Florence, Italy

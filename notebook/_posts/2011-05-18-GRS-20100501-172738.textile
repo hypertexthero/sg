@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Donnie's Garden
 image: "1109"
 location: Riano, Italy

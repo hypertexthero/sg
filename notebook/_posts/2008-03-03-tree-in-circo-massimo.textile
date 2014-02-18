@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tree in Circo Massimo
 image: "310"
 location: Rome, Italy

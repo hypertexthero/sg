@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Morning Conversation
 image: "484"
 location: Bracciano, Italy

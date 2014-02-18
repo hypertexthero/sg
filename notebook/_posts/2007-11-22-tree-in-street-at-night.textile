@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tree in Street at Night
 image: "268"
 location: Rome, Italy

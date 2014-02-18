@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Calle de las Jazmineras
 image: "1511"
 location: Seville, Spain

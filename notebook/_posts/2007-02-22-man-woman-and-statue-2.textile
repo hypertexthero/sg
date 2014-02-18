@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Man, Woman and Statue #2"
 image: "88"
 location: London, UK

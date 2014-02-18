@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Relief Maps
 image: "1064"
 location: Verona, Italy

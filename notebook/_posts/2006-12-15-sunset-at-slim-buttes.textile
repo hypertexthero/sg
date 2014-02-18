@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sunset at Slim Buttes
 image: "35"
 location: south-west of Reva, South Dakota, USA

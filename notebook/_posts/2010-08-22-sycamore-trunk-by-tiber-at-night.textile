@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sycamore Trunk by Tiber at Night
 image: "860"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Bui Vien
 image: "916"
 location: Saigon, Vietnam

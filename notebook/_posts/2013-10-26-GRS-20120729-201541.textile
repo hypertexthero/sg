@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Giuseppe Gioacchino Belli
 image: "1896"
 location: Rome, Italy

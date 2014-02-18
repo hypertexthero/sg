@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wall and Shadows
 image: "166"
 location: Rome, Italy

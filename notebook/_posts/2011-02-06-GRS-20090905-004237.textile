@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vicolo de' Cinque
 image: "1037"
 location: Rome, Italy

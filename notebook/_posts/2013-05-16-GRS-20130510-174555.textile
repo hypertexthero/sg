@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Place de l'H\xC3\xB4tel de Ville"
 image: "1781"
 location: Paris, France

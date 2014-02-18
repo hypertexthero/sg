@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Show Must Go On
 excerpt: "\"There must be some mistake\xE2\x80\x94I didn't mean to let them take away my soul\xE2\x80\x94am I too old\xE2\x80\x94is it too late?\""
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar
 image: "781"
 location: Rome, Italy

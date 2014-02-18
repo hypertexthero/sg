@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Largo Argentina
 image: "1639"
 location: Rome, Italy

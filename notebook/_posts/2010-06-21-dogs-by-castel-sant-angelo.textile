@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dogs by Castel Sant'Angelo
 image: "776"
 location: Rome, Italy

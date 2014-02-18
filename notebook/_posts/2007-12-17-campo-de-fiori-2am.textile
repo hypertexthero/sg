@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Campo de' Fiori, 2am
 image: "281"
 location: Rome, Italy

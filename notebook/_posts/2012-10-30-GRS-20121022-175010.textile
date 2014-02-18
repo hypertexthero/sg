@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale della Domus Aurea
 image: "1637"
 location: Rome, Italy

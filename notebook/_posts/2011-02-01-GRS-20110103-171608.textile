@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tiber River
 image: "1032"
 location: Rome, Italy

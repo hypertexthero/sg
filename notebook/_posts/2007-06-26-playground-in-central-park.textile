@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Playground in Central Park
 image: "151"
 location: New York City, NY, US

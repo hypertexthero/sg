@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dreams and Ambition
 excerpt: Dreams and Ambition
 category: notebook

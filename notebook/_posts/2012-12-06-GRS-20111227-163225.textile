@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Maestro Francesco
 image: "1672"
 location: Rome, Italy

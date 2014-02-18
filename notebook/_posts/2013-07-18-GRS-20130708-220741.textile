@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Antica Birreria Peroni
 image: "1825"
 location: Rome, Italy

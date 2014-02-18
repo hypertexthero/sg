@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Frankie at Da Tony
 image: "1857"
 location: Isola del Giglio, Italy

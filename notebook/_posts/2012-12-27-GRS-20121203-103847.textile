@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Nazionale
 image: "1683"
 location: Rome, Italy

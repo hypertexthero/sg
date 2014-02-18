@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fuck Fashion
 image: "1049"
 location: Amsterdam, Netherlands

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Via dell'Arco di San Calisto
 image: "800"
 location: Rome, Italy

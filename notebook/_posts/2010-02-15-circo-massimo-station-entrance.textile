@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Circo Massimo Station Entrance
 image: "609"
 location: Rome, Italy

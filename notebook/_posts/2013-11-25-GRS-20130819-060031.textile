@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Torre
 image: "1925"
 location: Isola del Giglio, Italy

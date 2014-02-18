@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Streetlight, Man, Shadow
 image: "574"
 location: Rome, Italy

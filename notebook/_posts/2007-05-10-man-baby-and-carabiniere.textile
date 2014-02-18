@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man, baby and carabiniere
 image: "127"
 location: Rome, Italy

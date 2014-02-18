@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lake in Central Park
 image: "231"
 location: New York City, New York, US

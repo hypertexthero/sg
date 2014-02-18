@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Andaman Sea, Saigon, Hanoi - 5
 image: "1230"
 category: story-p5

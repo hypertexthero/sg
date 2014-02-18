@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Speakers' Corner
 image: "813"
 location: London, England

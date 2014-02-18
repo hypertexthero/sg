@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tree and Light at Night
 image: "487"
 location: Bracciano, Italy

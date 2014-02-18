@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Germanico
 image: "1974"
 location: Rome, Italy

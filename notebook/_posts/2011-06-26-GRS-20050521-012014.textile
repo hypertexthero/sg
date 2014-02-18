@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Central Park
 image: "1136"
 location: New York City, US

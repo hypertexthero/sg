@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza di Trevi
 image: "1914"
 location: Rome, Italy

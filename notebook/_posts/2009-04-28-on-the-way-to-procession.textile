@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: On The Way to Procession
 image: "541"
 location: Sevilla, Spain

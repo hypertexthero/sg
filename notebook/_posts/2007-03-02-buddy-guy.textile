@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Buddy Guy
 image: "94"
 location: San Francisco, California, US

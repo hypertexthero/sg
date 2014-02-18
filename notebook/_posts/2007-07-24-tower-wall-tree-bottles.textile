@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tower, Wall, Tree, Bottles
 image: "164"
 location: Bracciano, Italy

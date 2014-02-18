@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fiumicino Exit B
 image: "1003"
 location: Fiumicino, Italy

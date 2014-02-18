@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rolling Hills, Badlands
 image: "111"
 location: South Dakota, US

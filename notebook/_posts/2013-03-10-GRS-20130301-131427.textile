@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Oxford Circus
 image: "1738"
 location: London, England

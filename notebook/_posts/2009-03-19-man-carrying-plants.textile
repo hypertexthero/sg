@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Carrying Plants
 image: "502"
 location: Rome, Italy

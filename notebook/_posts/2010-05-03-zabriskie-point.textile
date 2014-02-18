@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Zabriskie Point
 image: "698"
 location: Death Valley, Nevada, US

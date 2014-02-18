@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazzale Ostiense
 image: "1595"
 location: Rome, Italy

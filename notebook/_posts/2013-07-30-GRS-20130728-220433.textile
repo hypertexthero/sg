@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Wall, Stadio Olimpico
 image: "1837"
 location: Rome, Italy

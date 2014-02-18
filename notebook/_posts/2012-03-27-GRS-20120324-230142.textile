@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vicent
 image: "1484"
 location: Rome, Italy

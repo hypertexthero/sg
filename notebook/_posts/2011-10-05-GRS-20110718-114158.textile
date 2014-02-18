@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Santi Quattro
 image: "1327"
 location: Rome, Italy

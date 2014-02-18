@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Cat and Stoop
 image: "206"
 location: Oakland, California, US

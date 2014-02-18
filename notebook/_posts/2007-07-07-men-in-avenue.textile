@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men in Avenue
 image: "144"
 location: New York City, US

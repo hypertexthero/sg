@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazzale Michelangiolo
 image: "1434"
 location: Florence, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Porthmeor Swells
 image: "1611"
 location: St Ives, England

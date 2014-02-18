@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione di Fondi
 image: "1380"
 location: Fondi, Italy

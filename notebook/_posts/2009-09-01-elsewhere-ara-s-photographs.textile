@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Elsewhere: Ara's Photographs"
 category: imaginarylines
 tags: 

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Via dei Baullari
 image: "796"
 location: Rome, Italy

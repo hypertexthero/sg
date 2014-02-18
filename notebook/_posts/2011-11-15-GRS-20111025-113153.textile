@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: San Filippo Neri
 image: "1351"
 location: Rome, Italy

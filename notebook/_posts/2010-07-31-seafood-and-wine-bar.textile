@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Seafood and Wine Bar
 image: "821"
 location: Amsterdam, Netherlands

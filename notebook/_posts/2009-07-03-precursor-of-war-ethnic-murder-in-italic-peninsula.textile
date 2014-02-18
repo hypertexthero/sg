@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Precursor of War, Ethnic Murder in Italic Peninsula
 category: imaginarylines
 tags: []

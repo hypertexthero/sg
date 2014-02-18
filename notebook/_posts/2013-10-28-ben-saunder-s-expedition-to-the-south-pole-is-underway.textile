@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ben Saunder's Expedition to the South Pole is Underway!
 excerpt: Ben Saunder's Expedition to the South Pole is Underway!
 category: notebook

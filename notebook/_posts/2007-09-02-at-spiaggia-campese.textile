@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: At Spiaggia Campese
 image: "190"
 location: Isola del Giglio, Italy

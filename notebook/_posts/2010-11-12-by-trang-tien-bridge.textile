@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: By Trang Tien Bridge
 image: "948"
 location: "Hu\xE1\xBA\xBF, Vietnam"

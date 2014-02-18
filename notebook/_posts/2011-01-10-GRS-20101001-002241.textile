@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza delle Erbe, Night
 image: "1008"
 location: Verona, Italy

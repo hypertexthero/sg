@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sentinella del Belvedere
 image: "1557"
 location: Bracciano, Italy

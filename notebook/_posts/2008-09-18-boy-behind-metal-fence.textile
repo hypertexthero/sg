@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy Behind Metal Fence
 image: "436"
 location: Bracciano, Italy

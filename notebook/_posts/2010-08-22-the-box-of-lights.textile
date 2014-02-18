@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Box of Lights
 image: "861"
 location: Rome, Italy

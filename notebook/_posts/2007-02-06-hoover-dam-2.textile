@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Hoover Dam #2"
 image: "76"
 location: Arizona, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Salvatore
 image: "1913"
 location: Cortona, Italy

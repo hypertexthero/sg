@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man With Umbrella
 image: "223"
 location: Venice, Italy

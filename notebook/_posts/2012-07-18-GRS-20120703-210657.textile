@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di Porta Cavalleggeri
 image: "1587"
 location: Rome, Italy

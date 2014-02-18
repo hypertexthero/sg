@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Airport Lounge
 image: "1051"
 location: Malta

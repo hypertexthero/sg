@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wharf Road
 image: "1615"
 location: St Ives, England

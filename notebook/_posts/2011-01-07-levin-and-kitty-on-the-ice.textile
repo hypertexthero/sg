@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Levin and Kitty on the Ice
 excerpt: Levin and Kitty on the Ice
 category: notebook

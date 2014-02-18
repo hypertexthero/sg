@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di Campese
 image: "1855"
 location: Isola del Giglio, Italy

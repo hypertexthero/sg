@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Swollen River
 image: "812"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sirmione
 image: "1330"
 location: Lago di Garda, Italy

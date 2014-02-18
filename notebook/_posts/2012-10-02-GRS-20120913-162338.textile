@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Road
 image: "1609"
 location: Norwich, England

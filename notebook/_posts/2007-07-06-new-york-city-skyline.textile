@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: New York City Skyline
 image: "158"
 location: New York City, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Clivo di Scauro
 image: "798"
 location: Rome, Italy

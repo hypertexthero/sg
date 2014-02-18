@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Champ de Mars
 image: "1785"
 location: Paris, France

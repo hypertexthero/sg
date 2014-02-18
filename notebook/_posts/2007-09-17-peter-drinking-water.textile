@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Peter Drinking Water
 image: "205"
 location: Oakland, California, US

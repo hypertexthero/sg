@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man With Telefonino
 image: "559"
 location: Rome, Italy

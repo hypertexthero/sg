@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stanford Campus
 image: "93"
 location: Stanford, California, US

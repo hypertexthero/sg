@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pine Cone
 image: "210"
 location: Mount Diablo, California, US

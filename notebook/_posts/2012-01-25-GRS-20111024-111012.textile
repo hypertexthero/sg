@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Corso di Francia
 image: "1378"
 location: Rome, Italy

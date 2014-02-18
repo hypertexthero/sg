@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Jimmy and Berrdawg
 image: "1471"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Waiting For The Worms
 image: "1842"
 location: Rome, Italy

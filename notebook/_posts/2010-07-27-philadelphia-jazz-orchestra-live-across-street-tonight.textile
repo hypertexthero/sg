@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Philadelphia Jazz Orchestra Live Across Street Tonight
 category: notebook
 tags: []

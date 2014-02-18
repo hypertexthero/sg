@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Langham Place
 image: "1513"
 location: London, England

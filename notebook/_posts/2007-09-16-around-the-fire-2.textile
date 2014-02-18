@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Around the Fire #2"
 image: "204"
 location: Oakland, California, US

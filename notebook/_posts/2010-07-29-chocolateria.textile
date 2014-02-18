@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Chocolateria
 image: "820"
 location: Seville, Spain

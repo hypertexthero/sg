@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Crossing Street Near Piazza Trilussa
 image: "257"
 location: Rome, Italy

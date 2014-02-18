@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Train Platform GRS-20100412-171648
 image: "967"
 location: Hanoi, Vietnam

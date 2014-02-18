@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Critical Mass on Halloween
 image: "55"
 location: San Francisco, California

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: JRB Climbing in Automobile
 image: "898"
 location: Rome, Italy

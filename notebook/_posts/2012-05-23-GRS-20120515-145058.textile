@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dudley Street
 image: "1534"
 location: Wolverhampton, UK

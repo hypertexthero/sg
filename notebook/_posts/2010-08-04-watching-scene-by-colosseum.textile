@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Watching Scene by Colosseum
 image: "845"
 location: Rome, Italy

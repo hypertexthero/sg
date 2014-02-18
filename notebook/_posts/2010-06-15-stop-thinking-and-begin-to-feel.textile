@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stop Thinking and Begin To Feel
 excerpt: bq. 'Something that Frank told me about Nikos - he was a law student in Greece headed for a lucrative career when a wave of numbness overcomes him in a classroom. He rises from his desk, walks out the door, and leaves jurisprudence forever for the precarious existence of a wandering photographer. "I wanted to stop thinking and begin to feel," he said.'
 category: notebook

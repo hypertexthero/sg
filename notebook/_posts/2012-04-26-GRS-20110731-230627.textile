@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Banks of the Tiber
 image: "1522"
 location: Rome, Italy

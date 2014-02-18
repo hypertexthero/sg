@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tram in Viale Trastevere
 image: "440"
 location: Rome, Italy

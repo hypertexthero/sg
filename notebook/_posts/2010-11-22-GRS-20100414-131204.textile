@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Temple of Literature GRS-20100414-131204
 image: "961"
 location: Hanoi, Vietnam

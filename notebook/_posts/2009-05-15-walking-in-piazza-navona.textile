@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Walking in Piazza Navona
 image: "558"
 location: Rome, Italy

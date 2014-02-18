@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Johanna
 image: "1478"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Merulana
 image: "1350"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sysadmins
 image: "1567"
 location: Rome, Italy

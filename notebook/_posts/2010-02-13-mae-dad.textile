@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "M\xC3\xA3e &amp; Dad"
 image: "607"
 location: Bracciano, Italy

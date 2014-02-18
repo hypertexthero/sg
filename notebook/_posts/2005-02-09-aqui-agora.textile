@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Aqui Agora
 excerpt: "Esta voc\xC3\xAA vai gostar Betti\xE2\x80\xA6"
 category: notebook

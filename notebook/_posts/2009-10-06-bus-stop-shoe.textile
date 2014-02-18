@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus Stop Shoe
 image: "591"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Teatro Marcello
 image: "1527"
 location: Rome, Italy

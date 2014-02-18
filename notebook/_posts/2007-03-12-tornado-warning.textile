@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tornado Warning
 image: "98"
 location: Near Thompson, Iowa, US

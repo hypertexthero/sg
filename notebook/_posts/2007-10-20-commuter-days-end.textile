@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Commuter Day's End
 image: "240"
 location: Olgiata, Italy

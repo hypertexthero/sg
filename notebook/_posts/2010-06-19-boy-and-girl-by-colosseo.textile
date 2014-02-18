@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy and Girl by Colosseo
 image: "773"
 location: Rome, Italy

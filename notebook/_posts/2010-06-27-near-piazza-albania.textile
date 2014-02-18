@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Piazza Albania
 image: "784"
 location: Rome, Italy

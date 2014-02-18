@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Plebiscito
 image: "560"
 location: Rome, Italy

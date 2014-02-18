@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza della Madonna dei Monti
 image: "1565"
 location: Rome, Italy

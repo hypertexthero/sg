@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Self-portrait with JRB
 image: "801"
 location: "Train Between Saigon and H\xE1\xBB\x99i An, Vietnam"

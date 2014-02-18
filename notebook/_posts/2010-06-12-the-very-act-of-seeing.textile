@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Very Act of Seeing
 excerpt: bq. "Photography is at its best when it deals with the very act of seeing in itself and not with recollections in tranquility or dilettantism of design."
 category: notebook

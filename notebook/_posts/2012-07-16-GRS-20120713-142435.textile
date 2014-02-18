@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rocky at Viale Aventino
 image: "1582"
 location: Rome, Italy

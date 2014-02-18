@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Three Days in London
 location: London, England
 date_taken: March 2013

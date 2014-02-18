@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Singel
 image: "1803"
 location: Amsterdam, Netherlands

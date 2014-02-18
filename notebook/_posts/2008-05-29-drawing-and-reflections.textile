@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Drawing and Reflections
 image: "354"
 location: Bracciano, Italy

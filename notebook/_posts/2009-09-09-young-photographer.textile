@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Young Photographer
 image: "582"
 location: Rome, Italy

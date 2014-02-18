@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Diner Near The Badlands
 image: "694"
 location: Near Badlands, South Dakota, US

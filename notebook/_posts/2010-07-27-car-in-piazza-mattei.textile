@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Car in Piazza Mattei
 image: "816"
 location: Rome, Italy

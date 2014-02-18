@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Roses, Wall
 image: "450"
 location: Bracciano, Italy

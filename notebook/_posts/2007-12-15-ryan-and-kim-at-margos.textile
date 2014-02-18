@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ryan and Kim at Margo's
 image: "280"
 location: Yorkville, California, US

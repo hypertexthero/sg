@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In The Flesh?
 image: "1838"
 location: Rome, Italy

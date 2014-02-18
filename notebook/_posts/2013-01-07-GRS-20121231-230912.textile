@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via IV Novembre
 image: "1691"
 location: Rome, Italy

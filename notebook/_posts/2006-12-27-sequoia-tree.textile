@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sequoia Tree
 image: "38"
 location: Sequoia &amp; Kings Canyon National Park, California

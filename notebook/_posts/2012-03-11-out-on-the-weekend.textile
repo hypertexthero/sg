@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Out on the Weekend
 category: notebook
 tags: 

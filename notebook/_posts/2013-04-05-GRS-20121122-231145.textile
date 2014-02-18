@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gael
 image: "1760"
 location: Rome, Italy

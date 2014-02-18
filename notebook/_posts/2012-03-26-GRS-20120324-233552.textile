@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Koji
 image: "1479"
 location: Rome, Italy

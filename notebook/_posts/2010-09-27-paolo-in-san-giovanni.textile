@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Paolo in San Lorenzo
 image: "897"
 location: Rome, Italy

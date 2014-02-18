@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Passages IV - San Francisco Bay Area
 category: story-p4
 tags: 

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Josef Koudelka: Formed by the World"
 excerpt: "Josef Koudelka: Formed by the World"
 category: imaginarylines

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men in Piazza del Campidoglio
 image: "770"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men, Boy and Woman
 image: "260"
 location: Rome, Italy

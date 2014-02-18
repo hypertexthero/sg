@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione Colosseo
 image: "1376"
 location: Rome, Italy

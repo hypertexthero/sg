@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: At We Are The Future Concert
 image: "291"
 location: Rome, Italy

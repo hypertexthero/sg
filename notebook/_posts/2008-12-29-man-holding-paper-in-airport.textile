@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Holding Paper in Airport
 image: "478"
 location: Fiumicino, Italy

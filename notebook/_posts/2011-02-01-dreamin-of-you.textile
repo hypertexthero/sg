@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dreamin' of You
 excerpt: Dreamin' of You
 category: notebook

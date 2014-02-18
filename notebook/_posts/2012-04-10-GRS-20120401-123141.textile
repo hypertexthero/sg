@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Gracchi
 image: "1502"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Via Cassia 811
 image: "913"
 location: Rome, Italy

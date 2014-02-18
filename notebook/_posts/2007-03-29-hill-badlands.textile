@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hill, Badlands
 image: "110"
 location: South Dakota, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Curiosity and Schools
 excerpt: Curiosity and Schools
 category: notebook

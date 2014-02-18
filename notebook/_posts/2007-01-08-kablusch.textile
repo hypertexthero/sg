@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: KABLUSCH!
 excerpt: "I once dropped a 35\xE2\x80\x93200mm telephoto zoom in a canal in Venice whilst fumbling to change lenses. I tried snatching it when it slipped off my hand, but hit it instead, causing the lens to bounce off the balustrade and disappear into the depths. _KABLUSCH!!_ "
 category: notebook

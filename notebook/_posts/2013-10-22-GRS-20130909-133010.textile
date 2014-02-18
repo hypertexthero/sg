@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di Campo Marzio
 image: "1892"
 location: Rome, Italy

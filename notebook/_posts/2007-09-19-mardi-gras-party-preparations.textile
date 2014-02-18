@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mardi Gras Party Preparations
 image: "207"
 location: Oakland, California, US

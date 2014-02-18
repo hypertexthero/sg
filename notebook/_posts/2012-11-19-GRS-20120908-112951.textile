@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Far Side
 image: "1655"
 location: St Ives, England

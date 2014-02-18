@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Crossing Street Near Piazza San Pietro
 image: "251"
 location: Rome, Italy

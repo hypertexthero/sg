@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "'Catman' aka 'Blue'"
 image: "119"
 location: Berkeley, California, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Porta di Roma Shopping Center
 image: "1336"
 location: Rome, Italy

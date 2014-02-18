@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: By Piazza Trilussa
 image: "1034"
 location: Rome, Italy

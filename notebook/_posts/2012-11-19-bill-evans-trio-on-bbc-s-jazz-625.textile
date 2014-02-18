@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bill Evans Trio on BBC's Jazz 625
 excerpt: Bill Evans Trio on BBC's Jazz 625
 category: notebook

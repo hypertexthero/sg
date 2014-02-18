@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hotel Lobby Front
 image: "851"
 location: Rome, Italy

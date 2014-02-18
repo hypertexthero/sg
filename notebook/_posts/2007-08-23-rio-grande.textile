@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rio Grande
 image: "177"
 location: Near Taos, New Mexico, Us

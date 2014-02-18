@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bathtub
 image: "241"
 location: Bracciano, Italy

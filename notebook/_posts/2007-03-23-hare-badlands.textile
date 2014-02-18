@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hare, Badlands
 image: "107"
 location: South Dakota, US

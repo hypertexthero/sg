@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Crossing in Front of Colosseum
 image: "912"
 location: Rome, Italy

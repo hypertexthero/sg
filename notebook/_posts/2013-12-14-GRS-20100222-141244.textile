@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bhumibol Adulyadej
 image: "1943"
 location: Bangkok, Thailand

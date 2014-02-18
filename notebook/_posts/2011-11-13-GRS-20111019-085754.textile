@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale del Parco del Celio
 image: "1349"
 location: Rome, Italy

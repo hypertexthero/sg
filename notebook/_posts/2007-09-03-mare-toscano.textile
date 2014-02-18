@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mare Toscano
 image: "191"
 location: Near Isola del Giglio, Tyrrhenian Sea, Italy

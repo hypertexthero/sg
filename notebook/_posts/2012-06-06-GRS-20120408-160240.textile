@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dad, Three Months Before Second Operation
 image: "1547"
 location: Formello, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Colosseo da Via di San Giovanni in Laterano
 image: "1385"
 location: Rome, Italy

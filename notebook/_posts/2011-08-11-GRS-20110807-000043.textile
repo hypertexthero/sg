@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar at Campese
 image: "1179"
 location: Isola del Giglio, Italy

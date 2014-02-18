@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Horse Carriage
 image: "272"
 location: Rome, Italy

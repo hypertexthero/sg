@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Doribaci
 image: "1475"
 location: Rome, Italy

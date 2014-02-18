@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Self-Portrait on Linea A
 image: "822"
 location: Rome, Italy

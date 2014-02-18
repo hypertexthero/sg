@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Scene at Belvedere della Sentinella
 image: "427"
 location: Bracciano, Italy

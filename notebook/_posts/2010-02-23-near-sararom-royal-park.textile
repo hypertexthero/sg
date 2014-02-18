@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Sararom Royal Park
 image: "620"
 location: Bangkok, Thailand

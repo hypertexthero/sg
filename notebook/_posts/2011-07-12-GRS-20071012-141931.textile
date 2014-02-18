@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Santa Maria della Rotonda
 image: "1158"
 location: Rome, Italy

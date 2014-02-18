@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Crypta Balbi
 image: "895"
 location: Rome, Italy

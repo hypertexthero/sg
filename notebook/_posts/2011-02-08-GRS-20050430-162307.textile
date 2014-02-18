@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Portobello Road
 image: "1039"
 location: London, England

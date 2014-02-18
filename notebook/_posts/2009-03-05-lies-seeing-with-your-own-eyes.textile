@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lies, Seeing With Your Own Eyes
 category: imaginarylines
 tags: []

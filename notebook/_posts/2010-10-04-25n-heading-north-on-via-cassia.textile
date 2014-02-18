@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: 25N Heading North on Via Cassia
 image: "906"
 location: Rome, Italy

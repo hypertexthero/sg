@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Triana
 image: "1904"
 location: Seville, Spain

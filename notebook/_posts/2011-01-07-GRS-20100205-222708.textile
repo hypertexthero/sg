@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Looking Into Bar
 image: "1001"
 location: Rome, Italy

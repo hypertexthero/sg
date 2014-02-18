@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Street #2"
 image: "147"
 location: New York City, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale del Belvedere
 image: "1554"
 location: Rome, Italy

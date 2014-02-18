@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Jeu de Balle
 image: "1967"
 location: Brussels, Belgium

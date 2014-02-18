@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lonnie Campbell
 image: "179"
 location: Big Sur, California, US

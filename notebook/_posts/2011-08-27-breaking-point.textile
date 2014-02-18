@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Breaking Point
 excerpt: Breaking Point
 category: notebook

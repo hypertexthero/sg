@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Found Films, Memories
 excerpt: Found Films, Memories
 category: notebook

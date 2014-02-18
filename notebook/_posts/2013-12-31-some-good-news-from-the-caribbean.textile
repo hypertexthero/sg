@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Some Good News From the Caribbean
 category: imaginarylines
 tags: 

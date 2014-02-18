@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rome Flood?
 category: notebook
 tags: 

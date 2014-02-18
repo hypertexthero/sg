@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: James Nachtwey - War Photographer
 excerpt: " \"James Nachtwey - War Photographer (A film by Christian Frei.)\":http://www.war-photographer.com/en/."
 category: notebook

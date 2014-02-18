@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Self-portrait
 image: "1020"
 location: Rome, Italy

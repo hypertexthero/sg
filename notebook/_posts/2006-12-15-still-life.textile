@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Still Life
 image: "33"
 location: London, UK

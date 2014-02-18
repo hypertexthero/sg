@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Sem\xC3\xA1foro Near Olgiata"
 image: "546"
 location: Olgiata, Italy

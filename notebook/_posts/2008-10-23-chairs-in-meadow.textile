@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Chairs in Meadow
 image: "451"
 location: Near Vigna di Valle, Italy

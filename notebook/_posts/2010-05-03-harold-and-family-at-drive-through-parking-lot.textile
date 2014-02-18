@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Harold and Family at Drive-Through Parking Lot
 image: "697"
 location: Shiprock, New Mexico, US

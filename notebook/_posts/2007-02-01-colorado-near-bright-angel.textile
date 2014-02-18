@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Colorado Near Bright Angel
 image: "64"
 location: Grand Canyon, Arizona, US

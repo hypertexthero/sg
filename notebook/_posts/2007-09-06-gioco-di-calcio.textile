@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gioco di Calcio
 image: "194"
 location: Rome, Italy

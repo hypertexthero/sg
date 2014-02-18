@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Five Days in Paris
 location: Paris, France
 date_taken: May 2013

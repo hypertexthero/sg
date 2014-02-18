@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boulevard Edgar-Quinet
 image: "1782"
 location: Paris, France

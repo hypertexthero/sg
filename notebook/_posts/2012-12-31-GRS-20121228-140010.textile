@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Starom\xC4\x9Bstsk\xC3\xA9 n\xC3\xA1m\xC4\x9Bst\xC3\xAD"
 image: "1686"
 location: Prague, Czech Republic

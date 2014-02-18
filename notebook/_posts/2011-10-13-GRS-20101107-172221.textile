@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: LaStorta &amp; Amber
 image: "1334"
 location: Rome, Italy

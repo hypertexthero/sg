@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stairs to Old Room
 image: "536"
 location: Formello, Italy

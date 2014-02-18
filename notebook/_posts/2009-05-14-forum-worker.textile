@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Forum Worker
 image: "556"
 location: Rome, Italy

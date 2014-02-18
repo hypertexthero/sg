@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via degli Annibaldi
 image: "1622"
 location: Rome, Italy

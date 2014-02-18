@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gardens by Chiesa di Santa Maria del Priorato
 image: "856"
 location: Rome, Italy

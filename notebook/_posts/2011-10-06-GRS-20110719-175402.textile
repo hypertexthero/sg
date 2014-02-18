@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza di Porta San Giovanni
 image: "1328"
 location: Rome, Italy

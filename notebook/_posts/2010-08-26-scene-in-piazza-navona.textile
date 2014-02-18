@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Scene in Piazza Navona
 image: "867"
 location: Rome, Italy

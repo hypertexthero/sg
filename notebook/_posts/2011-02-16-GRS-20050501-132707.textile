@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Speakers' Corner, Hide Park
 image: "1046"
 location: London, England

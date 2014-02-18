@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Beneath MV Cait
 image: "786"
 location: Near Ko Kradan, Andaman Sea

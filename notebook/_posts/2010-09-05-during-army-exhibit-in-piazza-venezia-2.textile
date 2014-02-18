@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "During Army Exhibit in Piazza Venezia #2"
 image: "875"
 location: Rome, Italy

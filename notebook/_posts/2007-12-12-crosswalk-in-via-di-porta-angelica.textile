@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Crosswalk in Via di Porta Angelica
 image: "277"
 location: Rome, Italy

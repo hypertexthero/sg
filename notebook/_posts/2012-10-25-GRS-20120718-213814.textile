@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Serpenti
 image: "1633"
 location: Rome, Italy

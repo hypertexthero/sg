@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Cracked Window
 image: "438"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: David, FAO
 image: "1584"
 location: Rome, Italy

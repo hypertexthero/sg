@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar Near Piazza Santo Spirito
 image: "1818"
 location: Florence, Italy

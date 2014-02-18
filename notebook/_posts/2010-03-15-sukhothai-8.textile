@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Sukhothai #8"
 image: "651"
 location: Sukhothai, Thailand

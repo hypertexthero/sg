@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View From Train
 image: "249"
 location: Near Vigna di Valle, Italy

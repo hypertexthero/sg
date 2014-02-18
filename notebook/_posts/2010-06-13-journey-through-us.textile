@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Journey Through US
 image: "700"
 location: USA

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pigeon in Piazza San Marco
 image: "222"
 location: Venice, Italy

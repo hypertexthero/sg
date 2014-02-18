@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Attack Helicopter
 image: "1303"
 location: Rome, Italy

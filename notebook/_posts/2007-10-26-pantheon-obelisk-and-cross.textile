@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pantheon, Obelisk and Cross
 image: "245"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Windshield
 image: "60"
 location: Navajo Nation

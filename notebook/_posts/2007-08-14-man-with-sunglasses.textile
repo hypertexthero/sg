@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man with Sunglasses
 image: "167"
 location: Near Vigna di Valle, Italy

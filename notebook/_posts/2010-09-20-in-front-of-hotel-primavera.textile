@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In Front of Hotel Primavera
 image: "893"
 location: Rome, Italy

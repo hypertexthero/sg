@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Zabriskie Point
 image: "1938"
 location: Death Valley, California

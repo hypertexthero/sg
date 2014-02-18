@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Singel Near Heisteeg
 image: "1954"
 location: Amsterdam, Netherlands

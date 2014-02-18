@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Caf\xC3\xA9 Near Ottaviano"
 image: "884"
 location: Rome, Italy

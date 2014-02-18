@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Street Scene at Semana Santa #2"
 image: "543"
 location: Sevilla, Spain

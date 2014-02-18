@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In Little Italy
 image: "230"
 location: New York City, New York, US

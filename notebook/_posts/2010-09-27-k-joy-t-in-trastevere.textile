@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: K Joy T in Trastevere
 image: "899"
 location: Rome, Italy

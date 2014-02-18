@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Car in Formellese
 image: "486"
 location: Near Formello, Italy

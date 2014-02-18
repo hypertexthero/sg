@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Depth of Field Link Bonanza
 excerpt: |
   Depth of Field Link Bonanza:

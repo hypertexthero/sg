@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via degli Orti di Mecenate
 image: "1096"
 location: Rome, Italy

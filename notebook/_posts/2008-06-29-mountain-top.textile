@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Mountain Top
 image: "385"
 location: Mount Diablo, California, US

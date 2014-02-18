@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Frankie Mangiando Gelato
 image: "540"
 location: Rome, Italy

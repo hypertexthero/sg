@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Lungotevere D\xC3\xA8 Cenci"
 image: "1628"
 location: Rome, Italy

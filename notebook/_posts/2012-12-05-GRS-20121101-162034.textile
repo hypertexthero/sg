@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Corso Vittorio Emanuele II
 image: "1671"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men in Winter Morning Sunlight
 image: "308"
 location: Bracciano, Italy

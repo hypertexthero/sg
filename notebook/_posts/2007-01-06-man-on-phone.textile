@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man on Phone
 image: "45"
 location: Rome, Italy

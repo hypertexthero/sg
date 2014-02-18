@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Forest in Afternoon
 image: "388"
 location: Bracciano, Italy

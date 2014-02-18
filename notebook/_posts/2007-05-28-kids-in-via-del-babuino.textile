@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Kids in Via del Babuino
 image: "135"
 location: Rome, Italy

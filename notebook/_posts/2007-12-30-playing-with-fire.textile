@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Playing With Fire
 image: "288"
 location: Oakland, California

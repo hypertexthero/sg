@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Indo pro Gale\xC3\xA3o"
 image: "1506"
 location: Rio de Janeiro, Brazil

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Parcheggio del Ristorante
 image: "1110"
 location: Near Ciampino, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Outside Ship Tavern
 image: "1042"
 location: London, England

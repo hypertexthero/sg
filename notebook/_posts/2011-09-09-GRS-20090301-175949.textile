@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di Ripetta
 image: "1308"
 location: Rome, Italy

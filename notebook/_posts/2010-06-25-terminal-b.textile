@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Terminal B
 image: "783"
 location: Fiumicino, Italy

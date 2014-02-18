@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Associazione Culturale
 image: "1929"
 location: Rome, Italy

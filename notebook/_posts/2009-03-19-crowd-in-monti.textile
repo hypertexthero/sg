@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Crowd in Monti
 image: "501"
 location: Rome, Italy

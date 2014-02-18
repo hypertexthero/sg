@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Smokestack From Caltrain
 image: "274"
 location: Near San Francisco, California, US

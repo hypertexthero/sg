@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Portico d'Ottavia
 image: "1375"
 location: Rome, Italy

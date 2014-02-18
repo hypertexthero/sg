@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus in Via Marmorata
 image: "889"
 location: Rome, Italy

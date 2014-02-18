@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Welcome Home
 image: "36"
 location: Baker, Montana, USA

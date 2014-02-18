@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bottle, Cup and Roses
 image: "269"
 location: Rome, Italy

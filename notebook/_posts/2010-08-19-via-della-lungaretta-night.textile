@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via della Lungaretta, Night
 image: "859"
 location: Rome, Italy

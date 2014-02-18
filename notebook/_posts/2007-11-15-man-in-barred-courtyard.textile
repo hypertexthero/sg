@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man in Barred Courtyard
 image: "261"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Magnum Contact Sheets
 excerpt: Magnum Contact Sheets
 category: notebook

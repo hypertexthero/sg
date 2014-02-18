@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: On FR3 to Bracciano at Night
 image: "903"
 location: Rome, Italy

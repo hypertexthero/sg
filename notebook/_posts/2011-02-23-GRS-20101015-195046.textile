@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street at Night
 image: "1055"
 location: Malta

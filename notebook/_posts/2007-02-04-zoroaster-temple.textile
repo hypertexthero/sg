@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Zoroaster Temple
 image: "68"
 location: Grand Canyon, Arizona, US

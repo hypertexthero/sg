@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Ao Yai #3"
 image: "685"
 location: Koh Phayam, Andaman Sea

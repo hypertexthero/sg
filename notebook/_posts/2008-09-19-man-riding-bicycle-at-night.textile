@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Riding Bicycle at Night
 image: "437"
 location: Rome, Italy

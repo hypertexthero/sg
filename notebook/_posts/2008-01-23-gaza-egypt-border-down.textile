@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gaza-Egypt Border Down
 excerpt: "bq.. \"Essentially what has happened here is that the people of Gaza have forced on Egypt and Israel and the international community what everyone else refused to allow to happen - which was for the border crossing to be opened.\r\n\
   \r\n\

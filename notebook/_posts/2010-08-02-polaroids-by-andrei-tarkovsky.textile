@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Polaroids by Andrei Tarkovsky
 excerpt: Polaroids by Andrei Tarkovsky
 category: notebook

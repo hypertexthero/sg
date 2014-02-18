@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man With Umbrella on Ponte Regina Margherita
 image: "604"
 location: Rome, Italy

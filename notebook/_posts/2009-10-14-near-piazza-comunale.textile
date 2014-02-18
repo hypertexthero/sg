@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Piazza Comunale
 image: "596"
 location: Bracciano, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Images, Reality and the Curse of History
 category: notebook
 tags: 

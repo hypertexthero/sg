@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale Lavinia Mazzucchetti in Parco di Villa Pamphili
 image: "1529"
 location: Rome, Italy

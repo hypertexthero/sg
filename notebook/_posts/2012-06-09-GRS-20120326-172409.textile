@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Largo Chigi
 image: "1552"
 location: Rome, Italy

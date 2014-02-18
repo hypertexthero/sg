@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: GRS-20110704-235315
 image: "1271"
 category: story-meyou

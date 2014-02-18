@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Clouds, Landscape
 image: "355"
 location: Wyoming, US

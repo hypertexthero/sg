@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sailboats in Lake Bracciano
 image: "461"
 location: Bracciano, Italy

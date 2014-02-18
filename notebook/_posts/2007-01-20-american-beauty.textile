@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: American Beauty
 excerpt: bq.. "I discovered that this camera was the technical means in photography, of communicating what the world looks like in a state of heightened awareness, and it's that awareness of really looking at the everyday world with clear and focused attention that I'm interested in."
 category: notebook

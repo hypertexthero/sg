@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Goodbye Blue Sky
 image: "1839"
 location: Rome, Italy

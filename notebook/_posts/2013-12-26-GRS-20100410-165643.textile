@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Near Hai M\xC6\xB0\xC6\xA1i Ba Th\xC3\xA1ng T\xC3\xA1m"
 image: "1958"
 location: "Hu\xC3\xA9, Vietman"

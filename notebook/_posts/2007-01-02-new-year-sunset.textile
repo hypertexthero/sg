@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: New Year Sunset
 image: "41"
 location: Oakland, California

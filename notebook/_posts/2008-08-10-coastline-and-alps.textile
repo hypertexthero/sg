@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Coastline and Alps
 image: "391"
 location: Ligurian Sea, Mediterranean

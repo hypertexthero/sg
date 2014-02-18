@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bridge
 image: "1154"
 location: Wetzlar, Germany

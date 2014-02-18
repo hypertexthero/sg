@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Desert Trees
 image: "82"
 location: Joshua Tree, California, US

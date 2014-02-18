@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Palazzo del Freddo
 image: "1545"
 location: Rome, Italy

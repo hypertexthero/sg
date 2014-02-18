@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Fabio Massimo
 image: "1343"
 location: Rome, Italy

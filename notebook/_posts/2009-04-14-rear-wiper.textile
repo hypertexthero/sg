@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rear Wiper
 image: "534"
 location: Rome, Italy

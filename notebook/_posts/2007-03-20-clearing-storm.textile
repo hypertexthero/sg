@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Clearing Storm
 image: "104"
 location: South Dakota, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bull in landscape
 image: "131"
 location: Near Bakersfield, California, US

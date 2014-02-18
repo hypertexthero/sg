@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Leaving Bangkok #10"
 image: "659"
 location: Bangkok, Thailand

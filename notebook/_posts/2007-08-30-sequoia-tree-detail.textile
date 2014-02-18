@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sequoia Tree Detail
 image: "187"
 location: Sequoia National Park, California, US

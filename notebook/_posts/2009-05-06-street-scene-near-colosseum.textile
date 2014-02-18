@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Scene Near Colosseum
 image: "550"
 location: Rome, Italy

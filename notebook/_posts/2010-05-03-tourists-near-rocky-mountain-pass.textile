@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Tourists Near Rocky Mountain Pass
 image: "704"
 location: Rocky Mountains, Colorado, US

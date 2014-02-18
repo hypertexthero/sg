@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bilal Hussein is Free
 excerpt: |
   "Bilal Hussein is free":http://www.freebilal.org/!

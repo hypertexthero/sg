@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Life is Once, Forever
 excerpt: Life is Once, Forever
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Leaning Against Church Wall
 image: "547"
 location: Bracciano, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Puente de Triana
 image: "1899"
 location: Seville, Spain

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: How Many Cameras Do You Need
 excerpt: |
   "How many cameras do you need":http://www.rogerandfrances.com/howmany.html?

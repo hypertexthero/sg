@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Flower #3"
 image: "278"
 location: Bracciano, Italy

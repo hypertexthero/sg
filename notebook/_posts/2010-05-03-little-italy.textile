@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Little Italy
 image: "695"
 location: New York City, US

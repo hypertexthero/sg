@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Climbing Stairs
 image: "7"
 location: Washington DC, Virginia

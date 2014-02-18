@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Approaching Blue Bar
 image: "1725"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Garage
 image: "209"
 location: Oakland, California, US

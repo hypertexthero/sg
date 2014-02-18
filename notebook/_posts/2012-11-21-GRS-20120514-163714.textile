@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stafford Street
 image: "1657"
 location: Wolverhampton, England

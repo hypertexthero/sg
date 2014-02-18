@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sportello Telematico dell'Automobilista
 image: "871"
 location: Rome, Italy

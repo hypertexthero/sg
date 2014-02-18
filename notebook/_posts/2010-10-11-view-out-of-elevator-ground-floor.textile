@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: View Out of Elevator, Ground Floor
 image: "911"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Amber in Trastevere
 image: "448"
 location: Rome, Italy

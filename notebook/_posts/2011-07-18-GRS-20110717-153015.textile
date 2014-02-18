@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Acaia
 image: "1165"
 location: Rome, Italy

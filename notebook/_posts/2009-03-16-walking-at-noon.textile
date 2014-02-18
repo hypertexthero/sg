@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Walking at Noon
 image: "500"
 location: Rome, Italy

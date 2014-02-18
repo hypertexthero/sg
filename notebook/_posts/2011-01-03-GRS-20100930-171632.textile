@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fiume Adige
 image: "996"
 location: Verona, Italy

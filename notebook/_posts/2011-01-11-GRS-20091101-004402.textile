@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Outside Bar
 image: "1009"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Phil Guy
 image: "95"
 location: Chicago, Illinois, US

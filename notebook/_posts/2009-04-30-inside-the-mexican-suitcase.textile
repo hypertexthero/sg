@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Inside the Mexican Suitcase
 category: notebook
 tags: []

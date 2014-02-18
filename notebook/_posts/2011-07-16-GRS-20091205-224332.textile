@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gianmarco
 image: "1162"
 location: Malta

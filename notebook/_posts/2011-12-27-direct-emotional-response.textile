@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Direct Emotional Response
 category: notebook
 tags: 

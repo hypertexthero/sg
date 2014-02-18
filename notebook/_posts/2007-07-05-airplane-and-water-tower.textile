@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Airplane and Water Tower
 image: "157"
 location: New York City, US

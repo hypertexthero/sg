@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Prairie
 image: "1917"
 location: Badlands, South Dakota

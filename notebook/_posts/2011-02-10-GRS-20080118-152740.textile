@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Turbine Hall
 image: "1041"
 location: London, England

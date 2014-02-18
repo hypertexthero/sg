@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Macworld Conference &amp; Expo
 image: "1148"
 location: San Francisco, California, US

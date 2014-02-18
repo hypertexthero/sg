@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Festa Medioevale
 image: "389"
 location: Bracciano, Italy

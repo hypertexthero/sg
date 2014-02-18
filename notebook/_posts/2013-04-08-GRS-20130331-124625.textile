@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Argiano
 image: "1762"
 location: Tuscany

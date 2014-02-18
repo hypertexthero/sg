@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Nazareno
 image: "1114"
 location: Seville, Spain

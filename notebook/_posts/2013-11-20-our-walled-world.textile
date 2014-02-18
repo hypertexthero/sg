@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Our Walled World
 excerpt: Our Walled World
 category: imaginarylines

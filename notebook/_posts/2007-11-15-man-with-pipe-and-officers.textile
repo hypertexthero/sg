@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man With Pipe and Officers
 image: "262"
 location: Rome, Italy

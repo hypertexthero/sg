@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sergei Ivanovich Koznyshev
 excerpt: Sergei Ivanovich Koznyshev
 category: notebook

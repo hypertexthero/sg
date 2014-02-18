@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Scene in Caf\xC3\xA9 Grand'Italia"
 image: "383"
 location: Bracciano, Italy

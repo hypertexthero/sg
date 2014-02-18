@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Pig Warrior Dream
 category: notebook
 tags: 

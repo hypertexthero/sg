@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl and Boy
 image: "746"
 location: Bracciano, Italy

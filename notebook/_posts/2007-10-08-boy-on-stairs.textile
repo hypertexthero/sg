@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy on Stairs
 image: "227"
 location: La Storta, Italy

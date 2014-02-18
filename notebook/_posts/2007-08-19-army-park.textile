@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Army Park
 image: "172"
 location: Wyoming, US

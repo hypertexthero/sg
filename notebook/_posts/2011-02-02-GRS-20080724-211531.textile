@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Condotti, Night
 image: "1033"
 location: Rome, Italy

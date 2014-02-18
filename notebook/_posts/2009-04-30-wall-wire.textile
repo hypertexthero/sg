@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wall, Wire
 image: "545"
 location: Rome, Italy

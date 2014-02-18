@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy Waiting in Train Station
 image: "304"
 location: Near London, England

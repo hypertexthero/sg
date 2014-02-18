@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Temple GRS-20100414-131130
 image: "962"
 location: Hanoi, Vietnam

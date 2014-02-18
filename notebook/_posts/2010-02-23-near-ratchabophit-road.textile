@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Ratchabophit Road
 image: "621"
 location: Bangkok, Thailand

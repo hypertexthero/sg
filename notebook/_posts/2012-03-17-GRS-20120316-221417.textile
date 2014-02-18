@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Care Bear &amp; Magic Pony
 image: "1441"
 location: Rome, Italy

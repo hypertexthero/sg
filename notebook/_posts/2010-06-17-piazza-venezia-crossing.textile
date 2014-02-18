@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Venezia Crossing
 image: "769"
 location: Rome, Italy

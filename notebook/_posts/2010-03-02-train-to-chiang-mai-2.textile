@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Train to Chiang Mai #2"
 image: "623"
 location: Northern Thailand

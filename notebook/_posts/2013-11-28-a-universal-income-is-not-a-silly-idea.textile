@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: A Universal Income is Not a Silly Idea
 category: imaginarylines
 tags: 

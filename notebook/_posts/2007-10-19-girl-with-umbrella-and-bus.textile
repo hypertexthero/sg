@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl With Umbrella and Bus
 image: "238"
 location: Rome, Italy

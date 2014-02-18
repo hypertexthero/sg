@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vines, Fence
 image: "613"
 location: Bracciano, Italy

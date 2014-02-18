@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Painting Detail, Villa Farnese
 image: "1130"
 location: Caprarola, Italy

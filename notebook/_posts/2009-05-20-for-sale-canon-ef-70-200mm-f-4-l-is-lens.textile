@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Canon EF 70-200mm f/4 L IS Lens + Accessories for Sale (Sold)
 image: "491"
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Legz
 image: "154"
 location: New York City, US

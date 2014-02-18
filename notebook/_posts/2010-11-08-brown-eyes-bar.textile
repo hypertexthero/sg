@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Brown Eyes Bar
 image: "942"
 location: "Hu\xE1\xBA\xBF, Vietnam"

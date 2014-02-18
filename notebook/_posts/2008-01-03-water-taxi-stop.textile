@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Water Taxi Stop
 image: "289"
 location: Venice, Italy

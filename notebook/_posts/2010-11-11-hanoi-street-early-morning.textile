@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hanoi Street, Early Morning
 image: "947"
 location: Hanoi, Vietnam

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men in Wine Bar
 image: "136"
 location: Rome, Italy

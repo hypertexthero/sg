@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Vascellari
 image: "779"
 location: Rome, Italy

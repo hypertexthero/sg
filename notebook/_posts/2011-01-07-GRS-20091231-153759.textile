@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza del Campidoglio
 image: "1002"
 location: Rome, Italy

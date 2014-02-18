@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Frankie
 image: "1106"
 location: Rome, Italy

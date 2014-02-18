@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Badlands
 image: "1146"
 location: Badlands, South Dakota, US

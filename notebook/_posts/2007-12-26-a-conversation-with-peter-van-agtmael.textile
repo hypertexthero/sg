@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: A Conversation With Peter van Agtmael
 excerpt: |-
   "A conversation":http://www.jmcolberg.com/weblog/2007/12/a_conversation_with_peter_van.html with "Peter van Agtmael":http://www.petervanagtmael.com/.

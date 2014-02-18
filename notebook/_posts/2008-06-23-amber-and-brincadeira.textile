@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Amber and Brincadeira
 image: "382"
 location: Bracciano, Italy

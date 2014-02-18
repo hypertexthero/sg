@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar-front in Campo dei Fiore
 image: "780"
 location: Rome, Italy

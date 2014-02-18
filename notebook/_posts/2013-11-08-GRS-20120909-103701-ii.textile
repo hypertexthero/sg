@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dad's Ashes
 image: "1908"
 location: Carbis Bay, Near St Ives, England

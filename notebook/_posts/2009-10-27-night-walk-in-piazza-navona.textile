@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Night Walk in Piazza Navona
 image: "602"
 location: Rome, Italy

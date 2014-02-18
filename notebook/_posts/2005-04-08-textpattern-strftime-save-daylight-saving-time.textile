@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Textpattern, Strftime Save Daylight Saving Time
 excerpt: |
   I never liked <a href="http://webexhibits.org/daylightsaving/" title="Elegant writing on the history of Daylight Saving Time.">Daylight Saving Time</a>. Losing an hour of sleep before joining the Roman rally-race to work six months of the year made me particularly unhappy.

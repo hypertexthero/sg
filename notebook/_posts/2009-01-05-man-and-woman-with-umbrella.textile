@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man and Woman With Umbrella
 image: "481"
 location: Rome, Italy

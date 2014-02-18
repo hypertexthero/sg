@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Young Man and Phone
 image: "49"
 location: San Francisco, California

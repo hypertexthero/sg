@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar de La Pace
 image: "904"
 location: Rome, Italy

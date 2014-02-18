@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale delle Terme di Caracalla
 image: "1062"
 location: Rome, Italy

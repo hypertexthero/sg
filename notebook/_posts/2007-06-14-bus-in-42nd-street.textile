@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus in 42nd Street
 image: "143"
 location: New York City, US

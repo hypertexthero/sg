@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Flower #2"
 image: "185"
 location: Big Sur, California, US

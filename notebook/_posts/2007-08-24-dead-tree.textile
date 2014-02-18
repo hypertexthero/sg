@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dead Tree
 image: "178"
 location: Navajo National Monument, Arizona, US

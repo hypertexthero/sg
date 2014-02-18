@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dog Behind Screen
 image: "542"
 location: Bracciano, Italy

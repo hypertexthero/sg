@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: First Touch of the Pacific
 image: "707"
 location: Near San Simeon, California, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: The Desert of the Real
 excerpt: The Desert of the Real
 category: notebook

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Plaza Scene
 image: "329"
 location: Sevilla, Spain

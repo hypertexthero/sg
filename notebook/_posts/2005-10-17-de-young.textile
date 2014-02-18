@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: de Young
 excerpt: Couldn't make it to "Startup school (Workshop organized by Paul Graham's Y Combinator which I applied to and was curiously accepted.)":http://www.startupschool.org/, but attended the "de Young museum re-opening (At Golden Gate Park.)":http://www.thinker.org/deyoung/visiting/subpage.asp?subpagekey=885 last night. After a long queue into "outlandish architecture (San Francisco Gate article on the de Young design.)":http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/10/07/DEYOUNG.TMP, artwork amid wandering San Francisco freaks in varying states of intoxication. Great night in all.
 category: notebook

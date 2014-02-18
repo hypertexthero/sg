@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Center of Gravity Shift
 excerpt: Center of Gravity Shift
 category: notebook

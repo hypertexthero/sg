@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Beto, 2012
 image: "1766"
 location: Formello, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Badlands Near Sage Creek
 image: "109"
 location: South Dakota, US

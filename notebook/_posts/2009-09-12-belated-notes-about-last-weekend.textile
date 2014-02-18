@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Belated Notes About Last Weekend
 excerpt: I feel older after last weekend.
 category: notebook

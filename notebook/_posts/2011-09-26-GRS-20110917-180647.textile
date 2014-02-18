@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Galleria Alberto Sordi
 image: "1318"
 location: Rome, Italy

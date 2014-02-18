@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Emidio
 image: "132"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza della Rotonda
 image: "1570"
 location: Rome, Italy

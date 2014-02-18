@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Seals
 image: "186"
 location: Monterey, California, US

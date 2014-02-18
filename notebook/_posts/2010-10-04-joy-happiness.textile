@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Joy &amp; Happiness
 excerpt: |-
   "Bryce Lee commenting at TOP(The Online Photographer)":http://theonlinephotographer.typepad.com/the_online_photographer/2010/09/generational-thing.html:

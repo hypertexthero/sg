@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via della Pace
 image: "1073"
 location: Rome, Italy

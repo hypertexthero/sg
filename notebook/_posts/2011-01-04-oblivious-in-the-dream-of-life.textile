@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Oblivious in the Dream of Life
 excerpt: Oblivious in the Dream of Life
 category: notebook

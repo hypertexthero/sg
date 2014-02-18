@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Buildings and Clouds
 image: "200"
 location: Grand Rapids, Michigan, US

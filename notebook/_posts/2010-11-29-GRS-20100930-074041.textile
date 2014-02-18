@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione Termini GRS-20100930-074041
 image: "969"
 location: Rome, Italy

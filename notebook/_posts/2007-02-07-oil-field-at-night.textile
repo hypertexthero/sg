@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Oil Field at Night
 image: "77"
 location: Near Taft, California, US

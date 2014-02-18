@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: FUCKIN BIG MOUSE
 excerpt: "\"I have subscribed this newsgroup for a month. I thought you people are discussing all kind of strategy games. Since i am also crazy about turn-based all real-time strategy games, I had great expectation on this group. But you all f_cking people have only big mouse."
 category: notebook

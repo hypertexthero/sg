@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via degli Orfani
 image: "1649"
 location: Rome, Italy

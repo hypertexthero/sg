@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Picture in St. James Hotel
 image: "334"
 location: Cimarron, New Mexico, USA

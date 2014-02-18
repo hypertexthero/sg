@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sayuri Watching Alit Berrdawg
 image: "1481"
 location: Rome, Italy

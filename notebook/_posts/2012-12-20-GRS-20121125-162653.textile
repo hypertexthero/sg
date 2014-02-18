@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Corso
 image: "1681"
 location: Rome, Italy

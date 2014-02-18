@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Governo Vecchio
 image: "1788"
 location: Rome, Italy

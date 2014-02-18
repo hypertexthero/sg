@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Embankment Gardens
 image: "1040"
 location: London, England

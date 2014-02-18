@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dad in Villa Farnese
 image: "1084"
 location: Caprarola, Italy

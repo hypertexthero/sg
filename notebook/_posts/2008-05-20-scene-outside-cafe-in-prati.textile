@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Scene Outside Cafe in Prati
 image: "353"
 location: Rome, Italy

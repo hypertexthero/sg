@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: First Meeting, Abundance, Expression Beyond Will
 excerpt: First Meeting, Abundance, Expression Beyond Will
 category: notebook

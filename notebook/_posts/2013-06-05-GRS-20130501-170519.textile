@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Amber, Dandelion
 image: "1800"
 location: Lago di Bracciano, Italy

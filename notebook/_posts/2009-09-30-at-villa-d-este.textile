@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: At Villa D'Este
 image: "586"
 location: Tivoli, Italy

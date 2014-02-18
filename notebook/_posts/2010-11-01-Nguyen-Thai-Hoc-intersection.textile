@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Nguy\xE1\xBB\x85n Th\xC3\xA1i H\xE1\xBB\x8Dc Intersection"
 image: "930"
 location: Saigon, Vietnam

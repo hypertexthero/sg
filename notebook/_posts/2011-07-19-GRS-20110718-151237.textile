@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza San Pietro
 image: "1167"
 location: Rome, Italy

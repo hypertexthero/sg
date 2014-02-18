@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vigna di Valle
 image: "1963"
 location: Lago di Bracciano, Italy

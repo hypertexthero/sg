@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Coat and Shoes
 image: "293"
 location: Bracciano, Italy

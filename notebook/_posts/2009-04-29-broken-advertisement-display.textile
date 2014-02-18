@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Broken Advertisement Display
 image: "544"
 location: Fiumicino, Italy

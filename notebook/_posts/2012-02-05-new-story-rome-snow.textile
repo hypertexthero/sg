@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "New Story: Rome Snow"
 excerpt: It's been snowing in Rome. Unfortunately I didn't get a good picture of the "astrounaut boots":http://descriptedlines.com/rome-snow we've been seeing, but I do have a "*new picture story*":/story-romesnow/!
 category: notebook

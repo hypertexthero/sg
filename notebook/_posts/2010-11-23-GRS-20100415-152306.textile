@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Restaurant Window GRS-20100415-152306
 image: "964"
 location: Hanoi, Vietnam

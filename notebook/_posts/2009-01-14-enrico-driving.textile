@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Enrico Driving
 image: "485"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Reeds, Afternoon
 image: "163"
 location: Bracciano, Italy

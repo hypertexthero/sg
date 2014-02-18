@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Ponte Sant'Angelo
 image: "888"
 location: Rome, Italy

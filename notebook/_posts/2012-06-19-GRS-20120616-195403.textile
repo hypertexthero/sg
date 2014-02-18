@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Fiumicino Aeroporto
 image: "1559"
 location: Fiumicino, Italy

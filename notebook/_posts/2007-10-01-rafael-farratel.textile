@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rafael Farratel
 image: "220"
 location: Ossario di Custoza, Italy

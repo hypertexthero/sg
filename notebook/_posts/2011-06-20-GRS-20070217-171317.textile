@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Alien Apoca-hop-alypse Preparation!
 image: "1132"
 location: The Playground, Oakland, US

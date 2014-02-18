@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Apple Computer Region Code Foolishness
 excerpt: <a href="http://www.boingboing.net/2005/02/01/apple_restricting_dv.html">Cory Doctorow on Apple's ridiculous <acronym title="Digital Versatile Disc">DVD</acronym> region code restrictions</a>. It's ironic that I have to search for firmware hacks in order to view the <acronym title="Digital Versatile Disc">DVD</acronym>s I bought in other countries on my new iMac while hollywood laments video piracy.
 category: notebook

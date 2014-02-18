@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Carbis Bay
 image: "1612"
 location: Carbis Bay, England

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vista da Monte Pincio
 image: "1360"
 location: Rome, Italy

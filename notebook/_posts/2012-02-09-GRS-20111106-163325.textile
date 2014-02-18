@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazzale dei Partigiani
 image: "1408"
 location: Rome, Italy

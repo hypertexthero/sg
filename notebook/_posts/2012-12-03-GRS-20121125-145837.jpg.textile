@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Giuseppe Zanardelli
 image: "1667"
 location: Rome, Italy

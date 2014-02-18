@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Frontier Arms Guns Ammo
 image: "309"
 location: Cheyenne, Wyoming, US

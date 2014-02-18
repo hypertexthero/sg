@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Paolo della Croce, Morning
 image: "983"
 location: Rome, Italy

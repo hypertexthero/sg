@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Oxford Street
 image: "1936"
 location: London, England

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Via dei Fori Imperiali: Final Response to Get Closer 100"
 image: "1991"
 location: Rome, Italy

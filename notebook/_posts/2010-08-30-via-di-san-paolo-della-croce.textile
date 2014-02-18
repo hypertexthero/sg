@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Paolo della Croce
 image: "870"
 location: Rome, Italy

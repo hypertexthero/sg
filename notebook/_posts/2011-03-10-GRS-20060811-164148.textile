@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street
 image: "1066"
 location: Wisconsin, US

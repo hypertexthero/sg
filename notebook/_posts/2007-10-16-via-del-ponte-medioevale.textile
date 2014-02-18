@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Ponte Medioevale
 image: "236"
 location: Bracciano, Italy

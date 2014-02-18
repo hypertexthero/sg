@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl Running
 image: "940"
 location: "H\xE1\xBB\x99i An, Vietnam"

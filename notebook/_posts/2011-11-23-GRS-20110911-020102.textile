@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dance Hall
 image: "1358"
 location: San Benedetto del Tronto, Italy

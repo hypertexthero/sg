@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Circo Massimo East Metro Entrance, Night
 image: "901"
 location: Rome, Italy

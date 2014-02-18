@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bicycle in Rain at Night
 image: "806"
 location: Amsterdam, Netherlands

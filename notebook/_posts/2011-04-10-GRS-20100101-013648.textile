@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Campo de' Fiori
 image: "1087"
 location: Rome, Italy

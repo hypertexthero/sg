@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Train Platform
 image: "1023"
 location: Rome, Italy

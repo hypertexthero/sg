@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Distant Storm in Late Afternoon
 image: "247"
 location: Bracciano, Italy

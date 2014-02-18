@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Navona
 image: "1632"
 location: Rome, Italy

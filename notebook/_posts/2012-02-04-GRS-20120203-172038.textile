@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ludus Magnus
 image: "1387"
 location: Rome, Italy

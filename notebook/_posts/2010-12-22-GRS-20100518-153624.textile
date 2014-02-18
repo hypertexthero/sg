@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Scene
 image: "987"
 location: Rome, Italy

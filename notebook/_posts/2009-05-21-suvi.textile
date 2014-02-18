@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Suvi
 image: "561"
 location: Bracciano, Italy

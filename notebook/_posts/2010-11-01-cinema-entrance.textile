@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Cinema Entrance
 image: "926"
 location: Saigon, Vietnam

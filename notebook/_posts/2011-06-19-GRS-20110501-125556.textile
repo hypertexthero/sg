@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pope John Paul II Beatification
 image: "1129"
 location: Rome, Italy

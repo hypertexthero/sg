@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Paco's Bar
 image: "1438"
 location: Seville, Spain

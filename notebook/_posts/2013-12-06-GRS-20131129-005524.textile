@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Grand Place
 image: "1927"
 location: Brussels, Belgium

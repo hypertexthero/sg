@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Canon EF 50mm f/1.4 USM for Sale (Sold)
 category: notebook
 tags: 

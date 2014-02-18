@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Cola di Rienzo
 image: "1580"
 location: Rome, Italy

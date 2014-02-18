@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man in Via del Corso
 image: "243"
 location: Rome, Italy

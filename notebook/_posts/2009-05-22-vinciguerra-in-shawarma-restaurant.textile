@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Vinciguerra in Shawarma Restaurant
 image: "562"
 location: Rome, Italy

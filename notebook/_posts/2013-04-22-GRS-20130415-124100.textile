@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza Farnese
 image: "1771"
 location: Rome, Italy

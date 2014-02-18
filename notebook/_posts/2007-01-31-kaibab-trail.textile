@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Kaibab Trail
 image: "63"
 location: Grand Canyon, Arizona, US

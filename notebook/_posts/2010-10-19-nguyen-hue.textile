@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Nguyen Hue
 image: "915"
 location: Saigon, Vietnam

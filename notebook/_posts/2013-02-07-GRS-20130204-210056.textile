@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Brussels to Rome Flight
 image: "1712"
 location: Northern Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Leica M8 Software Timer Fix, Please
 excerpt: Leica M8 Software Timer Fix, Please
 category: notebook

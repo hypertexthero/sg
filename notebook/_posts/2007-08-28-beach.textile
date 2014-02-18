@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Beach
 image: "184"
 location: Big Sur, California, US

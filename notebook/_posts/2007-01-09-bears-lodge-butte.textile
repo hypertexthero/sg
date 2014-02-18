@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bear's Lodge Butte
 image: "48"
 location: Wyoming, US

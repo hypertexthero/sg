@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Parked Van
 image: "108"
 location: California, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Taxi
 image: "1069"
 location: Phuket, Thailand

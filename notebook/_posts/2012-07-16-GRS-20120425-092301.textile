@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Antonella, FAO
 image: "1585"
 location: Rome, Italy

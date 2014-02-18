@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Luigi Petroselli
 image: "1446"
 location: Rome, Italy

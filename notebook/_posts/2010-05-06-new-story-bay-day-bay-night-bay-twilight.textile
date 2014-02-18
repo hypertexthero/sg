@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "New Story: Bay Day, Bay Night, Bay Twilight"
 excerpt: "New Story: Bay Day, Bay Night, Bay Twilight"
 category: notebook

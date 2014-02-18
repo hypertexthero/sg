@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Fossato
 image: "235"
 location: Bracciano, Italy

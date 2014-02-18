@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Place Georges Pompidou
 image: "1946"
 location: Paris, France

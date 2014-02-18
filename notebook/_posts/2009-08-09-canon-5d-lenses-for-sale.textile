@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Canon 5D &amp; Lenses for Sale (All Sold)
 excerpt: Canon 5D & Lenses for Sale
 category: notebook

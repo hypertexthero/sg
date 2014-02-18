@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: At Sagra del Cinghiale
 image: "168"
 location: Bracciano, Italy

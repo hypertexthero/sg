@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via San Giovanni in Laterano
 image: "880"
 location: Rome, Italy

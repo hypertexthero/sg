@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Game Parlour
 image: "564"
 location: Amsterdam, Netherlands

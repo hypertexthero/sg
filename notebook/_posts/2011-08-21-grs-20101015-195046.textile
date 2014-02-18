@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: GRS-20101015-195046
 image: "1261"
 category: story-p6

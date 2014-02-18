@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Arricia Night
 image: "503"
 location: Arriccia, Italy

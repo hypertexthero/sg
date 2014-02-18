@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Canon 5D Digital SLR Body for Sale (Sold)
 excerpt: Canon 5D Digital SLR Body for Sale (Sold)
 category: notebook

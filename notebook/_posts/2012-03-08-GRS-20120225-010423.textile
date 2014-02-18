@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: San Calisto
 image: "1433"
 location: Rome, Italy

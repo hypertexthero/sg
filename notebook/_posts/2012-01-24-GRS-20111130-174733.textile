@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: FAO
 image: "1377"
 location: Rome, Italy

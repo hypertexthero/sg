@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bar Divider in Campo
 image: "854"
 location: Rome, Italy

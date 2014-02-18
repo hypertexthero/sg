@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Waiting Near Piazza del Risorgimento
 image: "525"
 location: Rome, Italy

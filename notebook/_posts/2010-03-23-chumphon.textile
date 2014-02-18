@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Chumphon
 image: "679"
 location: Chumphon, Thailand`

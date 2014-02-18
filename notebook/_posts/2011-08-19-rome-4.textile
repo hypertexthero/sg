@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rome - 4
 image: "1209"
 category: story-p3

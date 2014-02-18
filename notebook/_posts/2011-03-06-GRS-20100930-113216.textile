@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Piazza Br\xC3\xA0"
 image: "1063"
 location: Verona, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ridley Scott's Bladerunner
 category: notebook
 tags: []

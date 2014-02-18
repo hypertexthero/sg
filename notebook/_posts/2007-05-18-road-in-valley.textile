@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Road in Valley
 image: "129"
 location: South-Eastern California, US

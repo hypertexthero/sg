@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Fori Imperiali
 image: "980"
 location: Rome, Italy

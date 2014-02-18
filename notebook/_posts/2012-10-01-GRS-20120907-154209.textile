@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Earl's Court
 image: "1607"
 location: London, England

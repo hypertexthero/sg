@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Tornado Warning #3"
 image: "100"
 location: Near Thompson, Iowa, US

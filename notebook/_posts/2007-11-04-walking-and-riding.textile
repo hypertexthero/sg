@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Walking and Riding
 image: "252"
 location: Lago di Garda, Italy

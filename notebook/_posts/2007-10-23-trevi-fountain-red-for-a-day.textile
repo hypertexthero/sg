@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Trevi Fountain Red for a Day
 excerpt: "\"Red dye poured into the Trevi Fountain\":http://www.nytimes.com/2007/10/24/world/europe/24italy.html?_r=2&hp&oref=slogin&oref=slogin."
 category: notebook

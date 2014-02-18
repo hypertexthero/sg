@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Woooooooooouuuu!!!!
 image: "1474"
 location: Rome, Italy

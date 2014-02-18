@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Near Campo di Fiore
 image: "258"
 location: Rome, Italy

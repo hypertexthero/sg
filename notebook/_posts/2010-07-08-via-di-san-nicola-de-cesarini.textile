@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Nicola de' Cesarini
 image: "797"
 location: Rome, Italy

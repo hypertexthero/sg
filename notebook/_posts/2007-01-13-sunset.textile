@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sunset
 image: "51"
 location: Brussels, Belgium

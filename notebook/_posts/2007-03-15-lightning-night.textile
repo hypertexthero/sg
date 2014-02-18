@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Lightning Night
 image: "102"
 location: Near Platte, South Dakota, US

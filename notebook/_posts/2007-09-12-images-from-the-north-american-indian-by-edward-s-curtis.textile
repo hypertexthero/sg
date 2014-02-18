@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Images from The North American Indian by Edward S. Curtis
 category: notebook
 tags: []

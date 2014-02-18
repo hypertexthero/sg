@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Storm Over The Atlantic
 image: "28"
 location: Atlantic Ocean, off North-Eastern Brazil

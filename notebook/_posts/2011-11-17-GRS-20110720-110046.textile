@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via Celimontana
 image: "1354"
 location: Rome, Italy

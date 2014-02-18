@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Ramona on Couch
 image: "276"
 location: Oakland, California, US

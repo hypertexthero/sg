@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: In front of NYPL, 5th Avenue
 image: "145"
 location: New York City, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Asia Calling, Consolidation, Dusty Boxes
 excerpt: Asia Calling, Consolidation, Dusty Boxes
 category: notebook

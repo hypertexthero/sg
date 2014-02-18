@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pet Shop
 image: "174"
 location: Carmel-by-the-Sea, California, US

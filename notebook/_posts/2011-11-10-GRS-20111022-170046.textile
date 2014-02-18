@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Piazza di San Giovanni in Laterano
 image: "1345"
 location: Rome, Italy

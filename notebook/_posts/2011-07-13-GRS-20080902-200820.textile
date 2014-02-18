@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Master Eskinazi
 image: "1160"
 location: Formello, Italy

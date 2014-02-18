@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Reading Newspaper Behind Glass
 image: "464"
 location: Le Rughe, Italy

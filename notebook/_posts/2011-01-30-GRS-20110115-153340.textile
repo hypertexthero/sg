@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dad
 image: "1029"
 location: Rome, Italy

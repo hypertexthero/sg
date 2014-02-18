@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Temple Gardens GRS-20100414-125623
 image: "963"
 location: Hanoi, Vietnam

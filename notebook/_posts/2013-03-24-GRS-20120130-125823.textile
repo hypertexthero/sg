@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Viale Aventino
 image: "1751"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Nightclub
 image: "1656"
 location: San Benedetto del Tronto, Italy

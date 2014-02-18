@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: At Donna's Diner
 image: "232"
 location: Wyoming, US

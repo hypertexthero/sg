@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Seafood Bar
 image: "925"
 location: Saigon, Vietnam

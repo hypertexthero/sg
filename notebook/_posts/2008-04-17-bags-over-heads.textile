@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bags Over Heads
 image: "327"
 location: Rome, Italy

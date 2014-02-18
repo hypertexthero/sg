@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Car and Clouds
 image: "171"
 location: Wyoming, US

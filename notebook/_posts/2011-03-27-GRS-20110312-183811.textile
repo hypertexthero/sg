@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Manzoni
 image: "1075"
 location: Rome, Italy

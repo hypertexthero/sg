@@ -1,0 +1,112 @@
+---
+layout: story_base
+---
+
+<div id="container">
+  <div id="page" role="main">
+    <div id="gallery">
+      <div id="slideshow" class="slideshow"></div>
+      <div id="captiondisplay"></div>
+    </div>
+  </div> <!-- end page --> 
+  
+  <div id="subheader" role="banner">
+    <h1>
+      <a href="{{ site.url }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}
+        <br>
+        <span class="normal"><!-- {{ page.categories }}<br> --><i>{{ page.type}} <br> {{ page.timeframe }}</i></span>
+      </a>
+    </h1>
+    <div id="thumbs-min" class="imgnav">
+      {{ content }}
+    </div>
+    <div id="controls" class="controls"></div>
+    <p><a style="color:#666;" href="/stories/" title="List of Stories.">« Stories Index</a></p>  
+  </div> <!-- end #subheader -->
+  
+  <div id="footer">
+    <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p>
+    
+    <p class="center"><a id="showshare" href="#" title="Or an enemy.">Show to a Friend</a></p>
+    <p id="share" class="center" style="display:none;">
+      <script type="text/javascript" charset="utf-8">
+        function emailFriend(){
+        var strrep ,ptitle = document.title;
+        strrep= ptitle.replace(/"/g,'%22');
+        strrep= ptitle.replace(/&/g,'%26');
+        var mailtourl = "mailto:?subject={{ page.title }} - Photographs by Simon Griffee&body= "+encodeURIComponent(location.href);
+        location.href = mailtourl;
+        return false
+        }
+      </script>
+      <a href="javascript:;" onclick="emailFriend();return false" title="With your own mail application.">Mail</a> ·
+      <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com{{page.url}}/&amp;source=tweetbutton&amp;text={{ page.title }} - Photographs by Simon Griffee&amp;url=http://simongriffee.com{{page.url}}" title="Tweet tweet.">Twit</a> · 
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com{{page.url}}" title="Book of many faces.">Face</a> · 
+      <a href="https://plus.google.com/share?url=http://simongriffee.com{{page.url}}" title="Googoo">Goo</a>
+    </p>
+  </div> <!-- end footer -->
+
+  <div id="quietbox">  
+    <a id="silence" href="#" title="Hide and show meta information.">Silence</a>
+  </div>
+</div> <!-- end container -->
+
+<script type="text/javascript">
+$('div.content').css('display', 'block');
+// Initially set opacity on thumbs and add
+      // additional styling for hover effect on thumbs
+      var onMouseOutOpacity = 0.30;
+      $('#thumbs-min ul.thumbs li').css('opacity', onMouseOutOpacity)
+        .hover(
+          function () {
+            $(this).not('.selected').fadeTo('fast', 0.70);
+          }, 
+          function () {
+            $(this).not('.selected').fadeTo('fast', onMouseOutOpacity);
+          }
+        );
+
+        $(document).ready(function() {
+                // Initialize Advanced Galleriffic Gallery
+                var galleryAdv = $('#gallery').galleriffic('#thumbs-min', {
+                  delay:                  6000,
+                  numThumbs:              21,
+                  preloadAhead:           21,
+                  enableTopPager:         true,
+                  enableBottomPager:      false,
+                  imageContainerSel:      '#slideshow',
+                  controlsContainerSel:   '#controls',
+                  captionContainerSel:    '#captiondisplay',
+                  loadingContainerSel:    '#loading',
+                  renderSSControls:       true,
+                  renderNavControls:      true,
+                  playLinkText:           '&#9658;Play',
+                  pauseLinkText:          '&#x25FC;Stop',
+                  prevLinkText:           '&larr;Prior',
+                  nextLinkText:           'Next&rarr;',
+                  nextPageLinkText:       '»',
+                  prevPageLinkText:       '«',
+                  enableHistory:          true,
+                  autoStart:              false,
+                  onChange:               function(prevIndex, nextIndex) {
+                    $('#thumbs-min ul.thumbs').children()
+                      .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+                      .eq(nextIndex).fadeTo('fast', 0.7);
+                  },
+                  onTransitionOut:        function(callback) {
+                    $('#captiondisplay').fadeTo('fast', 0.0);
+                    $('#slideshow').fadeTo('fast', 0.0, callback);
+                  },
+                  onTransitionIn:         function() {
+                    $('#slideshow').fadeTo('fast', 1.0);
+                    $('#captiondisplay').fadeTo('fast', 1.0);
+                  },
+                  onPageTransitionOut:    function(callback) {
+                    $('#thumbs-min ul.thumbs').fadeTo('fast', 0.0, callback);
+                  },
+                  onPageTransitionIn:     function() {
+                    $('#thumbs-min ul.thumbs').fadeTo('fast', 1.0);
+                  }
+                });
+              });
+</script>

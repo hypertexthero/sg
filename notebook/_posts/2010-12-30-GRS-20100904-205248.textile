@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Pool, Parco del Celio
 image: "994"
 location: Rome, Italy

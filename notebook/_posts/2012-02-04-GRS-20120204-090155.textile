@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Colle Opio
 image: "1390"
 location: Rome, Italy

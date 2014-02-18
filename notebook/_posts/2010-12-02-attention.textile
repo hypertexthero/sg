@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Attention
 excerpt: "bq. By presenting us with a limitless number of nonstopped stories, the narratives that the media relate\xE2\x80\x94the consumption of which has so dramatically cut into the time the educated public once devoted to reading\xE2\x80\x94offer a lesson in amorality and detachment that is antithetical to the one embodied by the enterprise of the novel."
 category: notebook

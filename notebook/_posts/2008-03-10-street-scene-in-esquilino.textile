@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Street Scene in Esquilino
 image: "316"
 location: Rome, Italy

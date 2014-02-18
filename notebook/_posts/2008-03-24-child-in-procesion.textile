@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Child in Procesi\xC3\xB3n"
 image: "319"
 location: Sevilla, Spain

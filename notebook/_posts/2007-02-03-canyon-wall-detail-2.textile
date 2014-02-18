@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Canyon Wall Detail #2"
 image: "66"
 location: Grand Canyon, Arizona, US

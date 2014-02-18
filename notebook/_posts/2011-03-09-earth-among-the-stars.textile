@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Earth Among the Stars
 excerpt: Earth Among the Stars
 category: notebook

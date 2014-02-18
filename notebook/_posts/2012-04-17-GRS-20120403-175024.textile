@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Loggia del Mercato Nuovo
 image: "1510"
 location: Florence, Italy

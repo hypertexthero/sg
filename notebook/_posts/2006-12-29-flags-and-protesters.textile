@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Flags and Protesters
 image: "40"
 location: San Francisco, California

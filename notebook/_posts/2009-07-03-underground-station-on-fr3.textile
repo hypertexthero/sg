@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Underground Station on FR3
 image: "570"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dog in Shisha Bar
 image: "483"
 location: Rome, Italy

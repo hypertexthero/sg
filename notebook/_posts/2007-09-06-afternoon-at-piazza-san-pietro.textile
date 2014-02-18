@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Afternoon at Piazza San Pietro
 image: "193"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wolverhampton Calling
 category: notebook
 tags: 

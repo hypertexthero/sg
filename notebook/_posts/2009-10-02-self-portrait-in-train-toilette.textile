@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Self-portrait in Train Toilette
 image: "588"
 location: Rome, Italy

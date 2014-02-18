@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: By Hoan Kiem Lake GRS-20100415-154431
 image: "956"
 location: Hanoi, Vietnam

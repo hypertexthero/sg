@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Beers in Campo, Afternoon
 image: "850"
 location: Rome, Italy

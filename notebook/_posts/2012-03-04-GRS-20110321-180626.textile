@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione di Santa Maria Novella
 image: "1428"
 location: Florence, Italy

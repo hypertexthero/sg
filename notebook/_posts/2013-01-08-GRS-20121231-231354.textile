@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Corso, Capodanno
 image: "1692"
 location: Rome, Italy

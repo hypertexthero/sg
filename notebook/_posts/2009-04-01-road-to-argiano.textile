@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Road to Argiano
 image: "504"
 location: Near Montalcino, Italy

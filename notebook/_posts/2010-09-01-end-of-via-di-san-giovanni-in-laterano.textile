@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: End of Via di San Giovanni in Laterano
 image: "872"
 location: Rome, Italy

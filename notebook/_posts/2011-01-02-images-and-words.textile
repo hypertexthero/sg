@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Images and Words
 excerpt: Images and Words
 category: notebook

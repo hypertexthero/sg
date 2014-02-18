@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Usher in Gallery Entrance
 image: "273"
 location: Rome, Italy

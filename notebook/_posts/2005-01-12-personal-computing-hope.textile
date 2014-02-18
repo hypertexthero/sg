@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Personal Computing Hope
 excerpt: A photograph showing the Mac mini personal computer against a white background.
 category: notebook

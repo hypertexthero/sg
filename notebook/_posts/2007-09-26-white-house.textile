@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: White House
 image: "214"
 location: Washington DC, Virginia, US

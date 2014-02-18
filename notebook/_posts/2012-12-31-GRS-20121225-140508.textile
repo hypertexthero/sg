@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Pra\xC5\xBEsk\xC3\xBD orloj"
 image: "1685"
 location: Prague, Czech Republic

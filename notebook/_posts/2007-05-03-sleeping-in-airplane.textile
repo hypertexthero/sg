@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sleeping in Airplane
 image: "124"
 location: North Atlantic

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hanoi Street at Night
 image: "943"
 location: Hanoi, Vietnam

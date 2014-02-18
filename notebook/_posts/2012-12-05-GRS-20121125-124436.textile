@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Pietro in Carcere
 image: "1670"
 location: Rome, Italy

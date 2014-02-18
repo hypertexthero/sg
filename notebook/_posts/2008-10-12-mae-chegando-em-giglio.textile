@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "M\xC3\xA3e Chegando em Giglio"
 image: "447"
 location: Isola del Giglio, Italy

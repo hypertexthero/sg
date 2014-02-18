@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Car
 image: "54"
 location: South Dakota, US

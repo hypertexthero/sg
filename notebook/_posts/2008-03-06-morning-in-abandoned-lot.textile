@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Morning in Abandoned Lot
 image: "311"
 location: Bracciano, Italy

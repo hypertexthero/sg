@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wheal Dream
 image: "1608"
 location: St Ives, England

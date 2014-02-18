@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Near Campo de Fiore
 image: "991"
 location: Rome, Italy

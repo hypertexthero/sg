@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bangkok Airport GRS-20100420-234807
 image: "968"
 location: Bangkok, Thailand

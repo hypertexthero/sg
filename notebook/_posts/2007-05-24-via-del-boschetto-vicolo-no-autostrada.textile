@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via del Boschetto Vicolo, NO Autostrada
 image: "133"
 location: Rome, Italy

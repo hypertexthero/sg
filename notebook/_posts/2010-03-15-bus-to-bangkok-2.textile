@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Bus to Bangkok #2"
 image: "658"
 location: Thailand

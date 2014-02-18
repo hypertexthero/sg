@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Darlington Street
 image: "1531"
 location: Wolverhampton, UK

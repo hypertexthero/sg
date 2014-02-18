@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Trees and Tower Cranes in Storm
 image: "328"
 location: Rome, Italy

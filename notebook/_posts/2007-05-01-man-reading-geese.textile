@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man Reading, Geese
 image: "123"
 location: Rome, Italy

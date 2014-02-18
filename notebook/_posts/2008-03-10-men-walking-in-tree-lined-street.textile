@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Men Walking in Tree-Lined Street
 image: "315"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Near Thi\xE1\xBB\x81n Quang Lake"
 image: "944"
 location: Hanoi, Vietnam

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Corner of Via dei Strada Statale 4
 image: "887"
 location: Rome, Italy

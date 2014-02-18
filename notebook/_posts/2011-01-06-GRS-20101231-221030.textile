@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Walking, New Year's Eve
 image: "998"
 location: Rome, Italy

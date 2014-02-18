@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bungalow, Night
 image: "1520"
 location: Ko Lanta, Andaman Sea

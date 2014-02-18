@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via di San Gregorio
 image: "1941"
 location: Rome, Italy

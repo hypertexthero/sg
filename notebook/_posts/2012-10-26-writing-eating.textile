@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Writing, Eating
 excerpt: Writing, Eating
 category: notebook

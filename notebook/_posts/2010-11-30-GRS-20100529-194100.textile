@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Bus Stop Near Colosseo
 image: "970"
 location: Rome, Italy

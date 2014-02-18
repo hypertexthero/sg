@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Nuovo Mercato di Testaccio
 image: "1682"
 location: Rome, Italy

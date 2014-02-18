@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Secca i Pinocchi
 image: "1177"
 location: Isola del Giglio, Italy

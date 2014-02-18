@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Wedding
 image: "1111"
 location: Ta'Xbiex, Malta

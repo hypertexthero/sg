@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Driving in Idaho
 image: "1067"
 location: Idaho, US

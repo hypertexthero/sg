@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Stazione Manzoni
 image: "1666"
 location: Rome, Italy

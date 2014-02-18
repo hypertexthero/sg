@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Children on Door Step
 image: "377"
 location: Bracciano, Italy

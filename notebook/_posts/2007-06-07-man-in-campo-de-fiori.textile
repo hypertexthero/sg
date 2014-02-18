@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Man in Campo de' Fiori
 image: "138"
 location: Rome, Italy

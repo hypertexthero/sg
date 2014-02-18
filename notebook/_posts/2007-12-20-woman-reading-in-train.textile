@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Woman Reading in Train
 image: "284"
 location: Rome, Italy

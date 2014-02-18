@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Smetanovo n\xC3\xA1b\xC5\x99e\xC5\xBE\xC3\xAD"
 image: "1684"
 location: Prague, Czech Republic

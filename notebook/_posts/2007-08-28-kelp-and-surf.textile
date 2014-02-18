@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Kelp and Surf
 image: "181"
 location: Big Sur, California, US

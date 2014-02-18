@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Rich Folks Hoax
 excerpt: Rich Folks Hoax
 category: notebook

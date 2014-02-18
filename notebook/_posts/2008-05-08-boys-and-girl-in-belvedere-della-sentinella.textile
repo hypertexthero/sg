@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boys and Girl in Belvedere della Sentinella
 image: "347"
 location: Bracciano, Italy

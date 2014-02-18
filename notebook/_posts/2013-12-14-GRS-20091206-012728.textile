@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Gianmarco and Jeremy
 image: "1942"
 location: Malta

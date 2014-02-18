@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Sitting in Piazza Navona
 image: "846"
 location: Rome, Italy

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Van Gogh on the Streets
 excerpt: Van Gogh on the Streets
 category: notebook

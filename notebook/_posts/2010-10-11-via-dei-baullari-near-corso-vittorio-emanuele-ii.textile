@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via dei Baullari Near Corso Vittorio Emanuele II
 image: "910"
 location: Rome, Italy

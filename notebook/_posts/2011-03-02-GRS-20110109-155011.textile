@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: "Antico Caff\xC3\xA8 Greco"
 image: "1059"
 location: Rome, Italy

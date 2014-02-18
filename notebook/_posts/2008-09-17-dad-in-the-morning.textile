@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dad in the Morning
 image: "435"
 location: Formello, Italy

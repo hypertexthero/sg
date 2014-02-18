@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Graffiti in Via di San Paolo della Croce
 image: "892"
 location: Rome, Italy

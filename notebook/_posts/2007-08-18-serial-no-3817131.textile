@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Serial No. 3817131
 excerpt: " \"Serial No. 3817131 (Rachel Papo.)\":http://www.serialno3817131.com/ by Rachel Papo. \r\n\
   <br />\"World Press Photo of the Year 2006\":http://www.worldpressphoto.com/index.php?option=com_photogallery&task=view&id=823&Itemid=148&bandwidth=high by \"Spencer Platt\":http://gettyawards.mediaroom.com/index.php?s=photographers&id=67&photo=668."

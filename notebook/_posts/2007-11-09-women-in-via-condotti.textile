@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Women in Via Condotti
 image: "255"
 location: Rome, Italy

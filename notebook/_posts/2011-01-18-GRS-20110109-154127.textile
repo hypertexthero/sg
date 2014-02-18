@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Via della Fontanella di Borghese
 image: "1019"
 location: Rome, Italy

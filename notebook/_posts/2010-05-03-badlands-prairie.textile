@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Badlands Prairie
 image: "702"
 location: Badlands, South Dakota, US

@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Policlinico Militare Parking Area, Piazza Celimontana
 image: "1985"
 location: Rome, Italy

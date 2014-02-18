@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Hey! What The Fuck Is This?
 image: "1583"
 location: Rome, Italy

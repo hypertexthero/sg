@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Traffic Policeman by Palazzo del Laterano
 image: "768"
 location: Rome, Italy

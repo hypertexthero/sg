@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl Walking Outside Bar
 image: "287"
 location: San Francisco, California

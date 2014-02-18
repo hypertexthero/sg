@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Girl and Boy at Monte Mario Station
 image: "275"
 location: Rome, Italy

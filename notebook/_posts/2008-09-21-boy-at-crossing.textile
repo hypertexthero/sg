@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Boy at Crossing
 image: "439"
 location: Formello, Italy

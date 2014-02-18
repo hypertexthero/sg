@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Dusk
 image: "1131"
 location: Some Road, Heading North, California, US

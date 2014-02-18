@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: entry
 title: Band in Casino
 image: "708"
 location: Las Vegas, US
