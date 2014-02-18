@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Near Sararom Royal Park
+image: "1931"
+location: Bangkok, Thailand
+date_taken: "February 2010 "
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- pipe
+- man
+- 40 to 60 years
+- laying down
+- sleeping
+- street
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 40.

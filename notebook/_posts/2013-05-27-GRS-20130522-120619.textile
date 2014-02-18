@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Piazza Navona
+image: "1789"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- pigeons
+- woman
+- over 50 years
+- wing
+- flight
+- flock
+- flying
+- examining
+- almost
+---
+Almost.

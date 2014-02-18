@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1875"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- woman
+- fashion victim
+- eye
+- expression
+- handbag
+- bandana
+- short hair
+- 50 to 70 years
+---
+

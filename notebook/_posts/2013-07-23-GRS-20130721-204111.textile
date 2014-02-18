@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Villa Miani
+image: "1831"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- party
+- suit
+- dress
+- suits
+- dresses
+- men
+- woman
+- 25 to 35 years
+- expression
+- hand
+- movement
+---
+

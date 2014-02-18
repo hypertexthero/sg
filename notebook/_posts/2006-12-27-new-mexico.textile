@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: New Mexico
+image: "39"
+location: New Mexico, USA
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- New Mexico
+- USA summer trip 2005
+- highway 285
+- clouds
+- foreboding
+- mount
+---
+p(preamble). Driving into New Mexico, where one of the more frightening experiences of the cross-country trip happened. ¶ We were looking for hot springs near the Rio Grande Gorge bridge when four men appeared behind us out of nowhere, probably from a cave. They had been drinking. My adrenalin and heart-rate shot up immediately upon seeing them. ¶ I said "Get ready to jump in the river", and then had a thought. I looked up to the cliffs high above the gorge and began shouting "John! John! We're down here! We found the springs!" I waved and smiled. The men became surprised and a look of angry disappointment flashed on their faces as we stepped around them and climbed back up the path as fast as we could. ¶ New Mexico took on a menacing air to me after that afternoon.

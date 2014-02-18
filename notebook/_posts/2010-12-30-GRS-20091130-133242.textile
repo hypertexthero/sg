@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Self-portrait, Piano
+image: "995"
+location: Amsterdam, Netherlands
+date_taken: November 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- reflection
+- self-portrait
+- piano
+- window
+- man
+- blur
+---
+

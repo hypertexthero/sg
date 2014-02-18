@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Stazione di Fondi
+image: "1380"
+location: Fondi, Italy
+date_taken: August 2011
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- station
+- man
+- gesture
+- late afternoon
+---
+

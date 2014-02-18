@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Chumphon
+image: "679"
+location: Chumphon, Thailand`
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- bw
+- woman
+- motorcycle
+- road
+---
+

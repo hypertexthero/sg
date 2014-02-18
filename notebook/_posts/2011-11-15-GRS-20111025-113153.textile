@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: San Filippo Neri
+image: "1351"
+location: Rome, Italy
+date_taken: October 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- suit
+- suits
+- briefcase
+- sitting
+- phone
+- walking
+- bench
+---
+

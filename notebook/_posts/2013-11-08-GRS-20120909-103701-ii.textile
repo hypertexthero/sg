@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: Dad's Ashes
+image: "1908"
+location: Carbis Bay, Near St Ives, England
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- dad
+- ashes
+- beach
+- carbis bay
+- wave
+- glint
+- sun
+- life
+- death
+- dust
+- sand
+- water
+- sky
+- cloude
+- lines
+- expression
+- "#GetCloser100"
+---
+My dad was born two months before "Capa's photograph":http://www.magnumphotos.com/C.aspx?VP3=SearchResult&ALID=29YL535ZXX00 was taken. 
+
+I miss my dad very much.
+
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 17.
+

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Villa Miani
+image: "1849"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- suit
+- bowtie
+- tie
+- sunglasses
+- flash
+- man
+- 20 to 30 years
+- hands
+- glasses
+- glass
+- expression
+- jacket
+---
+

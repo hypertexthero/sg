@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via F. Crispi
+image: "1413"
+location: San Benedetto del Tronto, Italy
+date_taken: September 2011
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- man
+- black
+- shades
+- sun-glasses
+- pipe
+- palm tree
+- police car
+---
+

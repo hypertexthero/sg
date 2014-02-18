@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Street Corner Scene
+image: "322"
+location: Sevilla, Spain
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- girl
+- "5\xE2\x80\x9310"
+- dog
+- late afternoon
+- light
+- man
+- back
+- crossing
+- overexposed
+---
+

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via Labicana
+image: "1505"
+location: Rome, Italy
+date_taken: February 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- umbrella
+- amber
+- rain
+- night
+- dark
+- expression
+- car
+---
+

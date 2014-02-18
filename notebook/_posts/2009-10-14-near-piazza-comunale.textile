@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Near Piazza Comunale
+image: "596"
+location: Bracciano, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- crack
+- wall
+- piazza comunale
+- old
+---
+

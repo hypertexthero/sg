@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: JRB
+image: "1713"
+location: Brussels, Belgium
+date_taken: February 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- jrb
+- street
+- camera
+- buildings
+- urban
+- lines
+- hat
+- expression
+---
+"Looking for pictures":http://jrbrubaker.com/.

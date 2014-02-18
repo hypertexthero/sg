@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Campo de' Fiori
+image: "1903"
+location: Rome, Italy
+date_taken: January 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- amber
+- suvi
+- girls
+- 20 to 30
+- cigarette pack
+- blur
+- expression
+- eyelashes
+- eyelash
+- eyes
+- hands
+- hair
+- night
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 11.

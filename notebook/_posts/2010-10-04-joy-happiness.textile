@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Joy &amp; Happiness
+excerpt: |-
+  "Bryce Lee commenting at TOP(The Online Photographer)":http://theonlinephotographer.typepad.com/the_online_photographer/2010/09/generational-thing.html:
+  
+  bq. Joy is pushing the button on the camera that records the image. Happiness is reviewing the images at a later date.
+category: notebook
+tags: 
+- joy
+- happiness
+- photography
+---
+"Bryce Lee commenting at TOP(The Online Photographer)":http://theonlinephotographer.typepad.com/the_online_photographer/2010/09/generational-thing.html:
+
+bq. Joy is pushing the button on the camera that records the image. Happiness is reviewing the images at a later date.

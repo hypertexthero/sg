@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via Germanico
+image: "1974"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- motorcycle
+- bicycle
+- branches
+- wall
+- sabatini used photo
+- leaves
+- 40 to 65 years
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 79. The campaign is working again — great!

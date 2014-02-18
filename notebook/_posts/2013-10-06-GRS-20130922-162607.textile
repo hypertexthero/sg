@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Parco di Villa Pamphili
+image: "1880"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- branch
+- sword
+- 4 to 10 years
+- mother
+- kids
+- children
+- park
+- trees
+- path
+- expression
+- gesture
+---
+

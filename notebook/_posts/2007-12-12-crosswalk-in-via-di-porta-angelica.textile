@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Crosswalk in Via di Porta Angelica
+image: "277"
+location: Rome, Italy
+date_taken: December 2007
+camera: Canon EOS 5D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- street
+- libero pensiero
+- nun
+- man
+- traffic light
+---
+Taken just outside the Vatican City walls.

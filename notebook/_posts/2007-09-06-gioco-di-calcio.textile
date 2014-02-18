@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Gioco di Calcio
+image: "194"
+location: Rome, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- boys
+- soccer
+- football
+- calcio
+- running
+---
+In the courtyard inside "Castel Sant'Angelo":http://en.wikipedia.org/wiki/Castel_Sant'Angelo.

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: The Desert of the Real
+excerpt: The Desert of the Real
+category: notebook
+tags: 
+- games
+- desert
+- molleindustria
+---
+"Welcome to the desert of the real":http://vimeo.com/4750691 - a video by "Paolo Pedercini":http://www.molleindustria.org/paolo/paolo_pedercini.html, who is also responsible for the wonderful "Molleindustria":http://www.molleindustria.org/, which produces 'radical games against the dictatorship of entertainment'. Some examples: "Faith Fighter 2":http://www.molleindustria.org/faith-fighter-2, "Oiligarchy":http://www.molleindustria.org/en/oiligarchy and "Operation: Pedopriest":http://www.molleindustria.org/en/operation-pedopriest.

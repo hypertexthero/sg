@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Kim
+image: "1369"
+location: Near Dinant, Belgium
+date_taken: January 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- kim
+- reflection
+- portrait
+- window
+- face
+- expression
+- ryan
+- trees
+- train tracks
+---
+Check out "Backstitched":http://backstitched.com/ for awesome leather and cloth stuff made by Kim.

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Chairs in Meadow
+image: "451"
+location: Near Vigna di Valle, Italy
+date_taken: October 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- through window
+- chairs
+- field
+- train
+- paddock
+- plastic
+---
+Part of "Track of the Train":http://simongriffee.com/wip/tott/d1/.

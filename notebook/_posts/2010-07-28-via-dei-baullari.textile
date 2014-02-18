@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Via dei Baullari
+image: "819"
+location: Rome, Italy
+date_taken: March 2009
+camera: Canon EOS 5D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- color
+- girls
+- umbrellas
+---
+

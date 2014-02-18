@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1307"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- stilt legs
+- girl
+- tourists
+- "caff\xC3\xA9"
+---
+

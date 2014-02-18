@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Procession
+image: "1950"
+location: Seville, Spain
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- procession
+- expression
+- incense
+- smoke
+- suit
+- gel
+- hair
+- men
+- 20 to 40 years
+- carving
+- wood
+- robe
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 58.

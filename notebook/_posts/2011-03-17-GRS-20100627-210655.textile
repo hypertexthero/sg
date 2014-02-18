@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Fiumicino
+image: "1070"
+location: Fiumicino, Italy
+date_taken: June 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- discussion
+- escalator
+- reflection
+---
+

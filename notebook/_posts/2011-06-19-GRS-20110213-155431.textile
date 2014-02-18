@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Painting Detail, Villa Farnese
+image: "1130"
+location: Caprarola, Italy
+date_taken: February 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- horses
+- painting
+- people
+- renaissance
+- farnese
+---
+

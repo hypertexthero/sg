@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Journey Through US
+image: "700"
+location: USA
+date_taken: "2005"
+excerpt: In the summer of 2005 I left home for a journey in the United States. These are photographs from that summer.
+category: story-jtus
+tags: 
+- journey through US
+- political
+- personal
+- "2005"
+---
+<txp:hide>In the summer of 2005 I left home for a journey in the United States. These are photographs from that summer.</txp:hide>
+
+<a href="/story-jtus/white-house">First photo</a> »

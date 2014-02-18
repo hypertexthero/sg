@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "During Army Exhibit in Piazza Venezia #2"
+image: "875"
+location: Rome, Italy
+date_taken: May 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- boy
+- army
+- tires
+- piazza venezia
+---
+

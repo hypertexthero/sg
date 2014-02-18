@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Portico d'Ottavia
+image: "1375"
+location: Rome, Italy
+date_taken: November 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- expression
+- hand
+- arm
+- gesture
+- adults
+---
+

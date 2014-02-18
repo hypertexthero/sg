@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Il Mercatissimo Truck
+image: "579"
+location: Bracciano, Italy
+date_taken: August 2009
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- il mercatissimo
+- amber
+- truck
+- car window
+---
+Hello 28mm!

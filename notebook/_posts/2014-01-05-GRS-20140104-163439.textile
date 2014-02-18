@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Gemme dell'Impressionismo Exhibition at Ara Pacis
+image: "1970"
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- girl
+- red hair
+- 16 to 23
+- painting
+- Henri de Toulouse-Lautrec
+- carmen gaudin
+- oil
+- canvas
+- exhibition
+- fixing hair
+---
+With Henri de Toulouse-Lautrec's <em>Ritratto di Carmen Gaudin</em>, 1885, olio su tavola. Collezione Ailsa Mellon Bruce, 1970.17.85. "More information about the exhibition":http://en.arapacis.it/mostre_ed_eventi/mostre/gemme_dell_impressionismo.

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Clearing Storm
+image: "104"
+location: South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- storm
+- road
+- downpour
+- field
+- clouds
+- distance
+- rain
+- bw
+- landscape
+- car
+- sheet
+- sheets
+---
+The downpour can be clearly seen here in the distance. Driving around storms and watching them from their edges defined my trip through Iowa and Eastern South Dakota.

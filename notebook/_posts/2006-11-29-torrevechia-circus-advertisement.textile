@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Torrevechia Circus Advertisement
+image: "23"
+location: Rome, Italy
+date_taken: May 2003
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+category: notebook
+tags: 
+- Rome
+- Italy
+- poster
+- paper
+- advertisement
+- ad
+- Torrevechia
+- Acotel
+- morning
+---
+p(preamble). Walking to work after getting off the train. The harsh Roman summer light already strong at quarter-to-nine in the morning. Early days at Acotel.

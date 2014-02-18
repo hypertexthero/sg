@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: Prairie
+image: "1917"
+location: Badlands, South Dakota
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- color
+- amber
+- prairie
+- saab
+- car
+- grass
+- sky
+- road
+- expanse
+- espression
+- gesture
+- elbow
+- dress
+- girl
+- 25 to 30
+- glasses
+- grassland
+- reeds
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 29.
+
+"Amber":http://simongriffee.com/notebook/GRS-20120121-121840 recently "wrote about Martha Gellhorn":http://descriptedlines.com/two-mgs-martha-gellhorn-mavis-gallant after reading her book _Travels With Myself and Another_ which has an uncredited, cropped version of Robert Capa's photograph of Gellhorn with the rifle on the cover.

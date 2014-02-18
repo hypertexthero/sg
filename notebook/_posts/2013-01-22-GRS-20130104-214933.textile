@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Birreria Peroni
+image: "1702"
+location: Rome, Italy
+date_taken: January 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- elvis
+- man
+- haircut
+- sideburns
+- pretty
+- hair
+- hand
+---
+

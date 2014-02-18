@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Hill, Badlands
+image: "110"
+location: South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- hill
+- rolling
+- craggy
+- coarse
+- texture
+- badlands
+- bw
+- landscape
+---
+The coarse texture of the hills between the lush and dry areas of the Badlands is emphasized by low light near sunset.

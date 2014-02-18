@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: St. James Hotel Sign
+image: "333"
+location: Cimarron, New Mexico, USA
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- landscape
+- americana
+- sign
+- lamp
+- man
+- midday
+- sun
+- west
+---
+

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Pigeon in Piazza San Marco
+image: "222"
+location: Venice, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- bird
+- pigeon
+- san marco
+- griffon
+- wings
+- flight
+- tower
+- bell tower
+---
+

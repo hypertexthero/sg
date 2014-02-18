@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Enrico at Villa Borghese
+image: "553"
+location: Rome, Italy
+date_taken: April 2009
+camera: Canon 5D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- focus
+- hand
+- tree
+- branches
+- enrico
+---
+

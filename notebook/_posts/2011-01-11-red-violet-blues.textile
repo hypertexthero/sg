@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Red Violet Blues
+excerpt: Red Violet Blues
+category: notebook
+tags: []
+
+---
+Roman rooftop briefly radiated with white heat, 
+then clouds lined with red, 
+then blue and violet darkness. 
+
+And time went on.

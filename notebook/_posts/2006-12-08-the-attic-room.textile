@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: The Attic Room
+image: "26"
+location: Oakland, California
+date_taken: December 2006
+camera: "\xE2\x80\x98Innovage\xE2\x80\x99 Mini Digital Camera"
+lens: "\xE2\x80\x98f/2.8\xE2\x80\x99 unknown lens"
+category: notebook
+tags: 
+- playground
+- room
+- attic
+- sofa
+- bed
+- mini digital camera
+- pcket
+- low resolution
+---
+p(preamble). After "reading about it (The Online Photographer - $10 Digital Camera—How Do They Do It?.)":http://theonlinephotographer.blogspot.com/2006/12/10-digital-camerahow-do-they-do-it.html, I decided to embrace constraints and see what a $10 digital camera can do. With a bit of post-processing to reduce noise, an 352x288 pixel painting emerged.

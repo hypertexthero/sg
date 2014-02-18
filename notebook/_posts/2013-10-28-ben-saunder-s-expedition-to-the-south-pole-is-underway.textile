@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Ben Saunder's Expedition to the South Pole is Underway!
+excerpt: Ben Saunder's Expedition to the South Pole is Underway!
+category: notebook
+tags: 
+- south
+- ben saunders
+- south pole
+- expedition
+- scott
+---
+Follow it "here":http://scottexpedition.com/tracking, and here's their "first blog post from Antarctica":http://scottexpedition.com/blog/48-hours-in-mcmurdo-sound. I'm "sponsoring Mile 890":http://scottexpedition.com/partners/sponsor-a-mile. 

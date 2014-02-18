@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Banespa Building
+image: "52"
+location: "S\xC3\xA3o Paulo, Brazil"
+date_taken: October 2001
+camera: Canon PowerShot G1
+lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+category: notebook
+tags: 
+- "S\xC3\xA3o Paulo"
+- Banespa
+- banco
+- predios
+- buildings
+- skyscraper
+- skyscrapers
+- rich
+- poor
+- bandeira
+- flag
+- bw
+- victor
+- eskinazi
+---
+p(preamble). Banco Banespa's building towers over the metropolis. The financial institutions usually get the top floors, and in Brazil it's no different. A country of extreme contrasts, the very rich, and the very poor. In Rio de Janeiro, it is the very poor who have the best views in the city, topographically speaking. A photograph of "Rocinha (Wikipedia - Favela Rocinha.)":http://en.wikipedia.org/wiki/Rocinha is next.

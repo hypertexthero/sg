@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Roses, Wall
+image: "450"
+location: Bracciano, Italy
+date_taken: June 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- rose
+- plaster
+- flora
+- flower
+- shadows
+- shadow
+- leaves
+- thorns
+---
+

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Mother Night
+excerpt: Mother Night
+category: notebook
+tags: 
+- mother night
+- vonnegut
+- being
+---
+bq. We are what we pretend to be, so we must be careful about what we pretend to be.
+
+bq. Say what you will about the sweet miracle of unquestioning faith, I consider a capacity for it terrifying and absolutely vile.
+
+bq. "You hate America, don't you?" she said.
+"That would be as silly as loving it," I said. "It's impossible for me to get emotional about it, because real estate doesn't interest me. It's no doubt a great flaw in my personality, but I can't think in terms of boundaries. Those imaginary lines are as unreal to me as elves and pixies. I can't believe that they mark the end or the beginning of anything of real concern to the human soul. Virtues and vices, pleasures and pains cross boundaries at will."
+
+bq. Make love when you can. It's good for you.
+
+— Kurt Vonnegut, _Mother Night_

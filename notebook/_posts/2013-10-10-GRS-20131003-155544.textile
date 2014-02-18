@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1883"
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- boy
+- 8 to 14 years
+- sword
+- broken arm
+- cast
+- roman empire
+- walk
+- expression
+---
+

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Via di Ripetta
+image: "1308"
+location: Rome, Italy
+date_taken: March 2009
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4 USM"
+category: notebook
+tags: 
+- bw
+- umbrella
+- blur
+- trees
+---
+

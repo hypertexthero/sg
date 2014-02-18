@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Holy See Transmitters at Dusk
+image: "271"
+location: Near Cesano, Italy
+date_taken: November 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- landscape
+- vatican
+- radio
+- leukemia
+- radiation
+- hazardous
+- propaganda
+---
+The notorious "Santa Maria di Galeria Transmitter site":http://en.wikipedia.org/wiki/Vatican_Radio.

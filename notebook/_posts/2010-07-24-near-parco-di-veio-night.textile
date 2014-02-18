@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Near Parco di Veio, Night
+image: "815"
+location: Giustiniana, Italy
+date_taken: June 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- men
+- artificial light
+- shadows
+---
+

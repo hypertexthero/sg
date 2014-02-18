@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Plan B
+excerpt: Plan B
+category: notebook
+tags: 
+- trip
+- lines on maps
+- beach
+- mediterranean
+- mediterraneo
+- travel
+- photography
+---
+<div style="text-align:center; margin:0 auto;">
+
+<p style="max-width:42em; margin:0 auto 1em;"><a href="http://simongriffee.com/notebook/us-trip-2011" title="US Trip 2011">Plan A</a>, unfortunately, <a href="http://simongriffee.com/imaginarylines/about-imaginary-lines" title="Imaginary lines on maps. Or, the US government doesn't want my money. Or, comedy!">did not work out</a> — apologies to friends in North America! Plan B so far is photographing at home in Rome, <del>in Barcelona</del> in <a href="http://www.tpw.it/informations/" title="Finally meeting David Harvey!!">Cortona</a> and <a href="http://en.wikipedia.org/wiki/Isola_del_Giglio" title="Giglio">a</a> <a href="http://en.wikipedia.org/wiki/Rhodes_(city)" title="Rhodes">few</a> <a href="http://en.wikipedia.org/wiki/Kastelorizo" title="Kastelorizo">islands</a>. If you're reading this Jez I will try to get to Malta too for wine-fest, but can't promise.</p>
+
+<iframe width="970" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?msa=0&amp;msid=207942209169471817167.0004a7a7532a5b7eb4ef7&amp;ie=UTF8&amp;t=p&amp;ll=40.913513,14.853516&amp;spn=19.899476,42.583008&amp;z=5&amp;output=embed"></iframe>
+
+<p class="small" style="margin-top:1em;">View <a href="http://maps.google.com/maps/ms?msa=0&amp;msid=207942209169471817167.0004a7a7532a5b7eb4ef7&amp;ie=UTF8&amp;t=p&amp;ll=40.913513,14.853516&amp;spn=19.899476,42.583008&amp;z=5&amp;source=embed">Mediterranean Trip 2011</a> in a larger map</p>
+
+</div>

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: LightZone Wishlist
+excerpt: I've been using and enjoying the Mac OS X version of "LightZone 2.0 (LightCraft.com - LightZone.)":http://www.lightcrafts.com/products/lightzone/ for a month now, and have a list of improvements and suggestions. I plan to keep this list updated.
+category: notebook
+tags: []
+
+---
+p(preamble). I've been using and enjoying the Mac OS X version of "LightZone 2.0 (LightCraft.com - LightZone.)":http://www.lightcrafts.com/products/lightzone/ for a month now, and have a list of improvements and suggestions. I plan to keep this list updated.
+
+# Enable the default Macintosh <kbd>Command-D</kbd> keyboard shortcut to dismiss *Save* and *Save As* dialogue windows.
+# Add a basic text-tool for copyright notice watermarks. It should include controls for font selection, size, opacity and should support at least two levels of anti-aliasing: anti-alias and no anti-alias.
+# -Add a *Show Original File In Finder* command to the *File* menu. This should open a Finder window with the file selected in the LightZone browser highlighted.- _Added in v2.1, thank you Lightzone team!_ Update: In the browser, the *Show in Finder* command currently only appears in the pop-up menu when you right-click on a thumbnail. It should also be selectable from the *File* menu.
+# Ability to change background color in Editor area.
+# Enable dragging of the editing area (when holding down the space bar) even when the entire image you are working on is visible. This helps when editing masks that extend beyong the image.
+# Enable Photoshop-like keyboard commands <kbd>Command-Spacebar</kbd> for zooming in and <kbd>Command-Alt-Spacebar</kbd> for zooming out. 
+# Implement _lens distortion correction_ functionality to help adjust distortion in wide-angle images.
+
+_Last updated: 2007-01-12_

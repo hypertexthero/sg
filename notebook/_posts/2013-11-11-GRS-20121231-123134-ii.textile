@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1912"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- leopard skin
+- girl
+- boys
+- men
+- woman
+- 20 to 35 years
+- sunglasses
+- pierced
+- lip
+- animal
+- walk
+- expression
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 21.

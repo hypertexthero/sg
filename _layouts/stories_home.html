@@ -14,7 +14,7 @@
 <meta name="copyright" content="Copyright 1999-{{ date|date:"%Y" }} Simon Griffee.">
 
 <link href='http://fonts.googleapis.com/css?family=Gentium+Basic:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
-<link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/css/simongriffee-d.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/simongriffee-d.css" media="screen" />
 
 <!--[if lte IE 6]>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css" />
@@ -52,24 +52,9 @@
 
 <h1 style="margin:0;">Stories</h1>
 
-<!-- <ul class="archivelist">
+<ul class="archivelist">
   {{ content }}
-</ul> -->
-
-
-<!-- <div class="storycolumn storycolumnmarginright"> -->
-  <!-- <h2>Cultural</h2>  -->
-  <ul class="archivelist">
-    {% for post in site.posts %}
-      {% if post.categories contains 'unlisted' %}
-      {% else %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ site.baseurl }}{{ post.thumb }}" /> {{ post.title }} <!-- <br><span class="normal quiet">{{ post.type }} <small>{{ post.timeframe }}</small></span></a> --></li>
-      {% endif %}
-    {% endfor %}
-  </ul>
-<!-- </div> -->
-
-
+</ul>
 
 </div> <!-- textframe end -->
 </div> <!-- content end -->

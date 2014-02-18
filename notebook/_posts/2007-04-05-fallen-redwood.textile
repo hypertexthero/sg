@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Fallen Redwood
+image: "112"
+location: California, US
+date_taken: March 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- redwoods
+- big trees
+- trees
+- bw
+- landscape
+- sepia
+- duotone
+- forest
+- grove
+- mendocino
+- usa
+---
+In a road-side grove in Mendocino County. A sepia/duo-tone treatment was used.

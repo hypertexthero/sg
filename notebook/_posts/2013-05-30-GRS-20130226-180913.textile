@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Santissimi Quattro
+image: "1794"
+location: Rome, Italy
+date_taken: February 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- 45 to 60 years
+- night
+- mother
+- umbrella
+- worry
+- expression
+- coat
+- walk
+---
+

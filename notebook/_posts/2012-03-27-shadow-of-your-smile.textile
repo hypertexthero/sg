@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Shadow of Your Smile
+excerpt: Shadow of Your Smile
+category: notebook
+tags: 
+- bill evans
+- music
+- piano
+- shadow
+- smile
+---
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Pblwb5czR7Y" frameborder="0" allowfullscreen></iframe>

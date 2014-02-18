@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Wren Road
+image: "1977"
+location: London, England
+date_taken: March 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- 70 to 90 years
+- scratching head
+- x
+- metal
+- house
+- brick
+- walk
+- street
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 82.

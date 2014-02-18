@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Campo de' Fiori, 2am
+image: "281"
+location: Rome, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- "man 18\xE2\x80\x9330"
+- night
+- fiore
+- long hair
+- walking
+---
+

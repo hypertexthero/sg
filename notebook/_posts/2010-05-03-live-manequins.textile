@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Live Manequins
+image: "693"
+location: New York City, US
+date_taken: May 2005
+category: story-jtus
+tags: 
+- GRS-20050520-235011
+---
+

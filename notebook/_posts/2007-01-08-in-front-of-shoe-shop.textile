@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: In Front of Shoe Shop
+image: "47"
+location: Rome, Italy
+date_taken: June 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- shoes
+- bicycle
+- rome
+- italy
+- via del corso
+- men
+- reflections
+---
+p(preamble). Afternoon chit-chat in front of Cinema Metropolitan at Via del Corso.

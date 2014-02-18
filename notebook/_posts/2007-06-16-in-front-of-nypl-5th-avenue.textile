@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: In front of NYPL, 5th Avenue
+image: "145"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- nypl
+- public
+- library
+- 5th avenue
+---
+Watching the world go by in front the New York Public Library.

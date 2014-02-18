@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Nieuwezijds Voorburgwal
+image: "1804"
+location: Amsterdam, Netherlands
+date_taken: June 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- billboard
+- church
+- king
+- Willem-Alexander Claus George Ferdinand
+- Willem-Alexander of the Netherlands
+- broom
+- through window
+---
+

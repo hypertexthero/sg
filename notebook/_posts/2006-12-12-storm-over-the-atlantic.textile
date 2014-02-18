@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Storm Over The Atlantic
+image: "28"
+location: Atlantic Ocean, off North-Eastern Brazil
+date_taken: December 2002
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2\xE2\x80\x93f/2.5 Zoom Lens"
+category: notebook
+tags: 
+- Atlantic Ocean
+- atlantico
+- oceano
+- mar
+- nuvems
+- clouds
+- sea
+- airplane
+- storm
+---
+p(preamble). Heading to Italy.

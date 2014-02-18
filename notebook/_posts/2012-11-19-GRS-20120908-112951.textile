@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: The Far Side
+image: "1655"
+location: St Ives, England
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- fat
+- old
+- street
+- restricted zone
+- the far side
+---
+

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Boat to Ranong
+image: "691"
+location: Andaman Sea
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- bw
+- man
+- jealousy
+- boat
+---
+

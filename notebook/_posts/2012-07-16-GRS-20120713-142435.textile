@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Rocky at Viale Aventino
+image: "1582"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- peter rocky ga
+- man
+- black
+- shoes
+- suit
+- gesture
+- expression
+- roman pines
+---
+

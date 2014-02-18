@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Campese
+image: "1180"
+location: Isola del Giglio, Italy
+date_taken: August 2011
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- amber
+- boats
+- lights
+- girl
+- expression
+- sand
+- dark
+- night
+- shadow
+---
+

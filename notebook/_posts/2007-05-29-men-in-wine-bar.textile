@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Men in Wine Bar
+image: "136"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- tre scalini
+- adriano
+- bw
+- candid
+- monti
+- rome
+---
+Taken at my friend Adriano's excellent wine bar, "_Ai Tre Scalini_":http://www.colosseo.org/aitrescalini/, in the Monti district of Rome. 
+
+The atmosphere is very lively and I'll try and convey that in the next photographs I'll most certainly take there.

@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Bus to Sukhothai
+image: "640"
+location: Near Chiang Mai, Thailand
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- street
+- window
+- reflection
+---
+

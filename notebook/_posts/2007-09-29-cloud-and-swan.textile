@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Cloud and Swan
+image: "219"
+location: Peschiera del Garda, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- landscape
+- swan
+- wildlife
+- cloud
+- mountain
+- riviera
+- water
+---
+

@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Via della Conciliazione
+image: "1894"
+location: Rome, Italy
+date_taken: May 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- man
+- 30 to 40 years
+- priest
+- nazi salute
+- wojtyla
+- catholicism
+- religion
+- organized
+- crowd
+- gesture
+- expression
+- cap
+- hat
+- flag
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 3.

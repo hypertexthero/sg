@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Dead Tree
+image: "178"
+location: Navajo National Monument, Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- flora
+- dead tree
+- reeds
+- navajo
+- cypress
+---
+

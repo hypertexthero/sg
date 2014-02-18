@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Via IV Novembre
+image: "1932"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- bouncer
+- suit
+- sword
+- bald
+- mask
+- beard
+- santa
+- flash
+- night
+- armor
+- christmas
+- hat
+- expression
+- tie
+- blue
+- expression
+- 30 to 40 years
+- men
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 41.

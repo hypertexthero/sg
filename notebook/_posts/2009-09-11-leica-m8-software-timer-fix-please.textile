@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Leica M8 Software Timer Fix, Please
+excerpt: Leica M8 Software Timer Fix, Please
+category: notebook
+tags: 
+- leica
+- m8
+- m9
+- timer
+---
+Can you provide a firmware update for the Leica M8 with the following feature, please? It really would make me very happy.
+
+bq. "Because we've all missed a shot or two by flipping the shooting mode selector switch to self-timer by accident, Leica has come to the rescue with a 0 sec self-timer menu setting. In other words, it disables the self-timer and makes the shutter release behave like it would in single shot mode. Just another example of working to address user concerns." 
+
+— "David Farka, Leica M9 Review: Shooting in Wetzlar, Germany":http://dfarkas.blogspot.com/2009/09/leica-m9-review-shooting-in-wetzlar.html
+
+Thanks!
+Simon
+

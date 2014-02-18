@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1877"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- suit
+- 50 to 70 years
+- tie
+- expression
+- surprise
+- teeth
+- girl
+- street
+- shoes
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Suvi
+image: "1662"
+location: Rome, Italy
+date_taken: June 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- suvi
+- cigarette
+- night
+- expression
+- gesture
+---
+

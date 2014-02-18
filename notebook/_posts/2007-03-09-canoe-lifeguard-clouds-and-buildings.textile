@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Canoe, lifeguard, clouds and buildings
+image: "97"
+location: Chicago, Illinois, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- chicago
+- beach
+- lifeguard
+- sand
+- lake
+- fresh water
+- canoes
+- sun
+- bw
+- landscape
+---
+Beach in Chicago. Lake Michigan's fresh water was cold here.

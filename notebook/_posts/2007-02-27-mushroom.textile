@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Mushroom
+image: "92"
+location: Palo Alto, California, US
+date_taken: April 2006
+camera: Panasonic Lumix LX1
+lens: "Leica Vario-Elmarit 28\xE2\x80\x93112mm"
+category: notebook
+tags: 
+- mushroom
+- fungus
+- stanford
+- brown
+- white
+- morning
+- dreamy
+- color
+- nature
+---
+Found in the morning in the Stanford campus.

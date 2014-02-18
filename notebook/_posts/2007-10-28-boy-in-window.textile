@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Boy in Window
+image: "246"
+location: Bracciano, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- boy
+- window
+- bar
+- cafe
+- sad
+- curtain
+- soft focus
+- off focus
+---
+

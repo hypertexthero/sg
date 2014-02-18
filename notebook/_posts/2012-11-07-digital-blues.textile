@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Digital Blues
+excerpt: Digital Blues
+category: notebook
+tags: 
+- music
+- blues
+- digital blues
+- j.j. cale
+---
+ <object width="250" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="gsSong370926140" name="gsSong370926140"><param name="movie" value="http://grooveshark.com/songWidget.swf" /><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=37092614&style=metal&p=0" /><object type="application/x-shockwave-flash" data="http://grooveshark.com/songWidget.swf" width="250" height="40"><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=37092614&style=undefined&p=0" /><span><a href="http://grooveshark.com/search/song?q=J.J.%20Cale%20Digital%20Blues" title="Digital Blues by J.J. Cale on Grooveshark">Digital Blues by J.J. Cale on Grooveshark</a></span></object></object>

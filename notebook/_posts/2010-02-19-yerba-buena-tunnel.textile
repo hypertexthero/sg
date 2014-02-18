@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Yerba Buena Tunnel
+image: "614"
+location: San Francisco, California
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- Yerba Buena Tunnel
+- car window
+- bay bridge
+---
+

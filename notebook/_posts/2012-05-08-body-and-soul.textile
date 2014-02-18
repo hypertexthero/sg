@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Body and Soul
+excerpt: Body and Soul
+category: notebook
+tags: 
+- john coltrane
+- body and soul
+- jazz
+- music
+---
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Rtr4XQGcSDY" frameborder="0" allowfullscreen></iframe>

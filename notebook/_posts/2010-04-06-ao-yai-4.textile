@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Ao Yai #4"
+image: "686"
+location: Koh Phayam, Andaman Sea
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- color
+- dog
+- growl
+- floor
+---
+

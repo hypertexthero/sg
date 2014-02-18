@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Train Line Between Saigon and H\xE1\xBB\x99i An"
+image: "1976"
+location: Vietnam
+date_taken: April 2010
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- field
+- rice
+- harvest
+- peasants
+- conical hat
+- cutting
+- scythe
+- triangle
+- fields
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 81.

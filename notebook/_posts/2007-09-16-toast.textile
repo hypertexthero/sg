@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Toast
+image: "202"
+location: Oakland, California, US
+date_taken: February 2007
+camera: Leica M8
+lens: Voigtlander Nokton 40mm f/1.4
+category: notebook
+tags: 
+- playground
+- bw
+- candid
+- luke
+- brian
+- lights
+- glasses
+- wine
+---
+Luke and crew at a Playground party.

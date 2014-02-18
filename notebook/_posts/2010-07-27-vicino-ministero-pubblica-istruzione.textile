@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Vicino Ministero Pubblica Istruzione\xE2\x80\x8E"
+image: "818"
+location: Rome, Italy
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- man
+- street
+- tie
+- bag
+---
+

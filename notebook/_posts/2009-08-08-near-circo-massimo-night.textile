@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Near Circo Massimo, Night
+image: "573"
+location: Rome, Italy
+date_taken: July 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- night
+- circo massimo
+- girl
+- lights
+- cypress
+- cypresses
+- light
+- dark
+---
+

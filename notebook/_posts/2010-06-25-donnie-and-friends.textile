@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Donnie and Friends
+image: "782"
+location: Rome, Italy
+date_taken: December 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- marcus
+- amber
+- kim
+- ryan
+- enrico
+- brooke
+- umbrella
+---
+New Years Eve…

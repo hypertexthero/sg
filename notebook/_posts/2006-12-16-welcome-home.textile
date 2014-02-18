@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Welcome Home
+image: "36"
+location: Baker, Montana, USA
+date_taken: August 2006
+camera: Canon EOS 300D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- Welcome home sodiers
+- baker
+- montana
+- usa
+- gas
+- gas station
+- picket fence
+- war
+- iraq
+- political
+- petrodollar
+---
+p(preamble). "No (Google search for 'petrodollar'.)":http://www.google.com/search?hl=en&q=petrodollar "comment (Informed Comment - Juan Cole.)":http://juancole.com/.

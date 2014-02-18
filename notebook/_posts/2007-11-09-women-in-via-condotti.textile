@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Women in Via Condotti
+image: "255"
+location: Rome, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- women
+- shop
+- vitrine
+- crowd
+- walking
+- expression
+- hand on face
+---
+

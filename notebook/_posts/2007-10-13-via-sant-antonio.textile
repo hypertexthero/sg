@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via Sant' Antonio
+image: "233"
+location: Bracciano, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- trash bins
+- men
+- walking
+---
+

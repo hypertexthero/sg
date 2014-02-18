@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Woman Walking Into Grotta
+image: "266"
+location: Sutri, Italy
+date_taken: April 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- landscape
+- candid
+- grotte
+- sutri
+- forest
+- trees
+- white flowers
+---
+

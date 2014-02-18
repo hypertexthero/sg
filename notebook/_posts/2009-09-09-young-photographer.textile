@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Young Photographer
+image: "582"
+location: Rome, Italy
+date_taken: September 2009
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- color
+- kid
+- young
+- photographer
+- mother
+- smoking
+- street
+- green
+- blue
+---
+

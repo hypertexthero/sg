@@ -4,4 +4,4 @@ pygments: true
 destination: _site
 permalink: none
 url: 
-baseurl: /stories
+# baseurl: /stories

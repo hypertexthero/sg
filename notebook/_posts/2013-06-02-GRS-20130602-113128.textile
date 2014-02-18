@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1797"
+location: Rome, Italy
+date_taken: June 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- nun
+- man
+- 50 to 70 years
+- capuchin
+- street
+- girls
+- costume
+- cross-dressing
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1599"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- hat
+- woman
+- gesture
+- expression
+- face
+---
+

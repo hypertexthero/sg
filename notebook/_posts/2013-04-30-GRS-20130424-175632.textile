@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1775"
+location: Rome, Italy
+date_taken: April 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- priest
+- capuchin
+- monk
+- mobile phone
+- computer phone
+- expression
+- glasses
+- magazine
+- robe
+- walking
+- rope
+---
+

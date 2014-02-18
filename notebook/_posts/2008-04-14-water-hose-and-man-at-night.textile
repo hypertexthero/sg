@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Water Hose and Man at Night
+image: "325"
+location: Sevilla, Spain
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- waterhose
+- water
+- cleaning
+- poetic
+- businessmen
+---
+

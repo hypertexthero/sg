@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Boy in Avenue
+image: "348"
+location: Rome, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- alone
+- city
+- lonely
+- boy
+- "7\xE2\x80\x9314"
+- prati
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Ponte Sisto
+image: "1161"
+location: Rome, Italy
+date_taken: November 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- man
+- birds
+- ceen
+- woman
+- lamp post
+- expression
+---
+

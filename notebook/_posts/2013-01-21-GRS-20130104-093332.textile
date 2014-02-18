@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1701"
+location: Rome, Italy
+date_taken: January 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- old man
+- father
+- son
+- folder
+- eye
+- expression
+- hand
+- walk
+- leading
+---
+

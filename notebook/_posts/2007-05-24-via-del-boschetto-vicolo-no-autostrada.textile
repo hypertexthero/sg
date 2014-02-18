@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Via del Boschetto Vicolo, NO Autostrada
+image: "133"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- protest
+- monti
+---
+"The protesters":/photographs/man-baby-and-carabiniere at Piazza Madonna dei Monti.

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: GRS-20040208-203933
+image: "1199"
+category: story-p2
+tags: []
+
+---
+

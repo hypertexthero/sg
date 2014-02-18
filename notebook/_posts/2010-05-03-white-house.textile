@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: White House
+image: "709"
+location: Washington DC, US
+date_taken: May 2005
+category: story-jtus
+tags: 
+- GRS-20050514-021942
+---
+

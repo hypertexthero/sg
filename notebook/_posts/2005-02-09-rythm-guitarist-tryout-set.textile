@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Rythm Guitarist Tryout Set
+excerpt: Only one song with a woman, yet the singer is a girl, which should be <a href="http://www.guardian.co.uk/arts/features/story/0,11710,1406798,00.html" title="Where have all the rock girls gone?">interesting</a>.
+category: notebook
+tags: []
+
+---
+p(preamble). Only one song with a woman, yet the singer is a girl, which should be <a href="http://www.guardian.co.uk/arts/features/story/0,11710,1406798,00.html" title="Where have all the rock girls gone?">interesting</a>.
+
+_Rain_ by Guano Apes
+_Crosstown Traffic_ by Jimi Hendrix
+_Sin City_ by AC/DC
+_Back in Black_ by AC/DC
+_Perfect Strangers_ by Deep Purple
+_Burden in my Hand_ by Soundgarden
+_Hard to Handle_ by Otis Redding (Black Crowes version)
+_Black Dog_ by Led Zeppelin
+_Rock and Roll_ by Led Zeppelin

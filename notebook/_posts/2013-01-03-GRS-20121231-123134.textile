@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1689"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- hair
+- glasses
+- woman
+- men
+- leopardskin
+- fur
+- clothes
+- shades
+- piercings
+---
+

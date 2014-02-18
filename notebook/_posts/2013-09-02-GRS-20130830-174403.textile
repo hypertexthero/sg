@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1859"
+location: Rome, Italy
+date_taken: August 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- nuns
+- 25 to 45 years
+- women
+- ice cream
+- gelato
+- walking
+- thumbs up
+- expression
+- nun
+---
+

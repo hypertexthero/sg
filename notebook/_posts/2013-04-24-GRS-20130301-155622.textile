@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Regent Street
+image: "1773"
+location: London, England
+date_taken: March 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- burqa
+- woman
+- man
+- naked
+- glasses
+- eyes
+- expression
+- window
+- street
+- shopping bag
+- suitcase
+---
+

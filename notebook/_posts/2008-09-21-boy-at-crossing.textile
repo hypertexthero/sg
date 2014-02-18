@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Boy at Crossing
+image: "439"
+location: Formello, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- boy
+- crossing
+- street
+- top
+- view
+- aerial
+---
+Dedicated to "BKG":http://notethisdown.posterous.com/!

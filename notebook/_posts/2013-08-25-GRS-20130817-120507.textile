@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via di Campese
+image: "1855"
+location: Isola del Giglio, Italy
+date_taken: August 2013
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- foam
+- man
+- 50 to 70 years
+- girl 6 to 14 years
+- night
+- flash
+- hands
+- expression
+- cross
+---
+

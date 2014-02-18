@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Temple of Literature GRS-20100414-125327
+image: "959"
+location: Hanoi, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- girl
+- group
+- tourist
+- packaged
+- eyes
+---
+

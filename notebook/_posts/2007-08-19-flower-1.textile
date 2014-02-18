@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Flower #1"
+image: "173"
+location: Wyoming, US
+date_taken: July 2006
+camera: Panasonic DMC-LX1
+lens: "Leica Vario-Elmarit 28\xE2\x80\x93112mm"
+category: notebook
+tags: 
+- bw
+- flower
+- flora
+- wyoming
+- out of focus
+- bokeh
+---
+Part of an upcoming series.

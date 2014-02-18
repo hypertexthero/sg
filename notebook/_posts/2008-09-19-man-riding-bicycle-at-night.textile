@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Man Riding Bicycle at Night
+image: "437"
+location: Rome, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- blur
+- lamp
+- bicycle
+- man
+- old
+- "60\xE2\x80\x9380"
+---
+There are those who are young in body and old in mind and heart, and there are those who are old in body and young in mind and heart. There are also those who are always young.
+
+Is the secret to eternal youth not to keep your mind open, to stay aware, to have _no absolutes_?

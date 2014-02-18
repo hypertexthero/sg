@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Place Georges Pompidou
+image: "1946"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- soccer
+- football
+- boy
+- playing
+- ball
+- kick
+- kicking
+- glass
+- window
+- sticker
+- Place Georges Pompidou
+- children
+- 5 to 10 years
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 54.

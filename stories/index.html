@@ -1,0 +1,8 @@
+---
+layout: stories_home
+title: Stories
+category: stories
+---
+
+{% for post in site.posts %}{% if post.category contains 'stories' %}
+  <li><a href="{{ post.url }}"><img class="introthumb" src="{{ site.url }}{{ post.thumb }}"> {{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}

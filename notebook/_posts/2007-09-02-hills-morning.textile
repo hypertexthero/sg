@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Hills, Morning
+image: "189"
+location: Isola del Giglio, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- landscape
+- castello
+- hills
+- morning
+- against sun
+- fog
+- clouds
+---
+View from Campese to Castello on the top of the hill.

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via dell'Incrociata
+image: "1555"
+location: Isola del Giglio, Tyrrhenian Sea
+date_taken: August 2011
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- seagull
+- flight
+- light
+- legs
+- wings
+- vines
+- movement
+---
+

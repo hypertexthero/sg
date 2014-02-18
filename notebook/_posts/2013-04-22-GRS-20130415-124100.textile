@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Piazza Farnese
+image: "1771"
+location: Rome, Italy
+date_taken: April 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- old man
+- nose
+- bent
+- newspaper
+- expression
+- midday
+- noon
+- walking
+- suit
+---
+

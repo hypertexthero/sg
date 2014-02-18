@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Passages
+category: notebook
+tags: 
+- passages
+- stories
+- dreams
+- essays
+- simon griffee
+---
+A series of "stories (Stories, essays, dreams.)":/stories/, of dreams, of passages:
+
+<ul>
+<li><a href="/story-p1/" title="Permanent link to Passages I - Búzios, Rio">Passages I - Búzios, Rio</a></li>
+<li><a href="/story-p2/" title="Permanent link to Passages II - London">Passages II - London</a></li>
+<li><a href="/story-p3/" title="Permanent link to Passages III - Rome">Passages III - Rome ...in progress...</a></li>
+<li><a href="/story-p4/" title="Permanent link to Passages IV - San Francisco Bay Area">Passages IV - San Francisco Bay Area</a></li>
+<li><a href="/story-p5/" title="Permanent link to Passages V - Andaman Sea, Saigon, Hanoi">Passages V - Andaman Sea, Saigon, Hanoi</a></li>
+</ul>
+
+Coming soon in the same: Malta, Jura and Cortona/Giglio.

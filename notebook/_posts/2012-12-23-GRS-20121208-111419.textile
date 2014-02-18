@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Nuovo Mercato di Testaccio
+image: "1682"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- old woman
+- cart
+- coat
+- fur
+- hair
+- eyeshadow
+- makeup
+- expression
+- winter
+---
+

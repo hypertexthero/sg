@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Stazione Termini GRS-20100930-074041
+image: "969"
+location: Rome, Italy
+date_taken: September 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- cow
+- fake
+- moo
+- hat
+- suit
+---
+

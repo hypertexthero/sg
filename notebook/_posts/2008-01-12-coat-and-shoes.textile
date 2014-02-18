@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Coat and Shoes
+image: "293"
+location: Bracciano, Italy
+date_taken: December 2007
+camera: Canon EOS 5D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- still life
+- leather jacket
+- shoes
+- via delle cantine 20
+---
+I bought the jacket in Oakland, California for 10 Dollars and the shoes in Maarssen, Netherlands, for 5 Euros.

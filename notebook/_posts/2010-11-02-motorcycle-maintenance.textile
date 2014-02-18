@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Motorcycle Maintenance
+image: "931"
+location: Saigon, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- men
+- motorcycle
+- sidewalk
+---
+

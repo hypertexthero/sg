@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Rocks in Moonlight
+image: "80"
+location: Joshua Tree, California, US
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- jumbo rocks
+- campsite
+- joshua tree
+- moon
+- moonlight
+- stars
+- starlight
+- night
+- color
+- landscape
+- camping
+---
+Twenty-five second exposure at around eight p.m. in Jumbo Rock campground at Joshua Tree national park. "Mirror lock-up (Understanding Mirror Lock-Up - Luminous-landscape.com)":http://www.luminous-landscape.com/tutorials/understanding-series/mirror-lock.shtml was used. I believe the bright constellation on the top-right is Orion.

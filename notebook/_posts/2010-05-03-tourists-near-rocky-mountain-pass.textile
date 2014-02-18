@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Tourists Near Rocky Mountain Pass
+image: "704"
+location: Rocky Mountains, Colorado, US
+date_taken: June 2005
+category: story-jtus
+tags: 
+- GRS-20050629-173415
+---
+

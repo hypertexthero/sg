@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via dei Gracchi
+image: "1502"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old ladies
+- happy
+- glasses
+- gesture
+- expression
+---
+

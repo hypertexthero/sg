@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Viale Trastevere
+image: "1956"
+location: Rome, Italy
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- father christmas
+- santa claus
+- taxi
+- costume
+- beard
+- skull
+- hat
+- hair
+- hand
+- night
+- "#GetCloser100"
+---
+Merry Christmas from Rome! "#GetCloser100":http://getcloser.magnumphotos.com/ Day 64.

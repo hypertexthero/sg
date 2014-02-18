@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: On The Way to Procession
+image: "541"
+location: Sevilla, Spain
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- procession
+- hats
+- humor
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Terminal B
+image: "783"
+location: Fiumicino, Italy
+date_taken: November 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- frown
+- adverts
+- faces
+- smiles
+- chairs
+---
+

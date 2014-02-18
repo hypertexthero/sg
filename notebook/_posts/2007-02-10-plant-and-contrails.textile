@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Plant and Contrails
+image: "79"
+location: Joshua Tree, California, US
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- joshua tree
+- national park
+- la
+- los angeles
+- contrails
+- plant
+- rock
+- landscape
+- bw
+- black and white
+---
+The surprising amount of contrails over Joshua Tree national park were a reminder that another "kind of desert (Desert of the soul.)":http://en.wikipedia.org/wiki/Los_Angeles,_California was not far away.

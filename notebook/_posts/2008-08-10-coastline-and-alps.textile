@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Coastline and Alps
+image: "391"
+location: Ligurian Sea, Mediterranean
+date_taken: April 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- landscape
+- aircraft
+- window
+- airplane
+- aeroplane
+- high
+- altitude
+- mountains
+- geography
+- haze
+- coastline
+- beach
+---
+

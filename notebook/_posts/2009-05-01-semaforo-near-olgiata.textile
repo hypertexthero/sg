@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Sem\xC3\xA1foro Near Olgiata"
+image: "546"
+location: Olgiata, Italy
+date_taken: March 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- colour
+- man
+- candid
+- car window
+- rainbow
+- against sun
+---
+

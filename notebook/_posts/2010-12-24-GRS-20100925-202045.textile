@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Bus in Via dei Fori Imperiali
+image: "990"
+location: Rome, Italy
+date_taken: September 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- amber
+- reflection
+- people
+- night
+- window
+---
+

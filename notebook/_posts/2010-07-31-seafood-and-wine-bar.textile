@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Seafood and Wine Bar
+image: "821"
+location: Amsterdam, Netherlands
+date_taken: September 2008
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- bubbles
+- man
+- bottles
+- bar
+---
+

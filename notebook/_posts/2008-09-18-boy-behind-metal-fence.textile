@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Boy Behind Metal Fence
+image: "436"
+location: Bracciano, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- boy
+- blonde
+- "5\xE2\x80\x9310"
+- sky
+- clouds
+- fence
+- spikes
+- gate
+---
+

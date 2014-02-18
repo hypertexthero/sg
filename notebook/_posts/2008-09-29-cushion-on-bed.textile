@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Cushion on Bed
+image: "441"
+location: Formello, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- stilllife
+- object
+- pillow
+- dad
+- mum
+- mom
+- "m\xC3\xA3e"
+- pai
+---
+

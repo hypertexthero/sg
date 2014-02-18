@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: "Kenny Burrell: My Favorite Things"
+excerpt: "Kenny Burrell: My Favorite Things"
+category: notebook
+tags: 
+- Kenny Burrell
+- My Favorite Things
+- guitar
+- jazz
+---
+ <object width="250" height="40" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="gsSong3390957328" name="gsSong3390957328"><param name="movie" value="http://grooveshark.com/songWidget.swf" /><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=33909573&style=metal&p=0" /><object type="application/x-shockwave-flash" data="http://grooveshark.com/songWidget.swf" width="250" height="40"><param name="wmode" value="window" /><param name="allowScriptAccess" value="always" /><param name="flashvars" value="hostname=grooveshark.com&songID=33909573&style=undefined&p=0" /><span><a href="http://grooveshark.com/search/song?q=Kenny%20Burrell%20My%20Favorite%20Things" title="My Favorite Things by Kenny Burrell on Grooveshark">My Favorite Things by Kenny Burrell on Grooveshark</a></span></object></object>

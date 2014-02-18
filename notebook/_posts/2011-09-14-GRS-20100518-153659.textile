@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1311"
+location: Rome, Italy
+date_taken: May 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- man
+- expression
+- tie
+- midday
+- car
+- taxi
+- street
+---
+

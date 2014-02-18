@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Dance Hall
+image: "1429"
+location: San Benedetto del Tronto, Italy
+date_taken: September 2011
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- kiss
+- boy
+- girl
+- blur
+- club
+- lights
+- for ann
+---
+

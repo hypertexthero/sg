@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: Images, Reality and the Curse of History
+category: notebook
+tags: 
+- gilles peress
+---
+"A conversation with Gilles Peress":http://globetrotter.berkeley.edu/Peress/peress-con0.html.

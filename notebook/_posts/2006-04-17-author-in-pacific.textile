@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Author in Pacific
+image: "2"
+location: San Simeon, California
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: EF 28-135mm f/3.5-5.6 IS USM
+category: notebook
+tags: 
+- author
+- simon
+- griffee
+- pacific ocean
+- california
+- usa trip 2005
+---
+p(preamble). First time at the Pacific Ocean. The fog and cold were unexpected.

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Morning After Leaving Saigon #5"
+image: "935"
+location: "Train Between Saigon and H\xE1\xBB\x99i An, Vietnam"
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- man
+- train window
+- mountains
+- morning
+- fog
+- cloud
+---
+

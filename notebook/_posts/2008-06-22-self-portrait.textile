@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Self Portrait
+image: "381"
+location: Bracciano, Italy
+date_taken: June 2008
+camera: Micron iSight v1.84
+category: notebook
+tags: 
+- bw
+- self portrait
+- portraiture
+- kitchen
+- bracciano
+- "1"
+- simon
+- griffee
+- window
+- light
+---
+<txp:hide>"Posted at David Alan Harvey's forum":http://davidalanharvey.typepad.com/road_trip/2008/06/self-portrait/comments/page/7/#comment-119758886:/
+
+For me self portraiture has always been for fun, usually to show-off my alter ego, "Jimmy Boss (Jimmy The Boss!)":http://jimmyboss.com!
+
+I think that doing it seriously is most difficult because you have to know yourself for the portrait to say something about yourself. 
+
+To understand yourself is invaluable because it means understanding other humans as well. "Gnothi Seauton":http://en.wikipedia.org/wiki/Know_thyself…
+</txp:hide>

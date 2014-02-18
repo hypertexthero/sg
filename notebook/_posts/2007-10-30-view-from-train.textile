@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: View From Train
+image: "249"
+location: Near Vigna di Valle, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- landscape
+- train
+- electric pilon
+- high clouds
+---
+

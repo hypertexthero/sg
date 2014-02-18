@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Near B\xE1\xBA\xBFn Th\xC3\xA0nh Market"
+image: "923"
+location: Saigon, Vietnam
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- men
+- motorcycles
+- market
+---
+

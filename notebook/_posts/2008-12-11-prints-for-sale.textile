@@ -1,0 +1,108 @@
+--- 
+layout: post
+title: Prints for Sale
+category: prints
+tags: 
+- fine
+- black and white
+- prints
+- photographs
+- for sale
+---
+h1. Black & White Prints
+
+If you are interested in purchasing a print please "contact me":/contact/.
+
+<txp:hide>
+Fine prints of my photographs of Rome, the Eternal City, are available for sale at "Rome Black & White":http://romebw.com. The prints consist of carbon pigment ink printed onto archival cotton matte paper and are shipped anywhere in the world for free. See "this page":http://romebw.com/information for more information. The Rome Black & White archive is growing continually so check the site often for new images!
+
+<a class="imglink" href="/prints/cats-pocket-print-pack"><img class="floatright" src="/images/cat-print-pack-individual-black-bg.jpg" width="100" height="69" alt="A photograph of the Cats pocket print packet." /></a>
+
+h2. Pocket Print Packs
+
+Also currently offered: a collection of eight small <span class="caps">8.4 x 5.6 cm (3.3 x 2.2 in)</span> prints in charming little packets. I print these little photographs using the same archival materials as my larger prints—carbon pigment ink and 100% cotton paper.
+
+The following _Pocket Print Packs_ are currently available:
+
+* *Cats!* · 8 photographs from my "Cats I - Bracciano":http://simongriffee.com/story-catsi/ story. "Preview »":/prints/cats-pocket-print-pack
+* *Rome* · 8 photographs from my "Rome Black & White":http://romebw.com website. "Preview »":/prints/rome-pocket-print-pack
+
+Below you can select your packet and click on the PayPal button to order (please note that you do not need a Paypal account, just a credit card). Each pack costs 20 Euros and shipping anywhere in the world is free. Once you place your order please allow up to two weeks to receive your print packet. Thank you!
+
+ <div id="packetform">
+ <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+   <input type="hidden" name="cmd" value="_s-xclick" />
+   <input type="hidden" name="hosted_button_id" value="4817784" />
+   <input name="on0" type="hidden" value="Pocket Print Packs" />
+   <label for="os0" class="hidden">Pocket Print Packs</label>
+   <select size="2" multiple="no" name="os0">
+       <option value="Cats">Cats €20,00</option>
+       <option value="Rome">Rome €20,00</option>
+   </select>
+   <input type="hidden" name="currency_code" value="EUR" />
+   <input type="image" src="http://simongriffee.com/images/Purchase.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!" />
+   <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+ </form>
+ </div>
+
+h2(#collectionmes). Mês Collection Prints
+
+Every month a photograph is added to the <em>Mês Collection</em> of prints available in a limited edition of selected sizes. Prices of Mês Collection Prints increase over time and so does the value of your investment. The type, size and price of each edition's prints vary and detailed information about each month's edition can be found on the edition's page. Each limited edition includes five artist's copies of each size. An "archive of previous editions is available":/printsmes/.
+
+
+h2. Sizes, Packaging, Prices
+
+The exact size of the printed image varies and the print size refers to the paper size. Each print has the title, date, my signature, and if part of a limited edition, the edition number written in pencil on the back. Prints are not framed and are currently only available unmatted.
+
+table(#printdetails).
+|_. Approximate Size|_. Price|_. Shipping|
+|*A4* : 21 × 29.7 cm _(8.27 × 11.69 in)_|€ 90|Free|
+|*A5* : Available soon in a special edition|**|Free|
+|*A6* : 10.5 × 14.8 cm _(4.13 × 5.82 in)_|€ 35|Free|
+
+h2(#delivery). Shipping, Delivery Time
+
+All prints are shipped insured, flat and sturdily packed. Shipping of the prints to anywhere in the world is included in the price. Please allow up to _two weeks_ for delivery as a general rule.
+
+h2. Satisfaction Guarantee
+
+I understand that it is a risk to purchase a fine print over the internet without seeing it in person first. If you are not happy with your purchase, send the print back to me in original packaging and condition within 30 days of my shipment to you and I will refund you your money (minus the shipping cost). It won't do you or I any good if you are not 100% satisfied with your print.
+
+h2(#orderingandpayment). Ordering and Payment
+
+To purchase a *limited edition _Mês Collection Print_* click on the _Purchase Print_ button on each edition's page ("see a list of months":/printsmes/). You will be taken to Paypal's secure interface where you can fill in your address and credit card details. Once you do so, I will be notified and will send your limited edition print to you as soon as possible, usually within three business days. Note that you _can_ pay with a credit card when ordering through Paypal without needing to sign up for a Paypal account.
+
+To order a *print of any other photograph you like here on SimonGriffee.com* please complete the form below and I will get back to you via email as soon as possible. I currently accept payment through Paypal or direct bank transfer.
+
+ <div id="purchaseform">
+ <txp:zem_contact to="simon@simongriffee.com" label="" thanks_form="thankyou">
+ <h3>Custom Print Order Form <span class="small">(All fields are required.)</span></h3>
+ <div class="iefieldsetbugfix">
+ <txp:zem_contact_text label="Title of or Link to Desired Photograph" size="52" />
+ <br />
+ <txp:zem_contact_select label="Desired Print Size" list="Please select:,A4 : 21 × 29.7 cm (8.27 x 11.69 in),A5 : 14.8 × 21 cm (5.82 x 8.27 in),A6 : 10.5 × 14.8 cm (4.13 x 5.82 in)" />
+ <txp:zem_contact_textarea cols="52" rows="6" label="Your Street Address" /><br />
+ <txp:zem_contact_text label="Your Name" size="35" /><br />
+ <txp:zem_contact_email label="Your Email" size="35" /><br />
+ <txp:zem_contact_submit label="Send" />
+ </div>
+ </txp:zem_contact>
+ </div>
+
+h2(#printqualities). Print Qualities
+
+The black and white prints are have a great range of tonalities from deep blacks to distinct greys and clear, smooth whites, and the matte paper used gives a very slight warmth to the images. The prints use pure "carbon black pigment ink (Carbon Ink Prints information.)":http://www.cjcom.net/articles/carbonink.htm only and are coated with Hahnemühle protective spray. The combination of printing system, ink, paper and coating gives the prints "a very long life without fading (Paul Roark's Digital B&W Printing Information Index.)":http://www.paulroark.com/BW-Info/, close to or surpassing silver prints. Copyright watermarks are _not_ present on prints.
+
+All prints are printed with an R800 printer controlled by custom "Quad Tone Rip software":http://www.quadtonerip.com/html/QTRoverview.html using the <acronym title="3 Matte Black">3MK</acronym> system of "100% pure carbon archival black ink (100% Carbon Pigment Digital Black and White : Paul Roark.)":http://www.paulroark.com/BW-Info/R1800.htm from "MIS Associates (MIS Black and White Ink Products page.)":http://www.inksupply.com/bwpage.cfm. The paper used is usually *Hahnemühle Photo Rag 308g/m<sup>2</sup>* fiber-based matte paper of museum archival quality. I may use different types of paper (always acid free, of archival quality) for particular limited editions, and the type of paper used will always be listed on each edition's page. There is generous white space around the images for proper matting.
+
+
+h2(#purchasinglicensing). Questions?
+
+If you have any questions about purchasing or licensing any photograph you see here at SimonGriffee.com please "contact me":/contact/.
+
+h2(#thankyou). Thank You
+
+I consider fine prints the ultimate expression of the photographic process. A beautiful photographic print is an object which can take you on our own journeys and a companion who you can live with all your life. When you buy a fine print here or at "DearMoment.com":http://dearmoment.com you directly help me continue to photograph. Thank you!
+
+Simon Griffee
+</txp:hide>

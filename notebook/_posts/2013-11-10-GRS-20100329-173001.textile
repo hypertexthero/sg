@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: "L\xC3\xAA Th\xC3\xA1nh T\xC3\xB4n"
+image: "1911"
+location: Saigon, Vietnam
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- color
+- children
+- street
+- 5 to 10 years
+- people
+- motorcyle
+- moped
+- street
+- garbage
+- broom
+- glasses
+- neon signs
+- walking
+- urban
+- poverty
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 20.

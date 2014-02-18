@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Waaaaaaaaaaauuuuuu!!
+image: "1473"
+location: Rome, Italy
+date_taken: March 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- corey
+- hand
+- hat
+- expression
+- blur
+- flash
+- shirt
+---
+

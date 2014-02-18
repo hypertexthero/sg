@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Via dei Pettinari, Night
+image: "849"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- night
+- graffitti
+---
+

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Villa Miani
+image: "1832"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- men
+- suits
+- back
+- night
+- flash
+- girls
+- watching
+- hair
+- bald
+- jacket
+---
+

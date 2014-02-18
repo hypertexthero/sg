@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Trees, Clouds and Tower
+image: "248"
+location: Viterbo, Italy
+date_taken: July 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- landscape
+- venecian
+- pattern
+- clouds
+- sky
+---
+

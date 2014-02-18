@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1957"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boys
+- sticks
+- expression
+- gesture
+- sneakers
+- jeans
+- shoes
+- pest
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 65.

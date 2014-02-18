@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Men, Boy and Woman
+image: "260"
+location: Rome, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- piazza di spagna
+- bella figura
+---
+

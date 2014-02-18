@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Goodramgate
+image: "1043"
+location: York, England
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- expression
+- window
+- division
+---
+

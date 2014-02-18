@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Porta di Roma
+image: "1909"
+location: Rome, Italy
+date_taken: October 2009
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- children
+- parents
+- adults
+- 3 to 7 years
+- 25 to 40 years
+- shopping trolley
+- expression
+- tired
+- exhaustion
+- shopping mall
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 18.

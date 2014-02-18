@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Car On Country Road
+image: "425"
+location: Near Vigna di Valle, Italy
+date_taken: August 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- track
+- train
+- window
+- sun
+- glare
+- highkey
+- light
+- tree
+- automobile
+- car
+---
+

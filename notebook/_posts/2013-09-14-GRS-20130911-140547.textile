@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1866"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- women
+- 45 to 65 years
+- tourists
+- sunglasses
+- shades
+- hat
+- expression
+- breasts
+- walking
+---
+

@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: "M\xC3\xA3e Chegando em Giglio"
+image: "447"
+location: Isola del Giglio, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- colour
+- "m\xC3\xA3e"
+- odila
+- griffee
+- mozzato
+- augusta
+- feliz
+- "bon\xC3\xA9"
+- cap
+- brazil
+- brasil
+- arvores
+- trees
+- mediterranean
+- boat
+- ferry
+- traghetto
+- island
+- sea
+- sky
+- clouds
+---
+

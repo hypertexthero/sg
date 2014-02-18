@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Man, Woman and Statue #2"
+image: "88"
+location: London, UK
+date_taken: July 2003
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2\xE2\x80\x93f/2.5 Zoom Lens"
+category: notebook
+tags: 
+- tate modern
+- museum
+- statue
+- man
+- woman
+- bw
+- street
+- turbine hall
+---
+Another shot taken in the Tate Modern, along with the previously published "Man, Woman and Statue (Tate Modern Turbine Hall.)":/photographs/man-woman-and-statue, "Still Life (Going up the escalator.)":/photographs/still-life, and, on a different visit, "Reflection, Turbine Hall (Weather Project)":/photographs/reflection-turbine-hall. More to come from this location.

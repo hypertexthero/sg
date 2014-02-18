@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via Cola di Rienzo
+image: "1820"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- color
+- woman
+- 60 to 75 years
+- dress
+- yellow
+- mobile phone
+- expression
+- glasses
+- hair
+- scarf
+---
+

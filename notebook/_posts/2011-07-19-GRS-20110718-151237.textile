@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Piazza San Pietro
+image: "1167"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- tourist
+- hat
+- glasses
+- expression
+- portrait
+- teeth
+- crossed legs
+---
+From a project with the working title 'Tourists & Locals'.

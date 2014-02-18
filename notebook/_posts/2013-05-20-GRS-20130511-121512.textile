@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Avenue de Saint-Ouen
+image: "1784"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- shadows
+- sunlight
+- noon
+- branches
+- tree
+- shade
+- expression
+- walking
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 22. 
+
+Day 21 is "here":http://simongriffee.com/notebook/GRS-20121231-123134-ii.

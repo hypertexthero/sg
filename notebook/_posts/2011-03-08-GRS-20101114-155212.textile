@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via Principe Eugenio
+image: "1065"
+location: Rome, Italy
+date_taken: November 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boy
+- hood
+- street
+- leaning
+- wall
+---
+

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Near Basilica Ulpia
+image: "1814"
+location: Rome, Italy
+date_taken: June 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 70 to 90 years
+- hat
+- expression
+- glasses
+- cane
+- steps
+- clouds
+---
+

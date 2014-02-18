@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1809"
+location: Rome, Italy
+date_taken: June 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- suit
+- suits
+- men
+- shades
+- glasses
+- expression
+- walk
+- noon
+- hand
+- tie
+- 30 to 45 years
+---
+

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Storm Near Parco di Veio
+image: "50"
+location: Formello, Italy
+date_taken: May 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- storm
+- clouds
+- sun
+- setting
+- parco di veio
+- formello
+- italy
+- italy
+- rain
+- house
+- grass
+---
+p(preamble). When I saw this on my way back home from work I stopped the car, got out and took several shots. It was a brief moment, the light from the setting sun on the layers of a fast-moving storm. A few minutes later, the cloud formations were gone.

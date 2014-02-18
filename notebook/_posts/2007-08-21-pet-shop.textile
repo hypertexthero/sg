@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Pet Shop
+image: "174"
+location: Carmel-by-the-Sea, California, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: EF 28-135mm f/3.5-5.6 IS USM
+category: notebook
+tags: 
+- bw
+- dog
+- pet shop
+- sunglasses
+- shades
+- ridiculous
+- vactioning
+- pet
+- carmel by the sea
+- rich
+- pretentious
+- pooch
+- california
+- doin'
+---
+Dress your dog! Vacationing with your pet! The lives of the rich of Carmel-by-the-Sea.

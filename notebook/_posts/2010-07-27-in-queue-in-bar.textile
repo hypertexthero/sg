@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: In Queue in Bar
+image: "817"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- boy
+- glasses
+- bar
+- night
+---
+

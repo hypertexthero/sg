@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: San Calisto
+image: "1436"
+location: Rome, Italy
+date_taken: January 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- glass
+- expression
+- night
+---
+

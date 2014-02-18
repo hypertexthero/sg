@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1576"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- sunglasses
+- shades
+- gym clothes
+- walk
+- crosswalk
+- shadows
+- expression
+---
+

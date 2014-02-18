@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Near Campo de Fiore
+image: "991"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- children
+- writing
+- glance
+- expression
+- blurry
+---
+

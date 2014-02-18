@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1990"
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girls
+- 17 to 25
+- group
+- fashion
+- hair
+- glasses
+- legs
+- gesture
+- expression
+- trees
+- pines
+- roman
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day ?

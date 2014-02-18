@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Stazione di Santa Maria Novella
+image: "1428"
+location: Florence, Italy
+date_taken: March 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- man
+- station
+- luggage
+- clock
+- expression
+---
+

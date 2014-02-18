@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Country Road
+image: "692"
+location: Countryside, Wisconsin, US
+date_taken: June 2005
+category: story-jtus
+tags: 
+- GRS-20050620-141839
+---
+

@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: Images from The North American Indian by Edward S. Curtis
+category: notebook
+tags: []
+
+---
+"Images from The North American Indian by Edward S. Curtis":http://commons.wikimedia.org/wiki/Category:Images_from_The_North_American_Indian_by_Edward_S._Curtis.

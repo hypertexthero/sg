@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Party
+image: "1301"
+location: Malta
+date_taken: December 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- gianmarco
+- malta
+- party
+- legs
+- crossed
+- night
+---
+

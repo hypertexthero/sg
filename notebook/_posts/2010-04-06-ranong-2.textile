@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: "Ranong #2"
+image: "690"
+location: Ranong, Thailand
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- boat
+---
+

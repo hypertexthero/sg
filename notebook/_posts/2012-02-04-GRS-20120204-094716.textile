@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via Claudia
+image: "1389"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romesnow
+tags: 
+- bw
+- old lady
+- old woman
+- umbrella
+- coat
+- snow
+- street
+- expression
+---
+

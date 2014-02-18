@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Flying Flock
+image: "463"
+location: Bracciano, Italy
+date_taken: December 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- flock
+- birds
+- flying
+- sky
+---
+Merry Christmas and welcome to the new SimonGriffee.com!

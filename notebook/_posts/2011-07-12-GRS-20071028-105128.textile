@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Incrocio
+image: "1155"
+location: Bracciano, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- vigile
+- vigili
+- guard
+- police
+- geometry
+- expression
+- light
+- uniform
+- hat
+---
+

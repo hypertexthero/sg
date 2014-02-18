@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Horta Gallery Central
+image: "1374"
+location: Brussels, Belgium
+date_taken: January 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- escalator
+- old man
+- expression
+- indoor
+---
+

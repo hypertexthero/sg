@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1791"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- over 60
+- walking
+- raincoat
+- purse
+- sunglasses
+- against light
+- sidewalk
+---
+

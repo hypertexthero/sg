@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Fes el Bali
+image: "1993"
+location: Fes, Morocco
+date_taken: February 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- woman
+- men
+- old
+- fish
+- market
+- light bulb
+- lamp
+- dark
+- light
+- expression
+- veil
+- seller
+- 40 to 80 years
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Calle de las Jazmineras
+image: "1113"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- man
+- bars
+- balcony
+- leaves
+- expression
+---
+

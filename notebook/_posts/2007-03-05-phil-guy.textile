@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Phil Guy
+image: "95"
+location: Chicago, Illinois, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- phil
+- guy
+- phil guy
+- blues
+- buddy guy
+- legends
+- blues club
+- music
+- bw
+- guitar
+- fender
+- telecaster
+---
+A year before "seeing Buddy Guy in San Francisco":/photographs/buddy-guy I saw his brother Phil play in Chicago. The venue was Buddy's own "Legends (Buddy Guy's Legends Blues Club.)":http://www.buddyguys.com/. Phil Guy is a terrific guitarist and singer, coalescing many different blues styles into his own repertoire. I recommend his album _Funky Booty_, which I bought directly from him that night.

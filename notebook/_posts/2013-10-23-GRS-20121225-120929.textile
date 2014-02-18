@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Apolin\xC3\xA1\xC5\x99sk\xC3\xA1"
+image: "1893"
+location: Prague, Czech Republic
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- wall
+- lamp
+- street
+- geometry
+- hat
+- back
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 2.

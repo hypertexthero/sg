@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Bus to Bangkok #7"
+image: "656"
+location: Bangkok, Thailand
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- bus driver
+- bus depot
+- late afternoon
+---
+

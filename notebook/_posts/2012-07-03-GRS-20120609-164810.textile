@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via Ottaviano
+image: "1571"
+location: Rome, Italy
+date_taken: June 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- women
+- expression
+- shades
+- sunglasses
+- necklace
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Near Sararom Royal Park
+image: "620"
+location: Bangkok, Thailand
+date_taken: February 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- lying on street
+- srarom royal park
+- canal
+- pipe
+---
+

@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Wild Bird in Room
+image: "551"
+location: Formello, Italy
+date_taken: February 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- bird
+- hitchcock
+- vertigo
+- poster
+---
+Came in through the chimney.

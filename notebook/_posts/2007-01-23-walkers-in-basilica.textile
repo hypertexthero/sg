@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Walkers in Basilica
+image: "59"
+location: Rome, Italy
+date_taken: May 2002
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2\xE2\x80\x93f/2.5 Zoom Lens"
+category: notebook
+tags: 
+- basilica
+- san
+- pietro
+- kneeling
+- tourist
+- light
+- walking
+- catholic
+- michelangelo
+---
+p(preamble). Light and tourists in Basilica di San Pietro.

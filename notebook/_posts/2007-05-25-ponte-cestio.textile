@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Ponte Cestio
+image: "134"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- ponte
+- bridge
+- bw
+- landscape
+- tiber
+- isola
+- island
+---
+View of "Isola Tiberina":http://www.isolatiberina.it/ and Ponte Cestio. The tower of "chiesa di Santa Maria in Cosmedin":http://it.wikipedia.org/wiki/Santa_Maria_in_Cosmedin can be seen in the background.

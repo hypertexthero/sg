@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Piazza San Silvestro
+image: "1675"
+location: Rome, Italy
+date_taken: November 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- old
+- sunglasses
+- mouth
+- gesture
+- hands
+- coats
+- tie
+---
+

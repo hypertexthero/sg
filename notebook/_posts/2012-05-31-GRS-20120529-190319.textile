@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Piazza di Spagna
+image: "1542"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- group picture
+- expression
+- old man
+- smile
+- teeth
+- faces
+- guests
+- steps
+- "Trinit\xC3\xA0 dei Monti"
+---
+

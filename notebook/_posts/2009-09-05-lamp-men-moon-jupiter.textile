@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Lamp, Men, Moon, Jupiter
+image: "581"
+location: Bracciano, Italy
+date_taken: September 2009
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- bw
+- moon
+- jupiter
+- men
+- moon
+- benches
+- belvedere della sentinella
+---
+

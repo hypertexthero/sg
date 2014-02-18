@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "In Front of Gran Caff\xC3\xA8 Sabazio"
+image: "465"
+location: Bracciano, Italy
+date_taken: October 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- old
+- man
+---
+

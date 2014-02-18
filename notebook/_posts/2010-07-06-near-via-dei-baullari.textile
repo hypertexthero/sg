@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Near Via dei Baullari
+image: "796"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- muscle man
+- kids
+---
+

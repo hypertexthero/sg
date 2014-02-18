@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via del Fossato
+image: "235"
+location: Bracciano, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- bridge
+- shadow
+- elderly
+- man
+- woman
+- stairs
+---
+

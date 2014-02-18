@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: St Peter's Basilica
+image: "1742"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boys
+- priests
+- suits
+- gesture
+- gate
+- heaven
+- fence
+- statue
+- st. peter
+---
+

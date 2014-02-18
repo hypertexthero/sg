@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Campo de' Fiori
+image: "1087"
+location: Rome, Italy
+date_taken: January 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- amber
+- suvi
+- blur
+- cigarette
+- girls
+---
+

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Piazza di Trevi
+image: "1891"
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- 50 to 75 years
+- expression
+- earpiece
+- earphone
+- eyebrow
+- priest
+- brassiere
+- group
+- tourists
+- tour
+---
+

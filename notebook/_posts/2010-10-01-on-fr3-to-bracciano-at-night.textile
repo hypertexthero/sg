@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: On FR3 to Bracciano at Night
+image: "903"
+location: Rome, Italy
+date_taken: November 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- man
+- train
+---
+

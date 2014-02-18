@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "Leaving Bangkok #14"
+image: "661"
+location: Bangkok, Thailand
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- workers
+---
+

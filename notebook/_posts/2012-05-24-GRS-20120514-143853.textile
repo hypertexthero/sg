@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Lichfield Street
+image: "1537"
+location: Wolverhampton, UK
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old lady
+- expression
+- glasses
+- window
+- movement
+- map
+- coat
+- hair
+---
+

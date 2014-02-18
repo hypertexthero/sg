@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Still Life
+image: "33"
+location: London, UK
+date_taken: July 2003
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+category: notebook
+tags: 
+- stairs
+- escalator
+- museum
+- still life
+- lights
+- tate modern art museum
+---
+p(preamble). At the Tate Modern.

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Parcheggio del Ristorante
+image: "1110"
+location: Near Ciampino, Italy
+date_taken: March 2011
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- luca
+- old man
+- night
+- trees
+- moon
+---
+

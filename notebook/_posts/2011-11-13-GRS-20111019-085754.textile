@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Viale del Parco del Celio
+image: "1349"
+location: Rome, Italy
+date_taken: October 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- hat
+- expression
+- cigarette
+- smoke
+---
+

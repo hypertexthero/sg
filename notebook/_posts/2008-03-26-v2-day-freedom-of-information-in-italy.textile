@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "V2 Day: Freedom of Information in Italy"
+excerpt: |
+  "Help free the Italian media on April 25th 2008":http://www2.beppegrillo.it/v2day/.
+  
+
+category: notebook
+tags: []
+
+---
+"Help free the Italian media on April 25th 2008":http://www2.beppegrillo.it/v2day/.
+

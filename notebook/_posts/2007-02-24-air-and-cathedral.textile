@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Air and Cathedral
+image: "89"
+location: London, UK
+date_taken: July 2003
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2\xE2\x80\x93f/2.5 Zoom Lens"
+category: notebook
+tags: 
+- tate
+- modern
+- balloon
+- sculpture
+- black
+- bw
+- landscape
+- pink floyd
+- st. paul cathedral
+---
+Like nicotine, organized religion is an addiction, also a set of false beliefs that bound, incapacitate, and ultimately, destroy.

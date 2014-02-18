@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Street Scene
+image: "1103"
+location: Hanoi, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- older man
+- street
+- expression
+---
+

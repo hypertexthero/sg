@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via del Circo Massimo
+image: "1647"
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- goths
+- boys
+- sunglasses
+- shades
+- flare
+- shirt
+- hard rock cafe
+- long hair
+- expression
+---
+

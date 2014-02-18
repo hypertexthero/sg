@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Pope John Paul II Beatification
+image: "1125"
+location: Rome, Italy
+date_taken: May 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- man
+- gesture
+- cap
+- midday
+- expression
+---
+

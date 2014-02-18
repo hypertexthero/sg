@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Car and Clouds
+image: "171"
+location: Wyoming, US
+date_taken: July 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- car
+- clouds
+- bw
+- roadtrip
+- wyoming
+- on building
+---
+

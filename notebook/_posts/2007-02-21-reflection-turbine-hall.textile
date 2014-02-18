@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Reflection, Turbine Hall
+image: "87"
+location: London, UK
+date_taken: February 2004
+camera: Canon Digital Ixus 400
+lens: "36-108mm f/2.8\xE2\x80\x934.9 Zoom"
+category: notebook
+tags: 
+- tate
+- museum
+- tate modern
+- weather
+- sun
+- mirrors
+- people
+- street
+- color
+- turbine
+- hall
+- orange
+---
+An artificial half-sun is reflected off the ceiling in Turbine Hall along with spectators at the "Weather Project (Olafur Eliasson.)":http://www.tate.org.uk/modern/exhibitions/eliasson/ in the "Tate Modern (Museum.)":http://www.tate.org.uk/modern/.

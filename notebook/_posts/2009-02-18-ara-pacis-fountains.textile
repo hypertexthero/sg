@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Ara Pacis Fountains
+image: "493"
+location: Rome, Italy
+date_taken: January 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- fountains
+- ara pacis
+- people
+- water
+- midday
+- noon
+---
+

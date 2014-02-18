@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1802"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- tall
+- flash
+- night
+- expression
+- suit
+- walk
+---
+

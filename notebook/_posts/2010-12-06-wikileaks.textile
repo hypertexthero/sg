@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: Wikileaks
+excerpt: Wikileaks
+category: notebook
+tags: 
+- wikileaks
+- cablegate
+- assange
+- us
+---
+Here are some of the best articles I have found so far regarding the current "Wikileaks":http://wikileaks.ch/ thing, all worth reading:
+
+* "Human Rights Watch - US: WikiLeaks Publishers Should Not Face Prosecution
+- Letter to President Barack Obama":http://www.hrw.org/en/news/2010/12/14/us-wikileaks-publishers-should-not-face-prosecution
+* "Reporters Without Borders - Open letter to President Obama and General Attorney Holder regarding possible criminal prosecution against Julian Assange":http://en.rsf.org/open-letter-to-president-obama-and-17-12-2010,39075.html
+* "The Guardian's coverage":http://www.guardian.co.uk/media/wikileaks - the best by a large newspaper
+* "WikiLeaks may make the powerful howl, but we are learning the truth":http://www.guardian.co.uk/commentisfree/2010/dec/11/henry-porter-wikileaks-cables - "Never mind the self-serving politicians who waffle on about the need for diplomatic confidentiality when they themselves order the bugging of diplomats and hacking of diplomatic communications. What is astonishing is the number of journalists out there who argue that it is better not to know these things, that the world is safer if the public is kept in ignorance. In their swooning infatuation with practically any power elite that comes to hand, some writers for the Murdoch press and Telegraph titles argue in essence for the Chinese or Russian models of deceit and obscurantism. They advocate the continued infantilising of the public."
+* "Wikileaks FAQ":http://futureoftheinternet.org/wikileaks-cable-faq by Harvard Law professor Jonathan Zittrain, founder of the "Chilling Effects":http://www.chillingeffects.org/ website
+* "Say No to Online Censorship":https://www.eff.org/pages/say-no-to-online-censorship! - "Make no mistake — this is about much more than WikiLeaks. Shutting down sites like WikiLeaks is a very serious attack on freedom of expression."
+* "The Shameful Attacks on Julian Assange":http://www.theatlantic.com/international/archive/10/12/the-shameful-attacks-on-julian-assange/67440/ - the state of the US media
+* "Ron Paul's speech defending Wikileaks":http://www.huffingtonpost.com/2010/12/10/ron-paul-wikileaks-defense_n_795014.html
+* "Journalist John Pilger's letter to the Guardian":http://www.guardian.co.uk/news/blog/2010/dec/09/wikileaks-us-embassy-cables-live-updates: "6.05pm - We protest at the attacks on Wikileaks and, in particular, on Julian Assange (Report, 9 December) The leaks have assisted democracy in revealing the real views of our governments over a range of issues which have been kept secret and are now irreversibly in the public domain. All we knew about the mass killing, torture and corruption in Iraq and Afghanistan has been confirmed. The world's leaders can no longer hide the truth by simply lying to the public. The lies have been exposed. The actions of major corporations such as Amazon, the Swiss banks and the credit card companies in hindering Wikileaks, are shameful, bowing to US government pressure. The US government and its allies, and their friends in the media, have built up a campaign against Assange which now sees him in prison facing extradition on dubious charges, with the presumed eventual aim of ensuring his extradition to the US. We demand his immediate release, the dropping of all charges, and an end to the censorship of Wikileaks."
+* "Programmer/Journalist Andy Baio's Cablegate Roundup":http://waxy.org/2010/11/wikileaks_cablegate_roundup/ - good overview
+* "Daniel Ellsberg, the Pentagon Papers whistleblower":http://www.ellsberg.net/archive/public-accuracy-press-release: "EVERY attack now made on WikiLeaks and Julian Assange was made against me and the release of the Pentagon Papers at the time."
+* "Receiving and publishing information is not a crime":http://www.lasisblog.com/2010/11/12/wikileaks-has-committed-no-crime/ - legal overview
+* "Opposing government and corporate censorship of the web":http://www.paulcarvill.com/2010/12/opposing-government-and-corporate-censorship-of-the-web/ - "The free distribution of data, and resistance to top-down evaluation of the merit of that data, is what the web excels at. It is more important now than ever before that individuals are allowed to publish and consume information as they see fit, within the bounds of the law. The world wide web, must be allowed to operate neutrally and independently of governments and corporations, including domain name registrars, ISPs, data carriers and other and infrastructure providers. Everyone who uses the web benefits from such independence, and should promote and support it wherever possible."
+* "The Internet Ideal Triumphs":http://www.indexoncensorship.org/2010/12/wikileaks-internet-censorship-united-states/ - Has Obama forgotten what "he said":http://www.youtube.com/watch?v=J9zytXNgKMs in China?: "The more freely information flows, the stronger the society becomes, because then citizens of countries around the world can hold their own governments accountable. They can begin to think for themselves."
+* "Nobel Peace Prize for 2011 should go to Julian Assange":http://www.antipope.org/charlie/blog-static/2010/12/the-nobel-peace-prize-for-2011.html - "Assange has a model of how the abduction of governance by common interest groups — such as corporations and right wing political factions — works in the current age. His goal is to impair the ability of these groups to exert control over democratic institutions without the consent of the governed. By forcing these authoritarian institutions to apply ever-heavier burdens of secrecy to their internal communications, wikileaks aims to reduce their ability to coordinate and, thus, to exert control."
+* <a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2010/12/07/BAL91GNB87.DTL">Go Berkeley</a> - "An Army private jailed for allegedly leaking sensitive military data is a hero and should be freed, according to a resolution under consideration by the Berkeley City Council."
+* "Tim Bray, currently working at Google, is angry":http://www.tbray.org/ongoing/When/201x/2010/12/05/Wikileaks - good
+* "Dave Winer - Wikileaks on the Run":http://scripting.com/stories/2010/12/03/wikileaksOnTheRun.html - "The problem isn't that WikiLeaks is lying, the problem is that they're telling the truth."
+* "The New Yorker: Banishing Wikileaks?":http://www.newyorker.com/online/blogs/closeread/2010/12/banishing-wikileaks.html - I closed my Amazon.com account "this weekend":http://hypertexthero.com/logbook/closing-amazoncom-account
+* "The Economist":http://www.economist.com/blogs/democracyinamerica/2010/12/after_secrets - "Some of us wish to encourage in individuals the sense of justice which would embolden them to challenge the institutions that control our fate by bringing their secrets to light. Some of us wish to encourage in individuals ever greater fealty and submission to corporations and the state in order to protect the privileges and prerogatives of the powerful, lest their erosion threaten what David Brooks calls &ldquo;the fragile community&rdquo;—our current, comfortable dispensation."
+* The Wikipedia hub page: "United States diplomatic cables leak":http://en.wikipedia.org/wiki/United_States_diplomatic_cables_leak
+
+"Wikileaks":http://wikileaks.ch/ have "a few mirrors":http://213.251.145.96/mirrors.html, 1368 at last count.

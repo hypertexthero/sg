@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: St Ives Harbour
+image: "1915"
+location: St Ives, England
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- beach chairs
+- wind
+- empty
+- emptiness
+- people
+- old woman
+- young girl
+- boat
+- beach
+- sand
+- reclining
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 27. 
+
+Day 26 is "here":http://simongriffee.com/notebook/GRS-20130509-140038.

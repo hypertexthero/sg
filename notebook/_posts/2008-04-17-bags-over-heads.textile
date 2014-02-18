@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Bags Over Heads
+image: "327"
+location: Rome, Italy
+date_taken: November 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- men
+- "30\xE2\x80\x9340"
+- bags
+- rain
+- raining
+- piazza san pietro
+- st. peter's
+- sunday
+- vatican
+---
+

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Russell Lee - a talent for relating to strangers
+excerpt: "bq. \"Russell Lee made you feel comfortable and glad to be with him. He had one of the most important assets for a photojournalist or documentary photographer: a talent for relating to strangers.\"\r\n\
+  \xE2\x80\x94 \"J.B. Colson (On Russell Lee.)\":http://www.digitaljournalist.org/issue0703/lee_intro.html"
+category: notebook
+tags: []
+
+---
+bq. "Russell Lee made you feel comfortable and glad to be with him. He had one of the most important assets for a photojournalist or documentary photographer: a talent for relating to strangers."
+— "J.B. Colson (On Russell Lee.)":http://www.digitaljournalist.org/issue0703/lee_intro.html

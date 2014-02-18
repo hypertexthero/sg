@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Example
+date_taken: Month 1978
+location: Someplace, Somewhere
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20120122-133306.jpg
+excerpt: Short description of post in case it is a post with no images
+tags: [here,they,are]
+
+---
+
+Anything I want to say about this image, or a post if image field is empty.

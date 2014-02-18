@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Bar at Campese
+image: "1179"
+location: Isola del Giglio, Italy
+date_taken: August 2011
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- amber
+- expression
+- hair
+- eyes
+- straw
+- light
+- dark
+- glass
+---
+

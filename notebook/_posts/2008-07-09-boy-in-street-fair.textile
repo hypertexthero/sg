@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Boy in Street Fair
+image: "387"
+location: Bracciano, Italy
+date_taken: May 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boy
+- "12\xE2\x80\x9316"
+- road
+- door
+- sun
+- flare
+- doors
+- price
+- tag
+- woman
+- sunglasses
+- cap
+- expression
+---
+

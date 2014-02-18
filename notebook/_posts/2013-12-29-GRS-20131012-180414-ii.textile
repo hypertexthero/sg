@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1961"
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- 5 to 10 years
+- expression
+- gesture
+- man
+- women
+- 30 to 45 years
+- trajan's column
+- traiano
+- church
+- marble
+- walk
+- group
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 69.

@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Leaving Bangkok #18"
+image: "663"
+location: South West of Bangkok
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- bird
+- wires
+- mountains
+- fields
+---
+

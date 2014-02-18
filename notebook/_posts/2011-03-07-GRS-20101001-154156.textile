@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Relief Maps
+image: "1064"
+location: Verona, Italy
+date_taken: October 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- map
+- relief
+- man
+---
+

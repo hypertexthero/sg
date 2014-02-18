@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: In the Canyon
+image: "701"
+location: Grand Canyon, Arizona, US
+date_taken: July 2005
+category: story-jtus
+tags: 
+- GRS-20050708-200905
+---
+

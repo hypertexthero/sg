@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Hey! What The Fuck Is This?
+image: "1583"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- craig
+- anonella
+- eataly
+- suit
+- expression
+- gesture
+---
+Outside "Eataly":http://descriptedlines.com/eataly-in-rome-on-a-sunday.

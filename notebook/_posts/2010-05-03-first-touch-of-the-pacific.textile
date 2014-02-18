@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: First Touch of the Pacific
+image: "707"
+location: Near San Simeon, California, US
+date_taken: July 2005
+category: story-jtus
+tags: 
+- GRS-20050715-195829
+---
+

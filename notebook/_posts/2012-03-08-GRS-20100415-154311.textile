@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Hoan Kiem Lake
+image: "1432"
+location: Hanoi, Vietnam
+date_taken: April 2010
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- couple
+- lovers
+- boy
+- girl
+- tree
+- lake
+---
+

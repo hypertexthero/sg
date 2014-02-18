@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Khaosan Road
+image: "1089"
+location: Rome, Italy
+date_taken: February 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- man
+- blur
+---
+

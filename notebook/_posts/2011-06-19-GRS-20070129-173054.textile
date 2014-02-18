@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Dusk
+image: "1131"
+location: Some Road, Heading North, California, US
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4 USM"
+category: notebook
+tags: 
+- color
+- moon
+- landscape
+- dark
+- clouds
+- dusk
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Clouds, Landscape
+image: "355"
+location: Wyoming, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- landscape
+- clouds
+- grass
+- fences
+- rolling
+---
+

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Frontier Arms Guns Ammo
+image: "309"
+location: Cheyenne, Wyoming, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- street
+- through window
+- in car
+- midday
+- store
+- gun
+- weapons
+- road trip
+---
+

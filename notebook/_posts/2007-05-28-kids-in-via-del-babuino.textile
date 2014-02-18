@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Kids in Via del Babuino
+image: "135"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- kids
+- children
+- sunglasses
+- color
+- candid
+- street
+- rome
+---
+Whose choice is the dress-code—the parents', or the kids'? At any rate, fashion begins early in Italy.

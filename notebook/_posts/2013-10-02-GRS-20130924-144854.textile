@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1879"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 60 to 80 years
+- suit
+- tie
+- gesture
+- hair
+- hand
+---
+

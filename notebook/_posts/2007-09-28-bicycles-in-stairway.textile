@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Bicycles in Stairway
+image: "215"
+location: Bracciano, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- still life
+- inside
+- glow
+- bicycles
+- stairway
+---
+Taken with my new (used) 1982 Leitz Summilux 35mm f/1.4 lens.

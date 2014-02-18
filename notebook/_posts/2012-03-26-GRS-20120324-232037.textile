@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Johanna
+image: "1478"
+location: Rome, Italy
+date_taken: March 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- johanna
+- hat
+- expression
+- gesture
+---
+

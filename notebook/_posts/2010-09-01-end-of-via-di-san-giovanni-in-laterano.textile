@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: End of Via di San Giovanni in Laterano
+image: "872"
+location: Rome, Italy
+date_taken: May 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- tourist
+- man
+- vigili
+- camera
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Emidio
+image: "132"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- emidio
+- antoci
+- anton
+- antici
+- trastevere
+---
+I had a pleasant conversation with painter, actor and all-around artist "Emidio Antoci":http://www.omero.it/rivista.php?itemid=1258&catid=43 in bar San Calisto in Trastevere. 
+
+He gave me a drawing of myself and "Amber":http://descriptedlines.com which he made on the spot despite his failing eyesight. I must make an enlargement of it and bring it back to him.

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: War and Peace
+excerpt: "It will be a while, possibly an infinite while, before I read Tolstoy's brick of a book,[1] so I am happy Amber gives me a glimpse:"
+category: notebook
+tags: 
+- war and peace
+---
+It will be a while, possibly an infinite while, before I read Tolstoy's brick of a book,[1] so I am happy Amber gives me a glimpse:
+
+* "Volume One":http://descriptedlines.com/war-and-peace-volume-one
+* "Volume Two":http://descriptedlines.com/war-and-peace-volume-two
+* "Volume Three":http://descriptedlines.com/war-and-peace-volume-3
+* "The End":http://descriptedlines.com/war-and-peace-the-end
+
+bq. "In captivity, Pierre had learned, not with his mind, but with his whole being, his life, that man is created for happiness, that happiness is within him, in the satisfying of natural human needs, and that all unhappiness comes not from lack, but from superfluity."
+
+fn1. Stubbed my toe on the thing twice already.

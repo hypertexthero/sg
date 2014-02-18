@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Boxing Match in Piazza della Madonna dei Monti
+image: "593"
+location: Rome, Italy
+date_taken: October 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boxing
+- match
+- church
+- Piazza della Madonna dei Monti
+- fight
+- fighting
+---
+Ran into a crowd surrounding a boxing ring in front of a church last Friday.

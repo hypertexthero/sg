@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: Kaibab Trail
+image: "63"
+location: Grand Canyon, Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- grand
+- canyon
+- grand canyon
+- kaibab
+- trail
+- hike
+- landscape
+- vista
+- tortuous
+- hot
+- hyponatremia
+- bw
+- path
+- hike
+- hiking
+- down
+---
+p(preamble). The sun was hot, the path was long, steep, craggy and dusty. A time to drink lots of water and also eat lots of junk food to prevent "hyponatremia (Grand Canyon national park summer hiking guide.)":http://www.nps.gov/grca/planyourvisit/hike-smart.htm. 
+
+Items carried: Two gallons of water, big bag of crisps, trail mix, beef jerky, some fruit, bread, tuna, jar of peanut butter, backpack, sleeping bag, tent, camera with one lens, two CF(Compact Flash) cards, two spare batteries, flash-light, swiss army knife, map, the clothes on my body.

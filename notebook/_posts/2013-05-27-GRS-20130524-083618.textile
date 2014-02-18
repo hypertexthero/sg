@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via di San Giovanni in Laterano
+image: "1790"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- over 20
+- robe
+- priest
+- sunglasses
+- shades
+- pose
+- arm
+- expression
+---
+

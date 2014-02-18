@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: The Island 4
+image: "843"
+category: story-theisland
+tags: []
+
+---
+

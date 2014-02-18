@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Army Park
+image: "172"
+location: Wyoming, US
+date_taken: July 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- army
+- park
+- grass
+- sprinklers
+- wyoming
+- us
+- tank
+- jeep
+- helicopter
+- artillery
+- ironic
+- gun
+- guns
+- landscape
+- road trip
+---
+

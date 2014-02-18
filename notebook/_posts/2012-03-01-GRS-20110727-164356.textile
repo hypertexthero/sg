@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: GRS-20110727-164356
+image: "1419"
+location: Cortona, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-p7
+tags: 
+- bw
+- amber
+- expression
+- hair
+- tunnel
+- umbrella
+---
+

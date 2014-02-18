@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Girl and Woman Crossing Street
+image: "57"
+location: San Francisco, California
+date_taken: December 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- market street
+- girl
+- woman
+- car
+- stroller
+- candid
+- movement
+- blur
+- light
+- bresson
+---
+p(preamble). Young, old, in cars, in strollers. As Buddy Guy says, _everybody's in a hurry, and there ain't nobody going nowhere._

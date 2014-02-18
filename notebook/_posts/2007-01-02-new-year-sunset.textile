@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: New Year Sunset
+image: "41"
+location: Oakland, California
+date_taken: January 2007
+camera: Panasonic Lumix LX1
+lens: "Leica Vario-Elmarit 28\xE2\x80\x93112mm"
+category: notebook
+tags: 
+- sunset
+- san francisco
+- oakland
+- park
+- bushrod
+- silhouette
+---
+p(preamble). San Francisco skyline from Bushrod Park in North Oakland. The end of a hot day in the middle of winter.

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Descriptedlines.com
+excerpt: "\"Descriptedlines.com : Fiction, reading notes and ephemera (Beautiful writing.)\":http://descriptedlines.com/."
+category: notebook
+tags: []
+
+---
+"Descriptedlines.com : Fiction, reading notes and ephemera (Beautiful writing.)":http://descriptedlines.com/.

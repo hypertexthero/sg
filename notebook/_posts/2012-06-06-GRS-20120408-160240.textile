@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Dad, Three Months Before Second Operation
+image: "1547"
+location: Formello, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- dad
+- expression
+- sala
+- living room
+- sofa
+---
+

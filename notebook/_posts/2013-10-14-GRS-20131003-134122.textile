@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Via Santa Maria del Pianto
+image: "1885"
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- jewish
+- hat
+- laptop
+- usb
+- cable
+- movile phone
+- glasses
+- beard
+- expression
+- man
+- 20 to 35 years
+- shoes
+- suit
+- pose
+---
+

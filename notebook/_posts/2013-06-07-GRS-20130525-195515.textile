@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1801"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- blur
+- flash
+- man
+- 60 to 75 years
+- tracksuit
+- walk
+---
+

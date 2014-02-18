@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1852"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- wedding photos
+- bride
+- groom
+- photographers
+- 30 to 45 years
+- colosseum
+- colosseo
+- tourists
+- expression
+- dress
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: OTR
+image: "1102"
+location: Rome, Italy
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- otr
+- jerome
+- erik
+- over the road
+- expression
+- rose
+---
+

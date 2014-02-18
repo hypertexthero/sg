@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Looking Into Bar
+image: "1001"
+location: Rome, Italy
+date_taken: February 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- people
+- woman
+- bar
+- night
+- dark
+- lights
+---
+Deep down we are all terribly lonely.

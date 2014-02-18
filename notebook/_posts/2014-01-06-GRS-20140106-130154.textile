@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1971"
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- color
+- boys
+- 20 to 30 years
+- clothes
+- fashion
+- outfit
+- sneakers
+- jeans
+- italian
+- naples
+- dogtags
+- dog tags
+- haircut
+- expression
+- mobile phone
+- youth
+- jacket
+- shirt
+- moustache
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day "?":http://simongriffee.com/notebook/GRS-20131223-114915

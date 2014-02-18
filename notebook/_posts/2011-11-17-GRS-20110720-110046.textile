@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Via Celimontana
+image: "1354"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- suits
+- suit
+- shades
+- sunglasses
+- carrying
+- paper
+- van
+- sign
+- bottle
+- sidewalk
+---
+

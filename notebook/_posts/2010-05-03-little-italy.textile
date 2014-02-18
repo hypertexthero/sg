@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Little Italy
+image: "695"
+location: New York City, US
+date_taken: May 2005
+category: story-jtus
+tags: 
+- GRS-20050528-141650
+---
+

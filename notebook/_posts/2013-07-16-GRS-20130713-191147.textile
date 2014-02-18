@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Lungotevere Castello
+image: "1823"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- suits
+- hats
+- expression
+- suitcase
+- uniform
+- suit
+- uniforms
+- airforce
+- military
+- men
+- 40 to 50 years
+- angel
+- statue
+- boy
+- 14 to 17 years
+- insignia
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Rio Grande
+image: "177"
+location: Near Taos, New Mexico, Us
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- landscape
+- new mexico
+- rio grande
+- bridge
+- gorge
+- banditos
+---
+Near the place where I "had a close call with some banditos":http://simongriffee.com/photographs/new-mexico.

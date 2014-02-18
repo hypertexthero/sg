@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1768"
+location: Rome, Italy
+date_taken: April 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- jacket
+- coat
+- pose
+- gesture
+- arms
+- stretch
+- back
+- box
+---
+

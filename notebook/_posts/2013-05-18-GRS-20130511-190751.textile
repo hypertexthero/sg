@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Boulevard Edgar-Quinet
+image: "1782"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- old woman
+- cane
+- suit
+- expression
+- street
+- mouth
+---
+

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Torre
+image: "1925"
+location: Isola del Giglio, Italy
+date_taken: August 2013
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- boy
+- trident
+- underwater
+- scuba
+- diving
+- fork
+- hand
+- flipper
+- action
+- fight
+- "#GetCloser100"
+- glove
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 35.

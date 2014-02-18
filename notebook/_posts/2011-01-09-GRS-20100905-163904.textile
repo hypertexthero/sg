@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "M\xC3\xA3e &amp; Dad, Sorbo"
+image: "1006"
+location: Near Formello, Italy
+date_taken: September 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- "m\xC3\xA3e"
+- dad
+- odila
+- peter
+- sorbo
+---
+

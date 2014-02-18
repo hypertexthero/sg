@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Fiction
+excerpt: Fiction
+category: notebook
+tags: 
+- fiction
+- mike johnston
+---
+<a href="http://theonlinephotographer.typepad.com/the_online_photographer/2013/02/open-mike-real-stories.html">Mike Johnston</a>:
+
+bq. The whole point of fiction is that it allows us to get closer to truths that can't be told any other way.

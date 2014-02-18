@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Man Resting on Bench
+image: "290"
+location: Pescheria del Garda
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- landscape
+- shoes
+- black man
+- "30\xE2\x80\x9350"
+- lake
+- mountain
+- cloud
+---
+

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Castello
+image: "1858"
+location: Isola del Giglio, Italy
+date_taken: August 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 50 to 70 years
+- flash
+- blur
+- expression
+- gesture
+- tuxedo
+- bowtie
+- night
+- walk
+- shoes
+- suit
+---
+

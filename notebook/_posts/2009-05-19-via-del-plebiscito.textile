@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via del Plebiscito
+image: "560"
+location: Rome, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- man
+- woman
+- plebiscito
+---
+Also available as a print at "Rome Black & White":http://romebw.com/via-del-plebiscito.

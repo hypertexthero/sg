@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Amber
+image: "1027"
+location: Colorado, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: EF 28-135mm
+category: notebook
+tags: 
+- bw
+- amber
+- sun
+- glare
+- mountains
+- stick
+---
+

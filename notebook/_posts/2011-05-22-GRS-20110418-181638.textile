@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: In Front of Taberna Miami
+image: "1112"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- men
+- children
+- boys
+- string
+- expression
+- chiaro-scuro
+---
+

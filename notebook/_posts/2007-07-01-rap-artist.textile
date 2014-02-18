@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Rap Artist
+image: "153"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- rap
+- bw
+- portrait
+- time square
+- nyc
+- hip-hop
+---
+I met this fellow in Times Square and bought an album from him. I forget his name, though I'll update this post with it when I find his CD, which was misplaced in the travels of the past couple of months.

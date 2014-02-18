@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza del Popolo
+image: "1560"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- cigarette
+- expression
+- glasses
+- gesture
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Atomium
+image: "1366"
+location: Brussels, Belgium
+date_taken: January 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- atomium
+- woods
+- dark
+- forest
+- lights
+- sky
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Bull in landscape
+image: "131"
+location: Near Bakersfield, California, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bull
+- bw
+- landscape
+- american
+- arid
+- mysterious
+- car window
+---
+Taken out of the car window. It was very hot and the landscape near Bakersfield had a strange feel to it. I passed through the same area "sometime later (Oil Field at Night.)":/photographs/oil-field-at-night.

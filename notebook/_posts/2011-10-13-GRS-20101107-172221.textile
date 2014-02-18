@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: LaStorta &amp; Amber
+image: "1334"
+location: Rome, Italy
+date_taken: November 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- girl
+- cat
+- sofa
+- book
+---
+

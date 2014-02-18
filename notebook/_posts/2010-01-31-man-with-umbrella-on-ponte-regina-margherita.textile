@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Man With Umbrella on Ponte Regina Margherita
+image: "604"
+location: Rome, Italy
+date_taken: January 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- umbrella
+- ponte regina margherita
+- rainy
+---
+

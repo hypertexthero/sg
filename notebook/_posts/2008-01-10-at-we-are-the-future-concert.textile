@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: At We Are The Future Concert
+image: "291"
+location: Rome, Italy
+date_taken: May 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- street
+- concert
+- crowd
+- close-up
+- ruti lookalike
+- girl
+- "15\xE2\x80\x9325"
+---
+In Circo Massimo. This person looked exactly like someone I know, but it was not her!

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Gay Pride Parade
+image: "1151"
+location: Rome, Italy
+date_taken: June 2011
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- police
+- carabinieri
+- penis
+- phallus
+- balloons
+- girls
+- motorcycle
+- expression
+---
+

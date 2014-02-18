@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Bar
+image: "1414"
+location: Rome, Italy
+date_taken: December 2011
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- night
+- bar
+- blur
+- boys
+- faces
+- light
+- streak
+---
+

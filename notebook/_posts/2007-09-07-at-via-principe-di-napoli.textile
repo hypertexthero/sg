@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: At Via Principe di Napoli
+image: "196"
+location: Bracciano, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- candid
+- street
+- bw
+- principe di napoli
+- bracciano
+- woman
+- shop
+- sunglasses
+---
+

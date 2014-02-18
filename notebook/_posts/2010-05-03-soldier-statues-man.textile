@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Soldier Statues, Man
+image: "696"
+location: Washington DC, US
+date_taken: May 2005
+category: story-jtus
+tags: 
+- GRS-20050511-223431
+---
+

@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "M\xC3\xA3e &amp; Dad"
+image: "1442"
+location: Bracciano, Italy
+date_taken: March 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- "m\xC3\xA3e"
+- dad
+- mum
+- expression
+---
+

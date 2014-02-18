@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Via di Santa Maria dell'Anima
+image: "1108"
+location: Rome, Italy
+date_taken: January 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- suvi
+- blur
+- night
+- expression
+- young man
+- young woman
+---
+

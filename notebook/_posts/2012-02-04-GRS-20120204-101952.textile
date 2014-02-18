@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via di San Giovanni in Laterano
+image: "1391"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romesnow
+tags: 
+- mo
+- bw
+- man
+- girls
+- car
+- street
+- movement
+- expression
+- snow
+---
+

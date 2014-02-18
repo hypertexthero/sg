@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: In Baia di Campese
+image: "810"
+location: Isola del Giglio, Italy
+date_taken: July 2010
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- underwater
+- girl
+- bubbles
+- swimming
+---
+From an upcoming essay.

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Walking at Noon
+image: "500"
+location: Rome, Italy
+date_taken: July 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- man
+- eyebrows
+- girl
+- father
+- midday
+- gelateria
+---
+

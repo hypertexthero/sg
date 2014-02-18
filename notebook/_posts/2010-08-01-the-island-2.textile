@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: The Island 2
+image: "831"
+category: story-theisland
+tags: 
+- seagull
+- sea
+- rocks
+---
+

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: GRS-20080121-090116
+image: "1192"
+category: story-p2
+tags: []
+
+---
+

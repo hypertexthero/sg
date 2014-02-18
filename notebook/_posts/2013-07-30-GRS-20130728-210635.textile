@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: The Wall, Stadio Olimpico
+image: "1836"
+location: Rome, Italy
+date_taken: July 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+category: notebook
+tags: 
+- bw
+- people
+- 20 to 70 years
+- young
+- the wall
+- roger waters
+- concert
+- stadio olimpico
+- rome
+- "2013"
+---
+

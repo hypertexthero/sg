@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via Condotti, Night
+image: "1033"
+location: Rome, Italy
+date_taken: July 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- kiss
+- shop window
+- night
+---
+

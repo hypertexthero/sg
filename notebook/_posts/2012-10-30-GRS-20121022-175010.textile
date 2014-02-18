@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Viale della Domus Aurea
+image: "1637"
+location: Rome, Italy
+date_taken: October 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old ladies
+- grannies
+- legs
+- kankles
+- ankles
+---
+

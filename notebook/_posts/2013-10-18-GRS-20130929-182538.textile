@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Piazza Navona
+image: "1888"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- asian
+- haircut
+- glasses
+- hand
+- handbag
+- gesture
+- expression
+- camera
+- flash
+---
+

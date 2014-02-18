@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Water Taxi Stop
+image: "289"
+location: Venice, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- against sun
+- "woman 18\xE2\x80\x9325"
+- silhouette
+---
+

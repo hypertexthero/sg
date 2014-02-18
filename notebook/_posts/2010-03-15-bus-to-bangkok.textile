@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Bus to Bangkok
+image: "654"
+location: Northern Thailand
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- bus
+---
+

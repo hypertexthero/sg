@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Peter Drinking Water
+image: "205"
+location: Oakland, California, US
+date_taken: February 2007
+camera: Leica M8
+lens: Voigtlander Nokton 40mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- posed
+- peter
+- kait
+- playground
+- kitchen
+- water
+- jar
+---
+With 'Kait's' water jar, no less!

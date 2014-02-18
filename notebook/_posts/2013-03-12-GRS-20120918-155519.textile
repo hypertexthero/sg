@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1741"
+location: Rome, Italy
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- tourists
+- cameras
+- devices
+- gadgets
+- earpieces
+- earphones
+- expression
+- pose
+- legs
+- shorts
+---
+

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Images and Words
+excerpt: Images and Words
+category: notebook
+tags: 
+- images
+- words
+- steve mccurry
+- sontag
+---
+bq. Susan Sontag said,  "The camera makes everyone a tourist in other people’s reality…" The same can be said for reading books.
+
+— <a href="http://stevemccurry.wordpress.com/2010/08/10/fusion-the-synergy-of-images-and-words/">Steve McCurry</a>

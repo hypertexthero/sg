@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Circo Massimo
+image: "1540"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- expression
+- hand on head
+- newspaper on head
+- walking
+- group
+---
+

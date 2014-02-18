@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Arriving in Dubai Airport
+image: "615"
+location: Dubai, United Arab Emirates
+date_taken: February 2010
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- bw
+- head
+- turbine
+- airplane
+- airport
+---
+

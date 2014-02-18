@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Picture in St. James Hotel
+image: "334"
+location: Cimarron, New Mexico, USA
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- jesse james
+- interior
+- photo
+- frame
+---
+Jesse James stayed in the St. James Hotel along with several other outlaws and lawmen of the 1800's.

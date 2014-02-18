@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: In general I have always felt that we look at pictures too quickly, almost without pausing
+excerpt: "bq. \"In general I have always felt that we look at pictures too quickly, almost without pausing. We pick up a picture give it a glance and pass on to the next one: just a simple visual impression without taking the time to absorb the detail contained in the picture; without placing value on the esthetic or trying to understand the photographer\xE2\x80\x99s intention.\"\r\n\
+  \r\n\
+  -- \"Points of View by Josep M. Cortina (amicortina.com)\":http://www.amicortina.com/fotpuntvistaingles/presentaci%F3e.htm"
+category: notebook
+tags: []
+
+---
+bq. "In general I have always felt that we look at pictures too quickly, almost without pausing. We pick up a picture give it a glance and pass on to the next one: just a simple visual impression without taking the time to absorb the detail contained in the picture; without placing value on the esthetic or trying to understand the photographer’s intention."
+
+-- "Points of View by Josep M. Cortina (amicortina.com)":http://www.amicortina.com/fotpuntvistaingles/presentaci%F3e.htm

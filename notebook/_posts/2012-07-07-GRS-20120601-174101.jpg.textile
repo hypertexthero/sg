@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via dei Santissimi Quattro
+image: "1574"
+location: Rome, Italy
+date_taken: June 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- fabio
+- cigarette
+- skinny
+- thin
+- cape
+- lab coat
+- portrait
+- expression
+- macellaio
+- butcher
+---
+

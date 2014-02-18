@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: L'Isola del Cinema
+image: "576"
+location: Rome, Italy
+date_taken: August 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- night
+- man
+- old
+- shadow
+- dolce vita
+- cinema
+- isola tiberina
+---
+

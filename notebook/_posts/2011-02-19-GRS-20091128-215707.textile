@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Fuck Fashion
+image: "1049"
+location: Amsterdam, Netherlands
+date_taken: November 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- fuck fashion
+- bar
+- dark
+- night
+- jrb
+- blur
+- camera
+---
+

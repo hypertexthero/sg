@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Shop Window
+image: "805"
+location: Amsterdam, Netherlands
+date_taken: November 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4 pre-asph
+category: notebook
+tags: 
+- shop window
+- cows
+- toys
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Statue and Palm
+image: "122"
+location: Rome, Italy
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- statue
+- palm
+- plant
+- building
+- navona
+- bw
+- still-life
+---
+Near Piazza Navona.

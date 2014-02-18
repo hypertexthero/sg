@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via dei Santissimi Quattro
+image: "1577"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- hole
+- men
+- workers
+- glove
+- crouched
+---
+

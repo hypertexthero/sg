@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Boy in Campo de' Fiori
+image: "292"
+location: Rome, Italy
+date_taken: July 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- eye
+- look
+- fright
+- startle
+- surprise
+- girl
+- boy
+- "15\xE2\x80\x9320"
+---
+

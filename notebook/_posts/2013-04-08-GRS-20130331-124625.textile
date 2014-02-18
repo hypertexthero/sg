@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Argiano
+image: "1762"
+location: Tuscany
+date_taken: April 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- hand
+- steering wheel
+- cypress
+- tuscany
+- driving
+- cyst
+- windscreen
+- trees
+---
+

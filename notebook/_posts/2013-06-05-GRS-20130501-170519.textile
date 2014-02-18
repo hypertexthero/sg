@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Amber, Dandelion
+image: "1800"
+location: Lago di Bracciano, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- girl
+- dandelion
+- lake
+- air
+- blowing
+---
+

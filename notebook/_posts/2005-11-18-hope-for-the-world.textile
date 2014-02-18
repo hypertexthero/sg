@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Hope for the World
+excerpt: MIT $100 Laptop.
+category: notebook
+tags: []
+
+---
+p(preamble). "$100 (Wikipedia article.)":http://en.wikipedia.org/wiki/$100_laptop "Laptop (MIT $100 Laptop.)":http://laptop.media.mit.edu/. 
+ !/images/mitlaptop.jpg (MIT $100 Laptop.)!:http://laptop.media.mit.edu/

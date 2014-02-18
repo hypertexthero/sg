@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1986"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- mother
+- daughter
+- wife
+- sogra
+- inlaw
+- husband
+- man
+- woman
+- child
+- 30 to 40 years
+- 60 to 85 years
+- 2 to 5 years
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 94.

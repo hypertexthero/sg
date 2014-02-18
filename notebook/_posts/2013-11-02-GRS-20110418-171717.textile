@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Near Triana
+image: "1904"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- procession
+- women
+- men
+- children
+- robes
+- hats
+- catholic
+- mask
+- expression
+- hands
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 12.

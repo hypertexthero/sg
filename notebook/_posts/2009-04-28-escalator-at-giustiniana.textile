@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Escalator at Giustiniana
+image: "539"
+location: La Giustiniana, Italy
+date_taken: November 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- escalator
+- boy
+- man
+- giustiniana
+---
+

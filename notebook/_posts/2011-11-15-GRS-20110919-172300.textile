@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1352"
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- fao
+- suit
+- men
+- talking
+- street
+- cloud
+- sunlight
+---
+

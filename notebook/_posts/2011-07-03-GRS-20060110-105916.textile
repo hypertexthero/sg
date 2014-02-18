@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Macworld Conference &amp; Expo
+image: "1149"
+location: San Francisco, California, US
+date_taken: January 2006
+camera: Canon EOS 300D
+lens: EF 28-135mm IS
+category: notebook
+tags: 
+- bw
+- crowd
+- escalators
+- faces
+- adults
+- men
+---
+

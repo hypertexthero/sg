@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Man on Phone
+image: "45"
+location: Rome, Italy
+date_taken: June 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- man
+- phone
+- executive
+- via del corso
+- rome
+- italy
+- candid
+- street
+- suit
+---
+p(preamble). A Via del Corso.

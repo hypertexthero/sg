@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Buildings from Central Park
+image: "149"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- landscape
+- central park
+- buildings
+---
+The new internet connection is still two weeks away due to the combination of summer and being in Italy. Regular posting will be difficult until then. Nevertheless, more pictures from New York follow.

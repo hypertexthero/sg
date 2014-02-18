@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via Celio Vibenna
+image: "1329"
+location: Rome, Italy
+date_taken: December 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- bus
+- window
+- man
+- woman
+- expression
+---
+

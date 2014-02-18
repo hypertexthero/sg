@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Place de l'H\xC3\xB4tel de Ville"
+image: "1781"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- man
+- expression
+- old ladies
+- fish
+- camera
+- photographing
+- creases
+- eyes
+- eyebrows
+---
+

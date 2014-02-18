@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Lago di Bracciano
+image: "1978"
+location: Bracciano, Italy
+date_taken: June 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- enrico
+- lago
+- lake
+- mountain
+- cloud
+- lying down
+- 20 to 30 years
+- hair
+- baby
+- beach
+- water
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 83.

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Piazza di Trevi
+image: "1501"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- young man
+- hair
+- glasses
+- expression
+- gladiator-type
+---
+

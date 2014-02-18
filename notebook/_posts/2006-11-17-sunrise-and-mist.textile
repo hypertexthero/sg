@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Sunrise and Mist
+image: "21"
+location: Formello, Italy
+date_taken: December 2002
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+category: notebook
+tags: 
+- Formello
+- Italy
+- sunrise
+- black and white
+- bw
+- trees
+---
+p(preamble). A morning seen from my window at Via del Forno, 2. The field in the bottom of the valley, still hidden by shadow and mist, was still earth and grass--il campo di calcio.

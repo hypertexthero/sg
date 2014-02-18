@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Mirador de San Nicolas
+image: "1324"
+location: Granada, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- young man
+- boy
+- running
+- smile
+- wall
+---
+

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Tornado Warning #2"
+image: "99"
+location: Near Thompson, Iowa, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- tornado
+- warning
+- iowa
+- landscape
+- bw
+- usa
+- farm
+- storm
+- clouds
+- radio
+- electricity
+- car window
+- farm house
+---
+The edge of the storm was frighteningly well-defined.

@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Via Capo d'Africa
+image: "1439"
+location: Rome, Italy
+date_taken: March 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- palm
+- shadow
+- night
+- bars
+---
+

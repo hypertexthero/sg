@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: At Spiaggia Campese
+image: "190"
+location: Isola del Giglio, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- umbrella
+- beach
+- campese
+- landscape
+- tree
+- hill
+- campese
+- castello
+---
+

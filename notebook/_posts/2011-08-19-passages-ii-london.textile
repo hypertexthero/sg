@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Passages II - London
+category: story-p2
+tags: 
+- passages
+- simon griffee
+- london
+---
+"First photo":/story-p2/GRS-20080121-223435 »

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1621"
+location: Rome, Italy
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- wolf
+- man
+- mullet
+- man
+- woman
+- shirt
+- motorbike
+- ruffian
+---
+

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via del Corso
+image: "176"
+location: Rome, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- via del corso
+- soap bubbles
+- man
+- woman
+- kid
+- vitrina
+- shopping
+- walking
+---
+

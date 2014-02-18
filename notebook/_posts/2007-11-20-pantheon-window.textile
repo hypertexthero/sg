@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Pantheon Window
+image: "265"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- urban
+- architecture
+- noise
+- grain
+- night
+- parthenon
+- pagan
+- pantheon
+- low key
+---
+

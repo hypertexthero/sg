@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Vista da Monte Pincio
+image: "1360"
+location: Rome, Italy
+date_taken: November 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- monte pincio
+- hill
+- piazza del popolo
+---
+

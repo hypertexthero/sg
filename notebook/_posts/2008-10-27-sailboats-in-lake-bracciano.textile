@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Sailboats in Lake Bracciano
+image: "461"
+location: Bracciano, Italy
+date_taken: September 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4 L USM"
+category: notebook
+tags: 
+- bw
+- landscape
+- sail
+- boat
+- clouds
+- ominous
+- dark
+- group
+- sailing
+- wind
+---
+

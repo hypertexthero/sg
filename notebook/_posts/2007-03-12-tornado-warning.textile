@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Tornado Warning
+image: "98"
+location: Near Thompson, Iowa, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- tornado
+- warning
+- iowa
+- landscape
+- bw
+- usa
+- farm
+- storm
+- clouds
+- radio
+- electricity
+- car window
+- blur
+---
+Driving on the back roads in South Dakota, listening to the radio, the operator's voice warning of powerful storms and possible tornados directly in our path, a palpable feeling of power in the air.
+
+Shortly after the sky turned dark blue. Then dark grey. And then dark brown and black.

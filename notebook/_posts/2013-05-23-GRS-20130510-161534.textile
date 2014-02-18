@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Quai Voltaire
+image: "1787"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- trenchcoat
+- arm
+- expression
+- scottish lord
+- english
+- fist
+---
+The 'Scottish Lord'.

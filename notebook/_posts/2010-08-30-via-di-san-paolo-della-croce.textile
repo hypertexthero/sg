@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Via di San Paolo della Croce
+image: "870"
+location: Rome, Italy
+date_taken: August 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- priests
+---
+

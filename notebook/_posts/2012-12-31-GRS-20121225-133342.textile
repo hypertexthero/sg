@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Smetanovo n\xC3\xA1b\xC5\x99e\xC5\xBE\xC3\xAD"
+image: "1684"
+location: Prague, Czech Republic
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- animal
+- leopard skin
+- fur
+- coat
+- hat
+- expression
+---
+

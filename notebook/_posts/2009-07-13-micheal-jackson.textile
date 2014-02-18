@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Micheal Jackson
+image: "571"
+location: Bracciano, Italy
+date_taken: July 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- michael jackson
+- micheal
+- graffiti
+- ground
+- tile
+- marker
+- star
+---
+

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Badlands Near Sage Creek
+image: "109"
+location: South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- plains
+- badlands
+- rock
+- grass
+- grassland
+- indians
+- natives
+- gap
+- landscape
+- bw
+---
+The contrast between the lush green rolling mounds and the dry, barren rock formations is striking in the Badlands of South Dakota. The Badlands contain one of the last remaining areas of plains with native, biologically-diverse vegetation in the US—Buffalo Gap National Grassland. The rest has been "stomped and eaten to extinction":http://muweb.millersville.edu/~columbus/papers/gui-j.html.

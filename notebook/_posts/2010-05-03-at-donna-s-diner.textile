@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: At Donna's Diner
+image: "699"
+location: Wyoming, US
+date_taken: June 2005
+category: story-jtus
+tags: 
+- GRS-20050623-125134
+---
+

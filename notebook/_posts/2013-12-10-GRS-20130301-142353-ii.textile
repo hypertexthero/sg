@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Oxford Street
+image: "1936"
+location: London, England
+date_taken: March 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- metal
+- beams
+- hand
+- building
+- construction
+- stress
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 45.

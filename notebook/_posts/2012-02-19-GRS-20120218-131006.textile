@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Viale del Galoppatoio
+image: "1410"
+location: Rome, Italy
+date_taken: February 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- napoleon
+- hat
+- man
+- horse
+- cloud
+- expression
+---
+

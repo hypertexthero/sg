@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Hare, Badlands
+image: "107"
+location: South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- hare
+- rabbit
+- badlands
+- national park
+- dark
+- bw
+- nature
+- wildlife
+- jump
+- jumping
+- reeds
+- capim
+---
+This is a good example of a photograph with elements that work which weren't noticed at the moment of capture. The curved shapes of the reeds recall a jumping motion.
+
+It's also an example of a 'low key' picture, with predominantly dark tones, in this case reflecting the late time of day when the photo was taken.

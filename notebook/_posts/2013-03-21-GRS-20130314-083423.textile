@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via di San Giovanni in Laterano
+image: "1749"
+location: Rome, Italy
+date_taken: March 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- hair
+- bald
+- balding
+- newspaper
+- reading
+- standing
+---
+

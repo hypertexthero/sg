@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: Our Walled World
+excerpt: Our Walled World
+category: imaginarylines
+tags: 
+- walled world
+- borders
+- barriers
+---
+Not sure if I have time or want to restart this blog, but "this is as good a link as any to do it with":http://www.theguardian.com/world/ng-interactive/2013/nov/walls. 
+
+bq.. <a href="http://www.theguardian.com/world/ng-interactive/2013/nov/walls">Why are we building new walls to divide us</a>?
+
+_Using satellite imagery, users' pictures, video and first-hand testimony, Guardian reporters across the world chart the new walls being built to divide people from their neighbours._
+
+Almost a quarter of a century after the Iron Curtain came down, the walls are going up again. In steel and concrete, with watchtowers and barbed wire, mankind is building separation barriers at a rate perhaps unequalled in history - at least 6,000 miles in the last decade alone, according to a Guardian analysis.
+
+Now, in a unique project, Guardian journalists have visited 10 of the most controversial, striking, contested and extraordinary walls, from the US-Mexican border to the West Bank, and from Europe’s eastern and southern frontiers to the divided cities of Homs and Belfast. We have tried to establish why these new divisions are going up now, in an age when globalisation was supposed to tear the barriers down - particularly when, as history shows, walls rarely did what they set out to do.
+
+p. …
+
+bq.. In the short term, walls may appear worthwhile investments. But they never address the underlying causes of the conflicts they seek to mitigate. At best, walls create an illusion of security – because those on the “wrong” side will always be working out how to get around them.
+
+At worst, they are counter-productive: a people that believes it has solved its problems by isolating itself physically from whatever threatens it – broadly, inequality – can put off asking itself the bigger questions.
+
+They might, just possibly, do better to recall Frost’s words.
+<pre>
+    Before I built a wall I’d ask to know
+    What I was walling in or walling out,
+    And to whom I was like to give offence.
+    Something there is that doesn’t love a wall,
+    That wants it down.
+</pre>
+
+p. See also: "Walls: an illusion of security from Berlin to the West Bank":http://www.theguardian.com/uk-news/2013/nov/19/walls-barrier-belfast-west-b-ank by Jon Henley.

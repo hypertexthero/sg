@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1808"
+location: Rome, Italy
+date_taken: June 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 30 to 45 years
+- asian
+- colosseum
+- colosseo
+- gesture
+- clouds
+- tourists
+---
+

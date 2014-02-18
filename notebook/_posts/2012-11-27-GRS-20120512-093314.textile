@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Amber
+image: "1664"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- room
+- amber
+- gesture
+- expression
+- hair
+- dark
+- light
+---
+

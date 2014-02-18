@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1939"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- pope john paul ii
+- costume
+- crucifix
+- portrait
+- robe
+- expression
+- man
+- 50 to 70 years
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 47.

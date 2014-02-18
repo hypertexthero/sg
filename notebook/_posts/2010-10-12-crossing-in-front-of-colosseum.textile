@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Crossing in Front of Colosseum
+image: "912"
+location: Rome, Italy
+date_taken: August 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- painting
+- colosseum
+- colosseo
+---
+

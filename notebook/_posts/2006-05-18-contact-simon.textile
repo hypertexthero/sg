@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Contact Simon
+category: contact
+tags: []
+
+---
+<h2>Contact Simon</h2>
+
+<p><span style="background:#ffc;">Next available for commissioned work: Mid-April 2014.</span></p>
+
+<p><strong>Email:</strong> simon@simongriffee.com
+<span class="small quiet">(or use the contact form below)</span>
+<noscript>
+simon--AT--simongriffee--DOT--com
+</noscript>
+<br />
+<strong>Twitter:</strong> <a href="https://twitter.com/simongriffee">simongriffee</a>
+<br />
+<strong>Current Base:</strong> Rome, Italy
+</p>
+
+ <txp:zem_contact to="simongriffee@gmail.com" label="" thanks_form="thankyou">
+ <div class="iefieldsetbugfix">
+ <txp:zem_contact_textarea label="Your Message" /><br />
+ <txp:zem_contact_text label="Your Name" size="35" /><br />
+ <txp:rah_replace from='type="text"' to='type="email"'> 
+ <txp:zem_contact_email label="Your Email" size="35" /><br />
+ </txp:rah_replace>
+ <txp:zem_contact_submit label="Send" />
+ </div>
+ </txp:zem_contact>

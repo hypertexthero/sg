@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: LaStorta
+image: "1346"
+location: Rome, Italy
+date_taken: September 2011
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- lastorta
+- cat
+- black
+- startled
+- expression
+- paw
+---
+

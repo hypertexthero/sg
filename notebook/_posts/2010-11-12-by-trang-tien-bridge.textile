@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: By Trang Tien Bridge
+image: "948"
+location: "Hu\xE1\xBA\xBF, Vietnam"
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- wedding
+- groom
+- bride
+- flowers
+- photographer
+- day
+---
+

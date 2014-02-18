@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1979"
+location: Rome, Italy
+date_taken: December 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- soldiers
+- marines
+- sailors
+- hat
+- coat
+- buttons
+- expression
+- shoes
+- shine
+- crossing
+- street
+- government
+- flag
+- traffic light
+- congresso
+- congress
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 84.

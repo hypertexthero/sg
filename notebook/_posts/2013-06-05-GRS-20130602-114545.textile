@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1799"
+location: Rome, Italy
+date_taken: June 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- nurse
+- nurses
+- women
+- old
+- 60 to 80 years
+- mobile phone
+- cross
+- uniform
+- noon
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 10.

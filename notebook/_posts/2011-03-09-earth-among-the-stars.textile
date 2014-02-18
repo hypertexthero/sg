@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Earth Among the Stars
+excerpt: Earth Among the Stars
+category: notebook
+tags: 
+- earth
+- stars
+- html
+- css
+- perspective
+---
+"Sometimes it's good to remember perspective (HTML Earth)":http://simongriffee.com/earth/.

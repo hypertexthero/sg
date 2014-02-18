@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Overlook Aventino
+image: "1763"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- hair
+- prince
+- gold
+- murmurations
+- birds
+- starlings
+- view
+- watching
+- gazing
+- looking
+- distance
+- colosseum
+- palatino
+---
+

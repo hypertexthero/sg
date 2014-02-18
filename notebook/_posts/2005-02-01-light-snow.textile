@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Light Snow
+excerpt: Photograph of light snow on cars in a parking lot in Formello, Italy. The view-angle is looking down from a considerable height above. Tracks of a recently departed car are evident, as is the wind direction during the snow-fall.
+category: notebook
+tags: []
+
+---
+ <img src="/images/lightsnow.jpg" height="255" width="412" alt="Photograph of light snow on cars in a parking lot in Formello, Italy. The view-angle is looking down from a considerable height above. Tracks of a recently departed car are evident, as is the wind direction during the snow-fall." title="Light snow on the parking lot in Formello." />
+
+In other news, "man peed way out of avalanche":http://www.ananova.com/news/story/sm_1261997.html.

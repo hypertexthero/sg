@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Victor in Rome
+image: "583"
+location: Rome, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- victor
+- eskinazi
+- rome
+- roma
+- candid
+- smiling
+- camera
+- fontana di trevi
+---
+Feliz aniversario "V.E.":http://www.flickr.com/photos/eskinazi/ aka R,J.J.!

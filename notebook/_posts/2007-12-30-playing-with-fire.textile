@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Playing With Fire
+image: "288"
+location: Oakland, California
+date_taken: August 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- boy
+- fire
+- fireball
+- spitting
+- alcohol
+- spirit
+- griffon
+- night
+---
+In West Oakland.

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "Lungotevere D\xC3\xA8 Cenci"
+image: "1628"
+location: Rome, Italy
+date_taken: October 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boy
+- jewish
+- cap
+- hand
+- running
+- suit
+- tie
+- smile
+- kid
+---
+

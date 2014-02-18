@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Colorado Near Bright Angel
+image: "64"
+location: Grand Canyon, Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- Grand
+- Canyon
+- grand canyon
+- colorado
+- river
+- water
+- sand
+- dunes
+- face
+- reflection
+- color
+---
+p(preamble). The cold water from a creek flowing into the Colorado  River was pure joy and relief. In mid-afternoon, the thermometer in the Bright Angel campground showed 38 degrees Centigrade in the shade, which meant mid-to-high 40s in the sun.
+
+The ranger there recommended sitting _in_ the creek, with clothes on, soaked, to keep body temperature normal.
+
+These sands on a beach near the campground are bathed in light reflected off the towering walls carved by the river.

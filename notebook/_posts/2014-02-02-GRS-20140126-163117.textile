@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: "Via dei Fori Imperiali: Final Response to Get Closer 100"
+image: "1991"
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- children
+- parent
+- 3 to 12 years
+- 30 to 40 years
+- expression
+- gesture
+- shoes
+- letters
+- signs
+- cement
+- walking
+- "#GetCloser100"
+- javascript
+- web design
+---
+This is my final picture response to "#GetCloser100":http://getcloser.magnumphotos.com/.  
+
+It's too bad the campaign "ran into problems (Photos repeated or missing altogether.)":http://simongriffee.com/notebook/GRS-20131223-114915#textframe, maybe because the Get Closer 100 website was designed as a needlessly complex "JavaScript-based (Sigh, JavaScript.)":http://sighjavascript.tumblr.com/about one-page <a href="http://softwaresimply.blogspot.it/2014/01/emberjs-is-driving-me-crazy.html" title="Don't create complex solutions for problems that have already been solved with simple ones.">application</a>? I think simple HTML pages for each day such as _http://getcloser.magnumphotos.com/day001.html_, which would have been easy to link to, would have been "better (Web standards are still important.)":http://www.thenoodleincident.com/tutorials/box_lesson/why.html. Also, the campaign doesn't seem complete without a response from Henri Cartier-Bresson.
+
+Ultimately Get Closer 100 was a good exercise in looking at and thinking about photographs, photography and human beings and I thank "Magnum Photos (The greatest photo agency has, unfortunately, one of the worst websites.)":http://magnumphotos.com/ and the "International Center of Photography (Robert Capa at 100.)":http://www.icp.org/robert-capa-100 <sup id="footref1"><a href="#footnote1">1</a></sup> for organizing it and allowing responses from the public. Photography is, after all, one of the great democratic forms of art.
+
+—Simon
+
+fn1(#footnote1). If you haven't yet, please do visit "ICP's page (The interview is in the sidebar and also available on Youtube with a search for 'Robert Capa Interview'.)":http://www.icp.org/robert-capa-100 and listen to Robert Capa's 1947 radio interview, it is worth it. <a class="small" href="#footref1" title="Return to this footnote's reference.">↩</a></p>

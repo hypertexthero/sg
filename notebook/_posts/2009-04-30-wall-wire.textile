@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Wall, Wire
+image: "545"
+location: Rome, Italy
+date_taken: March 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- abstract
+- balloon
+- wall
+- wire
+---
+

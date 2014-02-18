@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: GRS-20101015-233734
+image: "1252"
+category: story-p6
+tags: []
+
+---
+

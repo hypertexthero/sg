@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Stazione Colosseo
+image: "1376"
+location: Rome, Italy
+date_taken: October 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- hat
+- indoor
+- expression
+---
+

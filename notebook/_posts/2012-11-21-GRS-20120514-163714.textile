@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Stafford Street
+image: "1657"
+location: Wolverhampton, England
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- hot
+- boy
+- boys
+- schoolboy
+- expression
+- hair
+- eyeliner
+- heels
+- walking
+- street
+---
+

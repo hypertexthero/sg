@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Bar de La Pace
+image: "904"
+location: Rome, Italy
+date_taken: November 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- embrace
+- statue
+- night
+---
+

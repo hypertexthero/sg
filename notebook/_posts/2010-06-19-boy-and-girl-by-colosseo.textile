@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Boy and Girl by Colosseo
+image: "773"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boy
+- girl
+- horse
+- bicycle
+---
+

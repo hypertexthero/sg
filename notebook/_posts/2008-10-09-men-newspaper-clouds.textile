@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Men, Newspaper, Clouds
+image: "444"
+location: Formello, Italy
+date_taken: October 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- balcony
+- cloud
+- morning
+- news
+---
+

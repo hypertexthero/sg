@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Via di San Pietro in Carcere
+image: "1670"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- old woman
+- pointing
+- finger
+---
+

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Cestari
+image: "1407"
+location: Rome, Italy
+date_taken: January 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- freud
+- sigmund
+- hat
+- coat
+- umbrella
+- walking cane
+- blur
+- night
+- beard
+---
+

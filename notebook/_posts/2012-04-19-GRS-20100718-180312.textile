@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Via Marmorata
+image: "1512"
+location: Rome, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- person
+- reflection
+- bus
+- window
+- road
+- tracks
+---
+

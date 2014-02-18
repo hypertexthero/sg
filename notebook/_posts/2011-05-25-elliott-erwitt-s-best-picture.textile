@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "Elliott Erwitt\xE2\x80\x99s Best Picture"
+excerpt: "Elliott Erwitt\xE2\x80\x99s Best Picture"
+category: notebook
+tags: 
+- "Elliott Erwitt\xE2\x80\x99s Best Picture"
+---
+"The next one":http://lens.blogs.nytimes.com/2011/05/06/elliott-erwitts-best-picture-the-next-one/.

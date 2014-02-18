@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Near Campo de' Fiore
+image: "228"
+location: Rome, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- night
+- enrico andreini
+---
+Enrico doing the _click_.

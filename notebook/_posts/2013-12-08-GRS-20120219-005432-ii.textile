@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Associazione Culturale
+image: "1929"
+location: Rome, Italy
+date_taken: March 2012
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- party
+- blur
+- girls
+- gesture
+- hand
+- expression
+- eyebrow
+- hair
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 38.

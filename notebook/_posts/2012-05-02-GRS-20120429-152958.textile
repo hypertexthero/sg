@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Belvedere di San Martino
+image: "1524"
+location: Naples, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- leaning
+- shapes
+- vesuvio
+- mountain
+- volcano
+- tree
+- gesture
+---
+

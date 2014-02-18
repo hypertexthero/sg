@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1826"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- cigarette pack
+- glasses
+- jacket
+- crowd
+- walk
+- hands
+---
+

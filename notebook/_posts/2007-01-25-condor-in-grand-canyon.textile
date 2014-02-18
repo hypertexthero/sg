@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Condor in Grand Canyon
+image: "61"
+location: Grand Canyon, Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- grand canyon
+- condor
+- landscape
+- smoke
+- haze
+- vista
+---
+p(preamble). These condors had wingspans of over three meters, and the canyon is truly epic in scale, difficult to portray in photographs.

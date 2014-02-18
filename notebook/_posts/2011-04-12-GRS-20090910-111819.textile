@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Villa D'Este
+image: "1088"
+location: Tivoli, Italy
+date_taken: September 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- eagle
+- statue
+- men
+- comic
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Tree and Light at Night
+image: "487"
+location: Bracciano, Italy
+date_taken: July 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- movement
+- blur
+- night
+- streaks
+- light
+---
+

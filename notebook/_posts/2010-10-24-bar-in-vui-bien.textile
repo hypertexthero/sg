@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Bar in Vui Bien
+image: "920"
+location: Saigon, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- boy
+- adults
+- expression
+- bar
+- night
+---
+

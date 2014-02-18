@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Man Reading, Geese
+image: "123"
+location: Rome, Italy
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- man
+- papere
+- geese
+- plastic
+- candid
+- bw
+- piazza
+- del
+- popolo
+---
+The things one sees in Rome.

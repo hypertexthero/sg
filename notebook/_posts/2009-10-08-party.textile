@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Party
+image: "592"
+location: Giustiniana, Italy
+date_taken: June 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- party
+- man
+- woman
+- blur
+- light
+- bottles
+- drinks
+- alcohol
+- flash
+---
+

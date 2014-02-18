@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Via del Teatro Marcello
+image: "1527"
+location: Rome, Italy
+date_taken: March 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romemarathon
+tags: 
+- bw
+- cane
+- runner
+---
+

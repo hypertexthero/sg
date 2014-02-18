@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Woman and Building
+image: "22"
+location: Rome, Italy
+date_taken: May 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- Rome
+- Italy
+- Roma
+- Italia
+- building
+- woman
+- bars
+- fences
+- green
+- red
+- aosr
+---
+p(preamble). Urban isolation enforced by architecture. Can the desire for privacy be excessive?

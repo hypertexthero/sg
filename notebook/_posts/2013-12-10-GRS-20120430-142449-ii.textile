@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Spaccanapoli
+image: "1934"
+location: Naples, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- blur
+- close
+- expression
+- street
+- fist
+- suit
+- gesture
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 43.

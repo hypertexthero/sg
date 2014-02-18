@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Forest in Afternoon
+image: "388"
+location: Bracciano, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- nature
+- forest
+- sorbo
+- afternoon
+- light
+- values
+- shadow
+- trunks
+- trunk
+- branches
+- leaves
+---
+

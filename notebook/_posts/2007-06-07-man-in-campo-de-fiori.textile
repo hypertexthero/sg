@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Man in Campo de' Fiori
+image: "138"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- man
+- bw
+- candid
+- street
+- campo
+- bruno
+---
+1/50th of a second.

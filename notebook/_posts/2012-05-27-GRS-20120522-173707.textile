@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1538"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- people
+- expression
+- boy
+- tourists
+- raining
+- puddle
+- cape
+- umbrella
+---
+

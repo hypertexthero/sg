@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Dog In Car
+image: "428"
+location: Bracciano, Italy
+date_taken: May 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- funny
+- dog
+- reflections
+- car
+- tongue
+---
+

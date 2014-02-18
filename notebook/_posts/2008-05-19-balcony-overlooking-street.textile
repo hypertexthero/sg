@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Balcony Overlooking Street
+image: "352"
+location: Bracciano, Italy
+date_taken: May 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- man
+- ladies
+- women
+- "60\xE2\x80\x9380"
+- fair
+---
+

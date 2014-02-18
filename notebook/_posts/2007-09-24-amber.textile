@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Amber
+image: "212"
+location: London, UK
+date_taken: February 2004
+camera: Canon EOS 300D
+lens: "Canon EF-S 18\xE2\x80\x9355mm f/3.5\xE2\x80\x935.6"
+category: notebook
+tags: 
+- bw
+- candid
+- portrait
+- amber
+- queensway
+- hotel
+- peggy
+---
+

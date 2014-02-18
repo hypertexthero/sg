@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via Municipio
+image: "1845"
+location: Sperlonga, Italy
+date_taken: June 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+category: notebook
+tags: 
+- bw
+- old man
+- old woman
+- 65 to 85 years
+- umbrella
+- expression
+- bench
+- mouth
+- wall
+---
+

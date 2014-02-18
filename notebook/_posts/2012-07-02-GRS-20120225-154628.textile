@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Piazza della Rotonda
+image: "1570"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- expression
+- gesture
+- suit
+- cigarette
+- teeth
+- smile
+---
+

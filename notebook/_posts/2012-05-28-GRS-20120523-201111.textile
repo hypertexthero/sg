@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Largo Argentina
+image: "1539"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- vertical
+- expression
+- bowtie
+- tie
+- beard
+- hand
+- polegar
+- shirt
+- eyes
+---
+

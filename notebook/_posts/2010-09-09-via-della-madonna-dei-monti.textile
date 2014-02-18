@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via della Madonna dei Monti
+image: "882"
+location: Rome, Italy
+date_taken: January 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- blur
+- reeds
+- vines
+- wall
+---
+

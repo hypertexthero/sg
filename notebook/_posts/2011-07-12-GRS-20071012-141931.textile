@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Santa Maria della Rotonda
+image: "1158"
+location: Rome, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- man
+- crazy
+- eyes
+- gesture
+- rain
+- umbrella
+- piazza
+- expression
+---
+

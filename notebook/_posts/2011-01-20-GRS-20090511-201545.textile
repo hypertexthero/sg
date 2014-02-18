@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza Navona
+image: "1021"
+location: Rome, Italy
+date_taken: May 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- fashion
+- dress
+- dresser
+- people
+- piazza
+---
+

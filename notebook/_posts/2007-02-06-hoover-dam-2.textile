@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Hoover Dam #2"
+image: "76"
+location: Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- hoover
+- dam
+- colorado
+- abstract
+- water
+- hole
+- las vegas
+- arizona
+- nevada
+---
+Abstract shapes in Hoover Dam.

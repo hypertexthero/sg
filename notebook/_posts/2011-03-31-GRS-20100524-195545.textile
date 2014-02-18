@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Caff\xC3\xA9 degli Angeli"
+image: "1079"
+location: Rome
+date_taken: May 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- expression
+- cafe
+---
+

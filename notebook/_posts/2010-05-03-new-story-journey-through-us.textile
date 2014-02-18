@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "New Story: Journey Through US"
+excerpt: "New Story: Journey Through US"
+category: notebook
+tags: 
+- journey through us
+---
+Finally edited these down to something: "Photographs from a trip across the United States (Journey Through US.)":/story-jtus with "Amber":http://descriptedlines.com, five years ago.

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via Ottaviano
+image: "1518"
+location: Rome, Italy
+date_taken: December 2011
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- man
+- boy
+- glasses
+- expression
+- close
+- night
+- flash
+---
+

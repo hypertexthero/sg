@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Around the Fire #2"
+image: "204"
+location: Oakland, California, US
+date_taken: February 2007
+camera: Leica M8
+lens: Voigtlander Nokton 40mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- playground
+- fire
+- garden
+- wine
+- drunk
+---
+Ryan, Kim, Amber and Margo around the fire-pit in the "Playground's":http://playgroundcoop.org garden.

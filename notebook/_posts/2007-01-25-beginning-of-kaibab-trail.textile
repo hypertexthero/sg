@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Beginning of Kaibab Trail
+image: "62"
+location: Grand Canyon, Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- grand
+- canyon
+- grand canyon
+- kaibab
+- trail
+- hike
+- landscape
+- vista
+- fog
+- smoke
+- mist
+- morning
+---
+p(preamble). Early morning, and a breath-taking six hour hike ahead, down to Bright Angel campground across the Colorado river in the bottom of the Canyon. 
+
+Every shade of red and green and yellow, bright, dark, all in between; a landscape filled with a life all its own. The 'fog' was smoke from a natural fire on the North rim.

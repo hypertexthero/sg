@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Morning Conversation
+image: "484"
+location: Bracciano, Italy
+date_taken: December 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- men
+- "70\xE2\x80\x9390"
+- hat
+---
+

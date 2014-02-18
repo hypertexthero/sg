@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: House
+image: "199"
+location: Mitchell, Nebraska, US
+date_taken: July 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- highway
+- american
+- flag
+- road trip
+- united states of america
+---
+

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Contrast
+excerpt: Rest
+category: notebook
+tags: 
+- rest
+---
+bq. Sublime upon sublime scarcely presents a contrast, and we need a little rest from everything, even the beautiful. —Victor Hugo

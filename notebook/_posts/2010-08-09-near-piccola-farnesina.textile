@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Near Piccola Farnesina
+image: "848"
+location: Rome, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- graffitti
+- wall
+- night
+---
+

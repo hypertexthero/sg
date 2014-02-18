@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Boys in Brooklyn
+image: "712"
+location: New York City, US
+date_taken: May 2005
+category: story-jtus
+tags: 
+- GRS-20050521-155357
+---
+

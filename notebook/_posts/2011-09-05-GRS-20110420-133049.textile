@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Av. de Eduardo Dato
+image: "1304"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- boy
+- expression
+- girl
+- midday
+---
+

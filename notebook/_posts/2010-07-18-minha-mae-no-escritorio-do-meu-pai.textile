@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Minha M\xC3\xA3e no Escrit\xC3\xB3rio do Meu Pai"
+image: "809"
+location: Formello, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- "m\xC3\xA3e"
+- dad
+- pai
+- escritorio
+---
+From an upcoming essay called _Breaking Point_.

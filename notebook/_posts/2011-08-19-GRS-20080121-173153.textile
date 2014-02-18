@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: GRS-20080121-173153
+image: "1203"
+category: story-p2
+tags: []
+
+---
+

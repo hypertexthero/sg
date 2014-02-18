@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Brown Eyes Bar
+image: "942"
+location: "Hu\xE1\xBA\xBF, Vietnam"
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- pool
+- bar
+- brown eyes
+- che guevara
+- jrb
+---
+

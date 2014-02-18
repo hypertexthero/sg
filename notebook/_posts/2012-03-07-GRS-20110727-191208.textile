@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Piazza Garibaldi
+image: "1430"
+location: Cortona, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- child
+- view
+- cloud
+---
+

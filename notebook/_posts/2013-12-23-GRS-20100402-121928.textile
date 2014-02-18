@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Nam K\xE1\xBB\xB3 Kh\xE1\xBB\x9Fi Ngh\xC4\xA9a"
+image: "1955"
+location: Saigon, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- conical hat
+- peasant
+- building
+- skyscraper
+- contruction
+- urban
+- street
+- motorino
+- scooter
+- stripes
+- cables
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 63.

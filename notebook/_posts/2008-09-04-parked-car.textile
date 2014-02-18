@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Parked Car
+image: "431"
+location: Bracciano, Italy
+date_taken: August 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- composition
+- tree
+- car
+- glint
+- sunlight
+- near
+- noon
+---
+

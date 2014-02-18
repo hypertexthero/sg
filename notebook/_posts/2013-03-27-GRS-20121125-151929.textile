@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Piazza di Spagna
+image: "1753"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- caress
+- hold
+- holding
+- man
+- expression
+- love
+- tranquility
+- hair
+- jacket
+- leather
+- hand
+- veins
+- gesture
+---
+

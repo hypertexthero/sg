@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Fes el Bali
+image: "1994"
+location: Fes, Morocco
+date_taken: February 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- 30 to 50 years
+- boy
+- 13 to 18 years
+- walking
+- street
+- noon
+- car
+- tire
+- graffiti
+- wall
+- beard
+- expression
+- shoe
+- wall
+---
+

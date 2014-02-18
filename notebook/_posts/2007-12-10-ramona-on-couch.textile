@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Ramona on Couch
+image: "276"
+location: Oakland, California, US
+date_taken: November 2005
+camera: Canon EOS 300D
+lens: "EF 17\xE2\x80\x9340mm f/4 L USM"
+category: notebook
+tags: 
+- bw
+- pet
+- dog
+- ramona
+- sofa
+- playground
+- living room
+- window
+- light
+---
+

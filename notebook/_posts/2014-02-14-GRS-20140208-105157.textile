@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Fes el Bali
+image: "1996"
+location: Fes, Morocco
+date_taken: February 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- women
+- 14 to 60
+- mannequin
+- clothes
+- shop
+- marriage
+- religion
+- headscarf
+- islam
+---
+

@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: State Surveillance of Personal Data Is Theft
+excerpt: State Surveillance of Personal Data Is Theft
+category: imaginarylines
+tags: 
+- surveillance
+- edward snowden
+---
+bq. More than 500 of the world's leading authors, including five Nobel prize winners, have condemned the scale of state surveillance revealed by the whistleblower Edward Snowden and warned that spy agencies are undermining democracy and must be curbed by a new international charter. "Continue reading at The Guardian":http://www.theguardian.com/world/2013/dec/10/surveillance-theft-worlds-leading-authors.

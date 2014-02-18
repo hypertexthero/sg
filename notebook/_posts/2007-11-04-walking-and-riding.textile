@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Walking and Riding
+image: "252"
+location: Lago di Garda, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- lake
+- garda
+- bicycle
+- walking
+- riding
+- old man
+- afternoon
+- mountains
+- sparse
+---
+Around Lago di Garda's riviera.

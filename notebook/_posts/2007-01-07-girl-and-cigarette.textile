@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Girl and Cigarette
+image: "46"
+location: Rome, Italy
+date_taken: June 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- girl
+- cigarette
+- via del corso
+- roma
+- rome
+- italia
+- italy
+- bella figura
+- smoking
+- fumando
+---
+p(preamble). A Via del Corso.

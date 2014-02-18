@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1700"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- umbrella
+- frog
+- dad
+- daughter
+- walking
+- street
+- rain
+---
+

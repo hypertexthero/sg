@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: L'Approdo
+image: "1183"
+location: Isola del Giglio, Italy
+date_taken: August 2011
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- dark
+- blur
+- light
+- streaks
+- old man
+- amber
+- hair
+---
+

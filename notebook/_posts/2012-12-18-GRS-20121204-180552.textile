@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1680"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boy
+- man
+- suits
+- expression
+- hat
+- 20s
+- gangsters
+- night
+- flash
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Starom\xC4\x9Bstsk\xC3\xA9 n\xC3\xA1m\xC4\x9Bst\xC3\xAD"
+image: "1686"
+location: Prague, Czech Republic
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old town square
+- prague
+- faces
+- people
+- crowd
+---
+

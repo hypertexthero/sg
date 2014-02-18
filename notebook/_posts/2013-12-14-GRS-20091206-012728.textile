@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Gianmarco and Jeremy
+image: "1942"
+location: Malta
+date_taken: December 2009
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- laughing
+- blur
+- gianmarco
+- jeremy
+- friend
+- friends
+- party
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 50.

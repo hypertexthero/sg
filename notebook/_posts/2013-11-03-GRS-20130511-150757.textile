@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Champ de Mars
+image: "1905"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- wind
+- man
+- asian
+- 40 to 60
+- people
+- wind
+- walking
+- dust
+- sand
+- branch
+- noon
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 13. Day 14 is "here":http://simongriffee.com/notebook/GRS-20080118-152740.

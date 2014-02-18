@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: James Nachtwey - War Photographer
+excerpt: " \"James Nachtwey - War Photographer (A film by Christian Frei.)\":http://www.war-photographer.com/en/."
+category: notebook
+tags: []
+
+---
+ "James Nachtwey - War Photographer (A film by Christian Frei.)":http://www.war-photographer.com/en/.

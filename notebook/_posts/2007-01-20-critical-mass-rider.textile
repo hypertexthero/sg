@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Critical Mass Rider
+image: "56"
+location: San Francisco, California
+date_taken: October 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- critical mass
+- country
+- hat
+- bike
+- bicycle
+- rider
+- embarcadero plaza
+---
+p(preamble). A rider inspired by the countryside gets ready to rock n' ride in "Critical Mass (Critical Mass on Halloween photograph.)":/photographs/critical-mass-on-halloween.

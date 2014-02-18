@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Vatican Transmitters and Wall
+image: "351"
+location: Santa Maria di Galeria, Italy
+date_taken: November 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- landscape
+- libero pensiero
+- holy see
+- propaganda
+- antennas
+- wall
+- fence
+- clouds
+- horizon
+---
+"The violence of borders (Generous Alphabet journal : The violence of borders.)":http://generousalphabet.org/journal/the-violence-of-borders.

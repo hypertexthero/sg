@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Amber
+image: "1368"
+location: Brussels, Belgium
+date_taken: January 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- close
+- trees
+- forest
+- looking up
+- expression
+---
+My girl. She "writes":http://descriptedlines.com.

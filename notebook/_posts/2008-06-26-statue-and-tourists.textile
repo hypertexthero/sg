@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Statue and Tourists
+image: "384"
+location: Rome, Italy
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- lion
+- statue
+- people
+- clouds
+- sky
+- low angle
+---
+In Piazza del Popolo.

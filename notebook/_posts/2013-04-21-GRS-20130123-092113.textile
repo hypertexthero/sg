@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Palatine Hill
+image: "1770"
+location: Rome, Italy
+date_taken: January 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- palatine hill
+- colle palatino
+- tree
+- bushes
+- branches
+- leaves
+---
+

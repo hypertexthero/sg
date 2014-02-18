@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Big Ben 7:40am
+image: "296"
+location: London, UK
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- big ben
+- london
+- river
+- thames
+- dawn
+- clock
+---
+Different time of day, but "almost the same spot and composition (picture #4)":http://news.bbc.co.uk/2/hi/in_pictures/7213055.stm. All the light bulbs are working in mine!

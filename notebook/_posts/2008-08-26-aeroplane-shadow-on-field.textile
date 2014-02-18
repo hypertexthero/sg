@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Aeroplane Shadow on Field
+image: "422"
+location: Ciampino, Italy
+date_taken: April 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- air
+- sky
+- aerial
+- shadow
+- airplane
+- sheep
+- roads
+- afternoon
+- landscape
+---
+

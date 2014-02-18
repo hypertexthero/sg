@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Piazza di Spagna
+image: "1717"
+location: Rome, Italy
+date_taken: February 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- hat
+- woman
+- hair
+- expression
+- eyes
+- church
+- towers
+- sky
+---
+

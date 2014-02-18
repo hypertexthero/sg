@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1627"
+location: Rome, Italy
+date_taken: October 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- newspaper
+- sun
+- glare
+- running
+- road
+- trees
+- holding
+---
+

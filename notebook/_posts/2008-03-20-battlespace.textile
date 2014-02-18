@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Battlespace
+excerpt: |
+  "Photographs from Iraq and Afghanistan":http://www.battlespaceonline.org/.
+  
+
+category: notebook
+tags: []
+
+---
+"Photographs from Iraq and Afghanistan":http://www.battlespaceonline.org/.
+

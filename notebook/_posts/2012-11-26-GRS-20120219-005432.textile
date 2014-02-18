@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Associazione Culturale
+image: "1660"
+location: Rome, Italy
+date_taken: February 2012
+camera: Ricoh GRD III
+lens: Ricoh GRD III 28mm f/1.9
+category: notebook
+tags: 
+- bw
+- girls
+- blur
+- expression
+- gesture
+- hand
+- smile
+- eyebrow
+- hair
+---
+

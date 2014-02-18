@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Monte Capitolino Verso Ovest
+image: "1396"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romesnow
+tags: 
+- bw
+- lamp
+- plants
+- trees
+- branches
+- snow
+- sun
+- west
+- path
+- trail
+---
+

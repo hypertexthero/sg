@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Horse Carriage
+image: "272"
+location: Rome, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- carriage
+- horse
+- blur
+- motion
+- high key
+- navona
+- campo
+- tourists
+- animal
+- movement
+---
+My apologies for the lack of updates the past couple of weeks. I've been traveling and without my Leica which is in Solms, Germany, for a circuit board replacement. I will write more about the latter in the "journal":/journal/ soon.

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Rafael Farratel
+image: "220"
+location: Ossario di Custoza, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- portrait
+- ossuary
+- ossario
+- custoza
+- pointy trees
+- pines
+---
+

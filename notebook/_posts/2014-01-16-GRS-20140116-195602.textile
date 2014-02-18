@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Via di Sant'Andrea delle Fratte
+image: "1981"
+location: Rome, Italy
+date_taken: January 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+category: notebook
+tags: 
+- bw
+- crowd
+- journalists
+- politician
+- microphones
+- videocameras
+- cameras
+- reporters
+- media
+- spotlight
+- crowd
+- speech
+- press
+- expression
+- close
+- flash
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 86.

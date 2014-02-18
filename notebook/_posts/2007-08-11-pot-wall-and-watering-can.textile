@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Pot, Wall and Watering Can
+image: "165"
+location: Bracciano, Italy
+date_taken: July 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bracciano
+- pot
+- wall
+- watering can
+- bw
+- texture
+- still life
+---
+And I'm back with an internet connection, and regular posting. There is also a new feature added to the site—search! Thank you for visiting!

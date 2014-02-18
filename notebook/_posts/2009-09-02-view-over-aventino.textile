@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: View Over Aventino
+image: "580"
+location: Rome, Italy
+date_taken: September 2009
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- bw
+- aventino
+- san pietro basilica
+- st. peter's
+- fao
+- window
+- phone
+- water bottle
+- shadow
+- hill
+---
+

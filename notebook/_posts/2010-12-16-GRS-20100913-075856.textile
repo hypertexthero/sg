@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Via di San Paolo della Croce, Morning
+image: "983"
+location: Rome, Italy
+date_taken: September 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- shadow
+- light
+- chiaro-scuro
+- silhouette
+---
+

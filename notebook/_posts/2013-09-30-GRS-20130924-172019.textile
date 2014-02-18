@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1878"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girls
+- 20 to 30 years
+- police
+- motorcycle
+- gesture
+- shoes
+- socks
+- standing
+- polizia civile
+- sunglasses
+---
+

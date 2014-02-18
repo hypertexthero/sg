@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1586"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- tourist
+- man
+- hat
+- shirt
+- sunglasses
+- shades
+- string
+- expression
+- woman
+---
+

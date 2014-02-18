@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Dad in the Morning
+image: "435"
+location: Formello, Italy
+date_taken: September 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- dad
+- father
+- contrail
+- tree
+- morning
+- coffee
+- road
+- centro
+- storico
+---
+A photograph of dad while we walked toward a café. Dad doesn't think he can drink coffee anymore, but he made an exception on this day.
+
+Part of a project about my father.

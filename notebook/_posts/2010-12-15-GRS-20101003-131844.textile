@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: By Via Cappello
+image: "982"
+location: Verona, Italy
+date_taken: October 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- hearts
+- graffitti
+- romeo juliet
+---
+

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "New Story: Rome Marathon"
+category: notebook
+tags: 
+- rome
+- marathon
+---
+"Rome Marathon, 18 March 2012":/story-romemarathon/ - "BEGIN":/story-romemarathon/GRS-20120318-120253 »

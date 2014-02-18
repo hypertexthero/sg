@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Circo Massimo
+image: "1920"
+location: Rome, Italy
+date_taken: May 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- tourists
+- covering head
+- hat
+- improvisation
+- walking
+- shadow
+- pebbles
+- open space
+- midday
+- noon
+- expression
+- gesture
+- shadow
+- group
+- men
+- 30 to 40 years
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 31.
+
+Day 30 is "here":/notebook/GRS-20100407-064420.

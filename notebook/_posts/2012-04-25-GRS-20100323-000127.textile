@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Bungalow, Night
+image: "1520"
+location: Ko Lanta, Andaman Sea
+date_taken: March 2010
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- color
+- amber
+- laptop
+- mosquito net
+- light
+- waves
+- door
+---
+

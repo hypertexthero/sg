@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: The Real Toy Story
+excerpt: "\"The real toy story\":http://www.photomichaelwolf.com/the_real_toy_story/index.html."
+category: notebook
+tags: []
+
+---
+"The real toy story":http://www.photomichaelwolf.com/the_real_toy_story/index.html.

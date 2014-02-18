@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: FAQ
+category: prints
+tags: 
+- frequently
+- asked
+- questions
+- faq
+---
+h1. Prints <acronym title="Frequently asked questions">FAQ</acronym>
+
+h2. Why are your prices so high?
+
+To "develop (Fine Art Black and White Digital Printing. An Overview of The Current State Of The Art. By Clayton Jones.)":http://www.cjcom.net/articles/digiprn1.htm, print, pack and send a fine photographic print takes time. Rather than become a robot I want to sell only enough prints to make a comfortable living. I like the idea of there only being a small number of my prints in existence.
+
+h2. Why are your prices so low?
+
+I am young, but rest assured they will go up regularly!
+
+"Back to the prints page »":/prints/
+"Ask me more questions »":/contact/
+
+<txp:variable name="printsfaq" value="1" />

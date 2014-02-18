@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via del Teatro di Marcello
+image: "1815"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- 40 to 55 years
+- hair
+- shades
+- walk
+- steps
+- jacket
+---
+

@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Via del Salvatore
+image: "1913"
+location: Cortona, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- hair
+- girl
+- 20 to 30 years
+- road
+- view
+- landscape
+- italian
+- car
+- clouds
+- distance
+- fields
+- walk
+- bounce
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 23. 
+
+Day 22 is "here":http://simongriffee.com/notebook/GRS-20130511-121512.
+
+Day 24 is "here":http://simongriffee.com/notebook/GRS-20110917-173405.

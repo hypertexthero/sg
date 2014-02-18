@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Salita dei Borgia
+image: "1714"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- drunk
+- shoes
+- limoncello
+- gesture
+- headache
+- down
+- sidewalk
+- out
+---
+

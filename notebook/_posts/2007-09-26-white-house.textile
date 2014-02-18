@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: White House
+image: "214"
+location: Washington DC, Virginia, US
+date_taken: May 2005
+camera: Canon PowerShot SD200
+lens: "Canon 35\xE2\x80\x93105mm f/2.8\xE2\x80\x934.9"
+category: notebook
+tags: 
+- bw
+- reportage
+- raining
+- rain
+- flash
+- reflection
+- dark
+- white house
+- government
+---
+Taken with "Will's":/photographs/william-loera camera.

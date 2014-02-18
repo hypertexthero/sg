@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: View of Basilica di San Pietro
+image: "335"
+location: Rome, Italy
+date_taken: November 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- urban
+- street
+- libero pensiero
+- lamp post
+- vatican
+- dome
+- light
+- dark
+- street
+- lonely
+- car
+---
+

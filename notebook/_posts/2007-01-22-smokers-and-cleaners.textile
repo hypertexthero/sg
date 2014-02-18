@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Smokers and Cleaners
+image: "58"
+location: Rome, Italy
+date_taken: August 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- termini
+- asian
+- italian
+- mop
+- broom
+- cigarette
+- cigarettes
+- candid
+- bw
+---
+p(preamble). Mischevious tourists at Termini central train station. You can see a cigarette butt about to be gobbled by the cleaning cart. I don't know what they were all looking at, probably an Italiana!

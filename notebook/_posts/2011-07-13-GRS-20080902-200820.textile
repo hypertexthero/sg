@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Master Eskinazi
+image: "1160"
+location: Formello, Italy
+date_taken: September 2008
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4 USM"
+category: notebook
+tags: 
+- color
+- victor
+- eskinazi
+- portrait
+- into camera
+- objects
+- table
+---
+Self-portrait by "Master Eskinazi":http://www.flickr.com/people/eskinazi/??

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Textpattern, Strftime Save Daylight Saving Time
+excerpt: |
+  I never liked <a href="http://webexhibits.org/daylightsaving/" title="Elegant writing on the history of Daylight Saving Time.">Daylight Saving Time</a>. Losing an hour of sleep before joining the Roman rally-race to work six months of the year made me particularly unhappy.
+
+category: notebook
+tags: []
+
+---
+p(preamble). I never liked <a href="http://webexhibits.org/daylightsaving/" title="Elegant writing on the history of Daylight Saving Time.">Daylight Saving Time</a>. Losing an hour of sleep before joining the Roman rally-race to work six months of the year made me particularly unhappy.
+
+Freelancing from home means rush-hour traffic is behind me, but Daylight Saving Time (<acronym title="Daylight Saving Time">DST</acronym>) has struck again. This time the gloom was caused by recent <a href="http://www.simongriffee.com/Article/28/eight-thousand-and-thirty-days-ago">birthday</a>-<a href="http://www.simongriffee.com/Article/31/birthday-boy">related</a> posts I made to this website, which is powered by <a href="http://www.textpattern.com/" title="Dean Allen&#8217;s open-source web publishing system.">Textpattern</a>. The article posted-dates were wrongly displaying as a day previously; for example, an article I had set to be published on April 6th displayed a posted-date of April 5th.
+
+I tracked the problem down to the recent <acronym title="Daylight Saving Time">DST</acronym> change and the absence of a setting for it on the Textpattern site administration panel. Changing the Time Zone setting to GMT+02:00 instead of GMT+01:00 (thus simulating the dreaded <acronym title="Daylight Saving Time">DST</acronym>) worked, but was a hack I wouldn't want to manually repeat or worry about every six months.
+
+I upgraded to Textpattern <a href="http://forum.textpattern.com/viewtopic.php?id=6461" title="Textpattern RC3 announcement."><acronym title="Release Candidate number 3">RC3</acronym></a> and found that now a setting for <acronym title="Daylight Saving Time">DST</acronym> <em>was</em> available and that it made the posted-dates work properly again. Except now the custom-defined date format on the bottom of each article only showed the <a href="http://www.php.net/date" title="date function of widely-used open source scripting language especially suited for web development."><acronym title="PHP:Hypertext Preprocessor.">PHP</acronym> date</a> variables instead of an actual day, month and year.
+
+Some Googling brought me to this <a href="http://forum.textpattern.com/viewtopic.php?pid=42989" title="Textpattern RC3 uses a different function (strftime) to format dates.">discussion thread</a> on the helpful Textpattern forum, which gave me the answer. In Textpattern RC3 a new PHP time function called <a href="http://www.php.net/strftime">strftime</a> is used to format dates. Strftime formats a local time and date according to locale settings and by using its  string format in my txp tags as for example: <code><txp:posted format="%e  %B %Y" /></code> my problem was solved. Strftime along with the new Textpattern <acronym title="Daylight Saving Time">DST</acronym> preferences setting saved me yet another Daylight Saving Time woe.

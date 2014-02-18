@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Jimmy and Frankie in 'Pizza Buona'
+image: "992"
+location: Rome, Italy
+date_taken: July 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- jimmy
+- frankie
+- mirror
+- self-portrait
+---
+

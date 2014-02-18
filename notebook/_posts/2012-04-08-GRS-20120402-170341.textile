@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Loggia dei Lanzi
+image: "1498"
+location: Florence, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boys
+- girls
+- youth
+- statues
+- old
+- young
+- expression
+- gesture
+---
+

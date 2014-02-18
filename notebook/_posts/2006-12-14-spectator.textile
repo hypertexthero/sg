@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Spectator
+image: "32"
+location: Rome, Italy
+date_taken: May 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- concert
+- harsh light
+- boy
+- glasses
+- black and white
+- bw
+- circo massimo
+- rome
+- italy
+---
+At the _We Are The Future_ concert in Circo Massimo.

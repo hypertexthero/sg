@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Scene Outside Cafe in Prati
+image: "353"
+location: Rome, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- boy
+- girl
+- woman
+- man
+- family
+- heart
+- window
+- cafe
+- sidewalk
+- table
+- chair
+---
+

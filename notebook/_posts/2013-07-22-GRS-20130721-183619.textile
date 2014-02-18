@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Basilica di San Marco Evangelista
+image: "1829"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- wedding
+- bride
+- groom
+- rice
+- mirko
+- gavina
+- expression
+- motion
+- flash
+---
+

@@ -1,0 +1,51 @@
+--- 
+layout: post
+title: Rich Folks Hoax
+excerpt: Rich Folks Hoax
+category: notebook
+tags: 
+- sixto rodriguez
+- rich folks hoax
+- music
+- guitar
+- chords
+---
+By <a href="http://sugarman.org/richfolks.html">Sixto Rodriguez</a>. You can also "listen":http://grooveshark.com/#!/s/Rich+Folks+Hoax/1Sf9dF.
+
+<pre>
+    Bm...
+    Bm                          Em     F# 
+    The moon is hanging in a purple sky
+    Bm                            Em     F#  F#  F
+    Baby's sleeping while his mother sighs
+    Em  F#                 Am
+    Talking about the rich folks
+                                Dm
+    The rich folks have the same jokes
+            F#              Am
+    But they park in basic places
+
+    The priest is preaching from a shallow grave
+    Counts his money, then he paints you saved
+    Talking 'bout the young folks
+    Young folks share the same jokes
+    But they meet in older places
+
+    CHORUS: 
+        Em    F#            Am
+    So don't tell me about your success
+    Em         F#              Am
+    Nor your recipes for my happiness
+    Em        F#             Am
+    Smoke in bed, I never could digest
+            Em       F#                 Am
+    Those illusions you claim to have going
+    
+    The sun is shining as it always done
+    Coffin dust is the fate of everyone
+    Talking about the rich folks
+    The poor create the rich hoax
+    And only late breast fed fools believe it
+
+    CHORUS
+</pre>

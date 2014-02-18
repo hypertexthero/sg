@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Home
+excerpt: "\"Look again at that dot. That's here. That's home, That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives."
+category: notebook
+tags: []
+
+---
+p(preamble). "Carl Sagan (Wikipedia entry on the eminent proponent of the scientific method.)":http://en.wikipedia.org/wiki/Carl_Sagan, on the "view of Earth from 3.7 billion miles away as a pale blue dot (NASA: Image of Earth taken by Voyager 1 as it left the Solar System.)":http://visibleearth.nasa.gov/view_rec.php?vev1id=1947:
+
+bq. "Look again at that dot. That's here. That's home, That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every 'superstar,' every 'supreme leader,' every saint and sinner in the history of our species lived there--on a mote of dust suspended in a sunbeam. &hellip;There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known."
+
+&mdash;&ldquo;You Are Here&rdquo;, <i>"Pale Blue Dot (Wikipedia: Pale Blue Dot.)":http://en.wikipedia.org/wiki/Pale_Blue_Dot, pp. 8&ndash;9</i>.

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Viale Trastevere
+image: "1411"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old woman
+- sun-glasses
+- shades
+- expression
+- dress
+- old man
+- shirt
+- hat
+- street
+---
+

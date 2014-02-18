@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Viale Lavinia Mazzucchetti in Parco di Villa Pamphili
+image: "1529"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- bryan
+- blur
+- light
+- expression
+- gesture
+---
+

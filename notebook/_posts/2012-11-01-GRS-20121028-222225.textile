@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Via dei Sabelli, San Lorenzo
+image: "1638"
+location: Rome, Italy
+date_taken: October 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- umbrella
+- eyes
+- hair
+- flash
+- blur
+- expression
+- night
+---
+

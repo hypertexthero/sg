@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Zabriskie Point
+image: "1938"
+location: Death Valley, California
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- color
+- amber
+- girl
+- walking
+- zabriskie point
+- bleak
+- landscape
+- highway
+- hills
+- crumbling
+- dark
+- mountain
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 46.

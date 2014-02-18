@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Man With Umbrella #2"
+image: "302"
+location: Bracciano, Italy
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- smile
+- smirk
+- mona lisa
+- half-smile
+- ubrella
+- raining
+---
+

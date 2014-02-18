@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via dei Vascellari
+image: "779"
+location: Rome, Italy
+date_taken: June 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- via dei vascellari
+- priest
+- boots
+- cross
+- hands
+- wall
+---
+

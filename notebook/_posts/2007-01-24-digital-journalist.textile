@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Digital Journalist
+excerpt: I had the pleasure of discovering the "Digital Journalist (Monthly online magazine for visual journalism.)":http://digitaljournalist.org/  through "Behind the Lens (George Barr.)":http://www.georgebarr.blogspot.com/.
+category: notebook
+tags: []
+
+---
+p(preamble). I had the pleasure of discovering the "Digital Journalist (Monthly online magazine for visual journalism.)":http://digitaljournalist.org/  through "Behind the Lens (George Barr.)":http://www.georgebarr.blogspot.com/. Some highlights I've enjoyed:
+
+* "Sam Abell Pictures and Video Interviews":http://digitaljournalist.org/issue0206/sam_index.htm. I like how more than one frame is included to better illustrate the location, the editing, the story.
+* "Pencils Don't Win Wars (Ron Steinman column.)":http://digitaljournalist.org/issue0701/pencils-don-t-win-wars.html
+* "The Tide is High (Rising sea levels and their effect on the low-level, one-meter-high coastline of the islands that make up the Carteret Atoll in the South Pacific.)":http://digitaljournalist.org/issue0701/the-tide-is-high.html
+* "Acuntance (Sharpening.)":http://digitaljournalist.org/issue0701/nuts-and-bolts.html. Sharpen your images for specific purposes.

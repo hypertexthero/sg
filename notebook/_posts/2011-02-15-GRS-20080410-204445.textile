@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Upper Street
+image: "1045"
+location: London, England
+date_taken: April 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boys
+- cigarette
+- telephone
+- night
+- lens artifacts
+- young
+- haircut
+---
+

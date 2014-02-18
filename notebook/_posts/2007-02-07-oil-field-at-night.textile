@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Oil Field at Night
+image: "77"
+location: Near Taft, California, US
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- taft
+- bakers field
+- oil
+- pump
+- light
+- stars
+- moon
+- night
+- car
+- reflection
+- joshua tree trip
+---
+On the drive down to Joshua Tree I passed through the "Mordor (Wikipedia - Mordor.)":http://en.wikipedia.org/wiki/Mordor of California. 
+
+I got out of the car and could see the relationships in the image; the movement of the pumps, the light of the refineries obscuring the stars and even the moon, reflected off the roof of the car, the red and yellow glow on the bushes from the car's blinkers.
+
+On a technical note, I was surprised by the 5D camera sensor's ability to record the faint stars. It was a 4.9 second exposure.

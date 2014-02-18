@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Man in Underground
+image: "307"
+location: London, UK
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- underground
+- tube
+- "man 60\xE2\x80\x9390"
+- "woman 30\xE2\x80\x9350"
+---
+

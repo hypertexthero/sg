@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1427"
+location: Rome, Italy
+date_taken: February 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- jrb
+- night
+- blur
+- bars
+- branches
+- expression
+---
+

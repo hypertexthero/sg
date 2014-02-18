@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: By Piazza Trilussa
+image: "1034"
+location: Rome, Italy
+date_taken: August 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- expression
+- man
+- arm
+---
+

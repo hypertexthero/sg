@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Piazza Navona
+image: "997"
+location: Rome, Italy
+date_taken: January 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- boys
+- sugar
+- fair
+- befana
+- children
+- navona
+---
+

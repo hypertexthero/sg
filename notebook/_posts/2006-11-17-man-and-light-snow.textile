@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Man and Light Snow
+image: "20"
+location: Formello, Italy
+date_taken: January 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- Formello
+- Italy
+- man
+- snow
+- street
+- black and white
+- bw
+---
+p(preamble). The snow and black and white treatment emphasize the symmetries in this photograph. Snow is rare in Formello, and in my life. It was a dream-like day.

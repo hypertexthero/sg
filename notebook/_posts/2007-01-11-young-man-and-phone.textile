@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Young Man and Phone
+image: "49"
+location: San Francisco, California
+date_taken: January 2007
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- macworld
+- expo
+- "2007"
+- iphone
+- apple
+- asian
+- glass
+- reflections
+- shiny
+---
+p(preamble). Alternate title: _The lust for consumer electronics_. Shot at the Macworld Exposition 2007.

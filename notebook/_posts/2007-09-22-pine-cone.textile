@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Pine Cone
+image: "210"
+location: Mount Diablo, California, US
+date_taken: February 2007
+camera: Canon EOS 5D
+lens: "EF 70\xE2\x80\x93200mm f/4 L IS USM"
+category: notebook
+tags: 
+- bw
+- flora
+- still life
+- nature
+- mount diablo
+- icy
+---
+Part of _Flora_, and upcoming series.

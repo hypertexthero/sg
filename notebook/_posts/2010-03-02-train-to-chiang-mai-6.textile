@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Train to Chiang Mai #6"
+image: "627"
+location: Near Chiang Mai, Thailand
+date_taken: February 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- child
+- motorcycle
+- road
+- dust
+- water tower
+---
+

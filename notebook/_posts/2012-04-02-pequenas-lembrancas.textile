@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Pequenas Lembran\xC3\xA7as"
+location: Brasil
+excerpt: "Pequenas Lembran\xC3\xA7as"
+category: notebook
+tags: 
+- simon
+- odila
+- beto
+- fotos
+---
+<txp:image id="1489" />
+
+<txp:image id="1488" />
+
+<txp:image id="1487" />
+
+Obrigado, "Beto":http://opsiquiatra.com!

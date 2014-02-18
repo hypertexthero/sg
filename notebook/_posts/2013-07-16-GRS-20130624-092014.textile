@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1824"
+location: Rome, Italy
+date_taken: June 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- tourists
+- woman
+- man 55 to 75
+- expression
+- backpack
+- glasses
+- short hair
+- overweight
+- canada
+- sneakers
+- bus stop
+---
+

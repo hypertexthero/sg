@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Street Seafood Bar
+image: "925"
+location: Saigon, Vietnam
+date_taken: March 2010
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- color
+- jrb
+- ryan
+- night
+- rain
+- light
+- dark
+---
+

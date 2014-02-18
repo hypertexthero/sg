@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Celtic Sea
+image: "1613"
+location: St Ives, England
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- celtic sea
+- foam
+- gleam
+- dad
+---
+

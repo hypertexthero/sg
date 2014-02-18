@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: The Wind
+excerpt: The Wind
+category: notebook
+tags: 
+- wind
+- Robert Lous Stevenson
+- A Child's Garden of Verses
+- dad
+- child
+- book
+---
+I saw you toss the kites on high  
+And blow the birds about the sky;  
+And all around I heard you pass,  
+Like ladies' skirts across the grass —  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;O wind, a-blowing all day long,  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;O wind, that sings so loud a song!
+
+I saw the different things you did,  
+But always you yourself you hid.  
+I felt you push, I heard you call,  
+I could not see yourself at all —   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;O wind, a-blowing all day long,  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;O wind, that sings so loud a song! 
+
+O you that are so strong and cold,  
+O blower, are you young or old?  
+Are you a beast of field and tree,  
+Or just a stronger child than me?    <br>
+&nbsp;&nbsp;&nbsp;&nbsp;O wind, a-blowing all day long,   <br>
+&nbsp;&nbsp;&nbsp;&nbsp;O wind, that sings so loud a song!
+
+—<a href="https://en.wikipedia.org/wiki/Robert_Louis_Stevenson">Robert Lous Stevenson</a>, <i>A Child's Garden of Verses</i>

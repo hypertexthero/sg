@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: PhotoTechEDU, Pixels and Me
+excerpt: "Dick Lyon: \"PhotoTechEDU - A Photographic Technology Lecture Series\":http://www.dicklyon.com/phototech/, \"Pixels and Me\":http://video.google.com/videoplay?docid=-5655850487750051532."
+category: notebook
+tags: []
+
+---
+Dick Lyon: "PhotoTechEDU - A Photographic Technology Lecture Series":http://www.dicklyon.com/phototech/, "Pixels and Me":http://video.google.com/videoplay?docid=-5655850487750051532.

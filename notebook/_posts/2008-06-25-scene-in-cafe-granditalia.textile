@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Scene in Caf\xC3\xA9 Grand'Italia"
+image: "383"
+location: Bracciano, Italy
+date_taken: November 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- colour
+- old
+- men
+- "70\xE2\x80\x93100"
+- hat
+- photographs
+- waitress
+- table
+- sitting
+- expression
+---
+

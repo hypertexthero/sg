@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Taxi and Pedestrian
+image: "300"
+location: London, UK
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- taxi
+- london cabbie
+- black
+- man
+- "50\xE2\x80\x9370"
+- walking
+- street
+- asphalt
+- englishman
+- english
+---
+

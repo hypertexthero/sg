@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Earth's Moon Around Midnight
+image: "575"
+location: Bracciano, Italy
+date_taken: 12 August 2009
+camera: Canon EOS 5D
+lens: "EF 70\xE2\x80\x93200mm f/4 IS"
+category: notebook
+tags: 
+- bw
+- moon
+- night
+- midnight
+- earth
+- space
+- sky
+---
+"Moon":http://en.wikipedia.org/wiki/Moon → "Earth":http://en.wikipedia.org/wiki/Earth → "Solar System":http://en.wikipedia.org/wiki/Solar_System → "Local Interstellar Cloud":http://en.wikipedia.org/wiki/Local_Interstellar_Cloud → "Local Bubble":http://en.wikipedia.org/wiki/Local_Bubble → "Orion Arm":http://en.wikipedia.org/wiki/Orion_Arm → "Milky Way":http://en.wikipedia.org/wiki/Milky_Way → "Local Group":http://en.wikipedia.org/wiki/Local_Group → "Virgo Supercluster":http://en.wikipedia.org/wiki/Virgo_Supercluster → "Large-scale structure of the cosmos":http://en.wikipedia.org/wiki/Large-scale_structure_of_the_cosmos → "Observable universe":http://en.wikipedia.org/wiki/Observable_universe → "Universe":http://en.wikipedia.org/wiki/Universe. 
+1/125 sec, f/11, ISO 200.

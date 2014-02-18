@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Near Area Sacra Argentina
+image: "866"
+location: Rome, Italy
+date_taken: June 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- gesture
+- black man
+---
+

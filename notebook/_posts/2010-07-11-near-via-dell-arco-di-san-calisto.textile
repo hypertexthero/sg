@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Near Via dell'Arco di San Calisto
+image: "800"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- cigarette
+- wall
+- graffiti
+---
+

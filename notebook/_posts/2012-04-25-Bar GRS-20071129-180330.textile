@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Bar
+image: "1519"
+location: Wetzlar, Germany
+date_taken: November 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- girl
+- naked
+- beer
+- shadow
+- bar
+---
+

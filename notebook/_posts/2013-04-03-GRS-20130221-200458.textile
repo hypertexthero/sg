@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Bar
+image: "1758"
+location: Rome, Italy
+date_taken: February 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- waitress
+- plate
+- arms
+- hands
+- balance
+- expression
+- flash
+- mask
+---
+

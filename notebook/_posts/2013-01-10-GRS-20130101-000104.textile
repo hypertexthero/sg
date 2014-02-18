@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Campo de Fiore, Capodanno
+image: "1693"
+location: Rome, Italy
+date_taken: January 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- boy
+- wings
+- smoke
+- night
+---
+

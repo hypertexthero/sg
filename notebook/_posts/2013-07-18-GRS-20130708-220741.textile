@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Antica Birreria Peroni
+image: "1825"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- penis
+- wurstel
+- chips
+- cook
+- blur
+- movement
+- expression
+- restaurant
+---
+

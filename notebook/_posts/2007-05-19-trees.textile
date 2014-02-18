@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Trees
+image: "130"
+location: South-Eastern California, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- landscape
+- color
+- vertical
+- trees
+- green
+- yellow
+- day
+---
+Heading into the California central valley. 

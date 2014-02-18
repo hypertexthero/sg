@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Maestro Francesco
+image: "1672"
+location: Rome, Italy
+date_taken: November 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- francesco
+- barber
+- barbiere
+- classico
+- photograph
+- sunglasses
+- shades
+- laughter
+- mirror
+---
+

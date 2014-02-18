@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Man Outside Apartment Block
+image: "711"
+location: Washington DC, US
+date_taken: May 2005
+category: story-jtus
+tags: 
+- GRS-20050518-144233
+---
+

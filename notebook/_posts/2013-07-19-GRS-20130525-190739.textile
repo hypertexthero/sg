@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1827"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- old woman
+- old man
+- 70 to 90 years
+- expression
+- walk
+- gesture
+- hand
+- stroller
+---
+

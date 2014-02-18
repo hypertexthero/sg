@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1097"
+location: Rome, Italy
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- men
+- van
+- expression
+---
+

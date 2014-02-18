@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Men in Winter Morning Sunlight
+image: "308"
+location: Bracciano, Italy
+date_taken: February 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- old
+- street corner
+- cigarette
+- newspaper
+- "60\xE2\x80\x9390"
+---
+

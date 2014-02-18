@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Parco Celio
+image: "1569"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- women
+- fat
+- swords
+- shields
+- fight
+- spectator
+- spectators
+- grass
+- movement
+- gladiator
+---
+

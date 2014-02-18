@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Children on Door Step
+image: "377"
+location: Bracciano, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- children
+- boy
+- girl
+- "3\xE2\x80\x937"
+- door
+- trolley
+- step
+---
+

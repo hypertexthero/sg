@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Vines, Fence
+image: "613"
+location: Bracciano, Italy
+date_taken: October 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- vines
+- barbed wire
+- bracciano
+---
+

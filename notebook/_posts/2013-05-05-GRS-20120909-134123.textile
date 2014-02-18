@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Wharf Road
+image: "1777"
+location: St Ives, England
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- hair
+- curly
+- blonde
+- family
+- woman
+- child
+- laugh
+- girl
+- fat
+- beach
+---
+

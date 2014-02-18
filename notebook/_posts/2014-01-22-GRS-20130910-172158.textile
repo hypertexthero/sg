@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1984"
+location: Rome
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- tourists
+- group
+- animal
+- camera
+- eye
+- glasses
+- umbrella
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 92.

@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Run Like Hell
+image: "1843"
+location: Rome, Italy
+date_taken: July 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+category: notebook
+tags: 
+- bw
+- silhouette
+- the wall
+- floodlights
+- beams of light
+- crowd
+- night
+- blur
+- show
+- roger waters
+- pig
+- flying pig
+- boar
+- star of david
+- shell
+- hammer
+- stadium
+---
+

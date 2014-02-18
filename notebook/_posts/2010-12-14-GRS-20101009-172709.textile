@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "981"
+location: Rome, Italy
+date_taken: October 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- bus
+- window
+- palazzo piazza venezia
+---
+

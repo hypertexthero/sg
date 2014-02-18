@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Via di San Venanzio
+image: "1092"
+location: Rome, Italy
+date_taken: January 2011
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- man
+- fireworks
+---
+

@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Curiosity and Schools
+excerpt: Curiosity and Schools
+category: notebook
+tags: 
+- curiosity
+- aaron swartz
+---
+"Aaron Swartz":http://www.fastcompany.com/3004769/my-email-exchange-aaron-swartz-shows-original-thinker:
+
+bq. When I was a kid, I thought a lot about what made me different from the other kids. I don't think I was smarter than them and I certainly wasn't more talented. And I definitely can't claim I was a harder worker -- I've never worked particularly hard, I've always just tried doing things I find fun. Instead, what I concluded was that I was more curious -- but not because I had been born that way. If you watch little kids, they are intensely curious, always exploring and trying to figure out how things work. The problem is that school drives all that curiosity out. Instead of letting you explore things for yourself, it tells you that you have to read these particular books and answer these particular questions. And if you try to do something else instead, you'll get in trouble. Very few people's curiosity can survive that. But, due to some accident, mine did. I kept being curious and just followed my curiosity. First I got interested in computers, which led me to get interested in the Internet, which led me to get interested in building online news sites, which led me to get interested in standards (like RSS), which led me to get interested in copyright reform (since Creative Commons wanted to use similar standards). And on and on. Curiosity builds on itself -- each new thing you learn about has all sorts of different parts and connections, which you then want to learn more about. Pretty soon you're interested in more and more and more, until almost everything seems interesting. And when that's the case, learning becomes really easy -- you want to learn about almost everything, since it all seems really interesting. I'm convinced that the people we call smart are just people who somehow got a head start on this process. I fell like the only thing I've really done is followed my curiosity wherever it led, even if that meant crazy things like leaving school or not taking a "real" job. This isn't easy -- my parents are still upset with me that I dropped out of school -- but it's always worked for me.

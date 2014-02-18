@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Procession
+image: "1952"
+location: Bracciano, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- procession
+- group
+- people
+- kid
+- child
+- baby
+- religion
+- pointing finger
+- mary
+- expression
+- 0 to 90 years
+- window
+- head
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 60. From "You and Me":http://simongriffee.com/stories/cultural/you-and-me.html.

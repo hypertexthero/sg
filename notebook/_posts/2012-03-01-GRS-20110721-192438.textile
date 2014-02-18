@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Museo dell'Accademia Etrusca e della Citt\xC3\xA0 di Cortona"
+image: "1425"
+location: Cortona, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- kid
+- boy
+- adults
+- hand
+---
+

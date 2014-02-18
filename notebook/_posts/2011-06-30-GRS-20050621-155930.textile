@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Badlands
+image: "1146"
+location: Badlands, South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: EF 28-135mm IS
+category: notebook
+tags: 
+- bw
+- windshield
+- dashboard
+- car
+- windscreen
+- crack
+- badlands
+- sky
+---
+

@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Jeu de Balle
+image: "1967"
+location: Brussels, Belgium
+date_taken: December 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- dog
+- 40 to 60 years
+- fat
+- scarf
+- tie
+- close
+- vertical
+---
+http://getcloser.magnumphotos.com/ is still glitching showing the first photos from the campaign instead of new ones, so here's one from Brussels until they sort things out.

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza delle Erbe, Night
+image: "1008"
+location: Verona, Italy
+date_taken: October 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- metal
+- post
+- night
+- umbrellas
+---
+

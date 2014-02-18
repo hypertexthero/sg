@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via Celimontana
+image: "1812"
+location: Rome, Italy
+date_taken: April 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- men
+- 40 to 70 years
+- conversation
+- gesture
+- cigarette
+- tie
+- talking
+- street
+- tourist menu
+---
+

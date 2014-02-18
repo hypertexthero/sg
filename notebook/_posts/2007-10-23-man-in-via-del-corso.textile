@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Man in Via del Corso
+image: "243"
+location: Rome, Italy
+date_taken: October 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- candid
+- street
+- hand
+- arm
+- umbrella
+- pink
+- man
+- optical illusion
+---
+A bit of color to warm up the current Roman cold front from Siberia.

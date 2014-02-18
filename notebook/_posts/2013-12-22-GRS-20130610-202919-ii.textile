@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Singel Near Heisteeg
+image: "1954"
+location: Amsterdam, Netherlands
+date_taken: June 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- mouth
+- overweight
+- surprise
+- ambiguous
+- ambiguity
+- expression
+- gesture
+- tie
+- oh
+- coat
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 62.

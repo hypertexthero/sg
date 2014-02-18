@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Ice Cream, College Avenue
+image: "115"
+location: Berkeley, California
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- ice cream
+- icy
+- college avenue
+- color
+- leica
+- glass
+- through glass
+---
+My favourite, vanilla, is not in the picture.

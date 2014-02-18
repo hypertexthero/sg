@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Parked Van
+image: "108"
+location: California, US
+date_taken: March 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- van
+- freedom
+- dudes
+- forest
+- one
+- "1"
+- highway
+- stopped
+- graffiti
+- bw
+---
+On Highway 1, near Mendocino.

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Villa Adriana Wall
+image: "331"
+location: Tivoli, Italy
+date_taken: January 2008
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4 L USM"
+category: notebook
+tags: 
+- bw
+- landscape
+- ruins
+- wall
+- trees
+- trunk
+- silhouette
+- villa adriana
+---
+

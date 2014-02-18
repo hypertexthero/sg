@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Open Window in Piazza Santa Maria in Trastevere
+image: "169"
+location: Rome, Italy
+date_taken: July 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- trastevere
+- san pietrino
+- piazza
+- umbrellas
+- window
+---
+

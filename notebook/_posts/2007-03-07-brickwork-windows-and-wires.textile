@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Brickwork, windows and wires
+image: "96"
+location: Chicago, Illinois, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bricks
+- brickword
+- window
+- windows
+- wire
+- wires
+- chicago
+- blues town
+- train
+- l train
+---
+View from the L-Train over Chicago.

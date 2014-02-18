@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Imperial War Museum
+image: "1916"
+location: Duxford, England
+date_taken: July 2003
+camera: Canon PowerShot G2
+lens: Canon Point and Shoot Lens
+category: notebook
+tags: 
+- color
+- old man
+- 80 to 100 years
+- airplanes
+- museum
+- hangar
+- ww2
+- propeller
+- b17
+- mustang
+- world war 2
+- veteran
+- tourists
+- expression
+- airplane
+- aeroplane
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 28.

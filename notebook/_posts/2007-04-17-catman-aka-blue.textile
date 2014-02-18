@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: "'Catman' aka 'Blue'"
+image: "119"
+location: Berkeley, California, US
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- catman
+- blue
+- the oaks
+- oaks
+- protest
+- trees
+- treehug
+- ropes
+- treehouse
+- tree-houses
+---
+This is 'Catman', also known as 'Blue'. He is one of the people living on the trees to stop University of California Berkeley from cutting down "the oaks (SaveOaks.com)":http://saveoaks.com/.

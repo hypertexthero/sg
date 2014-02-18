@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Big Ben 7:50am
+image: "295"
+location: London, UK
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- big ben
+- london
+- river
+- thames
+- dawn
+- clock
+---
+

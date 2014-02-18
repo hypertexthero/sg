@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: "New Story: The Island"
+excerpt: |-
+  A "new story available in the usual gallery format":/story-theisland/, and also as a "5-minute slideshow with music by Pink Floyd (Marooned, from The Division Bell, by David Gilmour and Richard Wright.)":/theisland/ (recommended).
+  
+  The "slideshow":/theisland/ is set in a deliberately slow pace. If you don't have time, I recommend the "gallery":/story-theisland/ instead
+category: notebook
+tags: 
+- the island
+---
+A "new story available in the usual gallery format":/story-theisland/, and also as a "5-minute slideshow with music by Pink Floyd (Marooned, from The Division Bell, by David Gilmour and Richard Wright.)":/theisland/ (recommended).
+
+The "slideshow":/theisland/ is set in a deliberately slow pace. If you don't have time, I recommend the "gallery":/story-theisland/ instead

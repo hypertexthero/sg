@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Joshua Tree Gettogether
+excerpt: Here are some photos from the lovely weekend spent at Joshua Tree national park with "Per Volquartz (Master photographer and printer.)":http://pervolquartz.com/ and several other photographers. More about my experience in the desert is forthcoming.
+category: notebook
+tags: []
+
+---
+Here are some photos from the lovely weekend spent at Joshua Tree national park with "Per Volquartz (Master photographer and printer.)":http://pervolquartz.com/ and several other photographers. More about my experience in the desert is forthcoming.
+
+notextile. <div class="thumbs">
+<a href="/images/69.jpg" title="The group and Per Volquartz with his characteristic white hat!" rel="lightbox"><txp:thumbnail id="69" /></a>
+<a href="/images/70.jpg" title="Another view of the group at Jumbo Rock Campground." rel="lightbox"><txp:thumbnail id="70" /></a>
+<a href="/images/71.jpg" title="Per demonstrates contrast control using an Ebony view camera. That's Abel to the left I believe." rel="lightbox"><txp:thumbnail id="71" /></a>
+<a href="/images/72.jpg" title="Per Volquartz and Jan Pietrzak, holding Per's Leica." rel="lightbox"><txp:thumbnail id="72" /></a>
+<a href="/images/73.jpg" title="Per Volquartz and Simon Griffee. Photo by a very nice, tall man whose name escapes me!" rel="lightbox"><txp:thumbnail id="73" /></a>
+</div>

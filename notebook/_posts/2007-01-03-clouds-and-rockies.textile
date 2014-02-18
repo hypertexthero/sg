@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Clouds and Rockies
+image: "42"
+location: Colorado, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- rocky mountains
+- trees
+- evergreens
+- rocks
+- snow
+- shadow
+- light
+- colorado
+- leadville
+- us
+---
+p(preamble). Looking at the Rocky Mountains out the car window. Near Leadville.

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Streetlight, Man, Shadow
+image: "574"
+location: Rome, Italy
+date_taken: July 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- street light
+- shadow
+- smile
+- eye
+- blur
+- wolf
+---
+Possible for "Libero Pensiero":/story-lp/.

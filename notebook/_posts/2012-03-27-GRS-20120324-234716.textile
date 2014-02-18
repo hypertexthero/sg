@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Marta, T\xC3\xA9a"
+image: "1483"
+location: Rome, Italy
+date_taken: March 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- girls
+- expression
+- gesture
+- blur
+---
+

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1900"
+location: Rome, Italy
+date_taken: October 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- 30 to 45 years
+- expression
+- blur
+- night
+- flash
+- suit
+- tie
+- face
+- side
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 8.

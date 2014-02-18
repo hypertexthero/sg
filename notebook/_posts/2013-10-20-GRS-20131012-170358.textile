@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Robert Capa in Italia 1943\xE2\x80\x931944, Museo di Roma"
+image: "1889"
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- robert capa
+- erneest hemingway
+- photograph
+- photography
+- gesture
+- cushion
+- wall
+- door
+---
+

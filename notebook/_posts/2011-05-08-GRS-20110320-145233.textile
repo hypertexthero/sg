@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Piazza del Grano
+image: "1100"
+location: Florence, Italy
+date_taken: March 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- girl
+- painting
+- pigeon
+- bird
+- boy
+- sunlight
+---
+

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Bus in 42nd Street
+image: "143"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- street
+- bw
+- bus
+- avenue
+---
+More bustle.

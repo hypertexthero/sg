@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Piazza Br\xC3\xA0"
+image: "1063"
+location: Verona, Italy
+date_taken: September 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- dog
+- people
+- walking
+- piazza
+---
+

@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: "Train Line Between Saigon and H\xE1\xBB\x99i An"
+image: "1919"
+location: Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- workers
+- train
+- rail
+- expression
+- gesture
+- men
+- 20 to 40 years
+- hat
+- eyes
+- fields
+- mountains
+- palm trees
+- reflection
+- window
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 30.
+
+Day 29 is "here":/notebook/GRS-20050621-171314-ii.

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: During Procession
+image: "1115"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- procession
+- nazareno
+- expression
+- eyes
+- businessman
+- suit
+- man
+- young man
+- men
+- all ages
+---
+

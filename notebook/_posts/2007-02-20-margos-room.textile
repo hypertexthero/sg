@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Margo's Room
+image: "86"
+location: Oakland, California
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- window
+- light
+- margo's room
+- playground
+- attic
+- still life
+- objects
+- bed
+- bullet
+---
+Upstairs room in the Playground House. Afternoon.

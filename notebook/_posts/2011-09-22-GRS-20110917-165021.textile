@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1316"
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- women
+- mother/daugher?
+- shades
+- dresses
+- necklaces
+- patterns
+- expression
+---
+

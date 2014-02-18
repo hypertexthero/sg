@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Tr\xE1\xBA\xA7n H\xC6\xB0ng \xC4\x90\xE1\xBA\xA1o"
+image: "928"
+location: Saigon, Vietnam
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- child
+- kid
+- department store
+- cloud
+- sea
+- pavement
+---
+

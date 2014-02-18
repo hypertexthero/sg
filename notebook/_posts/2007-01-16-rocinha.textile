@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Rocinha
+image: "53"
+location: Rio de Janeiro, Brazil
+date_taken: November 2002
+camera: Canon PowerShot G2
+lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+category: notebook
+tags: 
+- favela
+- rocinha
+- rio de janeiro
+- brasil
+- pobres
+- pobre
+- comunidade
+- community
+- drug lords
+- street
+- landscape
+---
+p(preamble). View from inside "Rocinha (Wikipedia - Rocinha.)":http://en.wikipedia.org/wiki/Rocinha, the largest "favela (Shanty town.)":http://en.wikipedia.org/wiki/Favela in South America. It is not difficult or dangerous to "visit Rocinha (Google search: tourists visit rocinha.)":http://www.google.com/search?&q=tourists+visit+rocinha.

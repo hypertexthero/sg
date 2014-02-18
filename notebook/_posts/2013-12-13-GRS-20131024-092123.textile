@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1941"
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- costumes
+- gas
+- nuclear
+- kids
+- boys
+- girls
+- 17 to 25 years
+- expression
+- running
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 49.

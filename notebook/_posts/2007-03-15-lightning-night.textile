@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Lightning Night
+image: "102"
+location: Near Platte, South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- lightning
+- missouri
+- campground
+- frightening
+- scary
+- night
+- landscape
+- bw
+- grainy
+---
+The second night camping was an unnerving one. We had driven for eleven hours skirting powerful storms in Iowa and South Dakota. 
+
+We arrived at a campground next to the Missouri river at night. It was hot, but there was no rain and no sound apart from the wind breaking off tree branches, which made the constant lightning flashes all around all the more strange and terrifying. 
+
+The flashes continued throughout the night, without stopping, as if we were surrounded by angry gods engaged in fierce battle.

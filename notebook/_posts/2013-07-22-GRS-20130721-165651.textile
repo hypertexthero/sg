@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Basilica di San Marco Evangelista
+image: "1830"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- priest
+- wedding
+- blessing
+- symbols
+- holy water
+- patterns
+- marble
+- robe
+- catholic
+- evangelist
+- hair
+- expression
+- hand
+- adjudant
+---
+

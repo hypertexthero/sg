@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Rooftop Terrace in Bui Vien
+image: "924"
+location: Rooftop Terrace in Bui Vien
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- erica
+- erika
+- girls
+- guys
+- drinks
+- lanterns
+- night
+- bar
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Villa Farnesina
+image: "1435"
+location: Rome, Italy
+date_taken: August 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- hair
+- painting
+- figures
+- museum
+---
+

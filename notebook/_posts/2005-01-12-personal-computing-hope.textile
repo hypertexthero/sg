@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Personal Computing Hope
+excerpt: A photograph showing the Mac mini personal computer against a white background.
+category: notebook
+tags: []
+
+---
+ <a style="border:0;" href="http://www.apple.com/macmini/design.html" title="Find out more about the Mac mini design"><img src="/images/macmini.jpg" height="255" width="370" alt="A photograph showing the Mac mini personal computer against a white background. The Mac mini's design is minimal, with only a CD slot and status light on the front." /></a>
+
+"http://www.apple.com/macmini":http://www.apple.com/macmini
+
+_Update, 16 Jan 2005:_ "John Gruber's commentary":http://daringfireball.net/2005/01/small_cheap_no_display
+
+_Update, 20 Jan 2005:_ "Mac mini disassembly":http://www.smashsworld.com/2005/01/taking-apart-mac-mini-how-to.php
+
+_Update, 29 Jan 2005:_ Jeremy Keith: <a href="http://adactio.com/journal/display.php/20050124220114.xml">"What excites me is the thought that my friends, neighbours and family members can find out for themselves that using a computer can be fun and creative instead of frustrating and toilsome."</a>

@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Care Bear &amp; Magic Pony
+image: "1441"
+location: Rome, Italy
+date_taken: March 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- jimmy boss
+- b.b. king of *x sysadmin
+---
+Photograph by "A.R.P.":http://descriptedlines.com

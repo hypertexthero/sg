@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1792"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- old
+- over 70
+- mouth
+- expression
+- walk
+- colosseo
+- colosseum
+- street
+- noon
+- midday
+- bright
+---
+

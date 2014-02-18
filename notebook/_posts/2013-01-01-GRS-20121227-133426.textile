@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Pet\xC5\x99\xC3\xADnsk\xC3\xA1 rozhledna"
+image: "1687"
+location: Prague, Czech Republic
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- "Pet\xC5\x99\xC3\xADn tower"
+- tree
+- silhouette
+- branches
+- metal
+---
+

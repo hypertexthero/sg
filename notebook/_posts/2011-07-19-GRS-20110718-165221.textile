@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Ottaviano
+image: "1171"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- woman
+- teeth
+- girl
+- expression
+- bag
+---
+

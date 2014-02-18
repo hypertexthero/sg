@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Near Grand Place
+image: "1927"
+location: Brussels, Belgium
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- ryan
+- kim
+- amber
+- people
+- night
+- expression
+- lights
+---
+<del>"#GetCloser100":http://getcloser.magnumphotos.com/ Day 37.</del>

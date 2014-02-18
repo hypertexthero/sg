@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Notte Bianca 2007
+excerpt: I will be walking around the center of Rome photographing during "la Notte Bianca":http://www.lanottebianca.it tonight.
+category: notebook
+tags: []
+
+---
+I will be walking around the center of Rome photographing during "la Notte Bianca":http://www.lanottebianca.it tonight.

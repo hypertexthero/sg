@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Afternoon at Piazza San Pietro
+image: "193"
+location: Rome, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- piazza
+- st. peter's square
+- vatican
+- man
+- pigeons
+- statues
+- against sun
+---
+

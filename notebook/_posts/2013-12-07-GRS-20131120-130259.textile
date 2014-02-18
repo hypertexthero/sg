@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Viale Aventino
+image: "1928"
+location: Rome, Italy
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- men
+- 50 to 65
+- walking
+- suits
+- tie
+- walk
+- expression
+- reverse smile
+- gesture
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 37.

@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Piazza di Trevi
+image: "1914"
+location: Rome, Italy
+date_taken: September 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- 40 to 55 years
+- close
+- flash
+- expression
+- hand in pocket
+- shirt
+- creased
+- unbuttoned
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 25. 
+
+Day 24 is "here":http://simongriffee.com/notebook/GRS-20110917-173405.
+
+Day 26 is "here":http://simongriffee.com/notebook/GRS-20130509-140038.

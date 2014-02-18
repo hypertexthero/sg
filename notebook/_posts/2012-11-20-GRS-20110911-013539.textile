@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Nightclub
+image: "1656"
+location: San Benedetto del Tronto, Italy
+date_taken: September 2011
+camera: Ricoh GRD III
+lens: Ricoh GRD III 28mm f/1.9
+category: notebook
+tags: 
+- bw
+- blur
+- night
+- nightclub
+- girl
+- boy
+- shapes
+---
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Sequoia Tree
+image: "38"
+location: Sequoia &amp; Kings Canyon National Park, California
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- Sequioa tree
+- sequoia national monument
+- kings canyon
+- sierras
+- sierra nevada
+- usa summer 2005 trip
+- national park
+---
+p(preamble). Photographs that better illustrate the unbelievable size of these trees are forthcoming.

@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Aqui Agora
+excerpt: "Esta voc\xC3\xAA vai gostar Betti\xE2\x80\xA6"
+category: notebook
+tags: []
+
+---
+p(preamble). <a href="http://www.tvmemoria.hpg.ig.com.br/aqui_agora.htm" title="Memórias do programa que revolucionou o telejornalismo no Brasil.">Esta você vai gostar Betti…</a>
+
+ <img src="/images/luis.jpg" title="Luis Lopes Correa do Aqui Agora." alt="Fotografia mostrando o Luis Lopes Correa apontando o dedo para a tela durante uma ediçao do Aqui Agora, jornal televisivo onde era apresentador." height="240" width="219" />
+
+ <a href="/download/ab_aquiagora.mp3" title="baixe um mp3 de uma abertura do Aqui Agora.">Ta-da-ta-daaaaaaaaa, ta-da-ta-daaaaaaaaaaa! (356kb <acronym title="Moving Pictures Experts Group Audio Layer 3">MP3</acronym>)</a>.

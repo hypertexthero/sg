@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Monterey Bay Aquarium
+image: "118"
+location: Monterey, California, US
+date_taken: February 2006
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- aquarium
+- fish
+- bars
+- bw
+- black and white
+- candid
+- people
+- underwater
+---
+Fish, biologists and tourists.

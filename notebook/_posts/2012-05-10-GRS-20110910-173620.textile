@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Spiaggia
+image: "1530"
+location: San Benedetto del Tronto, Italy
+date_taken: September 2011
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- beach
+- man
+- woman
+- old
+- movement
+- gesture
+- elbow
+- looking down
+- water
+- sand
+- shadow
+---
+

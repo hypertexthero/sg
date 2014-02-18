@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Thanon Boriphat Bridge
+image: "617"
+location: Bangkok, Thailand
+date_taken: February 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- monks
+- tuc tuc
+- bridge
+- bangkok
+---
+

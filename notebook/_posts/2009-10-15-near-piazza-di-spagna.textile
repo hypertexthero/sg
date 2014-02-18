@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Near Piazza di Spagna
+image: "598"
+location: Rome, Italy
+date_taken: February 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- women
+- woman
+- sunglasses
+- afternoon
+- warm
+- light
+- turquoise
+- orange
+- blur
+---
+

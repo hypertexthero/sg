@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Wall and Shadows
+image: "166"
+location: Rome, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- wall
+- shadows
+- house number
+- "13"
+- wire
+- rome
+- italy
+- centro storico
+- bw
+---
+In a small street in the Roman centro storico.

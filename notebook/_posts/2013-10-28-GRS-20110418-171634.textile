@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Puente de Triana
+image: "1899"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- boy
+- 7 to 16 years
+- procession
+- funny hats
+- expression
+- gesture
+- group
+- crowd
+- religious
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 7.

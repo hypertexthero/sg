@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Grasses, Nettles, Clouds
+image: "421"
+location: Bracciano, Italy
+date_taken: June 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- flora
+- landscape
+- nature
+- capim
+- ortiga
+- stinging nettles
+- wind
+---
+

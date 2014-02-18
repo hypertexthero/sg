@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Vase in Sunlight
+image: "498"
+location: Formello, Italy
+date_taken: August 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- flora
+- plant
+- vase
+- sunlight
+- terrace
+- leaves
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1326"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+excerpt: The VISOR.
+category: notebook
+tags: 
+- bw
+- tourist
+- visor
+- hat
+- shades
+---
+

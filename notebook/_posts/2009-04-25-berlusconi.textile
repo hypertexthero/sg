@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Berlusconi
+image: "537"
+location: Rome, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- silvio berlusconi
+- berlusconi
+- bw
+---
+Ran into Silvio and his friendly crew while photographing in "Rome":http://romebw.com yesterday.

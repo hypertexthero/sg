@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Girl and Boy at Monte Mario Station
+image: "275"
+location: Rome, Italy
+date_taken: May 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- candid
+- train
+- fr3
+- monte mario
+- love
+- risk
+- platform
+- fence
+---
+

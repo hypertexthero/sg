@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Pope John Paul II Beatification
+image: "1127"
+location: Rome, Italy
+date_taken: May 2011
+camera: Leica M9
+category: notebook
+tags: 
+- bw
+- men
+- black
+- priests
+- expression
+- photographer
+---
+

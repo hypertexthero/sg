@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1388"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romesnow
+tags: 
+- bw
+- kid
+- boy
+- snowball
+- snow-ball
+- snow
+- crosswalk
+---
+

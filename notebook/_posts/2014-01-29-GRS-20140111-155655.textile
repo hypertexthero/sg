@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Monte Terminillo
+image: "1989"
+location: Apennine Mountains, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- pedro
+- car
+- blur
+- silhouette
+- expression
+- boy
+- 16 years
+- snow
+- mountain
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day ?

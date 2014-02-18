@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Corso di Francia
+image: "1378"
+location: Rome, Italy
+date_taken: October 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- men
+- walking
+- crosswalk
+- car
+- inside car
+- overpass
+- road
+- windshield
+---
+

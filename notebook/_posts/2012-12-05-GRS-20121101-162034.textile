@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Corso Vittorio Emanuele II
+image: "1671"
+location: Rome, Italy
+date_taken: November 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- raincoat
+- old woman
+- walking stick
+- expression
+- blur
+- flash
+- glasses
+- crosswalk
+---
+

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Men in Avenue
+image: "144"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- avenue
+- building
+- new york
+---
+5th Avenue I believe. Geometry: the shape of the painted lane stripes lead to and reflect that of the building on the horizon.

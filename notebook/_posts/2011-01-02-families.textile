@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Families
+excerpt: Families
+category: notebook
+tags: 
+- families
+- happiness
+- tolstoy
+---
+bq. All happy families are alike; each unhappy family is unhappy in its own way. 
+
+— <a href="http://descriptedlines.com/anna-karenina">Leo Tolstoy</a>

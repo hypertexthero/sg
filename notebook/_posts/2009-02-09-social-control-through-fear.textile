@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Social Control Through Fear
+category: imaginarylines
+tags: []
+
+---
+"Government plans travel database":http://news.bbc.co.uk/2/hi/uk_news/7877182.stm:
+
+bq.. "The government is compiling a database to track and store the international travel records of millions of Britons. Computerised records of all 250 million journeys made by individuals in and out of the UK each year will be kept for up to 10 years. The government says the database is essential in the fight against crime, illegal immigration and terrorism. But opposition MPs and privacy campaigners fear it is a significant step towards a surveillance society. The intelligence centre will store names, addresses, telephone numbers, seat reservations, travel itineraries and credit card details of travellers."
+
+p. "Orwellian":http://en.wikipedia.org/wiki/Orwellian: 
+
+bq. "The adjective Orwellian describes the situation, idea, or societal condition that George Orwell identified as being destructive to the welfare of a free-society. It connotes an attitude and a policy of control by propaganda, misinformation, denial of truth, and manipulation of the past, including the "unperson" — a person whose past existence is expunged from the public record and memory, practiced by modern repressive governments. Often, this includes the circumstances depicted in his novels, particularly Nineteen Eighty-Four."

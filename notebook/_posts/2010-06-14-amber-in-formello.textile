@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Amber in Formello
+image: "765"
+location: Formello, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- formello
+- light
+---
+

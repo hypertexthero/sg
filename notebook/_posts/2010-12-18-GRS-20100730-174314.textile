@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali, Day
+image: "984"
+location: Rome, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- hat
+- socks
+- tourists
+- people
+- poster
+---
+

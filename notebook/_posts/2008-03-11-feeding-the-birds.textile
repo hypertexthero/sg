@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Feeding the Birds
+image: "317"
+location: Rome, Italy
+date_taken: February 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- birds
+- tevere
+- tiber
+- river
+- seagulls
+- pidgeons
+- man
+- tiberina
+- isola
+- island
+- water
+---
+

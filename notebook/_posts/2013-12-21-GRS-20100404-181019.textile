@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Ph\xC6\xB0\xE1\xBB\x9Dng 2"
+image: "1953"
+location: Saigon, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- kite
+- hat
+- man
+- 25 to 35 years
+- looking up
+- asian
+- shark
+- bird
+- sky
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 61.

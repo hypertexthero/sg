@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Letter to Fujifilm on X100S Viewfinder
+excerpt: Letter to Fujifilm
+category: notebook
+tags: 
+- fuji
+- fujifilm
+- camera
+- design
+- framelines
+---
+bq.. Hello,
+
+Can you please consider adding an option to turn off the center square (focus square) in the X100S optical viewfinder in a future firmware update?
+
+<txp:image id="1972" />
+
+The optical viewfinder is good, but the center square is distracting. Please see the Leica M3 viewfinder for a good example.
+
+Thank you,
+Simon

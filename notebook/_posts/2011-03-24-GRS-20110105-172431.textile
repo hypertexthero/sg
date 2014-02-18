@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Via della Pace
+image: "1073"
+location: Rome, Italy
+date_taken: January 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- leopard
+- coat
+- blur
+- night
+---
+

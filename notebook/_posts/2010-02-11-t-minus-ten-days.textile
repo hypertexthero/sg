@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: T-minus Ten Days
+image: "605"
+location: Formello, Italy
+date_taken: 11 February 2010
+camera: Ricoh GRD III
+lens: Ricoh GR Lens f/1.9
+category: notebook
+tags: 
+- bw
+- globe
+- thailand
+- bangkok
+---
+

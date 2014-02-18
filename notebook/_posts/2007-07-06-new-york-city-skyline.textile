@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: New York City Skyline
+image: "158"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- landscape
+- nyc
+- empire state building
+- chrysler building
+---
+Viewed from the Brooklyn Bridge.

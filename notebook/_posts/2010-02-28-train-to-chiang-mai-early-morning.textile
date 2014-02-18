@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Train to Chiang Mai, Early Morning
+image: "622"
+location: Northern Thailand
+date_taken: February 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- landscape
+- train
+- window
+- bamboo
+- asian flora
+---
+

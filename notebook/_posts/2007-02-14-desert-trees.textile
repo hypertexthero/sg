@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Desert Trees
+image: "82"
+location: Joshua Tree, California, US
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- joshua tree
+- landscape
+- blue
+- yellow
+- desert
+- tree
+- field
+- sunset
+- color
+---
+Eventually, I photographed some trees at Joshua Tree national park. The cloudy skies gave the place an eerie, outlandish feel.

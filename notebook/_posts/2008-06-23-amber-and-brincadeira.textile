@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Amber and Brincadeira
+image: "382"
+location: Bracciano, Italy
+date_taken: July 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- cat
+- brinquedo
+- amber
+- paulen
+- sentinella belvedere
+- feeding
+- leaves
+---
+

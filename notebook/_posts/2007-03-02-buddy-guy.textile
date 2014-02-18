@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Buddy Guy
+image: "94"
+location: San Francisco, California, US
+date_taken: February 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+excerpt: Buddy Guy
+category: notebook
+tags: 
+- buddy guy
+- fillmore
+- west
+- blues
+- music
+- concert
+- guitar
+- stratocaster
+- bluesman
+---
+Seeing "Buddy Guy (BuddyGuy.net)":http://buddyguy.net/ play at the "Fillmore (Wikipedia - The Fillmore.)":http://en.wikipedia.org/wiki/The_Fillmore was a dream come true. Got there early, sneaked in my camera hidden in the bottom pocket of my bag and went to the front, directly below the stage.
+
+Focusing with the 300D in the dark is a challenge—you can't trust the auto-focus, you can't see clearly through the small viewfinder, even with the f/1.4 50mm lens. No matter, the soft focus here works well as an expression that night's feeling.
+
+Buddy Guy plays the way life should be lived: With passion, with love and laughter. He inspired everyone from Jimi Hendrix to Stevie Ray Vaughan, and at 70, continues on the road, a bright blue ray of light in the world. Listening to Buddy Guy is an incredible experience.

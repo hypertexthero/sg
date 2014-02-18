@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: At Villa D'Este
+image: "586"
+location: Tivoli, Italy
+date_taken: September 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- tourist
+- tourists
+- camera
+- bushes
+- weeds
+- hedge
+- stairs
+- steps
+- villa d'este
+---
+

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Young Men and Billboard
+image: "31"
+location: Rome, Italy
+date_taken: September 2004
+camera: Canon EOS 300D
+lens: Ef 50mm f/1.4 USM
+category: notebook
+tags: 
+- men
+- boys
+- billboard
+- via del corso
+- rome
+- italy
+- fashion
+- bella figura
+---
+p(preamble). La Bella Figura a Via del Corso.

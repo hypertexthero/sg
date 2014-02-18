@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Street Scene
+image: "987"
+location: Rome, Italy
+date_taken: May 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- men
+- suits
+- reflection
+- window
+- street
+- noon
+---
+

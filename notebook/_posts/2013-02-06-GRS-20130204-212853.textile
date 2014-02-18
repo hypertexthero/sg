@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Brussels to Rome Flight
+image: "1711"
+location: Near Lago di Garda, Italy
+date_taken: February 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- lago di garda
+- heart
+- heel
+- shape
+- lights
+- air
+- night
+---
+

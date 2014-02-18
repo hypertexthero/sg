@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Drawing and Reflections
+image: "354"
+location: Bracciano, Italy
+date_taken: May 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- abstract
+- street
+- rainy day
+- clouds
+- fish
+- bones
+- reflection
+- water
+- self-portrait
+---
+Self-portrait on a rainy day. Must take more photographs, more often. Gotta go out.

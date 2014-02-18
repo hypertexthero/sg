@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1874"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 30 to 40 years
+- sunglasses
+- aviators
+- expression
+- arm
+- walk
+- camera
+- street
+- hair
+- balding
+---
+

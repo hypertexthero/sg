@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Via del Governo Vecchio
+image: "1788"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- bow-tie
+- young men
+- 18-30
+- walking
+- cigarette
+- suit
+- tuxedo
+- expression
+- night
+- flash
+- hand
+- wall
+- prom
+- street
+---
+

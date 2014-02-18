@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza di San Calisto
+image: "1593"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- suit
+- expression
+- fat
+- walk
+---
+

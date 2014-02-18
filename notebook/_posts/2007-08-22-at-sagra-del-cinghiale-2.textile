@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "At Sagra del Cinghiale #2"
+image: "175"
+location: Bracciano, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- candid
+- sagra del cinghiale
+- bracciano
+- park
+- fair
+- win
+- cans
+- bear
+- man
+- spooky
+---
+

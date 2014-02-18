@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Near Villa Borghese Overlook
+image: "442"
+location: Rome, Italy
+date_taken: September 2008
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4 L USM"
+category: notebook
+tags: 
+- bw
+- street
+- tree
+- trunk
+- shapes
+- midday
+- sun
+---
+

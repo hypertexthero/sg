@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Sky TG24
+image: "844"
+location: Rome, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- man
+- tv van
+- sky
+- pose
+---
+

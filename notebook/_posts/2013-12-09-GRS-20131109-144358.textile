@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Piazza Venezia
+image: "1930"
+location: Rome, Italy
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 55 to 70 years
+- umbrella
+- cane
+- flag
+- clouds
+- statue
+- cupola
+- walk
+- grass
+- expression
+- hand
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 39.

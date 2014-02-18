@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Pedro in Cappella Sistina
+image: "1382"
+location: Rome, Italy
+date_taken: January 2012
+camera: Fuji X10
+lens: "Fujinon Asph 28\xE2\x80\x93112mm-e f/2\xE2\x80\x932.8"
+category: notebook
+tags: 
+- color
+- pedro
+- cappella sistina
+- sistine chapel
+- michelangelo
+- blur
+- painting
+---
+

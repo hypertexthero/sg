@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1394"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romesnow
+tags: 
+- bw
+- rocks
+- snow
+- blizzard
+---
+

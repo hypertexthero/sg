@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Da Orazio
+image: "1951"
+location: Rome, Italy
+date_taken: April 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- gangnam style
+- dance
+- falling
+- blur
+- man
+- 30 to 40 years
+- flash
+- marble floor
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 59.

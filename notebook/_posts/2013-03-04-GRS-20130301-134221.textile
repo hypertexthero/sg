@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Oxford Circus
+image: "1733"
+location: London, England
+date_taken: March 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old woman
+- hand
+- walk
+- expression
+- gesture
+- grain
+- blur
+- street
+---
+

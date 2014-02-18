@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Beto
+image: "117"
+location: London, UK?
+date_taken: 1982?
+camera: Unknown camera
+lens: Unknown lens
+category: notebook
+tags: 
+- beto
+- lente
+- telefoto
+- inglaterra
+- old
+- classic
+- brother
+- "irm\xC3\xA3o"
+---
+Feliz aniversario mano! Você é uma inspiração pra mim! Te amo!

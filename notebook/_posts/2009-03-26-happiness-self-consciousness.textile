@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Happiness, Self-Consciousness
+category: notebook
+tags: 
+- happiness
+- " self-consciousness"
+---
+Happiness is something which is not within the field of self-consciousness.
+

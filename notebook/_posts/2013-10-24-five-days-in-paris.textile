@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Five Days in Paris
+location: Paris, France
+date_taken: May 2013
+excerpt: Five Days in Paris
+category: notebook
+tags: 
+- paris
+- photographs
+- black and white
+- stories
+---
+<a href="/FiveDaysParisMay2013/">Photographs from five days in Paris back in May 2013</a>. About time I update my stories section. More to come.

@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Random Strangers
+excerpt: Random Strangers
+category: notebook
+tags: 
+- random strangers
+---
+<div style="text-align:center;">
+<p><a href="http://www.johnryanbrubaker.com/randoms/">Chat roulette photographs by my friend John Ryan Brubaker</a></p>
+
+<p><a href="http://www.johnryanbrubaker.com/randoms/"><img src="/images/randomstrangers/crcoll-4.jpg" width="360" height="270" alt="Crcoll 4" /><img src="/images/randomstrangers/crcoll-6.jpg" width="360" height="270" alt="Crcoll 6" /><img src="/images/randomstrangers/crcoll-7.jpg" width="360" height="270" alt="Crcoll 7" /><img src="/images/randomstrangers/crcoll-25.jpg" width="360" height="270" alt="Crcoll 25" /><img src="/images/randomstrangers/crcoll-23.jpg" width="360" height="270" alt="Crcoll 23" /><img src="/images/randomstrangers/crcoll-62.jpg" width="360" height="270" alt="Crcoll 62" /></a></p>
+</div>

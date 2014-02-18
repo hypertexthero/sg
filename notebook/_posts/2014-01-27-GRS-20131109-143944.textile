@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Piazza del Campidoglio
+image: "1988"
+location: Rome, Italy
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- girl
+- boy
+- expression
+- gesture
+- fingers
+- 5 to 10 years
+- family
+- 5 to 90 years
+- statue
+- fence
+- metal
+- finger
+- hand
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day ?

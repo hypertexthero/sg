@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Che Guevara Photo
+excerpt: "bq. \"The unchecked proliferation of the picture\xE2\x80\x94based on a <a href=\"http://en.wikipedia.org/wiki/Che_Guevara_(photo)\">photograph by Alberto Korda</a> in 1960\xE2\x80\x94is partly due to a political choice by Korda and others not to demand payment for non-commercial use of the image.\"\r\n\
+  \xE2\x80\x94 \"Stephanie Holmes, BBC News\":http://news.bbc.co.uk/2/hi/americas/7028598.stm"
+category: notebook
+tags: []
+
+---
+!/images/226.jpg (Che Guevara, 1960, by Alberto Korda.)!
+
+bq. "The unchecked proliferation of the picture—based on a <a href="http://en.wikipedia.org/wiki/Che_Guevara_(photo)">photograph by Alberto Korda</a> in 1960—is partly due to a political choice by Korda and others not to demand payment for non-commercial use of the image."
+— "Stephanie Holmes, BBC News":http://news.bbc.co.uk/2/hi/americas/7028598.stm
+
+Jim Fitzpatrick, graphic artist who produced the drawing from Korda's photo:
+
+bq. "The way they killed him, there was to be no memorial, no place of pilgrimage, nothing. I was determined that the image should receive the broadest possible circulation. His image will never die, his name will never die."
+

@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Get Closer
+excerpt: Get Closer
+category: notebook
+tags: 
+- robert capa
+- get closer
+- magnum photos
+---
+ <div class="floatright">
+<txp:thumbnail id="1966" />
+<p class="caption">Robert Capa by Ruth Orkin, 1952.</p>
+ </div>
+
+For the 100 days between October 22nd -- Robert Capa’s (Friedmann Endre) 100th birthday -- and the opening of "Capa in Color":http://www.icp.org/museum/exhibitions/capa-color at the International Center of Photography in January, Magnum Photos and the ICP are asking photographers everywhere to "GET CLOSER":http://getcloser.magnumphotos.com/.
+
+Okay. I will do my best to respond every day for the "next 100 days (#GetCloser100)":http://simongriffee.com/search/?q=%23GetCloser100. Day 1 is "this one":http://simongriffee.com/notebook/GRS-20120401-124309.
+
+"Listen to Robert's voice at the International Center of Photography":http://www.icp.org/robert-capa-100.
+
+ <br class="clearboth">

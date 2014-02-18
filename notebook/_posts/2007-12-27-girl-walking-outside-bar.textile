@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Girl Walking Outside Bar
+image: "287"
+location: San Francisco, California
+date_taken: August 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- street
+- bar
+- window
+- scratches
+- flare
+- against light
+- dirty
+---
+

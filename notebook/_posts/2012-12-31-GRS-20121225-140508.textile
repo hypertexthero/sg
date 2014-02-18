@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Pra\xC5\xBEsk\xC3\xBD orloj"
+image: "1685"
+location: Prague, Czech Republic
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- clock
+- prague
+- astronomical
+- hat
+---
+

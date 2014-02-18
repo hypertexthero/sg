@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Prinsengracht, Looiersgracht Bridge
+image: "1805"
+location: Amsterdam, Netherlands
+date_taken: June 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- bicycle
+- legs
+- xxx
+- woman
+- 20 to 35 years
+- riding
+- bridge
+- amsterdam buildings
+---
+

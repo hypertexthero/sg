@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Flags and Protesters
+image: "40"
+location: San Francisco, California
+date_taken: May 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- strike
+- may day
+- "2006"
+- great american boycott
+- huelga general
+- no hay ser humano ilegal
+- flags
+- protesters
+- city hall
+- san francisco
+- brazil
+- brasil
+- usa
+- us
+- estados unidos
+---
+p(preamble). "No Hay Ser Humano Ilegal. Huelga General El 1 de Mayo. No trabajo, no escuela, no ventas, no compras. (Great American Boycott - Wikipedia.)":http://en.wikipedia.org/wiki/Great_American_Boycott

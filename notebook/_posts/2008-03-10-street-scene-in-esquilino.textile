@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Street Scene in Esquilino
+image: "316"
+location: Rome, Italy
+date_taken: February 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- tree
+- shadow
+- asphalt
+- man
+- walking
+- men
+- "40\xE2\x80\x9360"
+---
+

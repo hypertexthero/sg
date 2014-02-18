@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Car
+image: "54"
+location: South Dakota, US
+date_taken: August 2006
+camera: Canon EOS 300D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- car
+- wagon
+- oil
+- station wagon
+- trees
+- sky
+- bw
+- garage.
+---
+p(preamble). You need a car to get anywhere in most places of the United States, and you don't need to get out of your car to get (fast) food, beer and liquor[1], or even to go to the bank. For these, you may remain in your vehicle and go through the _drive-through_. 
+
+The dependence on automobiles and the associated 'conveniences' are both astonishing and depressing to me. The strip malls and parking lots and gas stations and 'business exits' everywhere, built solely for the passing driver, near nothing, far away from everything.
+
+_Car_, captured during my cross-country drive from Michigan to California, reminds me of all the above—hence the oily black and white treatment.
+
+I am guilty of driving in this land of course, but only on distant travels with friends. The rest of the time, I ride my bicycle, and I love it. I should post a photograph from a "Critical Mass (Critical-mass.org)":http://www.critical-mass.org/ in San Francisco…
+
+fn1. Don't open these inside your car, and if you are walking, likely because you are in a city, keep them in a paper bag.

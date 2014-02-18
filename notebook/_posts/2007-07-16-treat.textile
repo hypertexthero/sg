@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Treat
+image: "159"
+location: Berkeley, California, US
+date_taken: March 2007
+camera: Canon EOS 5D
+category: notebook
+tags: 
+- candind
+- bw
+- street
+- dog
+- icecream
+---
+Outside Ici ice-cream shop in College Avenue.

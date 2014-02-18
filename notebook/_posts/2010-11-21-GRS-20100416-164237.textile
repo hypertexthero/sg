@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Street Scene GRS-20100416-164237
+image: "958"
+location: Hanoi, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- girl
+- bicycle
+- old man
+- street
+- rail tracks
+- car
+---
+

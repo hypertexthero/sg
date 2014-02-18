@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Self-portrait on Motorcycle with JRB
+image: "1757"
+location: Chiang Mai, Thailand
+date_taken: February 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- self-portrait
+- mirror
+- camera
+- motorcycle
+- reflection
+- leica
+- road
+- movement
+---
+I'll be showing pictures with "JRB":http://jrbrubaker.com/ this Saturday "in Rome — come by":/notebook/in-the-cave!

@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Fotografia Festival Internazionale di Roma
+excerpt: |
+  "Fotografia Festival Internazionale di Roma":http://www.fotografiafestival.it. Grazie "Andrea (Andrea Sasso Design)":http://andreasassodesign.com!
+  
+
+category: notebook
+tags: []
+
+---
+"Fotografia Festival Internazionale di Roma":http://www.fotografiafestival.it. Grazie "Andrea (Andrea Sasso Design)":http://andreasassodesign.com!
+

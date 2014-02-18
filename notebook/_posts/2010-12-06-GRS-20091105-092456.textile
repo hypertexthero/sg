@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Stazione Ostiense
+image: "973"
+location: Rome, Italy
+date_taken: November 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- man
+- snoopy
+- clothes
+---
+

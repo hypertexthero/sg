@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: A Fence That Separates Two Worlds
+excerpt: A Fence That Separates Two Worlds
+category: notebook
+tags: 
+- fence
+- imaginary lines
+- separation
+- failure
+- human race
+- walls
+- borders
+---
+Writer "Lorenzo Silva":http://en.wikipedia.org/wiki/Lorenzo_Silva quoted in the Guardian's excellent <a href="http://www.theguardian.com/world/ng-interactive/2013/nov/walls">Our Walled World</a>:
+
+bq. …a symbol of the failure of Europe, and of the human race in general…a fence that separates two worlds.
+
+Unfortunately, I am often reminded of "Imaginary Lines":http://simongriffee.com/imaginarylines/.

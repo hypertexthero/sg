@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Dry Nettle Flowers
+image: "282"
+location: Bracciano, Italy
+date_taken: June 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- colour
+- subtle
+- nature
+- flora
+- plant
+- flower
+- dry
+- summer
+---
+

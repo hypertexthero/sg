@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Zabriskie Point
+image: "698"
+location: Death Valley, Nevada, US
+date_taken: July 2005
+category: story-jtus
+tags: 
+- GRS-20050712-212212
+---
+

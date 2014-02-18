@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Discontent
+category: notebook
+tags: 
+- discontent
+- positive
+---
+Discontent is a "positive":http://www.etresoi.ch/krishnamurti/0830.html word.

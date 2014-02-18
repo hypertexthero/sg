@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Taxi Passenger
+image: "799"
+location: Rome, Italy
+date_taken: May 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- taxi
+- window
+- man
+- expression
+---
+

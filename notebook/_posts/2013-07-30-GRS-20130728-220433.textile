@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: The Wall, Stadio Olimpico
+image: "1837"
+location: Rome, Italy
+date_taken: July 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+category: notebook
+tags: 
+- bw
+- crowd
+- night
+- concert
+- expression
+- gesture
+- faces
+- 20 to 45 years
+---
+

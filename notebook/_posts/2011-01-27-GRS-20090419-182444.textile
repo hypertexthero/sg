@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Self-portrait
+image: "1026"
+location: Near Olgiata, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- self-portrait
+- amber
+- hat
+- reflection
+- window
+- overcast
+---
+

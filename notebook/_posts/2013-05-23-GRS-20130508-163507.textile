@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Rue du Mont Cenis
+image: "1786"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- crowd
+- people
+- boy
+- old man
+- middle-aged man
+- leopard skin
+- expression
+- walk
+- street
+- cigarette
+---
+

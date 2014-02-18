@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Bicycle in Rain at Night
+image: "806"
+location: Amsterdam, Netherlands
+date_taken: November 2009
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- color
+- night
+- bicycle
+- cyclist
+- umbrella
+- rain
+---
+

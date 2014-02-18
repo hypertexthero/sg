@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Passages VII - Cortona
+location: Cortona, Italy
+date_taken: July 2011
+category: story-p7
+tags: 
+- bw
+- passages VII
+- cortona
+- amber
+---
+"First photo":/story-p7/GRS-20110728-171939 »

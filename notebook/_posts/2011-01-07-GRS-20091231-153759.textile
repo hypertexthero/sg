@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Piazza del Campidoglio
+image: "1002"
+location: Rome, Italy
+date_taken: December 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- amber
+- statue
+- talking
+- walking
+- campidoglio
+---
+

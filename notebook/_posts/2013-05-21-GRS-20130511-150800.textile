@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Champ de Mars
+image: "1785"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- wind
+- scarf
+- head
+- men
+- tree
+- trunk
+- noon
+- dust
+- sand
+---
+

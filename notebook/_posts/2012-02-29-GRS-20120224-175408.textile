@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Via dei Baullari
+image: "1417"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girls
+- volleyball
+- expression
+- surprise
+- serious
+- dress
+---
+

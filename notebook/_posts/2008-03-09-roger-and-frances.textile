@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: Roger and Frances
+excerpt: Roger and Frances
+category: notebook
+tags: []
+
+---
+Great writing. Lots of very useful information. Old-school site which reminds me of the truly personal, home-made homepages—the pioneers of the web. "RogerAndFrances.com":http://www.rogerandfrances.com/.
+

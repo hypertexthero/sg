@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Scala dell'Arcicapitolina
+image: "1973"
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- tourists
+- hats
+- balls
+- garish
+- old man
+- old woman
+- 55 to 75 years
+- expression
+- glasses
+- motley crew
+- winter hat
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day "?":http://simongriffee.com/notebook/GRS-20131223-114915

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Gianmarco
+image: "1162"
+location: Malta
+date_taken: December 2009
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- gianmarco
+- expression
+- blur
+- night
+- face
+- glasses
+- smile
+- laugh
+- suit
+- tie
+---
+

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: House (color)
+image: "792"
+location: Mitchell, Nebraska, US
+date_taken: July 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- house
+- mitchell
+- nebraska
+- flag
+---
+

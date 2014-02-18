@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Three Days in London
+location: London, England
+date_taken: March 2013
+excerpt: Three Days in London
+category: notebook
+tags: 
+- london
+- oxford street
+- stories
+---
+<a href="/LondonUkMarch2013/">Photographs from three days in London back in March</a>.

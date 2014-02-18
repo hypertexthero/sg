@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Found Films, Memories
+excerpt: Found Films, Memories
+category: notebook
+tags: 
+- film
+- time
+- memories
+---
+Today I found this "Found Films website":http://westfordcomp.com/updated/found.htm:
+
+bq. The pages below show prints I made from processing film I found in old cameras.  You are seeing them for the first time as they were lost by the photographers that took these images.
+
+"The nature of memories":http://westfordcomp.com/foundfilm/ehill/index.htm:
+
+bq. Memories are shadowy things. They become less clear as years pile up between the occurrence and the memory. They become impressions of a time. A time long lost. Our children grow and move on. It's good that they do that, but we feel sad. Sad, that the children we once knew so well, are gone. They exist only in memory, only for the few that knew them well, long ago. We're remembered for a very short time. Two generations, if we're lucky. After that we're simply photographs in a scrapbook. We pass bits of ourselves to our children and they do the same. It's alright. It's the way it's supposed to be.
+
+<a href="http://westfordcomp.com/foundfilm/ehill/index.htm"><txp:image id="1150" /></a>

@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via Tuscolana
+image: "1416"
+location: Rome, Italy
+date_taken: February 2012
+camera: Ricoh GRD III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- bw
+- night
+- blur
+- luca
+- suci
+- amber
+- jrb
+- kjt
+---
+

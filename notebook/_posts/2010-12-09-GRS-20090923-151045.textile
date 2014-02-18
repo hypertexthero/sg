@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Front of Metro Circo Massimo
+image: "976"
+location: Rome, Italy
+date_taken: September 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- old man
+- folder
+- briefcase
+- suit
+- sunglasses
+- shades
+- stairs
+- fao
+---
+

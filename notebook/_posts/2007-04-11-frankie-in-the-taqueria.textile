@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Frankie in the Taqueria
+image: "116"
+location: Berkeley, California
+date_taken: April 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- frankie
+- will
+- william
+- croisettier
+- mexican
+- taqueria
+- bw
+- leica
+- organization
+- candid
+---
+Frankie wasn't impressed with the comment Jimmy made about his jumper, and he was going to let Jimmy find out.

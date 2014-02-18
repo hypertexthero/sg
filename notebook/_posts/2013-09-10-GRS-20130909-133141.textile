@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Piazza San Lorenzo
+image: "1863"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- men
+- suits
+- ice-cream
+- gelato
+- ties
+- shoes
+- expression
+- shades
+- eyes
+- 40 to 60 years
+---
+

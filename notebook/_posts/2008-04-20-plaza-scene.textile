@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Plaza Scene
+image: "329"
+location: Sevilla, Spain
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- v
+- triangle
+- sign
+- old man
+- walking
+- piazza
+- plaza
+- square
+- bar
+---
+

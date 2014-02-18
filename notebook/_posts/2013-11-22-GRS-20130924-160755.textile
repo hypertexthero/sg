@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1921"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- women
+- 60 to 80 years
+- water
+- bottle
+- h20
+- pouring
+- sunglasses
+- shades
+- expression
+- gesture
+- street
+- stripes
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 32.

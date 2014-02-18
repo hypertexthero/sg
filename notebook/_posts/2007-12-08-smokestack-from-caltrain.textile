@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Smokestack From Caltrain
+image: "274"
+location: Near San Francisco, California, US
+date_taken: December 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- bw
+- landscape
+- travel
+- train
+- through window
+- dirty glass
+- smokestack
+- factory
+- graffiti
+- tracks
+- rails
+- palo alto
+---
+Riding the Caltrain to Palo Alto to crash classes at "Stanford":/photographs/stanford-campus and visit "Frankie":/photographs/frankie-in-the-taqueria.

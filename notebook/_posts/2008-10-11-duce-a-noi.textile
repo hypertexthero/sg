@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Duce: A Noi!"
+image: "446"
+location: Rome, Italy
+date_taken: October 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- vitrine
+- stilllife
+- still
+- life
+- propaganda
+- newspaper
+- bust
+- picture
+- old
+- antique
+- shop
+- throughwindow
+---
+

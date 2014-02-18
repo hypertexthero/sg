@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Flamenco Dancer
+image: "43"
+location: Sevilla, Spain
+date_taken: December 2004
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- Seville
+- spain
+- flamenco
+- dancing
+- dancer
+- bar
+- movement
+- dance
+- traditional
+---
+p(preamble). Movement and emotion.

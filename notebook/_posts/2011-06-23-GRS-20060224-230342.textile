@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Buddy Guy at the Filmore
+image: "1134"
+location: San Francisco, California
+date_taken: February 2006
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- color
+- buddy guy
+- guitar
+- joy
+- expression
+- drum stick
+---
+

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Rome - 3
+image: "1206"
+category: story-p3
+tags: []
+
+---
+

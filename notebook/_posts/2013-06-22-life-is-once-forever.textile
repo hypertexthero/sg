@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Life is Once, Forever
+excerpt: Life is Once, Forever
+category: notebook
+tags: 
+- Henri Cartier-Bresson
+- life
+---
+Henri Cartier-Bresson: "Living and Looking":http://lens.blogs.nytimes.com/2013/06/20/henri-cartier-bresson-living-and-looking/, and "'There Are No Maybes'":http://lens.blogs.nytimes.com/2013/06/21/cartier-bresson-there-are-no-maybes/.
+

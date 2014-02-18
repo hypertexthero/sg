@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Oblivious in the Dream of Life
+excerpt: Oblivious in the Dream of Life
+category: notebook
+tags: 
+- oblivious
+- dream
+- life
+- tolstoy
+- anna karnina
+---
+bq. There was no answer, except the general answer life gives to all the most complex and insoluble questions. That answer is: one must live for the needs of the day, in other words, become oblivious. To become oblivious in dreams was impossible now, at least till night-time; it was impossible to return to that music sung by carafe-women; and so one had to become oblivious in the dream of life.
+
+— Leo Tolstoy, _Anna Karenina_

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "M\xC3\xA3e"
+image: "1516"
+location: London, England
+date_taken: February 2004
+camera: Canon Rebel 300D
+lens: Canon Rebel 300D Kit Lens
+category: notebook
+tags: 
+- bw
+- "m\xC3\xA3e"
+- odila
+- expression
+- gesture
+- light
+---
+Feliz aniversario!

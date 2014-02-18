@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Ludus Magnus
+image: "1387"
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-romesnow
+tags: 
+- ludus magnus
+- rome
+- snowing
+- snow
+---
+

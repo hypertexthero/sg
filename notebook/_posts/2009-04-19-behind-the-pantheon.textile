@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Behind The Pantheon
+image: "535"
+location: Rome, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- behind the pantheon rome black and white
+---
+This photograph is available for sale as a fine print at "Rome Black & White":http://romebw.com/behind-the-pantheon.

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Antico Caff\xC3\xA8 Greco"
+image: "1059"
+location: Rome, Italy
+date_taken: January 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- woman
+- man
+- service
+- bar
+- expression
+- caffe greco
+---
+

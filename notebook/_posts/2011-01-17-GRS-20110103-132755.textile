@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Piazza del Colosseo
+image: "1015"
+location: Rome, Italy
+date_taken: January 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- man
+- boy
+- pensive
+- expression
+- cigarette
+- suitcase
+- distant look
+---
+

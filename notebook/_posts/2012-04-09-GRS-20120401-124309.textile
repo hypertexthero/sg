@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Palm Sunday
+image: "1500"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- angry
+- angered
+- old ladies
+- palm leaf
+- expression
+- gesture
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 1.

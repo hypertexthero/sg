@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Man with Sunglasses
+image: "167"
+location: Near Vigna di Valle, Italy
+date_taken: August 2007
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- man
+- sunglasses
+- suit
+- foliage
+- fence
+- train station
+- vigna di valle
+- fr3
+- through window
+---
+At Vigna di Valle station, on the way to Rome on train line FR3.

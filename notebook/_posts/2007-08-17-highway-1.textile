@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: "Highway #1"
+image: "170"
+location: Wyoming, US
+date_taken: July 2006
+camera: Leica M8
+lens: Panasonic Lumix LX1
+category: notebook
+tags: 
+- bw
+- landscape
+- road trip
+- wyoming
+- sun
+- highway
+- expanse
+- us
+- series
+---
+Driving through the North American expanse. Part of an upcoming series.

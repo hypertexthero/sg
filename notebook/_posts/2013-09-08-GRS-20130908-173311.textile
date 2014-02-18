@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Pantheon
+image: "1861"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- pantheon
+- tourists
+- man
+- woman
+- 40 to 50 years
+- cigarette
+- hate
+- expression
+- pillar
+- faces
+---
+

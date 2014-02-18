@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Boy Watching Noodle Maker
+image: "394"
+location: London, UK
+date_taken: April 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- noodles
+- asian
+- boy
+- expression
+- moment
+- pasta
+- through
+- window
+---
+

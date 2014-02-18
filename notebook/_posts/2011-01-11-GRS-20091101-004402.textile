@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Outside Bar
+image: "1009"
+location: Rome, Italy
+date_taken: November 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- boy
+- young man
+- woman
+- witch hat
+- poster
+- night
+- bar
+---
+

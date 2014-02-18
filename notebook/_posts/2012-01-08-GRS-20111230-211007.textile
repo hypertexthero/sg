@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Jen
+image: "1371"
+location: Brussels, Belgium
+date_taken: December 2011
+camera: Fuji X10
+lens: "Fujinon Asph 28\xE2\x80\x93112mm-e f/2\xE2\x80\x932.8"
+category: notebook
+tags: 
+- bw
+- jen
+- portrait
+- expression
+- gesture
+- cigarette
+- indoor
+- night
+- light
+- jennifer
+---
+Another "photographer":http://jenniferjansons.com/!

@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Piazza di Spagna
+image: "1312"
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old men
+- 60 to 80 years
+- gesture
+- glasses
+- expression
+- close
+- hand
+- palm
+- no pictures
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 24. 
+
+Day 23 is "here":http://simongriffee.com/notebook/GRS-20110728-171939-ii.

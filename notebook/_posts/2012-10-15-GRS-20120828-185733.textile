@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Via degli Annibaldi
+image: "1622"
+location: Rome, Italy
+date_taken: August 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- gangsters
+- suits
+- expression
+- men
+- tie
+- shoes
+- boss
+---
+

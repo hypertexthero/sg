@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Five of the 1995-1996 'AOSR Falcons' in 2010
+image: "979"
+location: Rome, Italy
+date_taken: September 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- me
+- sennai
+- enrico
+- ben
+- colin
+---
+

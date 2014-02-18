@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Vigna di Valle
+image: "1963"
+location: Lago di Bracciano, Italy
+date_taken: June 2008
+camera: Leica M8
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- air show
+- airplane
+- jet
+- formation
+- smoke
+- tricolore
+- tricolori
+- man
+- 50 to 70 years
+- camera
+- finger
+- cypress
+- trail
+- display
+- Frecce Tricolori
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 71.

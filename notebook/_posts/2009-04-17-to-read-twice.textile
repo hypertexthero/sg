@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: To Read Twice
+category: notebook
+tags: 
+- robert frank
+- " poem"
+- " twice"
+- " pictures"
+- " quote"
+---
+"When people look at my pictures I want them to feel the way they do when they want to read a line of a poem twice." 
+_—Robert Frank, LIFE, 26 November 1951_
+

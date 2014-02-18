@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: FAO
+image: "1851"
+location: Rome, Italy
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- white
+- man
+- cigarette
+- back
+- 35 to 45 years
+---
+

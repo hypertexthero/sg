@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Viale del Belvedere
+image: "1554"
+location: Rome, Italy
+date_taken: March 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- boy
+- climbing
+- trees
+- branches
+- fence
+- rock
+- block
+- city
+- sky
+- sun
+- view
+- rooftops
+- skyline
+---
+

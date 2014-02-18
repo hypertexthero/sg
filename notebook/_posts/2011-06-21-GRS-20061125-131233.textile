@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: The Mushroom Trip
+image: "1133"
+location: Near Yorkville, Mendocino, California
+date_taken: November 2006
+camera: Panasonic DMC LX1
+lens: Panasonic Lens
+category: notebook
+tags: 
+- color
+- green
+- mario
+- alison
+- forest
+- leaves
+---
+

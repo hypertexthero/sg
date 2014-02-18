@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Paolo in San Lorenzo
+image: "897"
+location: Rome, Italy
+date_taken: August 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- paolo
+---
+Not Giovanni, Lorenzo!

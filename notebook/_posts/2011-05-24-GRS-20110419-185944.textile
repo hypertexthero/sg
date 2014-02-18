@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Nazareno
+image: "1114"
+location: Seville, Spain
+date_taken: April 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- bw
+- nazareno
+- dunce
+- hat
+- pointy
+- suit
+---
+

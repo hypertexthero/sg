@@ -1,0 +1,10 @@
+--- 
+layout: post
+title: To Those Who Are Still Quiet
+excerpt: "<a href=\"http://www.freecamilo.org/words.htm#humanity\" title=\"Regaining My Humanity by Camilo Mej\xC3\xADa.\">\"I realized that I was part of a war that I believed was immoral and criminal, a war of aggression, a war of imperial domination.\"</a>  --Camilo Mej\xC3\xADa."
+category: notebook
+tags: []
+
+---
+p(preamble). <a href="http://www.freecamilo.org/words.htm#humanity" title="Regaining My Humanity by Camilo Mejía.">"I realized that I was part of a war that I believed was immoral and criminal, a war of aggression, a war of imperial domination."</a>  --Camilo Mejía.
+Via <a href="http://afamilyinbaghdad.blogspot.com/2005_02_13_afamilyinbaghdad_archive.html#110879523744908461" title="A Family in Baghdad, currently writing from Amman.">A Family in Baghdad</a>.

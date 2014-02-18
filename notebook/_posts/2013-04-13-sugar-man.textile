@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Sugar Man
+excerpt: Sugar Man
+category: notebook
+tags: 
+- sugar man
+- song
+- sixto rodriguez
+---
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qyE9vFGKogs" frameborder="0" allowfullscreen></iframe>
+
+By "Sixto Rodriguez":http://en.wikipedia.org/wiki/Sixto_Rodriguez.

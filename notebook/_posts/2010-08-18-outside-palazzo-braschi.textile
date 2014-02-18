@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Outside Palazzo Braschi
+image: "857"
+location: Rome, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- nude women
+- posters
+- delivery van
+---
+

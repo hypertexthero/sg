@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Self-portrait with The King
+image: "1756"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- bryan
+- self-portrait
+- blur
+- expression
+- gesture
+- octocat
+---
+

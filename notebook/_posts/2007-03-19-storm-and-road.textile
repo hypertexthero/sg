@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Storm and Road
+image: "103"
+location: South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- storm
+- road
+- sun
+- spot
+- clouds
+- distance
+- rain
+- bw
+- landscape
+- car
+- windshield
+- raindrops
+---
+The storms continued in Western South Dakota, always driving on the edge of them, somehow managing to avoid the downpours.

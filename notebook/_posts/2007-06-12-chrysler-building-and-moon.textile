@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Chrysler Building and Moon
+image: "141"
+location: New York City, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- city
+- nyc
+- gotham
+- landscape
+- moon
+---
+While I wait for a phone line and internet connection to be installed in my new home in "Bracciano":http://en.wikipedia.org/wiki/Bracciano some pictures from two years ago in New York will be automatically posted the next few days.
+
+Can you see Dark Knight?

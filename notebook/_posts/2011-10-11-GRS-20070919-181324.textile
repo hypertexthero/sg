@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Sirmione
+image: "1330"
+location: Lago di Garda, Italy
+date_taken: September 2007
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- cisne
+- swan
+- water
+- bird
+---
+

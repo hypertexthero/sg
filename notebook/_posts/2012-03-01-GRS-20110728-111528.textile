@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: GRS-20110728-111528
+image: "1421"
+location: Cortona, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: story-p7
+tags: 
+- bw
+- window
+- reflection
+- girl
+- smoking
+- dominika
+---
+

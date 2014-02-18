@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Reality
+excerpt: Reality
+category: notebook
+tags: 
+- reality
+---
+Something real is fleeting. 

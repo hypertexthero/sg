@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Cupola at the Vatican
+image: "1898"
+location: Rome, Italy
+date_taken: April 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- priest
+- boys
+- photographing
+- camera
+- hand
+- vanity
+- fist
+- cloud
+- expression
+- gesture
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 6.

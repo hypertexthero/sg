@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1341"
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- priest
+- white
+- robe
+- hat
+- bag
+- trunk
+---
+

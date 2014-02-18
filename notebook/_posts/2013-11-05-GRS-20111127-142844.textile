@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Portico d'Ottavia
+image: "1906"
+location: Rome, Italy
+date_taken: November 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- 7 to 12 years
+- expression
+- hand
+- arm
+- gesture
+- adults
+- "#GetCloser100"
+- children
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 15. Day 14 is "here":http://simongriffee.com/notebook/GRS-20080118-152740.

@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Badlands Prairie
+image: "702"
+location: Badlands, South Dakota, US
+date_taken: June 2005
+category: story-jtus
+tags: 
+- GRS-20050621-171314
+---
+

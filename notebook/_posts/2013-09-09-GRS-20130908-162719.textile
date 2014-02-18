@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via dei Fori Imperiali
+image: "1862"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- tourists
+- asian
+- lying down
+- old man
+- old woman
+- 70 to 90 years
+- hat
+- eyebrow
+- expression
+---
+

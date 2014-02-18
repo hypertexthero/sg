@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Via di San Gregorio
+image: "1596"
+location: Rome, Italy
+date_taken: June 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- tourists
+- hands up
+- expression
+- group
+- people
+- funny
+---
+

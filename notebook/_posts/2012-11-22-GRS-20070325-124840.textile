@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Pygmy Forest Trail
+image: "1658"
+location: Mendocino, California
+date_taken: March 2007
+camera: Canon EOS 5D
+lens: 17-40mm f4
+category: notebook
+tags: 
+- bw
+- leaves
+- trail
+---
+

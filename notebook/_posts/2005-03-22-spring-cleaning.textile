@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Spring Cleaning
+excerpt: Suffocation is what it was beginning to feel like. Too many cardboard boxes with a few screws inside, broken bits from forgotten objects, strings, wires, tapes, wheels. Broken distortion pedals, aeroplanes with missing propellors, cheap plastic trophies, bent antennae, piles of magazines, unopened instruction manuals, compact disc cases, crap posters, promotional flyers advertising computer games you had looked forward to. Sometimes you need to let go of things.
+category: notebook
+tags: []
+
+---
+p(preamble). Suffocation is what it was beginning to feel like. Too many cardboard boxes with a few screws inside, broken bits from forgotten objects, strings, wires, tapes, wheels. Broken distortion pedals, aeroplanes with missing propellors, cheap plastic trophies, bent antennae, piles of magazines, unopened instruction manuals, compact disc cases, crap posters, promotional flyers advertising computer games you had looked forward to. Sometimes you need to let go of things.
+
+<img src="/images/springcleaning.gif" height="255" width="412" alt="A photograph of my room in the initial stages of the clean-out hurricane." title="Initial stages of the clean-out hurricane." />

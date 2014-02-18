@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: Personal Best of 2013
+location: Rome
+date_taken: "2013"
+excerpt: Personal Best of 2013
+category: notebook
+tags: 
+- 2013 review
+- snowden
+- chelyabinsk
+- meteorite
+- asimov
+- van gogh
+- rodriguez
+- sagan
+- francis
+- bresson
+- kalvar
+---
+<em style="font-size:2em; line-height:0;">Art</em> smiled as I saw "Van Gogh on the streets":http://simongriffee.com/notebook/van-gogh-on-the-streets, discovered "Sixto Rodriguez's music":http://simongriffee.com/notebook/rich-folks-hoax, felt "The Wall (Pink Floyd.)":http://simongriffee.com/notebook/GRS-20130728-220425, read Asimov's "The Last Question":http://simongriffee.com/notebook/the-last-question and continue reading E.H. Gombrich's "The Story of Art":https://en.wikipedia.org/wiki/The_Story_of_Art as well as Richard Kalvar's "Earthlings":http://www.magnumphotos.com/C.aspx?VP3=SearchResult&ALID=2TYRYDJ176FR, bought during a "week in Paris":http://simongriffee.com/stories/fashion/five-days-in-paris.html. Best film watched in 2013: Wim Wenders' "Wings of Desire":https://en.wikipedia.org/wiki/Wings_of_Desire.
+
+<em style="font-size:2em; line-height:0;">Astronomical Events</em>, two of them: The "Chelyabinsk meteor":https://en.wikipedia.org/wiki/Chelyabinsk_meteor and learning how "Erastothenes measured the circumference of the earth over two thousand years ago":https://en.wikipedia.org/wiki/History_of_geodesy#Hellenic_world through Carl Sagan's <a href="https://en.wikipedia.org/wiki/Cosmos_(book)">Cosmos</a> "series (Video.)":http://vimeo.com/70467220.
+
+<em style="font-size:2em; line-height:0;">People</em> like "Edward Snowden":https://en.wikipedia.org/wiki/Edward_Snowden, "Laura Poitras":https://en.wikipedia.org/wiki/Laura_Poitras and "Glenn Greenwald":https://en.wikipedia.org/wiki/Glenn_Greenwald who are making our world better by shining a light on its dark places. (Sorry, Pope Francis — if only you had "dissolved one more organized religion":http://simongriffee.com/notebook/on-the-occasion-of-joseph-ratzingers-resignation!)
+
+
+ <div id="plateframe"><img src="http://simongriffee.com/images/1965.jpg" alt="Campo de' Fiori GRS-20130101-000104" height="519" width="780"></div> <p style="margin-top:0;"><em>About one year ago in the second minute of 1 January 2013 in Campo de' Fiori, Rome (not my best photograph of 2013).</em></p>
+
+In 2014: Read more "fiction":http://simongriffee.com/notebook/fiction, stay "curious":http://simongriffee.com/notebook/curiosity-and-schools, do "real work":http://simongriffee.com/notebook/work-learning-and-freedom, and don't forget "life is once, forever":http://simongriffee.com/notebook/life-is-once-forever. 
+
+HNY!
+—S

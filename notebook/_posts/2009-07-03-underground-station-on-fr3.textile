@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Underground Station on FR3
+image: "570"
+location: Rome, Italy
+date_taken: June 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- station
+- man
+- blur
+- advert
+- dark
+- metro
+---
+

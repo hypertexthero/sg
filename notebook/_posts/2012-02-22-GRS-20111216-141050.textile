@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Piazzale Ugo La Malfa
+image: "1412"
+location: Rome, Italy
+date_taken: December 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- priest
+- robe
+- expression
+- floating
+- day
+- beard
+- glasses
+---
+

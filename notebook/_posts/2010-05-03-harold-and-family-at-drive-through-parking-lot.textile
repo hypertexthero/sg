@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Harold and Family at Drive-Through Parking Lot
+image: "697"
+location: Shiprock, New Mexico, US
+date_taken: July 2005
+category: story-jtus
+tags: 
+- GRS-20050704-144630
+---
+

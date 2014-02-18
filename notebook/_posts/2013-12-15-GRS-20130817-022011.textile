@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Costa Concordia Off Giglio Porto
+image: "1947"
+location: Isola del Giglio, Italy
+date_taken: August 2013
+camera: Fuji FinePix Z33 WP
+lens: Fujinon 3x Optical Zoom Lens
+category: notebook
+tags: 
+- bw
+- Costa Concordia
+- shipwreck
+- crowd
+- camera
+- boat
+- ship
+- sunk
+- sink
+- industrial
+- salvage
+- hat
+- asv pioneer
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 55.

@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: "Near Hai M\xC6\xB0\xC6\xA1i Ba Th\xC3\xA1ng T\xC3\xA1m"
+image: "1958"
+location: "Hu\xC3\xA9, Vietman"
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+category: notebook
+tags: 
+- color
+- boys
+- soccer
+- football
+- playing
+- bicycles
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 66.

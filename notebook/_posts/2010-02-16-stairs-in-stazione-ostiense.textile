@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Stairs in Stazione Ostiense
+image: "610"
+location: Rome, Italy
+date_taken: November 2009
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- old
+- stairs
+- reaching
+---
+

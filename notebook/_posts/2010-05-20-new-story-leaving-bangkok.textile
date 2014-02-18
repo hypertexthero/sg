@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: "New Story: Leaving Bangkok"
+excerpt: "New Story: Leaving Bangkok"
+category: notebook
+tags: 
+- leaving bangkok
+---
+"Pictures taken on a train leaving Bangkok in March 2010 »":/story-leavingbangkok

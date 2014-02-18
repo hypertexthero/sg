@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Bar Near Piazza Santo Spirito
+image: "1818"
+location: Florence, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- girl
+- lips
+- painting
+- red
+- green yellow
+- pink
+- blue
+- hair
+- expression
+- lamp
+- gesture
+---
+

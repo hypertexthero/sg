@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Street Corner in Trastevere
+image: "314"
+location: Rome, Italy
+date_taken: February 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- "woman 40\xE2\x80\x9360"
+- hard light
+- midday
+- da enzo
+- walking
+---
+

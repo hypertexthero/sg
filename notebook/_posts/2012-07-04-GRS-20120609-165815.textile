@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Via Ottaviano
+image: "1572"
+location: Rome, Italy
+date_taken: June 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- gesture
+- hand
+- fingers
+- collar
+- expression
+- mustache
+- hands
+- glasses
+- white hair
+- eye
+---
+

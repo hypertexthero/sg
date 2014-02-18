@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Street Scene
+image: "1077"
+location: Malta
+date_taken: December 2009
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- color
+- man
+- woman
+- single
+- street
+---
+

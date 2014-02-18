@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Policlinico Militare Parking Area, Piazza Celimontana
+image: "1985"
+location: Rome, Italy
+date_taken: July 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- soldiers
+- gun
+- expression
+- fear
+- bus
+- group
+- boys
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 93.

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: View from Terme di Caracalla
+image: "1083"
+location: Rome, Italy
+date_taken: March 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- landscape
+- rome
+- cloud
+---
+

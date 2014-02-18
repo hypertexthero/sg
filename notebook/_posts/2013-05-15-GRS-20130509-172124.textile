@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Point Zero, Parvis Notre-Dame
+image: "1780"
+location: Paris, France
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- notre dame
+- hair
+- window
+- boy
+- face
+- expression
+- shock
+- electric
+- zero
+- woman
+- gothic
+---
+

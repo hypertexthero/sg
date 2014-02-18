@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Difference
+excerpt: Difference which occurs across time is what we call 'change'.
+category: notebook
+tags: 
+- difference
+---
+&ldquo;<a href="http://theonlinephotographer.typepad.com/the_online_photographer/2012/03/jpegophobia.html">Difference which occurs across time is what we call 'change'.</a>&rdquo;

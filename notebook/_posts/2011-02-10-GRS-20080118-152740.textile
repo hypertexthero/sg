@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Turbine Hall
+image: "1041"
+location: London, England
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- crack
+- floor
+- concrete
+- metal
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 14. Day 13 is "here":http://simongriffee.com/notebook/GRS-20130511-150757.
+
+<a href="https://en.wikipedia.org/wiki/Micha_Bar-Am">Micha Bar-Am</a>: "Though I have adopted Robert Capa’s famous sentence, I have added my words: 'But if you are too close to the grindstone, you lose perspective'".

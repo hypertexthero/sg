@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via del Corso, Capodanno
+image: "1692"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- young
+- bottle
+- beer
+- drunk
+- drinking
+- lights
+- new year's eve
+- capodanno
+---
+

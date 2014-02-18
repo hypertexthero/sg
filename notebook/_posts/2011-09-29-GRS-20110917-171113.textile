@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via Condotti
+image: "1322"
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- boy
+- guy
+- young
+- asian
+- gold
+- shades
+- ring
+- bracelet
+- expression
+---
+

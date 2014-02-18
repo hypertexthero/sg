@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via IV Novembre
+image: "1691"
+location: Rome, Italy
+date_taken: December 2012
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- bouncer
+- armor
+- suit
+- sword
+- expression
+- bald
+- mask
+- beard
+- santa
+---
+

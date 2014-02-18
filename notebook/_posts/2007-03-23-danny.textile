@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Danny
+image: "106"
+location: South Dakota, US
+date_taken: June 2005
+camera: Canon EOS 300D
+lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+category: notebook
+tags: 
+- danny
+- vietnam vet
+- veteran
+- chevy
+- truck
+- chevrolet
+- storms
+- damage
+- risk
+- road
+- candid
+---
+Back in South Dakota, June 2005. A nice man named Danny warned us to take a different road as the storm was up ahead and causing lots of damage.

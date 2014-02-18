@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Imperial War Museum
+image: "1338"
+location: Duxford, England
+date_taken: July 2003
+camera: Canon PowerShot G2
+lens: Canon Point and Shoot Lens
+category: notebook
+tags: 
+- bw
+- old man
+- airplanes
+- museum
+- hangar
+- ww2
+- propeller
+---
+

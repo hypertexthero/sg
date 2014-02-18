@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Bar
+image: "1720"
+location: Rome, Italy
+date_taken: March 2012
+camera: Ricoh GRD III
+lens: Ricoh GRD III 28mm f/1.9
+category: notebook
+tags: 
+- bw
+- suvi
+- girl
+- blur
+- expression
+- lips
+- eyes
+- hair
+---
+

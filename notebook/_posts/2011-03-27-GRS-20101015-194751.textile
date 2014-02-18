@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Bus Near Valetta
+image: "1076"
+location: Malta
+date_taken: October 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- couple
+- green
+- night
+- bus
+---
+

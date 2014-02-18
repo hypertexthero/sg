@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Piazzale Ostiense
+image: "1594"
+location: Rome, Italy
+date_taken: July 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- men
+- talking
+- canudos
+- tubes
+- gesture
+- expression
+- cafe
+- bar
+- frames
+- pictures
+---
+

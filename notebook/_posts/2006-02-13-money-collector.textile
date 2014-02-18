@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Money Collector
+image: "4"
+location: Washington DC, Virginia
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: Ef 50mm f/1.4 USM
+category: notebook
+tags: 
+- man
+- black
+- bus
+- usa trip 2005
+- black and white
+- bw
+---
+p(preamble). On the bus from Washington DC to New York City.

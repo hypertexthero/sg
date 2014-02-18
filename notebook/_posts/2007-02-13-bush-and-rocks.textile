@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Bush and Rocks
+image: "81"
+location: Joshua Tree, California, US
+date_taken: January 2007
+camera: Canon EOS 5D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- bush
+- hidden valley
+- rocks
+- sand
+- bw
+- black and white
+- landscape
+---
+Taken in Hidden Valley, Joshua Tree national park.

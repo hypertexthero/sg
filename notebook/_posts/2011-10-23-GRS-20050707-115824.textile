@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Kaibab Trail
+image: "1337"
+location: Grand Canyon, Arizona, US
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: EF 28-135mm IS
+category: notebook
+tags: 
+- bw
+- grand canyon
+- amber
+- trail
+---
+

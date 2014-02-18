@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Horse and Carriage Driver
+image: "229"
+location: New York City, New York, US
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- candid
+- street
+- horse
+- carriage
+- top hat
+- top-hat
+- tophat
+- central park
+---
+

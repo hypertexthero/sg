@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Mall Foyer
+image: "710"
+location: Las Vegas, US
+date_taken: July 2005
+category: story-jtus
+tags: 
+- GRS-20050711-233343
+---
+

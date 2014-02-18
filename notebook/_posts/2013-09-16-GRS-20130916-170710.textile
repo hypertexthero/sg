@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Via Condotti
+image: "1868"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- 50 to 70 years
+- group
+- sunglasses
+- shade
+- front
+- street
+- flash
+- sweater
+---
+

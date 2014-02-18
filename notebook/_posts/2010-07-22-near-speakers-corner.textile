@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Near Speakers' Corner
+image: "813"
+location: London, England
+date_taken: May 2005
+camera: Canon EOS 300D
+lens: EF 50mm f/1.4 USM
+category: notebook
+tags: 
+- bw
+- man
+- smiling
+- umbrella
+---
+

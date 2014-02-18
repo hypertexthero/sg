@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Monte Capitolino
+image: "1515"
+location: Rome, Italy
+date_taken: April 2009
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- woman
+- leg
+- spqr
+- gesture
+- rome
+- founding
+- birthday
+---
+Dear Rome, 
+Happy <a href="http://en.wikipedia.org/wiki/Founding_of_Rome">2765<sup>th</sup> birthday</a>!

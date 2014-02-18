@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Bar Scene
+image: "803"
+location: Amsterdam, Netherlands
+date_taken: November 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- bar
+- woman
+- expression
+- light
+---
+

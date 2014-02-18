@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Ara Pacis Fountains
+image: "1061"
+location: Rome, Italy
+date_taken: January 2011
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+category: notebook
+tags: 
+- color
+- girls
+- fountains
+- mobile phone
+---
+

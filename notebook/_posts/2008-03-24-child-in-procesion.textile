@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "Child in Procesi\xC3\xB3n"
+image: "319"
+location: Sevilla, Spain
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- libero pensiero
+- procession
+- passeio
+- "girl 6\xE2\x80\x9312"
+- candle
+- cross
+- pointy hat
+- robes
+- candle.
+---
+Part of upcoming project _Libero Pensiero_.

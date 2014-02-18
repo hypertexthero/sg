@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1922"
+location: Rome, Italy
+date_taken: February 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- man
+- woman
+- 70 to 90 years
+- coat
+- fur
+- sunglasses
+- expression
+- close
+- flash
+- street
+- old
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 33.

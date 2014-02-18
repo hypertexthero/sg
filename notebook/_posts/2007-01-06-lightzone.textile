@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: LightZone
+excerpt: "\"LightZone (Lightcrafts website.)\":http://www.lightcrafts.com has a lovely, \"intuitive feel (The Thing about Intuition, by Fabio Riccardi.)\":http://fricc.blogspot.com/2006/03/thing-about-intuition.html. It is the most exciting photographic development software I've used in a long time, and an important part of my \"workflow (SimonGriffee.com)\":http://simongriffee.com/about/."
+category: notebook
+tags: []
+
+---
+p(preamble). "LightZone (Lightcrafts website.)":http://www.lightcrafts.com has a lovely, "intuitive feel (The Thing about Intuition, by Fabio Riccardi.)":http://fricc.blogspot.com/2006/03/thing-about-intuition.html. It is the most exciting photographic development software I've used in a long time, and an important part of my "workflow (SimonGriffee.com)":http://simongriffee.com/about/. 
+
+
+Yesterday I had the pleasure of meeting the LightZone team in Palo Alto. I like the faces behind the software, and encourage you to visit them at the "Macworld Expo (Booth 3306.)":http://www.macworldexpo.com if you're in San Francisco next week. Booth 3306.
+
+<em>PS. I'm still in the process of deciding what to post where in "DLog (Hypertexthero Design Log.)":http://hypertexthero.com/dlog/ and this journal. In the meantime, there might be some cross-posts, such as "this one (DLog - LightZone.)":http://hypertexthero.com/dlog/lightzone. </em>

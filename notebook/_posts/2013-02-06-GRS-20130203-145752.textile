@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Bdale Garbee
+image: "1710"
+location: Brussels, Belgium
+date_taken: February 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- bdale garbee
+- fosdem 2013
+- spiral
+- tiedie
+- debian
+---
+At "FOSDEM 2013":https://fosdem.org/2013/schedule/speaker/bdale_garbee/. Check out the "Freedombox Foundation (FreedomBox will put in people's own hands and under their own control encrypted voice and text communication, anonymous publishing, social networking, media sharing, and blogging.)":http://www.freedomboxfoundation.org/learn/ and "why it is important (Why Political Liberty Depends on Software Freedom More Than Ever.)":http://www.softwarefreedom.org/events/2011/fosdem/moglen-fosdem-keynote-highlights.html. There's also a "one-page flyer (PDF)":http://www.freedomboxfoundation.org/doc/flyer.pdf <span class="quiet small">(PDF).</span>

@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Scene in Piazza Navona
+image: "867"
+location: Rome, Italy
+date_taken: June 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- candid
+- nuns
+- anarchy
+- people
+---
+

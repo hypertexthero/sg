@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: After Sunset
+image: "37"
+location: near Pierpont, South Dakota, USA
+date_taken: August 2006
+camera: Canon EOS 300D
+lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+category: notebook
+tags: 
+- sunset
+- red
+- clouds
+- water
+- reflection
+- south dakota
+- usa
+- pierpont lake
+- vibrant
+---
+p(preamble). Breathtaking light that afternoon. I believe this was at Pierpont Lake. After some wonderful days in St. Paul, it was good to be back on the road.

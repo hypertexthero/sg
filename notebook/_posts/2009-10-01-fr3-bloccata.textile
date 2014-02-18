@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: FR3 Bloccata
+image: "587"
+location: Bracciano, Italy
+date_taken: October 2009
+camera: Ricoh GR Digital III
+lens: GR Lens f/1.9 28mm-e
+category: notebook
+tags: 
+- fr. 3
+- fr3
+- linea
+- treno
+- train
+- line
+- blocked
+- bloccata
+- tractor
+- man
+- bent
+- metal pole
+---
+A tractor bent a couple of metal poles across the FR3 train line in Bracciano this morning. People who wish to go to Rome are unhappy.

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Via del Corso
+image: "1975"
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- bw
+- men
+- argument
+- hands
+- gesture
+- blur
+- flash
+- 40 to 80 years
+- face
+- fanny pack
+- "#GetCloser100"
+---
+"#GetCloser100":http://getcloser.magnumphotos.com/ Day 80.

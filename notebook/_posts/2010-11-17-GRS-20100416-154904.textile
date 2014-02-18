@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Near Thi\xE1\xBB\x81n Quang Lake - GRS-20100416-154904"
+image: "954"
+location: Hanoi, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- old man
+- bench
+- park
+- hat
+- expression
+---
+

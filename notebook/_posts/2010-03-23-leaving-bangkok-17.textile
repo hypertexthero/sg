@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: "Leaving Bangkok #17"
+image: "677"
+location: Near Bangkok, Thailand
+date_taken: March 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old man
+- umbrella
+- train tracks
+---
+

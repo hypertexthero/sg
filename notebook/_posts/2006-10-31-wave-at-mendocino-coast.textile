@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Wave at Mendocino Coast
+image: "17"
+location: Mendocino County, California
+date_taken: October 2006
+camera: Panasonic Lumix LX1
+lens: Leica Vario-Elmarit 28-112mm
+category: notebook
+tags: 
+- mendocino
+- california
+- pacific
+- ocean
+- beach
+- wave
+- rocks
+---
+p(preamble). After the house-warming party the night before it was decided we would take Highway 1 back to Oakland and see the rough beauty where the Pacific meets the Sonoma coast. This is the beach where I gazed at the sun setting into the Great Ocean, not into clouds or into fog, for the first time. Photography is a constant way to _see things for the first time_; at the moment of capture, at a later time, or both.

@@ -1,0 +1,9 @@
+--- 
+layout: post
+title: Winter Solstice 2007
+excerpt: Today is the "day of the Winter Solstice":http://en.wikipedia.org/wiki/Winter_solstice in the "Northern Hemisphere":http://en.wikipedia.org/wiki/Northern_hemisphere. According to Wikipedia, the solstice will happen at precisely 06:08 "Zulu Time":http://en.wikipedia.org/wiki/Zulu_time. The last sentence was just an excuse to use the word ZU-LU.
+category: notebook
+tags: []
+
+---
+Today is the "day of the Winter Solstice":http://en.wikipedia.org/wiki/Winter_solstice in the "Northern Hemisphere":http://en.wikipedia.org/wiki/Northern_hemisphere. According to Wikipedia, the solstice will happen at precisely 06:08 "Zulu Time":http://en.wikipedia.org/wiki/Zulu_time. The last sentence was just an excuse to use the word ZU-LU.

@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Shop Window in Via Cola di Rienzo at Night
+image: "814"
+location: Rome, Italy
+date_taken: October 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- shoes
+- shop window
+---
+

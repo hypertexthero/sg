@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "C\xC3\xB4ng Vi\xC3\xAAn"
+image: "919"
+location: Saigon, Vietnam
+date_taken: April 2010
+camera: Ricoh GR Digital III
+lens: "Ricoh GR Lens 28mm-e f/1.9 "
+category: notebook
+tags: 
+- bw
+- kids
+- boys
+- playing
+- nose
+---
+

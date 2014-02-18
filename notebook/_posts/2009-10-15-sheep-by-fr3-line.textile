@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Sheep by Fr3 Line
+image: "597"
+location: Near Anguilara, Italy
+date_taken: February 2009
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- sheep
+- train
+- window
+- fog
+- blur
+- light
+---
+

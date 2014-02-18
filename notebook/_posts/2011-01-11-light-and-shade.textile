@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Light and Shade
+excerpt: Light and Shade
+category: notebook
+tags: []
+
+---
+bq. 'If you want my opinion concerning that, I'll tell you that I don't think there is a drama here. And here's why. To my mind, love…the two loves that Plato, remember, defines in his _Symposium_,[25] these two loves serve as a touchstone for people. Some people understand only the one, others the other. And those who understand only non-platonic love shouldn't talk about drama. In such love there can be no drama. "Thank you kindly for the pleasure, with my respects&rdquo;—there's the whole drama. And for platonic love there can be no drama, because in such love everything is clear and pure, because…'
+Just then Levin remembered his own sins and the inner struggle he had gone through. And he added unexpectedly:
+'However, it's possible you're right. Very possible…But I don't know, I really don't know.'
+'So you see,' said Stepan Arkadyich, 'you're a very wholesome man. That is your virtue and your defect. You have a wholesome character, and you want all of life to be made up of wholesome phenomena, but that doesn't happen. So you despise the activity of public service because you want things always to correspond to their aim, and that doesn't happen. You also want the activity of the individual man always to have an aim, that love and family life always be one. And that doesn't happen. All the variety, all the charm, all the beauty of life are made up of light and shade.'
+
+fn25. *two loves:* The two loves discussed by the participants in Plato's _Symposium_ are typified by two aspects of the goddess Aphrodite: earthly, sensual love (Aphrodite Pandemos) and heavenly love free of sensual desire (Aphrodite Urania). The latter came to be known as 'platonic love'.
+
+— Leo Tolstoy, _Anna Karenina_

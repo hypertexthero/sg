@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Boy Waiting in Train Station
+image: "304"
+location: Near London, England
+date_taken: January 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- street
+- candid
+- psychopathic
+- look
+- station
+- platform
+- "boy 14\xE2\x80\x9320"
+---
+

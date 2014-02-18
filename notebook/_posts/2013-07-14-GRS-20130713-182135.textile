@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Via Ottaviano
+image: "1821"
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+category: notebook
+tags: 
+- color
+- vainty
+- blue
+- pink
+- purple
+- man
+- woman
+- 50 to 70 years
+- glasses
+- shorts
+- shirt
+- dress
+- street
+---
+

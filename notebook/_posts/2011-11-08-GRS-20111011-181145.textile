@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Via Fabio Massimo
+image: "1343"
+location: Rome, Italy
+date_taken: October 2010
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- old ladies
+- women
+- shades
+- expression
+- sitting
+---
+

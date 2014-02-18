@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Leidseplein
+image: "1806"
+location: Amsterdam, Netherlands
+date_taken: June 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- man
+- 40 to 50 years
+- dog
+- boxer
+- shorts
+- expression
+- walking
+- leash
+---
+

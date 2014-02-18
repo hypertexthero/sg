@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Bus Stop in Piazza del Colosseo at Night
+image: "890"
+location: Rome, Italy
+date_taken: June 2010
+camera: Leica M8
+lens: Summilux 35mm f/1.4
+category: notebook
+tags: 
+- bw
+- girl
+- sunglasses
+- night
+- dress
+---
+Previous title was what some people call a 'Freudian slip'!

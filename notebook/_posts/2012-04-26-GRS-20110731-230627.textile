@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Banks of the Tiber
+image: "1522"
+location: Rome, Italy
+date_taken: July 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+category: notebook
+tags: 
+- color
+- man
+- gesture
+- expression
+- night
+- bar
+- lights
+- hand
+---
+

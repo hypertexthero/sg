@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: "New Story: Bay Day, Bay Night, Bay Twilight"
+excerpt: "New Story: Bay Day, Bay Night, Bay Twilight"
+category: notebook
+tags: 
+- Bay Day
+- Bay Night
+- Bay Twilight
+---
+"Pictures from around the San Francisco Bay Area: New Story: Bay Day, Bay Night, Bay Twilight »":/story-bdnt

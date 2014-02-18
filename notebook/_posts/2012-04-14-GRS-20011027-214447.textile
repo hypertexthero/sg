@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: "Indo pro Gale\xC3\xA3o"
+image: "1506"
+location: Rio de Janeiro, Brazil
+date_taken: October 2001
+camera: Canon PowerShot G1
+lens: "Canon 7\xE2\x80\x9321mm Lens"
+category: notebook
+tags: 
+- bw
+- simon
+- beto
+- laughter
+- car
+- driving
+- expression
+---
+
