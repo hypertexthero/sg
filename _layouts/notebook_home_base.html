@@ -2,11 +2,7 @@
 <html>
 <head>
   {% include head.html %}
-  <title>
-    {% if page.path contains '_posts' %} {{ page.title }} - {{ page.category | capitalize }} - {% else %}{% endif %}
-    {% if post.path contains '_posts' %} {{ post.title }} - {{ post.category | capitalize }} - {% else %}{% endif %}
-    {{ site.name }}
-  </title>
+  <title>Notebook - {{ site.name }}</title>
 </head>
 <body id="notebook">
   <div id="page">
@@ -14,7 +10,7 @@
       {{ content }}
     </div> <!-- /#content -->
     <div id="header">
-      {% include navigation.html %}
+      {% include notebook_home_navigation.html %}
     </div> <!-- /#header -->
     <div id="footer" class="largetopmargin">
       {% include footer.html %}

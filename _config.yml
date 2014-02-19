@@ -5,3 +5,4 @@ destination: _site
 permalink: none
 url: 
 # baseurl: /stories
+# paginate: 1

@@ -1,0 +1,28 @@
+---
+layout: entries_archive
+title: Notebook
+category: archive
+---
+
+<h1>Notebook Timeline Archives</h1>
+<p>Browse by <a href="/thumbnails/">thumbnails</a> or <a href="/alphabetical/">alphabetically</a>.</p>
+
+<form action="/search/" method="get">
+<input type="text" name="q" value="" size="22" />
+<input type="submit" value="Search" class="button" />
+</form>
+
+<dl id="timelinelist">
+{% for post in site.posts %}
+  {% if post.category != 'unlisted' %}
+    {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+    {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+        {% if month != nmonth %}
+            {% if forloop.index != 1 %}</dl>{% endif %}
+            <dt>{{ post.date | date: '%B %Y' }}</dt><dl>
+        {% endif %}
+    <dd class="archiveday">{{ post.date | date: "%e" }}</dd>
+    <dd class="archivetitle"><a href="{{ post.url }}">{{ post.title }}</a> <em class="capturedate">{% if post.date_taken %}PHOTOGRAPH taken on <time>{{ post.date_taken | date: "%e %B %Y" }}</time>, {% endif %}{% if post.category contains 'stories' %}STORY {% endif %}published <time>{{ post.date | date: "%e %B %Y" }}</time></em></dd>
+  {% endif %}
+{% endfor %}
+</dl>

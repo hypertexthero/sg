@@ -3,9 +3,11 @@ layout: entry_base
 ---
 
   <!-- <a href="http://simongriffee.com/notebook/GRS-20140208-092822" title="Fes el Bali"><img src="http://simongriffee.com/images/1997t.jpg" alt="Fes el Bali" title="Fes el Bali"   class="wet_article_thumb" width="200" height="133"  /></a> Loading hidden thumbnail for fb links -->
+  {% if page.excerpt %}
   <div id="plateframe">
-    {% if page.previous_in_category != nil %}<a href="{{page.next_in_category.url}}" title="{{ page.excerpt }}Click to see the previous entry."><img src="http://simongriffee.com/images/{{ page.image }}.jpg" alt="{{ page.excerpt }}" /></a>{% endif %} 
+    {% if page.previous_in_category != nil %}<a href="{{page.next_in_category.url}}" title="{{ page.excerpt }}Click to see the previous entry."><img src="http://simongriffee.com/images/{{ page.image }}.jpg" alt="{{ page.title }}" /></a>{% endif %} 
   </div> <!-- /#plateframe -->
+  {% endif %}
 
   <div id="textframe">
     {% if page.excerpt != nil %}

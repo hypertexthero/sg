@@ -1,12 +1,8 @@
 ---
-layout: entry
-title: Notebook
+layout: notebook_home_base
 category: notebook
 ---
 
-{% for post in site.posts %}{% if post.category contains 'notebook' %}
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
-
-
-
-
+{% assign post = site.posts.first %}
+{% assign content = post.content %}
+{% include entry_detail.html %}

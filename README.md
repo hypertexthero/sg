@@ -68,5 +68,9 @@ D. To deploy:
 
 ## Things to do
 
-1. Eventually [transfer all content to Jekyll](http://jekyllrb.com/docs/migrations/)?
-2. Set up [static file search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)?
+1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)?
+2. Thumbnail archives with pagination
+3. Refactor stories CSS into main stylesheet
+4. Setup redirect to .html
+5. Add existing folders to .gitignore and test files don't get overwritten on push
+6. Deploy
