@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+  {% include head.html %}
+  <title>{{ page.category | capitalize}} - {{ site.name }}</title>
+</head>
+
+<body id="{{ page.category }}" class="textpage">
+  <div id="page">
+    <div id="header">
+      {% include navigation.html %}
+    </div>
+  </div> <!-- header end -->
+
+<div id="content">
+  <div id="textframe">
+      {{ content }}
+  </div> <!-- textframe end -->
+</div> <!-- content end -->
+
+<div id="footer" class="largetopmargin">
+    <div id="footer" class="largetopmargin">
+      {% include footer.html %}
+    </div> <!-- /#footer -->
+  </div> <!-- /#page -->
+  {% include bodyend.html %}
+</body>
+</html>

@@ -8,7 +8,7 @@
      <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
    </ul>
    <ul class="subnav">
-     {% for post in site.posts offset:1 limit:2 %}
+     {% for post in site.posts offset:1 limit:1 %}
        {% if post.next_in_category != nil %}<li><em><a rel="prev" href="{{post.next_in_category.url}}">&larr; Before</a></em></li>{% endif %} 
      {% endfor %}
      {% if page.path contains 'notebook' %}
