@@ -68,9 +68,9 @@ D. To deploy:
 
 ## Things to do
 
-1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)?
+1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)
 2. Thumbnail archives with pagination
 3. Refactor stories CSS into main stylesheet
-4. Setup redirect to .html
+4. Setup [redirects to .html](http://stackoverflow.com/a/16773980)
 5. Add existing folders to .gitignore and test files don't get overwritten on push
 6. Deploy
