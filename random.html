@@ -1,10 +1,11 @@
 ---
-layout: none
+layout: random
 ---
 <!-- https://github.com/rwmpelstilzchen/jekyll-random-post -->
 <html>
-	<head>
-		<script>
+
+	<body>
+	  <script>
 			var posts = [];
 			{% for post in site.posts %}{% if post.category contains 'notebook' %}
 			posts.push("{{ post.url }}");{% else %}{% endif %}{% endfor %}
@@ -13,14 +14,13 @@ layout: none
 			document.write(posts[Math.floor(Math.random() * posts.length)]);
 			document.write("\">");
 		</script>
-	</head>
-
-	<body>
-		Redirecting to a
+		
+		<h2>Redirecting to a
 		<script>
 			document.write("<a href=\"");
 				document.write(posts[Math.floor(Math.random() * posts.length)]);
 				document.write("\">random post</a>...");
 		</script>
+		</h2>
 	</body>
 </html>

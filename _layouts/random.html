@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+  {% include head.html %}
+  <title>Redirecting to random post… - {{ site.name }}</title>
+</head>
+
+<body id="{{ page.category }}" class="textpage">
+
+<div id="content">
+  <div id="textframe" class="text">
+      {{ content }}
+  </div> <!-- /#textframe -->
+</div> <!-- /#content -->
+
+  {% include bodyend.html %}
+</body>
+</html>

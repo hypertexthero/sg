@@ -1,9 +1,14 @@
 name: Simon Griffee · Photographer
 markdown: redcarpet
 pygments: true
-destination: _site
 permalink: none
 url: 
 # baseurl: /stories
-# paginate: 1
-exclude: page_db.rb
+paginate: 30
+paginate_path: "thumbs/page:num"
+destination: ~/Sites/sg.dev
+# lunr_search:
+#   stopwords: "/search/stopwords.txt"
+#   min_length: 3
+# exclude: 
+# - page_db.rb

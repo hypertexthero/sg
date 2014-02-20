@@ -1,7 +1,7 @@
 /* 
 simongriffee-d.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: Monday, 10 February 2014: 14:28:11 Italy Time
+Last update: Thursday, 20 February 2014: 16:59:13 Italy Time
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -142,15 +142,16 @@ div.homethumb h3, div.homethumb p {margin-bottom:0;}
 
 ol.thumbs {margin:0 0 0 10px !important;}
 body.storiesstoryindex ol.thumbs {margin:0 0 0 247px !important;}
-ol.thumbs li {float:left; list-style:decimal outside; color:#333; margin:0 0 10px 30px; }
-ol.thumbs li a {display:block; height:210px; border:none;}
+ol.thumbs li {float:left; list-style:decimal outside; color:#333; margin:0 0 10px 30px; width:233px !important; height:233px !important;}
+ol.thumbs li a {display:block; border:none;}
 ol.thumbs li a:hover, ol.thumbs li a:active {background:transparent; color:#c00 !important;}
 ol.thumbs li:hover {color:#c00;}
 ol.thumbs li img {margin:-10px 0 0 -20px; padding:10px;}
+ol.thumbs li:hover img {outline:1px solid #ccc;}
 
-ol.thumbs li.textthumb {padding:0 10px 0; width:100px !important; height:155px !important;}
-ol.thumbs li.textthumb a {display:inline !important;}
-ol.thumbs li.textthumb h3 {display:block !important;}
+ol.thumbs li.textthumb {padding:0 !important;}
+ol.thumbs li.textthumb a {display:block !important; width:233px !important; height:233px !important;}
+ol.thumbs li.textthumb h3 {display:inline !important;}
 
 ol.thumbs.potm li {margin-bottom:1.5em;}
 ol.thumbs.potm li a {display:inline !important;}
@@ -225,7 +226,7 @@ sup.footnote {line-height:0; font-size:0.9em !important;}
 body#archive #content p {margin-top:0; margin-bottom:0.25em;}
 body#archive #content p em {	font-size:0.75em !important; line-height:1.461em; 	}
 ul#notebooktitlelist {list-style:none;}
-body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0;}
+body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0; font-weight:bold;}
 body.notebooktimeline div#content dl#timelinelist dd.archiveday {font-weight:normal; margin:0 0 -1.4em 0;}
 body.notebooktimeline div#content dl#timelinelist dd.archivetitle {position:relative; color:#2b2b2b; margin-left:1.5em;}
 em.capturedate, .small {font-size:0.75em; line-height:1.35em; color:#777;}

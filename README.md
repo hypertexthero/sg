@@ -69,9 +69,8 @@ D. To deploy:
 ## Things to do
 
 0. Homepage design: stories' titles and main images slideshow with pause/play links. Links to other sections.
-1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)
-2. [Thumbnail](https://github.com/redwallhp/JekyllGalleryTag) archives with pagination
-3. Refactor stories CSS into main stylesheet
-4. Setup [redirects to .html](http://stackoverflow.com/a/16773980)
-5. Add existing folders to .gitignore and test files don't get overwritten on push
-6. Deploy
+1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/) or DuckDuckGo.
+2. Refactor stories CSS into main stylesheet
+3. Setup [redirects to .html](http://stackoverflow.com/a/16773980)
+4. Add existing folders to .gitignore and test files don't get overwritten on push
+5. Deploy
