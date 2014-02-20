@@ -71,6 +71,6 @@ D. To deploy:
 0. Homepage design: stories' titles and main images slideshow with pause/play links. Links to other sections.
 1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/) or DuckDuckGo.
 2. Refactor stories CSS into main stylesheet
-3. Setup [redirects to .html](http://stackoverflow.com/a/16773980)
+3. Setup [redirects to .html](http://stackoverflow.com/a/16773980) and [HTTPS](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
 4. Add existing folders to .gitignore and test files don't get overwritten on push
-5. Deploy
+5. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https)

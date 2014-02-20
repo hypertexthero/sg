@@ -1,0 +1,78 @@
+---
+layout: home_base
+---
+
+  <div id="gallery">
+    <div id="slideshow" class="slideshow"></div>
+    <div id="captiondisplay"></div>
+  </div>
+  
+  <div id="subheader" role="banner">
+    <h1 class="title">
+      {{ site.title }}
+    </h1>
+    <div id="thumbs-min" class="imgnav text">
+      {{ content }}
+    </div>
+    <div id="controls" class="controls"></div>
+  </div> <!-- end #subheader -->
+
+<script type="text/javascript">
+$('div.content').css('display', 'block');
+// Initially set opacity on thumbs and add
+      // additional styling for hover effect on thumbs
+      var onMouseOutOpacity = 0.30;
+      $('#thumbs-min ul.thumbs li').css('opacity', onMouseOutOpacity)
+        .hover(
+          function () {
+            $(this).not('.selected').fadeTo('fast', 0.70);
+          }, 
+          function () {
+            $(this).not('.selected').fadeTo('fast', onMouseOutOpacity);
+          }
+        );
+
+        $(document).ready(function() {
+                // Initialize Advanced Galleriffic Gallery
+                var galleryAdv = $('#gallery').galleriffic('#thumbs-min', {
+                  delay:                  6000,
+                  numThumbs:              21,
+                  preloadAhead:           21,
+                  enableTopPager:         true,
+                  enableBottomPager:      false,
+                  imageContainerSel:      '#slideshow',
+                  controlsContainerSel:   '#controls',
+                  captionContainerSel:    '#captiondisplay',
+                  loadingContainerSel:    '#loading',
+                  renderSSControls:       true,
+                  renderNavControls:      true,
+                  playLinkText:           '&#9658;Play',
+                  pauseLinkText:          '&#x25FC;Stop',
+                  prevLinkText:           '&larr;Prior',
+                  nextLinkText:           'Next&rarr;',
+                  nextPageLinkText:       '»',
+                  prevPageLinkText:       '«',
+                  enableHistory:          true,
+                  autoStart:              true,
+                  onChange:               function(prevIndex, nextIndex) {
+                    $('#thumbs-min ul.thumbs').children()
+                      .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
+                      .eq(nextIndex).fadeTo('fast', 0.7);
+                  },
+                  onTransitionOut:        function(callback) {
+                    $('#captiondisplay').fadeTo('fast', 0.0);
+                    $('#slideshow').fadeTo('fast', 0.0, callback);
+                  },
+                  onTransitionIn:         function() {
+                    $('#slideshow').fadeTo('fast', 1.0);
+                    $('#captiondisplay').fadeTo('fast', 1.0);
+                  },
+                  onPageTransitionOut:    function(callback) {
+                    $('#thumbs-min ul.thumbs').fadeTo('fast', 0.0, callback);
+                  },
+                  onPageTransitionIn:     function() {
+                    $('#thumbs-min ul.thumbs').fadeTo('fast', 1.0);
+                  }
+                });
+              });
+</script>

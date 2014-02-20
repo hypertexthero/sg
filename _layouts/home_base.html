@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  {% include head.html %}
+  <title>
+    {{ site.name }}
+  </title>
+  <script type="text/javascript" src="{{ site.url }}/js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/js/jquery.galleriffic.min.js"></script>
+</head>
+<body id="notebook">
+  <div id="page">
+    <div id="content">
+      {{ content }}
+    </div> <!-- /#content -->
+    <div id="header">
+      {% include navigation.html %}
+    </div> <!-- /#header -->
+    <div id="footer" class="largetopmargin">
+      {% include footer.html %}
+    </div> <!-- /#footer -->
+  </div> <!-- /#page -->
+  {% include bodyend.html %}
+</body>
+</html>
