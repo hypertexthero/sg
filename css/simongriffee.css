@@ -193,7 +193,7 @@ p.ruler {clear:both; height:0; width:0; border:none; margin:0; padding:0; text-i
 
 body#search p.date {text-align:left;}
 p.feeds {padding-top:3em;}
-p.caption, div.caption {font-size:0.75em; line-height:1.261em; font-style:italic; clear:both; text-align:center;}
+p.notecaption, div.notecaption {font-size:0.75em; line-height:1.261em; font-style:italic; clear:both; text-align:center;}
 p.entry-summary {margin-bottom:3em;}
 p.smallprint, p.footnote {font-size:0.75em; letter-spacing:0.055em;}
 p.footnote {color:#666;}

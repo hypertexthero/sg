@@ -23,5 +23,3 @@ tags:
 - box
 - torture
 ---
-
-Hello.
