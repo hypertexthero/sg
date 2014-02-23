@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+jekyll && rsync -avzhe ssh _site/ hth@hth.webfactional.com:webapps/simongriffee/

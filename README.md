@@ -66,10 +66,13 @@ D. To deploy:
     git commit -m 'short description of change'
     git push all
 
+## Alternative deployment of _site folder via rsync to avoid problem of overwriting existing files on server root
+
+  rsync -avzhe ssh _site/ hth@hth.webfactional.com:webapps/simongriffee/test/
+
 ## Things to do
 
-1. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
-2. Refactor stories CSS into main stylesheet
-3. Setup [redirects to .html](http://stackoverflow.com/a/16773980) and [HTTPS](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
-4. Add existing folders to .gitignore and test files don't get overwritten on push
-5. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https)
+1. Refactor stories CSS into main stylesheet
+2. Setup [redirects to .html](http://stackoverflow.com/a/11335332)
+3. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
+4. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https) and [redirect](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)

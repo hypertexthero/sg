@@ -6,11 +6,11 @@ url: http://simongriffee.com/
 # baseurl: /stories
 paginate: 30
 paginate_path: "thumbs/page:num"
-destination: ~/Sites/sg.dev
+destination: _site
 author_name: Simon Griffee
 author_email: simon@simongriffee.com
 # lunr_search:
 #   stopwords: "/search/stopwords.txt"
 #   min_length: 3
-# exclude: 
-# - page_db.rb
+exclude: 
+- deploy
