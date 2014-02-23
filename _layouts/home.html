@@ -23,7 +23,7 @@
       #header {clear:both;}
       h1#logo {margin-bottom:1em;}
       h1#logo a {padding:0; font-weight:bold !important;}
-      h2 {margin:0; font-size:1em; float:left;}
+      h2 {margin:0.25em 0 0; font-size:1em; text-transform:uppercase; font-size:0.9em; letter-spacing:0.1em;}
       h3 {font-size:1em; font-weight:bold;}
       h3 a {font-weight:bold !important;}
   /*    h2 a {font-weight:bold !important;}*/
@@ -56,11 +56,6 @@
           <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
         </ul>
 
-        <h2>
-          <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a> 
-        </h2>
-        <!-- <div id="controls" class="controls"></div> -->
-
         <div id="thumbs-min" class="imgnav text">
           <ul class="thumbs">
             
@@ -90,6 +85,7 @@
               {% include home_navigation.html %}
             </li>
             
+            <li><h2><a href="/stories/" title="Projects, essays, series of photographs.">Stories</a></h2> <!-- <div id="controls" class="controls"></div> --></li>
             {% for post in site.posts %}{% if post.category contains 'stories' %}
               <li><a class="thumb" href="{{ post.homeimg }}" title="Show a preview of this story here. Click » to see the full story.">{{ post.title }}</a> <a class="go" href="{{ post.url }}" title="View this story.">»</a> <div class="caption"><a href="{{ post.url }}">View <i>{{ post.title }}</i> Story »</a></p></li>{% else %}{% endif %}{% endfor %}
           </ul>

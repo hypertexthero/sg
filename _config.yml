@@ -7,7 +7,8 @@ production_url: http://simongriffee.com/
 # baseurl: /stories
 paginate: 30
 paginate_path: "thumbs/page:num"
-destination: _site
+# destination: _site
+destination: ~/Sites/sg.dev
 author_name: Simon Griffee
 author_email: simon@simongriffee.com
 # lunr_search:
