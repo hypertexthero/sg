@@ -3,7 +3,7 @@
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <meta charset="utf-8">
-  {% if post.category contains 'unlisted' %}<meta name="robots" content="noindex,nofollow">{% else %}<meta name="robots" content="index,follow">{% endif %}
+  {% if post.category contains 'unlisted' %}<meta name="robots" content="noindex,nofollow">{% else %}{% endif %}
   <meta name="description" content="{% if page.path contains '_posts' %} {{ page.title }} - {{ page.category | capitalize }} - {% else %}{% endif %}{% if post.path contains '_posts' %} {{ post.title }} - {{ post.category | capitalize }} - {% else %}{% endif %}{{ site.name }}">
   <meta name="keywords" content="simon griffee, photographer, photographs">
   <meta name="author" content="Simon Griffee">

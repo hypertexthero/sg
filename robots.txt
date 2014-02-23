@@ -1,4 +1,4 @@
-User-Agent: *
+User-agent: *
 Disallow: /scrapbook/Personal/
 Disallow: /scrapbook/Personal/cv.html
 Disallow: /textpattern/
