@@ -2,7 +2,8 @@ name: Simon Griffee · Photographer
 markdown: redcarpet
 pygments: true
 permalink: none
-url: http://simongriffee.com/
+url:
+production_url: http://simongriffee.com/
 # baseurl: /stories
 paginate: 30
 paginate_path: "thumbs/page:num"
