@@ -68,7 +68,11 @@ D. To deploy:
 
 ## Alternative deployment of _site folder via rsync to avoid problem of overwriting existing files on server root
 
-  rsync -avzhe ssh _site/ hth@hth.webfactional.com:webapps/simongriffee/test/
+  rsync -avzhe ssh _site/ hth@hth.webfactional.com:webapps/simongriffee/
+
+…Or use the deploy script (after first making it executable with `chmod +x deploy`):
+
+  . deploy
 
 ## Things to do
 
