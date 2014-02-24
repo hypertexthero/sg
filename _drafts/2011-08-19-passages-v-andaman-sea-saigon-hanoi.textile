@@ -1,0 +1,11 @@
+--- 
+layout: entry
+title: Passages V - Andaman Sea, Saigon, Hanoi
+category: story-p5
+tags: 
+- passages
+- Andaman Sea
+- Saigon
+- Hanoi
+---
+"First photo":/story-p5/andaman-sea-saigon-hanoi-1 »

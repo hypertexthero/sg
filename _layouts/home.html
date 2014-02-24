@@ -5,8 +5,8 @@
   <title>
     {{ site.name }}
   </title>
-    <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.galleriffic.min.js"></script>
+    <!-- <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/js/jquery.galleriffic.min.js"></script> -->
     <style type="text/css" media="screen">
       /* homepage custom styles*/
       a {border:0 !important; font-weight:normal !important;}
@@ -44,106 +44,60 @@
   <div id="page">
     <div id="content">
       <div id="gallery">
-        <div id="slideshow" class="slideshow"></div>
+        <div id="slideshow" class="slideshow">
+          <span class="image-wrapper">
+          {% for post in site.posts limit:1 %}
+            {% if post.date_taken %}
+              <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."><img src="http://simongriffee.com/images/{{ post.image }}.jpg" title="Show the latest Notebook entry here. Click » to go to the Notebook homepage."></a>
+              <div class="caption">
+                <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
+                <p>
+                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i>
+                </p> 
+                {{ post.content }}
+              </div>
+            {% else %}
+              <div class="caption">
+                <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
+                  <p>
+                    <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i>
+                  </p>
+                  {{ post.content }}
+              </div>
+            {% endif %}
+          {% endfor %}
+          </span>
+        </div>
         <div id="captiondisplay"></div>
       </div>
-      <div id="subheader" role="banner">
-
+      
+      <div id="subheader">
         <h1 id="logo"><a href="/" title="SimonGriffee.com homepage.">Simon Griffee</a><br><small><i>Photographer</i></small></h1>
 
         <ul>
           <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
           <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
+          <li>
+            <a href="/notebook/" title="My journal.">Notebook</a>
+            {% include home_navigation.html %}
+          </li>
         </ul>
 
-        <h2><a href="/stories/" title="Projects, essays, series of photographs.">Stories</a></h2> <!-- <div id="controls" class="controls"></div> -->
-        <div id="thumbs-min" class="imgnav text">
-          <ul class="thumbs">
-            <li>
-              {% for post in site.posts limit:1 %}
-                {% if post.date_taken %}
-                  <a class="thumb" href="http://simongriffee.com/images/{{ post.image }}.jpg" title="Show the latest Notebook entry here. Click » to go to the Notebook homepage.">Notebook</a> <a class="go" href="/notebook/" title="Go to the Notebook homepage.">»</a> 
-                  <div class="caption">
-                    <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
-                    <p>
-                      <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i>
-                      </p> 
-                {{ post.content }}
-                </div>
-                {% else %}
-                  <a class="thumb" href="/favicon.ico" title="My journal, or weblog.">Notebook</a> <a class="go" href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">»</a> 
-                  <div class="caption">
-                    <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
-                      <p>
-                        <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i>
-                        </p>
-                {{ post.content }}
-                </div>
-                {% endif %}
-              {% endfor %}
+        <h2>
+          <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>
+        </h2> <!-- <div id="controls" class="controls"></div> -->
 
-              {% include home_navigation.html %}
-            </li>
-
-            {% for post in site.posts %}{% if post.category contains 'stories' %}
-              <li><a class="thumb" href="{{ post.homeimg }}" title="Show a preview of this story here. Click » to see the full story.">{{ post.title }}</a> <a class="go" href="{{ post.url }}" title="View this story.">»</a> <div class="caption"><a href="{{ post.url }}">View <i>{{ post.title }}</i> Story »</a></p></li>{% else %}{% endif %}{% endfor %}
-          </ul>
-        </div>
-
+        <ul>
+          {% for post in site.posts %}{% if post.category contains 'stories' %}
+          <li><a href="{{ post.url }}" title="See this story.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
+        </ul>
       </div> <!-- /#subheader -->
-</div> <!-- /#content -->
+      </div> <!-- /#gallery -->
+    </div> <!-- /#content -->
 
-<div id="footer" class="largetopmargin">
-  {% include footer.html %}
-</div> <!-- /#footer -->
-
-<script type="text/javascript">
-$('div.content').css('display', 'block');
-        $(document).ready(function() {
-                // Initialize Advanced Galleriffic Gallery
-                var galleryAdv = $('#gallery').galleriffic('#thumbs-min', {
-                  delay:                  5000,
-                  numThumbs:              21,
-                  preloadAhead:           21,
-                  enableTopPager:         true,
-                  enableBottomPager:      false,
-                  imageContainerSel:      '#slideshow',
-                  controlsContainerSel:   '#controls',
-                  captionContainerSel:    '#captiondisplay',
-                  loadingContainerSel:    '#loading',
-                  renderSSControls:       true,
-                  renderNavControls:      false,
-                  playLinkText:           '&#9655;',
-                  pauseLinkText:          '&#x25FC;',
-                  prevLinkText:           '&larr;Prior',
-                  nextLinkText:           'Next&rarr;',
-                  nextPageLinkText:       '»',
-                  prevPageLinkText:       '«',
-                  enableHistory:          true,
-                  autoStart:              false,
-                  onChange:               function(prevIndex, nextIndex) {
-                    $('#thumbs-min ul.thumbs').children()
-                      .eq(prevIndex).removeClass('gogo').end()
-                      .eq(nextIndex).addClass('gogo');
-                  },
-                  onTransitionOut:        function(callback) {
-                    $('#captiondisplay').fadeTo('fast', 0.0);
-                    $('#slideshow').fadeTo('fast', 0.0, callback);
-                  },
-                  onTransitionIn:         function() {
-                    $('#slideshow').fadeTo('fast', 1.0);
-                    $('#captiondisplay').fadeTo('fast', 1.0);
-                    $(this).addClass("gogo");
-                  },
-                  onPageTransitionOut:    function(callback) {
-                    $('#thumbs-min ul.thumbs').fadeTo('fast', 0.0, callback);
-                  },
-                  onPageTransitionIn:     function() {
-                    $('#thumbs-min ul.thumbs').fadeTo('fast', 1.0);
-                  }
-                });
-              });
-</script>
+    <div id="footer" class="largetopmargin">
+      {% include footer.html %}
+    </div> <!-- /#footer -->
 
   </div> <!-- /#page -->
 </body>

@@ -11,9 +11,9 @@ layout: entry_base
 
   <div id="textframe" class="text">
     {% if page.date_taken %}
-      {{ content }}
       <h2 id="NotebookPhotoTitle" class="weakcaption title"><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">{{ page.title }}, {{ page.location }}, {{ page.date_taken }}</a></h2>
       <p class="small center">Published {{ page.date | date: "%-d %B %Y" }}</p>
+      {{ content }}
     {% else %}
       <h2 class="title"><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">{{ page.title }}</a></h2>
       <p class="small center">Published {{ page.date | date: "%-d %B %Y" }}</p>

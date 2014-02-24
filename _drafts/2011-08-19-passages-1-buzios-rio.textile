@@ -1,0 +1,14 @@
+--- 
+layout: entry
+title: "Passages I - B\xC3\xBAzios, Rio"
+location: "B\xC3\xBAzios, Rio de Janeiro"
+date_taken: "2001"
+category: story-p1
+tags: 
+- color
+- buzios
+- rio
+- passages
+- simon griffee
+---
+"First photo":/story-p1/buzios-rio-1 »

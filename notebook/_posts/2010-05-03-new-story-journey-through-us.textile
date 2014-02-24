@@ -6,4 +6,4 @@ category: notebook
 tags: 
 - journey through us
 ---
-Finally edited these down to something: "Photographs from a trip across the United States (Journey Through US.)":/story-jtus with "Amber":http://descriptedlines.com, five years ago.
+Finally edited these down to something: "Photographs from a trip across the United States (Journey Through US.)":/stories/journey-through-us.html with "Amber":http://descriptedlines.com, five years ago.

@@ -1,0 +1,18 @@
+--- 
+layout: entry
+title: The Island
+image: "836"
+location: Italy, Thailand, US
+date_taken: "2010"
+excerpt: "\"Gallery first photo\":/story-theisland/the-island-1 \xC2\xBB\r\n\
+  \"Slideshow with sound (5-minutes - music by Pink Floyd.)\":/theisland/ \xC2\xBB\r\n\
+  \r\n\
+  The slideshow is set in a slow pace and takes around 5 minutes to view. If you don't have time, I recommend the \"gallery\":/story-theisland/the-island-1 instead."
+category: story-theisland
+tags: 
+- the island
+---
+"Gallery first photo":/story-theisland/the-island-1 »
+"Slideshow with sound (5-minutes - music by Pink Floyd.)":/theisland/ »
+
+The slideshow is set in a slow pace and takes around 5 minutes to view. If you don't have time, I recommend the "gallery":/story-theisland/the-island-1 instead.

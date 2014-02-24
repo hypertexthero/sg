@@ -2,7 +2,7 @@
 layout: entry
 title: Personal Best of 2013
 location: Rome
-date_taken: "2013"
+date_taken:
 excerpt: Personal Best of 2013
 category: notebook
 tags: 

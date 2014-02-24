@@ -68,7 +68,7 @@ D. To deploy:
 
 ## Alternative deployment of _site folder via rsync to avoid problem of overwriting existing files on server root
 
-  rsync -avzhe ssh _site/ hth@hth.webfactional.com:webapps/simongriffee/
+  rsync -exclude='.DS_Store' -avzhe ssh _site/ hth@hth.webfactional.com:webapps/simongriffee/
 
 …Or use the deploy script (after first making it executable with `chmod +x deploy`):
 
@@ -78,5 +78,6 @@ D. To deploy:
 
 1. Refactor stories CSS into main stylesheet
 2. Setup [redirects to .html](http://stackoverflow.com/a/11335332)
-3. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
+3. Setup [bittorrent sync](https://community.webfaction.com/questions/15145/how-to-setup-bittorrent-sync-on-webfaction) or [git-annex](http://git-annex.branchable.com/forum/first-time_setup_git-annex/)? for deployment of entire site or of images folder.
 4. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https) and [redirect](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
+5. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
