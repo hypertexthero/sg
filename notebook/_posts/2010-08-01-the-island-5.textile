@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 5
-image: "830"
-category: story-theisland
-tags: []
-
----
-

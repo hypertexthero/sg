@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 12
-image: "834"
-category: story-theisland
-tags: []
-
----
-

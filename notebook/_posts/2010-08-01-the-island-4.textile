@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 4
-image: "843"
-category: story-theisland
-tags: []
-
----
-

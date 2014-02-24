@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 8
-image: "836"
-category: story-theisland
-tags: []
-
----
-

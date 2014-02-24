@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 21
-image: "841"
-category: story-theisland
-tags: []
-
----
-

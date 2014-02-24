@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 17
-image: "840"
-category: story-theisland
-tags: 
-- dead
----
-

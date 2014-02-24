@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: The Island 1
-image: "839"
-category: story-theisland
-tags: 
-- sand
----
-
