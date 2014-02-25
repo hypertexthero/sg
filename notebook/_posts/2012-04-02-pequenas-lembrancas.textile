@@ -1,8 +1,8 @@
 --- 
 layout: entry
-title: "Pequenas Lembran\xC3\xA7as"
+title: "Pequenas Lembranças"
 location: Brasil
-excerpt: "Pequenas Lembran\xC3\xA7as"
+excerpt: "Pequenas Lembranças"
 category: notebook
 tags: 
 - simon
@@ -10,10 +10,9 @@ tags:
 - beto
 - fotos
 ---
-<txp:image id="1489" />
 
-<txp:image id="1488" />
-
-<txp:image id="1487" />
+ <img src="/images/1489.jpg" />
+ <img src="/images/1488.jpg" />
+ <img src="/images/1487.jpg" />
 
 Obrigado, "Beto":http://opsiquiatra.com!

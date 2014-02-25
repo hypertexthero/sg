@@ -18,11 +18,10 @@ tags:
 - window
 - light
 ---
-<txp:hide>"Posted at David Alan Harvey's forum":http://davidalanharvey.typepad.com/road_trip/2008/06/self-portrait/comments/page/7/#comment-119758886:/
+<!--Posted at David Alan Harvey's forum":http://davidalanharvey.typepad.com/road_trip/2008/06/self-portrait/comments/page/7/#comment-119758886:/-->
 
 For me self portraiture has always been for fun, usually to show-off my alter ego, "Jimmy Boss (Jimmy The Boss!)":http://jimmyboss.com!
 
 I think that doing it seriously is most difficult because you have to know yourself for the portrait to say something about yourself. 
 
 To understand yourself is invaluable because it means understanding other humans as well. "Gnothi Seauton":http://en.wikipedia.org/wiki/Know_thyself…
-</txp:hide>

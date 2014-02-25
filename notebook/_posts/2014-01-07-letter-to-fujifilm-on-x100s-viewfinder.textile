@@ -14,7 +14,7 @@ bq.. Hello,
 
 Can you please consider adding an option to turn off the center square (focus square) in the X100S optical viewfinder in a future firmware update?
 
-<txp:image id="1972" />
+ <img src="/images/1972.jpg" />
 
 The optical viewfinder is good, but the center square is distracting. Please see the Leica M3 viewfinder for a good example.
 

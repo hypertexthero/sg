@@ -8,7 +8,7 @@ Uses [Jekyll](http://jekyllrb.com/).
 
     jekyll serve -w
 
-…Or with local apache pointint to sg.dev, just go to sg.dev in browser
+…Or with local apache pointing to sg.dev, just go to http://sg.dev in browser
 
 ## Deployment of _site folder via rsync to avoid problem of overwriting existing files on server root
 
@@ -25,6 +25,9 @@ Uses [Jekyll](http://jekyllrb.com/).
 3. Setup [bittorrent sync](https://community.webfaction.com/questions/15145/how-to-setup-bittorrent-sync-on-webfaction) or [git-annex](http://git-annex.branchable.com/forum/first-time_setup_git-annex/)? for deployment of entire site or of images folder?
 4. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https) and [redirect](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
 5. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
+6. Breadcrumbs or back link in stories
+7. Compression of sitemap.xml before uploading
+8. Streamlined command for creating post (use TextExpander?)
 
 ## Alternative automatic deployment of stories section with Git
 

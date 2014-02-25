@@ -91,12 +91,14 @@ body#maps #navcontainer li#nav-maps a,
 body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;}
 /* TODO: Thumbnail archive pages: http://masonry.desandro.com/docs/intro.html */
 
-#footer {clear:both; margin:0 auto; text-align:center; padding-top:2.5em;}
+#footer {margin:0 auto; text-align:center; padding:10px;}
 #footer p {font-size:0.9em !important; color:#666;}
 body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
 #footer input {margin:0 0 0.75em; background:#ddd; padding:5px;}
+#footer input#searchbutton {padding:4px;}
+#footer input#searchbutton:hover {cursor:pointer;}
 input.zemSubmit {padding:4px !important; letter-spacing:0.1em;}
 input.zemSubmit:hover {cursor:pointer;}
 #footer a {color:#666 !important; font-weight:normal;}
@@ -309,4 +311,5 @@ div.storycolumnmarginright {margin-right:6em;}
     div#information_index {width:auto; float:none;}
     body.storiesstoryindex ol.thumbs {margin:0 !important;}
     div.storycolumn {width:auto !important;}
+    #footer {clear:both;}
     }

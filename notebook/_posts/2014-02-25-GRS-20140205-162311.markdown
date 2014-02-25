@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: FAO
+location: Rome, Italy
+date_taken: February 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140205-162311
+excerpt:
+category: notebook
+tags: [bw, men, hat, suit, 40 to 80 years, business, jacket, tie, coat, expression, john lee hooker, ambassador]
+---

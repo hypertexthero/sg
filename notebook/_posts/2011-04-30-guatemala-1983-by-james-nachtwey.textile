@@ -9,7 +9,7 @@ tags:
 - clergy
 - james nachtwey
 ---
-<a href="http://www.jamesnachtwey.com/jn/slides/g11.html"><txp:image id="1094" /></a>
+ <a href="http://www.jamesnachtwey.com/jn/slides/g11.html"><img src="/images/1094.jpg" /></a>
 
 Photograph by "James Nachtwey":http://www.jamesnachtwey.com/ from his <em><a href="http://www.jamesnachtwey.com/jn/slides/g08.html">Deeds of War</a></em> project.
 

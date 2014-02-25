@@ -9,8 +9,8 @@ tags:
 - magnum photos
 ---
  <div class="floatright">
-<txp:thumbnail id="1966" />
-<p class="caption">Robert Capa by Ruth Orkin, 1952.</p>
+ <img src="1966.jpg" />
+ <p class="caption">Robert Capa by Ruth Orkin, 1952.</p>
  </div>
 
 For the 100 days between October 22nd -- Robert Capa’s (Friedmann Endre) 100th birthday -- and the opening of "Capa in Color":http://www.icp.org/museum/exhibitions/capa-color at the International Center of Photography in January, Magnum Photos and the ICP are asking photographers everywhere to "GET CLOSER":http://getcloser.magnumphotos.com/.

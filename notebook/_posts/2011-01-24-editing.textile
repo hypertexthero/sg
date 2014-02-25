@@ -12,7 +12,7 @@ tags:
 ---
 In photography the word 'editing' traditionally means selecting the best photos from a set. This usually involves a large number of small pictures&nbsp;—&nbsp;'contact' or <a href="http://theonlinephotographer.typepad.com/the_online_photographer/2010/11/how-to-make-a-good-proof-sheet.html" title="How to make a good proof sheet.">'proof' prints</a>&nbsp;—&nbsp;laid out on a table, pinned to a wall, clipped to a string, or displayed in a user interface on a computer screen. The editor looks at the pictures, moves them around, culls the bad ones, keeps the best ones.
 
- <txp:image id="1022" />
+ <img src="/images/1022.jpg" />
 
 p(caption). <a href="http://news.bbc.co.uk/2/hi/entertainment/arts_and_culture/7907632.stm" title="The Americans in the frame - BBC.">Frame 13, Looking In: Robert Frank's "The Americans"</a>
 
@@ -21,8 +21,6 @@ In the digital era the primary meaning of the word 'editing' when applied to the
 "Editing (Editing 101 by Mike Johnston.)":http://www.luminous-landscape.com/columns/sm-10-06.shtml means culling, improving, condensing, simplifying&nbsp;—&nbsp;removing the unnecessary, leaving the best. In this sense, when applied to photographs, and if you want to improve your photography, I think 'editing' is a better word than 'organizing' or 'management', and it should be embraced in its traditional sense. 
 
 Endlessly manipulating a photograph with graphics software will not make it a better photograph or you a better photographer. Taking more pictures, looking at them,[1] and _choosing_ the best, will.
-
-<txp:hide>Software such as Lightroom is primarily a photo organizer. The best know photo organizing websites are Flickr and Picasa.</txp:hide>
 
 Despite much mythology such as Cartier-Bresson's Decisive Moment, the photographic act consists of two things: Shooting pictures and choosing which pictures to show.[2] Most people only do the first, but editing is "at least as important as shooting (Editing Tango by David Alan Harvey.)":http://davidalanharvey.typepad.com/road_trip/2007/09/editing.html. As in many things in life, you have to choose, difficult as it may be.
 
@@ -35,21 +33,3 @@ bq. To be honest, most of my pictures suck. The saving grace of that admission i
 fn1. Good advice: have prints of pictures you think you like hanging somewhere where you see them often. Pinned to a board on a wall, tacked to a mirror, taped to your monitor, anything. After living with the pictures for some time, you eventually 'see' the ones you really like, and the others fall away.
 
 fn2. A third thing could be 'how to show the pictures': Single print, book, gallery wall space, projection, website, and so on.
-<txp:hide>
-fn3. Can't find the original, but here is David Alan Harvey's "Quick Pocket Guide to Editing and Your Life in Photography" comment that I saved from somewhere, probably the old "Road Trips blog":http://davidalanharvey.typepad.com/:
-"on editing again...there are two things...choice of pictures and choice of how many pictures...generally speaking, most show too many pictures....
-you will go crazy asking too many opinions of your work...i remember watching the Pictures of the Year competition being judged (5 "judges") when i was a college student at Missouri...i never wanted anyone's "opinion" about my work from that day forward...i have since been one of those "judges"....that is not any better either...
-YOU need to know (just as you need to know when to take the picture in the first place) OR you need a good collaborator....but not 10 collaborators!!
-OK, QUICK POCKET GUIDE TO EDITING AND YOUR LIFE IN PHOTOGRAPHY:
-first, STUDY the visual classics (painting, sculpture, photography, film)...
-READ E.B.White and Japanese haikus...
-then GO WITH YOUR GUT, spinning out your own style either revolutionary or tangential...
-then YOU CHOOSE 10 pictures...show them...print them well....treat them with respect...
-then, FORGET those first 10...
-put them in the closet..AVOID falling in love with those first 10 good ones (the downfall of many)....
-be HONEST with yourself....look in the mirror and tell the truth to that person...
-then, go shoot 10 more!!...etc etc...
-if you are a passionate photographer, you will always have 10 more...
-if you think you are "done", then you are...
-SOMEDAY you can go back and get those first 10 out of the closet!!!! but not yet!!!"
-</txp:hide>

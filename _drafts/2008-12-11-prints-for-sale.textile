@@ -13,7 +13,7 @@ h1. Black & White Prints
 
 If you are interested in purchasing a print please "contact me":/contact/.
 
-<txp:hide>
+<!--
 Fine prints of my photographs of Rome, the Eternal City, are available for sale at "Rome Black & White":http://romebw.com. The prints consist of carbon pigment ink printed onto archival cotton matte paper and are shipped anywhere in the world for free. See "this page":http://romebw.com/information for more information. The Rome Black & White archive is growing continually so check the site often for new images!
 
 <a class="imglink" href="/prints/cats-pocket-print-pack"><img class="floatright" src="/images/cat-print-pack-individual-black-bg.jpg" width="100" height="69" alt="A photograph of the Cats pocket print packet." /></a>
@@ -105,4 +105,4 @@ h2(#thankyou). Thank You
 I consider fine prints the ultimate expression of the photographic process. A beautiful photographic print is an object which can take you on our own journeys and a companion who you can live with all your life. When you buy a fine print here or at "DearMoment.com":http://dearmoment.com you directly help me continue to photograph. Thank you!
 
 Simon Griffee
-</txp:hide>
+-->
