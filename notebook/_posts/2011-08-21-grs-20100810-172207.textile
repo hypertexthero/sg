@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20100810-172207
-image: "1263"
-category: story-meyou
-tags: []
-
----
-

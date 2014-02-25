@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: San Francisco Bay Area - 18
-image: "1244"
-category: story-p4
-tags: []
-
----
-

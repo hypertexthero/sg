@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20091205-234835
-image: "1259"
-category: story-p6
-tags: []
-
----
-

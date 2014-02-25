@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: San Francisco Bay Area - 2
-image: "1236"
-category: story-p4
-tags: []
-
----
-

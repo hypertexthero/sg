@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: Andaman Sea, Saigon, Hanoi - 14
-image: "1217"
-category: story-p5
-tags: []
-
----
-

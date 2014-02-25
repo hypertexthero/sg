@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20091206-020620
-image: "1260"
-category: story-p6
-tags: []
-
----
-

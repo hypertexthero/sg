@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20100621-163350
-image: "1270"
-category: story-meyou
-tags: []
-
----
-

@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: Rome - 12
-image: "1211"
-category: story-p3
-tags: []
-
----
-

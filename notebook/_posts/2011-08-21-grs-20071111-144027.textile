@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20071111-144027
-image: "1280"
-category: story-meyou
-tags: []
-
----
-

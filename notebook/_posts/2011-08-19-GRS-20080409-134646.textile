@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20080409-134646
-image: "1200"
-category: story-p2
-tags: []
-
----
-

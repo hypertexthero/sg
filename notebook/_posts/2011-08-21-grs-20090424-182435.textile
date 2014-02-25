@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20090424-182435
-image: "1268"
-category: story-meyou
-tags: []
-
----
-

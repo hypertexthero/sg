@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20101018-041521
-image: "1256"
-category: story-p6
-tags: []
-
----
-
