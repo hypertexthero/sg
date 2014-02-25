@@ -1,7 +1,7 @@
 <!-- <a href="http://simongriffee.com/notebook/GRS-20140208-092822" title="Fes el Bali"><img src="http://simongriffee.com/images/1997t.jpg" alt="Fes el Bali" title="Fes el Bali"   class="wet_article_thumb" width="200" height="133"  /></a> Loading hidden thumbnail for fb links -->
 {% if post.date_taken %}
 <div id="plateframe">
-  <a href="{{post.next_in_category.url}}"><img src="http://simongriffee.com/images/{{ post.image }}.jpg" alt="{{ post.title }}" /></a>
+  <a href="{{ post.next_in_category.url }}"><img src="/images/{{ post.image }}.jpg" alt="{{ post.title }}" /></a>
 </div> <!-- /#plateframe -->
 {% endif %}
 

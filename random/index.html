@@ -1,0 +1,26 @@
+---
+layout: random
+---
+<!-- https://github.com/rwmpelstilzchen/jekyll-random-post -->
+<html>
+
+	<body>
+	  <script>
+			var posts = [];
+			{% for post in site.posts %}{% if post.category contains 'notebook' %}
+			posts.push("{{ post.url }}");{% else %}{% endif %}{% endfor %}
+
+			document.write("<meta http-equiv=\"refresh\" content=\"1;url=");
+			document.write(posts[Math.floor(Math.random() * posts.length)]);
+			document.write("\">");
+		</script>
+		
+		<h2>Redirecting to a
+		<script>
+			document.write("<a href=\"");
+				document.write(posts[Math.floor(Math.random() * posts.length)]);
+				document.write("\">random post</a>...");
+		</script>
+		</h2>
+	</body>
+</html>

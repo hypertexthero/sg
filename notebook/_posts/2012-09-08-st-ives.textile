@@ -2,7 +2,7 @@
 layout: entry
 title: St Ives
 location: St. Ives, Cornwall, UK
-date_taken: 8 September 2012
+date_taken:
 category: notebook
 tags: 
 - dad

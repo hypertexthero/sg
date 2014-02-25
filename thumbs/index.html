@@ -4,7 +4,7 @@ category: thumbs
 ---
 
 <h1>Notebook Thumbnail Archives</h1>
-<p>Browse by <a href="/notebook/archive.html">timeline</a>.</p>
+<p>Browse by <a href="/archive/">timeline</a>.</p>
 
 <form method="get" id="search" action="http://duckduckgo.com/">
     <input type="hidden" name="sites" value="simongriffee.com"/>
@@ -18,7 +18,7 @@ category: thumbs
 <ol class="thumbs">
 {% for post in paginator.posts %}
   {% if post.category != 'unlisted' %}
-    <li{% if post.date_taken == null %} class="textthumb"{% endif %}>{% if post.date_taken %}<a href="{{ post.url }}"><img src="http://simongriffee.com/images/{{post.image}}t.jpg" alt="{{ post.title }}" class="wet_article_thumb"></a>{% else %}<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>{% endif %}</li>
+    <li{% if post.date_taken == null %} class="textthumb"{% endif %}>{% if post.date_taken %}<a href="{{ post.url }}"><img src="/images/{{post.image}}t.jpg" alt="{{ post.title }}" class="wet_article_thumb"></a>{% else %}<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>{% endif %}</li>
   {% endif %}
 {% endfor %}
 </ol>
@@ -30,14 +30,14 @@ category: thumbs
     <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Before</a></li>
   {% else %}
   {% endif %}
-
+<!-- https://github.com/jekyll/jekyll/pull/1725#issuecomment-28487980 -->
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <li class="currentpage inactive">{{ page }}</li>
     {% elsif page == 1 %}
-      <li><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+      <li><a href="{{ '/index.html' | prepend: site.url | replace: '//', '/' }}">{{ page }}</a></li>
     {% else %}
-      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', '' + page }}">{{ page }}</a></li>
+      <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
     {% endif %}
   {% endfor %}
 

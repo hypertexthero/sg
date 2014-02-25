@@ -10,7 +10,7 @@
      {% for post in site.posts offset:1 limit:1 %}
        {% if post.next_in_category != nil %}<li><em><a rel="prev" href="{{post.next_in_category.url}}">&larr; Before</a></em></li>{% endif %} 
      {% endfor %}
-      <li><em><a href="/random.html" title="Let the stars and math choose.">Random</a></em></li>
-      <li id="nav-archives"><em><a href="/notebook/archive.html" title="Browse the SimonGriffee.com notebook archive.">Archive</a></em></li>
+      <li><em><a href="/random/" title="Let the stars and math choose.">Random</a></em></li>
+      <li id="nav-archives"><em><a href="/archive/" title="Browse the SimonGriffee.com notebook archive.">Archive</a></em></li>
     </ul>
  </div>  <!-- /#navcontainer -->
