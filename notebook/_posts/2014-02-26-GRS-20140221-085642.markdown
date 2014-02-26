@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Via di San Gregorio
+location: Rome, Italy
+date_taken: February 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140221-085642
+excerpt:
+category: notebook
+tags: [bw, priest, nun, love, expression, suitcase, man, woman, 50 to 70 years, morning, cypress, bars, fence, conversation]
+---
