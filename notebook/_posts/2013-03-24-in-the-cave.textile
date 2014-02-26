@@ -10,6 +10,6 @@ tags:
 - rome
 - simon griffee
 ---
-<div style="margin:0 auto; text-align:center;"><a style="border:0;" href="https://www.facebook.com/events/510030989052921"><txp:image id="1937" /></a></div>
+  <div style="margin:0 auto; text-align:center;"><a style="border:0;" href="https://www.facebook.com/events/510030989052921"><img src="/images/1937.png" /></a></div>
 
-<p class="caption quiet">IN<br>THE<br>CAVE<br>One-night exhibition of photographs by<br>Simon Griffee & <a href="http://jrbrubaker.com/">John Ryan Brubaker</a> & Emelyne Cheney<br>Hand-crafted leather works by <a href="http://backstitched.com/">Kimberly Trathen</a><br>Saturday · 6 April 2013 · from 6pm onwards<br><a href="http://goo.gl/maps/XiI5C">The Room Gallery · Via Cairoli 74 · Rome · Italy</a> · <a href="http://www.openstreetmap.org/?mlat=41.894468&mlon=12.507933&zoom=15">Open Street Map</a> · <a href="https://www.facebook.com/events/510030989052921">FB page</a></p>
+ <p class="caption quiet">IN<br>THE<br>CAVE<br>One-night exhibition of photographs by<br>Simon Griffee &amp; <a href="http://jrbrubaker.com/">John Ryan Brubaker</a> &amp; Emelyne Cheney<br>Hand-crafted leather works by <a href="http://backstitched.com/">Kimberly Trathen</a><br>Saturday · 6 April 2013 · from 6pm onwards<br><a href="http://goo.gl/maps/XiI5C">The Room Gallery · Via Cairoli 74 · Rome · Italy</a> · <a href="http://www.openstreetmap.org/?mlat=41.894468&amp;mlon=12.507933&amp;zoom=15">Open Street Map</a> · <a href="https://www.facebook.com/events/510030989052921">FB page</a></p>

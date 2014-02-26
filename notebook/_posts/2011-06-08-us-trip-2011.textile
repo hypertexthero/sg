@@ -11,7 +11,7 @@ tags:
 ---
 <div style="text-align:center; margin:0 auto;">
 
-<p><strong>Update 9 July 2011:</strong> This <a href="http://simongriffee.com/imaginarylines/about-imaginary-lines">didn't work out</a>, so: <a href="http://simongriffee.com/notebook/mediterranean-trip-2011">Plan B</a>.</p>
+<p><strong>Update 9 July 2011:</strong> This <a href="/imaginarylines/about-imaginary-lines">didn't work out</a>, so: <a href="/notebook/mediterranean-trip-2011">Plan B</a>.</p>
 
 <iframe width="970" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?client=safari&amp;oe=UTF-8&amp;ie=UTF8&amp;hl=en&amp;msa=0&amp;msid=207942209169471817167.0004a51c2b39ca2a46906&amp;t=p&amp;ll=40.058013,-56.096191&amp;spn=19.559938,136.669922&amp;output=embed"></iframe>
 

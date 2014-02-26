@@ -1,7 +1,7 @@
 /* 
-simongriffee-d.css
+sg.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: Thursday, 20 February 2014: 16:59:13 Italy Time
+Last update: Wednesday, 26 February 2014: 10:11:18 Italy Time
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -305,7 +305,7 @@ div.storycolumnmarginright {margin-right:6em;}
 /* =responsive structure ---------------------- */
 
 @media (max-width: 960px) {
-    div#plateframe img {max-width:100% !important; height:auto !important;}
+    div#plateframe img {max-width:100% !important; height:auto !important; border:0 !important; border-bottom:3px solid #000 !important;}
     div#textframe {padding:0 1em;}
     textarea {width:96% !important;}
     div#information_index {width:auto; float:none;}

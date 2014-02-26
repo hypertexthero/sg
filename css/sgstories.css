@@ -1,4 +1,4 @@
-/* screen.css - www.simongriffee.com/stories/ stylesheet by Simon Griffee - hypertexthero.com */
+/* sgstories.css - www.simongriffee.com/stories/ stylesheet by Simon Griffee - hypertexthero.com */
 
 /* =reset 
 ---------------------------------------- */
@@ -72,6 +72,10 @@ a.colophon:hover {color:#333; background:none;}
 h2#slogan {font-size:90%; font-weight:normal; color:#888; margin:1em -0.2em 0 0; display:block;}
 ul#nav li span, ul#nav li.here a {color:#888; line-height:1em; text-decoration:none; margin:0 -0.1em 0 0;}
 ul#nav li a {text-decoration:none;}
+#navcontainer ul {margin-left:-5px;}
+#navcontainer li {display:inline; margin:0; line-height:2em;}
+#navcontainer a {padding:3px 5px; border:none;}
+#navcontainer ul a:hover, #navcontainer ul a:focus {color:#000;}
 div#page ul {margin-bottom:1em;}    
 li {
     font-size: 100%;
