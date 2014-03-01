@@ -1,7 +1,7 @@
 --- 
 layout: entry
-title: TITLE
-location: STREET_OR_PLACE, COUNTRY_OR_REGION
+title: STREET_OR_PLACE
+location: CITY_OR_PLACE, COUNTRY_OR_REGION
 date_taken: MONTH_YYYY
 camera: CAMERA
 lens: LENS

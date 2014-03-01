@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140107-172600
+excerpt:
+category: notebook
+tags: [bw, flash, boy, girl, earphones, window, expression, surprise, 15 to 20 years]
+---
