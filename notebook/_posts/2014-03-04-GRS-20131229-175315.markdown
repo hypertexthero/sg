@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Aeroporto Fiumicino
+location: Rome, Italy
+date_taken: December 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20131229-175315
+excerpt:
+category: notebook
+tags: [color, men, waiting, signs, 30 to 80 years, expression, progress, cart, luggage]
+---

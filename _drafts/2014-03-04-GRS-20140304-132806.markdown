@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140304-132806
+excerpt:
+category: notebook
+tags: [bw, woman, women, boy, 40 to 60 years, 6 to 12 years, expression, eyebrows, headscarf]
+---
