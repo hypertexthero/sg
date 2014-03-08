@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Yellow Bar in Viale Aventino
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20130927-185802
+category: notebook
+excerpt:
+tags: [bw,andy,amit,johnny,men,25 to 40 years,beer,shirt,expression,bar]
+---

@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Piazza Venezia
+location: Rome, Italy
+date_taken: September 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20130929-171422
+category: notebook
+excerpt:
+tags: [bw,man,tourist,60 to 80 years,walk,camera,photographing,street,expression]
+---

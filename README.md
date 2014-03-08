@@ -66,11 +66,11 @@ Make sure these folders exist:
 Put the following in `~/repos/sg.it/hooks/post-receive`:
 
     #!/bin/sh
-
+	
     GIT_REPO=$HOME/repos/sg.git
     TMP_GIT_CLONE=/home/hth/tmp/sg
     PUBLIC_WWW=/home/hth/webapps/sg/stories
-
+	
     git clone $GIT_REPO $TMP_GIT_CLONE
     jekyll build -s $TMP_GIT_CLONE -d $PUBLIC_WWW
     rm -Rf $TMP_GIT_CLONE
