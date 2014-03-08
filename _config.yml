@@ -3,7 +3,7 @@ markdown: redcarpet
 pygments: true
 permalink: none
 url:
-production_url: http://simongriffee.com/
+production_url: http://simongriffee.com
 paginate: 30
 paginate_path: "thumbs/page:num"
 destination: ~/Sites/sg.dev

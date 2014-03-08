@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-jekyll build && rsync -exclude='.DS_Store' -avzhe ssh ~/Sites/sg.dev/ hth@hth.webfactional.com:webapps/sg/
+jekyll build && rsync -exclude='.DS_Store' -avzhe ssh ~/Sites/sg.dev/ hth@hth.webfactional.com:webapps/simongriffee/

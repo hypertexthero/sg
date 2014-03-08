@@ -12,7 +12,7 @@ Uses [Jekyll](http://jekyllrb.com/).
 
 ## Deployment of _site folder via rsync to avoid problem of overwriting existing files on server root
 
-  rsync -exclude='.DS_Store' -avzhe ssh ~/Sites/sg.dev/ hth@hth.webfactional.com:webapps/sg/
+  rsync -exclude='.DS_Store' -avzhe ssh ~/Sites/sg.dev/ hth@hth.webfactional.com:webapps/simongriffee/
 
 …Or use the deploy script (after first making it executable with `chmod +x deploy`):
 
