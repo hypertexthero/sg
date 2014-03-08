@@ -1,0 +1,33 @@
+Options +FollowSymLinks
+RewriteEngine On
+
+# # Remove trailing slashes.
+# # e.g. example.com/foo/ will redirect to example.com/foo
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteRule ^(.+)/$ /$1 [R=permanent,QSA]
+# 
+# # Redirect to HTML if it exists.
+# # e.g. example.com/foo will display the contents of example.com/foo.html
+# RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteCond %{REQUEST_FILENAME} !-d
+# RewriteCond %{REQUEST_FILENAME}.html -f
+# RewriteRule ^(.+)$ $1.html [L,QSA]
+
+# Another option: http://stackoverflow.com/a/12737398
+
+# 1. hiding the .html extensions
+RewriteCond %{REQUEST_URI} ^/(.*?)/?$
+RewriteCond %{DOCUMENT_ROOT}/%1.html -f
+RewriteRule ^ /%1.html [L]
+
+# 2. 301 redirecting .html version
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^\ ]+)\.html
+RewriteCond %1 !index$
+RewriteRule ^ /%1 [L,R=301]
+
+# 3. typing /foo.html to resolve to / as well as typing /foo to resolve to / 
+RewriteCond %{REQUEST_URI} ^/(.*?/?)index(\.html)?$
+RewriteRule ^ /%1 [L,R=301]
+
+ErrorDocument 404 /404.html
+# ErrorDocument 403 /403.html
