@@ -6,14 +6,12 @@
     {{ site.name }}
   </title>
     <style type="text/css" media="screen">
-      /* homepage custom styles*/
-      a {border:0 !important; font-weight:normal !important;}
+      /* homepage custom styles */
+      #subheader a, p.date a {border:0 !important; font-weight:normal !important;}
       #content {padding:24px; max-width:810px;}
-      #gallery {width:580px; float:right;}
-      #slideshow span.image-wrapper img {max-width:780px; border:4px solid #000 !important;}
-      #slideshow span.image-wrapper a:hover {background:none; border:0;}
-      #controls {color:#666; float:left; line-height:1.5em; padding:0 5px 0 5px;}
-      #captiondisplay {float:left;}
+      #plateframe {width:580px; float:right;}
+      #plateframe img {max-width:780px; border:4px solid #000 !important;}
+      #plateframe a:hover {background:none; border:0;}
       div.caption {text-align:left !important;}
       #subheader {width:220px; float:left;}
       #subheader ul {list-style-type:none; margin:0 0 1em; padding:0; clear:both;}
@@ -29,13 +27,15 @@
       a.advance-link {border:0; height:0;}
       #footer {clear:both; text-align:left; margin-left:244px;}
       @media (max-width: 1040px) {
-        body, #page, #content, #gallery, #subheader, #slideshow, .image-wrapper, div.caption, #captiondisplay {display:block; position:relative; width:auto !important; min-width:auto !important; clear:both; text-align:center;}
+        body, #page, #content, #plateframe, #subheader, div.caption {display:block; position:relative; width:auto !important; min-width:auto !important; clear:both; text-align:center;}
+		
         h2 {padding:0 5px 0 0;}
-        div.caption, #captiondisplay, #subheader, #gallery, #footer {text-align:center; width:100% !important; margin:0 auto; text-align:center !important;}
+        div.caption, #subheader, #plateframe, #footer {text-align:center; width:100% !important; margin:0 auto; text-align:center !important;}
         h1#logo {text-align:center;}
-        #controls {float:none; padding:0 10px;}
         #content {padding:10px 16px 10px 10px !important; max-width:auto;}
-        #gallery {width:auto;}
+        #content, #footer {padding:0 !important; margin:0 !important; max-width:auto;}
+        #plateframe {width:auto; margin-bottom:1.5em !important;}
+        div.caption {padding:0 20px !important; width:auto !important;}
         img {display:block; width:100% !important; max-width:100% !important; height:auto !important; max-height:auto !important;}
       }
     </style>
@@ -43,33 +43,28 @@
 <body id="notebook">
   <div id="page">
     <div id="content">
-      <div id="gallery">
-        <div id="slideshow" class="slideshow">
-          <span class="image-wrapper">
+      <div id="plateframe">
           {% for post in site.posts limit:1 %}
             {% if post.date_taken %}
-              <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."><img src="/images/{{ post.image }}.jpg" title="Show the latest Notebook entry here. Click » to go to the Notebook homepage."></a>
+              <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."><img src="/images/{{ post.image }}.jpg" alt="Permanent link to this Notebook entry."></a>
               <div class="caption">
                 <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
-                <p>
+                <p class="date">
                   <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i>
                 </p> 
                 {{ post.content }}
-              </div>
+              </div> <!-- /.caption -->
             {% else %}
               <div class="caption">
                 <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
-                  <p>
+                  <p class="date">
                     <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i>
                   </p>
                   {{ post.content }}
-              </div>
+              </div> <!-- /.caption -->
             {% endif %}
           {% endfor %}
-          </span>
-        </div>
-        <div id="captiondisplay"></div>
-      </div>
+      </div> <!-- /#plateframe -->
       
       <div id="subheader">
         <h1 id="logo"><a href="/" title="SimonGriffee.com homepage.">Simon Griffee</a><br><small><i>Photographer</i></small></h1>
@@ -85,14 +80,14 @@
 
         <h2>
           <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>
-        </h2> <!-- <div id="controls" class="controls"></div> -->
+        </h2>
 
         <ul>
           {% for post in site.posts %}{% if post.category contains 'stories' %}
           <li><a href="{{ post.url }}" title="See this story.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
         </ul>
       </div> <!-- /#subheader -->
-      </div> <!-- /#gallery -->
+	  
     </div> <!-- /#content -->
 
     <div id="footer">

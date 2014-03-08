@@ -31,3 +31,11 @@ RewriteRule ^ /%1 [L,R=301]
 
 ErrorDocument 404 /404.html
 # ErrorDocument 403 /403.html
+
+# http://stackoverflow.com/a/19904882
+<FilesMatch "\.(htm|html|php)$">
+    <IfModule mod_headers.c>
+        BrowserMatch MSIE ie
+        Header set X-UA-Compatible "IE=Edge,chrome=1" env=ie
+    </IfModule>
+</FilesMatch>
