@@ -195,7 +195,7 @@ a#silence {color:#666; font-weight:normal;}
 
 /* =responsive structure - work in progress ---------------------- */
 
-@media (max-width: 1280px) {
+@media (max-width: 1520px) {
     body {padding:0 !important;}
     #container {text-align:center !important; margin:0 8px 2em -1px !important;}
     #page {float:none !important; text-align:center !important; width:100% !important; margin:0 auto !important;}
