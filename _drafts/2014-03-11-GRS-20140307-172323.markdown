@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Via del Circo Massimo
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140307-172323
+category: notebook
+excerpt:
+tags: [bw, nuns, women, 30 to 80 years, robes, catholic, religion, roman pines, trees, chopped, stoplight, afternoon, sunlight]
+---

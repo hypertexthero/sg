@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Via Marmorata
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140127-133322
+category: notebook
+excerpt:
+tags: [bw, couple, lovers, love, kiss, boy, girl, 16 to 35 years, bus, rain, puddle, passion]
+---

@@ -1,0 +1,14 @@
+--- 
+layout: entry
+title: Piazza Albania
+location: Rome, Italy
+date_taken: September 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20110913-121435
+category: notebook
+excerpt:
+tags: [bw,nuns,priest,30 to 50 years,walking,uniform,robe,expression,catholic,religion]
+---
+
+From a re-edited story with working title of _[Fashion Squad](/stories/fashion-squad)_.
