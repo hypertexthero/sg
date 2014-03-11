@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Viale Aventino
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140116-092319
+category: notebook
+excerpt:
+tags: [bw, boy, 15 to 20, expression, trechcoat, bag, shoulderbag, hair]
+---
