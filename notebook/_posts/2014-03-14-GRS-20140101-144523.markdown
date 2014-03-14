@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Via del Portico D'Ottavia
+location: Rome, Italy
+date_taken: January 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140101-144523
+category: notebook
+excerpt:
+tags: [bw, coman, man, 60 to 80 years, street, epxression, coat]
+---
