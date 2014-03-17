@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Piazza Venezia
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140314-162544
+category: notebook
+excerpt:
+tags: [bw, girl, hair, gesture, hand, 17 to 25 years, movement]
+---
