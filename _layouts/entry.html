@@ -9,7 +9,7 @@ layout: entry_base
       <img src="/images/{{ page.image }}t.jpg" alt="{{ page.title }}" /> Loading hidden thumbnail for fb links
     -->
   <div id="plateframe">
-    <a href="{{ page.next_in_category.url }}"><img src="/images/{{ page.image }}.jpg" alt="{{ page.title }}" /></a>
+    <a href="{{ page.next_in_category.url }}"><img {% if page.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ page.image }}.{% if page.extension %}{{page.extension}}{% else %}jpg{% endif %}" alt="{{ page.title }}" /></a>
   </div> <!-- /#plateframe -->
   {% endif %}
 

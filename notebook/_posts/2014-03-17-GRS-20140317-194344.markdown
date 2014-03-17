@@ -2,15 +2,15 @@
 layout: entry
 title: Piazza del Colosseo
 location: Rome, Italy
-date_taken:
+date_taken: February 2014
 camera: Leica M3
 lens: Leitz Summicron 50mm f/2
 image: GRS-20140317-194344
+noborder: noborder
+extension: png
 category: notebook
-excerpt:
+excerpt: A frame from my first developed roll of Tri-X 400.
 tags: [bw, man, ticket, mouth, woman, 60 to 80 years, film, leicam3, 50mm, trix400]
 ---
-
-<img src="/images/GRS-20140317-194344.png" alt="A frame of Tri-x 400." title="A frame from my first developed roll of Tri-X 400.">
 
 Almost. Lets see how this goes. Maybe publish one frame of film a week?
