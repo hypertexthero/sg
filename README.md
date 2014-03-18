@@ -12,11 +12,13 @@ Uses [Jekyll](http://jekyllrb.com/).
 
 ## Deployment of _site folder via rsync to avoid problem of overwriting existing files on server root
 
-  rsync -exclude='.DS_Store' -avzhe ssh ~/Sites/sg.dev/ hth@hth.webfactional.com:webapps/simongriffee/
+  rsync -exclude='.DS_Store' -cavzhe ssh ~/Sites/sg.dev/ hth@hth.webfactional.com:webapps/simongriffee/
 
 …Or use the deploy script (after first making it executable with `chmod +x deploy`):
 
   . deploy
+
+See [this](http://nathangrigg.net/2012/04/rsyncing-jekyll/) regarding Jekyll's mangling of timestamps.
 
 ## Things to do
 
@@ -26,7 +28,7 @@ Uses [Jekyll](http://jekyllrb.com/).
 4. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https) and [redirect](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
 5. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
 6. Compression of sitemap.xml before uploading?
-7. Streamlined command for creating post (use TextExpander?)
+7. Streamlined command for creating post
 
 ## Alternative automatic deployment of stories section with Git
 

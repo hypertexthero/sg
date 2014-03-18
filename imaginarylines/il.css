@@ -1,0 +1,402 @@
+/*
+Imaginary Lines master stylesheet by Simon Griffee
+il.css
+2009-08-30-15:55:43
+*/
+
+* {
+    vertical-align:baseline;
+    font-family:inherit;
+    font-size:100%;
+    outline:0;
+    color:#000;
+    margin:0;
+    padding:0;
+    }
+
+body {
+text-align:center;
+color:#000;
+background:#fff;
+font-family:verdana, helvetica, sans-serif;
+/*word-spacing: 0.1em;*/
+margin:0 0 12em;
+}
+
+p.breadcrumbs {color:#999; position:absolute; top:10px; left:10px; font-size:0.8em !important;}
+p.breadcrumbs a {color:#999;}
+
+p.skip {display:none;}
+/* 
+
+=Links, =Images ------------------------------------------------ 
+
+*/
+a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
+a:link {
+color:#f00;
+padding-bottom:0;
+}
+a:visited {
+color:#609; 
+padding-bottom:0;
+}
+a:hover {
+text-decoration:none;
+outline:none;
+}
+a:active {color:#f00; outline:none;}
+
+img {border:0; border-style:none; text-decoration:none;}
+a:link img, a:visited img {border:0; border-style:none; text-decoration:none; border-bottom:none;}
+
+a.imglink:link, a.imglink:visited {border: none;}
+/* Trying to stop IE form putting a border under linked images. Unsuccessful so far. Update: Had to assign a class to links: http://www.webmasterworld.com/forum83/2276.htm */
+
+h1 a:link, h1 a:visited {text-decoration:none;}
+
+/* =Layout ------------------------------------------------ */
+
+#page {
+width:800px;
+text-align:left;
+margin:29px auto 4em;
+}
+
+#header {
+    text-align:center;
+    background:transparent url(../../images/imaginarylines/imaginary-lines-masthead.gif) no-repeat 110px 0;
+/*    outline:2px solid #c00;*/
+    height:374px;
+    width:800px;
+    position:relative;
+    }
+
+#content {
+margin:0 167px 0;
+}
+
+/*  =logo ---------------- */
+
+p#logo a {
+        clear:both;
+		display:block;
+		width:153px;
+		height:21px;
+		background:transparent url(../../images/imaginarylines/imaginary-lines-logo.gif) no-repeat 0 0;
+		text-indent:-2000em; /* Hide the text/link off-screen while keeping it in the document so you can see it in mobile devices and older browsers. */
+		text-align:left;
+        position:absolute;
+        top:263px;
+        right:169px;
+		}
+p#logo a:hover {background-position:0 -21px;}
+body#about p#logo a, body#archive p#logo a, body#contact p#logo a, body#search p#logo a, body#copyright p#logo a {margin-bottom:3em;}
+
+ul#navigation {list-style:none !important; position:absolute; top:67px; right:70px; color:#666; font-family:verdana, helvetica, sans-serif;}
+ul#navigation li {font-size:13px !important; text-align:left; line-height:18px !important;}
+ul#navigation li a:link, ul#navigation li a:visited {color:#666; text-decoration:none;}
+ul#navigation li a:hover, ul#navigation li a:active {color:#f00;}
+
+div#adspot img {margin:3em 0 0.4em;}
+div#adspot p {color:#333; font-size:11px;}
+div#sidebar h3 {margin:3em 0 0.5em; text-align:right; padding-left:30px;}
+
+ul.wet_recent_comments {list-style:none; padding-left:30px; text-align:right;}
+ul.wet_recent_comments li {font-size:0.9em;}
+ul.wet_recent_comments li p {font-size:inherit; line-height:inherit;}
+#sidebar a:link, #sidebar a:visited {text-decoration:none;}
+#sidebar a:hover, #sidebar a:active {text-decoration:underline;}
+
+body#home a.nav-home,
+body#archive a.nav-archive,
+body#about a.nav-about,
+body#advertising a.nav-advertising, 
+body#contact a.nav-contact {color:#f00 !important;}
+
+#footer {
+padding:1em 0 0;
+margin:2em auto;
+text-align:center;
+color:#333;
+border-top:double #eee;
+}
+#footer p {font-size:10px;color:#666; word-spacing:normal !important;}
+#footer p a {color:#666;}
+
+div.datemeta {
+    margin-left:-167px;
+    width:147px;
+/*    padding-right:20px;*/
+    float:left;
+    clear:right;
+    text-align:right;
+    font-family:helvetica, sans-serif;
+    color:#666;
+    }
+div.datemeta a:link, div.datemeta a:visited {color:#666; text-decoration:none;}
+div.datemeta a:hover, div.datemeta a:active {color:#f00;}
+p.meta {
+    font-size:12px;
+    line-height:18px;
+    color:#666;
+    }
+p.meta span {font-size:11px;}
+p.meta em {font-family:"Zapf Dingbats", "Apple Symbols", "Arial Unicode MS", sans-serif; font-size:11px; line-height:0;}
+p.date, p.date-search {color:#666; margin-bottom:0;}
+    
+img.lead {margin:0.4em 0 1.5em -10%; display:block;}
+
+h1 {
+	font-family:helvetica, sans-serif;
+	margin:0 0 0.25em; 
+	font-weight:bold;
+	color:#000;
+	font-size:1em; line-height:1.325em;
+	}
+
+div#content h1 a:link, div#content h1 a:visited {color:#000; text-decoration:none !important; font-weight:bold;}
+div#content h1 a:hover, div#content h1 a:active {color:#f00; margin-top:0 !important;}
+
+h2 {
+    font-size:1em; line-height:1.325em;
+	font-family:helvetica, sans-serif;
+	margin:1.5em 0 0.25em;
+	font-weight:bold;
+	color:#000;
+	}
+body#search h2 {margin-top:0;}
+h2#comments {margin-top:3em;}
+h3 {
+	font-size:0.9em; 
+	line-height:1.1em;
+	font-weight:bold;
+	margin:1.7em 0 0.5em;
+	color:#000;
+	}
+h3#commentator {font-family:helvetica, sans-serif; margin-bottom:0 !important;}
+h4 {
+	font-size:1em;
+	font-weight:normal;
+	font-style:italic;
+	margin:1.7em 0 0.5em;
+	}
+
+h5 {
+	font-size:0.85em;
+	text-transform:uppercase;
+	margin:1.7em 0 0.5em;
+	}
+
+h6 {
+	font-size:0.8em;
+	text-transform:uppercase;
+	font-style:italic;
+	margin:1.7em 0 0.5em;
+	}
+
+/****************************************************************************
+=Paragraphs, =Misc
+****************************************************************************/
+
+p {margin-bottom:1.4em;font-size:12px; line-height:18px; word-spacing:0.125em;}
+li {font-size:12px; line-height:18px;}
+
+body#search p.date {text-align:left;}
+p.feeds {padding-top:3em;}
+p.end {font-size:0.9em; margin:0 0 9em; color:#ccc;}
+body#article p.end {margin-bottom:2em !important;}
+p.caption {font-size:0.9em; margin:0.2em 0 1.8em !important; font-style:italic; max-width:500px;}
+p.entry-summary {margin-bottom:3em;}
+body#blog p.end {margin-bottom:3em;}
+p.smallprint, p.footnote {font-size:0.85em; letter-spacing:0.055em;}
+span.caps, strong.caps {font-size:0.95em;}
+.current {font-style:italic; border-left:8px solid #ddd; padding-left:5px;}
+li.current a {color:#000 !important;}
+.clear {clear:both;}
+.floatleft {float:left; margin:1em 2.5em 1.5em 0;}
+.floatright {float:right; margin:1em 0 1.5em 2.5em;}
+
+hr {
+	height:1px;
+	background:#000;
+	margin:12px auto 12px;
+	border:none 0; 
+	border-top:1px solid #000;
+	display:block;
+	}
+* html body hr {height:0; background:none; margin-top:-10px;}
+blockquote {margin:1em 0; padding-left:1em; border-left:1px solid #ccc;}
+pre {
+	font-family:monospace;
+	font-size:1em;
+	line-height:1.5em;
+	background:#eee;
+	padding:10px;
+	}
+em, i, cite {font-style:italic;}
+strong, b {font-weight:bold;}
+del {font-style:line-through;}
+ins {background:#ffc; text-decoration:none; border-bottom:1px dashed;}
+kbd {background:#ff9;}
+acronym, cite {border-bottom:1px dashed #999;}
+address {margin:1.5em 0; font-style:italic;}
+
+.small, .smallpermlink {font-size:0.85em !important; text-decoration:none;}
+.smallpermlink {margin:0 0 6em;}
+.info {font-size:0.6px;}
+
+
+
+body#archive #content p {margin-top:0; margin-bottom:0.25em;}
+body#archive #content p em {
+	font-size:0.75em !important; line-height:1em;
+	}
+
+
+/****************************************************************************
+=Lists
+****************************************************************************/
+ul {
+	list-style:disc inside;
+	}
+ul.left {float:left;}
+ul.right {float:right;}
+dl {
+	font-size:1em;
+	line-height:1.4em; 
+	}
+/*li, dd {font-size:1.1em; line-height:1.4em;}*/
+/*ul ul, ol ol {
+    margin-left: 1.5em;
+}*/
+ul, dl, ol {
+	margin: 0 0 1.4em 0.20em;
+}
+ol {
+	font-size:inherit;
+	list-style:decimal inside;
+	}
+
+/****************************************************************************
+=Forms
+****************************************************************************/
+body#contact textarea {width:90%;}
+input, textarea {padding:1px; background:#fff; margin:0 0 1em;}
+textarea {height:10em; margin-bottom:1em;}
+label, form#search input {color:#666; font-size:12px; line-height:18px; font-family:helvetica, sans-serif; color:#666;}
+form#search input {padding:3px; color:#000;}
+label span {font-size:10px;}
+div.button input {width:auto; padding:10px;}
+input.button, input.zemSubmit {text-transform:capitalize; font-size:0.8em; line-height:1.2em; font-family:helvetica, sans-serif; padding:0.75em;}
+input.searchbutton {text-transform:capitalize; margin:2px 0;}
+input.searchinput {margin-bottom:2px;}
+/*span.checkbox label {font-size:1em;}*/
+input.checkbox {margin:1em 0 0; background:#eee;}
+input#txpCommentSubmit, input#txpCommentPreview {padding:5px 15px; background:#36c; color:white; margin:0.5em 0;}
+input#txpCommentSubmit {font-weight:bold; font-style:italic;}
+input#txpCommentSubmit.disabled {padding:5px 15px; background:#ccc; color:white;}
+fieldset {padding:1em; border:1px solid #ddd;}
+/*div.comment.even.author {background:transparent url(/images/jimmyboss-avatar.gif) no-repeat top right !important;}
+div.comment.odd.author {background:#ececec url(/images/jimmyboss-avatar.gif) no-repeat top right !important;}*/
+/****************************************************************************
+=Comments
+****************************************************************************/
+div.commentform {margin:1.5em 0; padding:0 1.5em; border-top:1px solid #ddd; border-bottom:1px solid #ddd;}
+div.comments-wrapper {margin-left:1.5em;}
+div.comment {padding:15px; margin:1.5em auto;}
+div#commentpreviewnote {color:#36c;}
+div#commentpreviewnote em strong {background:#36c; color:#fff; padding:5px; font-weight:normal; font-size:0.8em; line-height:0;}
+div#cpreview {
+border:dashed 1px #03c;
+margin:1em 0; 
+padding:1em 1.5em 1.5em;
+}
+ul.comments_error {color:#f00;}
+ul.zemError {list-style:none;}
+div#cpreview h3 {margin-left:1em;}
+form#txpCommentInputForm {margin:3em 0; padding:0 0 1em; border-top:double #eee; border-bottom:double #eee;}
+#cpreview div.comment {padding:0.2em 1em;}
+div.odd {background:#ececec;} /* 'even' and 'odd' are default classes assigned by the <txp:ajw_comment_alt /> tag of the ajw_comment_alt plugin to alternate the background of comments. */
+div.even {background:transparent;}
+/*div.comment.even span.comment-no a {color:#333 !important;}*/
+/*div.comment span.comment-no a:hover, div.comment span.comment-no a:active {color:#333 !important;}*/
+p.comment_meta {color:#333;}
+div.comment p.comment_meta span.comment-no a {font-size:2em; float:left; padding:0 1em 0 0; border:none;}
+/****************************************************************************
+=Tables
+****************************************************************************/
+table {
+	width:auto;
+	padding:0;
+	margin:0;
+	}
+	table caption {
+		padding:0 0 5px 0;
+		width:auto;	 
+		font-style:italic;
+		text-align:right;
+		}
+	table th {
+		font:bold 11px helvetica, sans-serif;
+		color:#000;
+		border-right:1px solid #ccc;
+		border-bottom:1px solid #ccc;
+		border-top:1px solid #ccc;
+		letter-spacing:2px;
+		text-transform:uppercase;
+		text-align:left;
+		padding:6px 6px 6px 12px;
+		background:#eee; /*url(images/bg_tableHeader.jpg) no-repeat*/
+		}
+	table th.nobg {
+		border-top:0;
+		border-left:0;
+		border-right:1px solid #ccc;
+		background:none;
+		}
+	table td {
+		border-right:1px solid #ccc;
+		border-bottom:1px solid #ccc;
+		background:#fff;
+		padding:6px 6px 6px 12px;
+		}
+	table td.alt {
+		background:#F5FAFA;
+		}
+	table th.vert {
+		border-left:1px solid #ccc;
+		border-top:0;
+		background:#fff;
+		font:bold 10px helvetica, sans-serif;
+		}
+	table th.vertalt {
+		border-left:1px solid #ccc;
+		border-top:0;
+		background:#f5fafa;
+		font:bold 10px helvetica, sans-serif;
+		}
+		
+/* =Lightbox --------------------------------------------- 
+Thanks: http://www.huddletogether.com/projects/lightbox/ 
+*/
+
+#lightbox {
+	background-color:#eee;
+	padding: 10px;
+	}
+#lightboxDetails {
+	font-size: 0.8em;
+	padding-top: 0.4em;
+	}	
+#lightboxCaption {float:left; font-size:1.3em;}
+#keyboardMsg {float:right; font-size:1.1em;}
+
+#lightbox img {border:none;} 
+#overlay img {border:none; position:absolute; z-index:500;}
+
+#overlay {background-image:url(http://simongriffee.com/css/images/imaginarylines/overlay.png);}
+
+* html #overlay {
+	background:transparent url(http://simongriffee.com/css/images/imaginarylines/overlay_ie.gif) repeat 0 0;
+	}
