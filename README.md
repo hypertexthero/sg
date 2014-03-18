@@ -18,17 +18,18 @@ Uses [Jekyll](http://jekyllrb.com/).
 
   . deploy
 
-See [this](http://nathangrigg.net/2012/04/rsyncing-jekyll/) regarding Jekyll's mangling of timestamps.
+See [this](http://www.miskatonic.org/2014/01/09/jekyll/) and [this](http://nathangrigg.net/2012/04/rsyncing-jekyll/) regarding Jekyll's mangling of timestamps
 
 ## Things to do
 
 1. Refactor stories CSS into main stylesheet
-2. Setup [Git deployment with detached work tree and post-commit hook](http://www.insitedesignlab.com/deploying-your-website/) — see below 
-3. Setup [bittorrent sync](https://community.webfaction.com/questions/15145/how-to-setup-bittorrent-sync-on-webfaction) or [git-annex](http://git-annex.branchable.com/forum/first-time_setup_git-annex/)? for deployment of entire site or of images folder?
-4. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https) and [redirect](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
-5. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
-6. Compression of sitemap.xml before uploading?
-7. Streamlined command for creating post
+2. Setup make file deployment to preserve timestamps using [this technique](http://www.miskatonic.org/2014/01/09/jekyll/)?
+3. Setup [Git deployment with detached work tree and post-commit hook](http://www.insitedesignlab.com/deploying-your-website/) — see below 
+4. Setup [bittorrent sync](https://community.webfaction.com/questions/15145/how-to-setup-bittorrent-sync-on-webfaction) or [git-annex](http://git-annex.branchable.com/forum/first-time_setup_git-annex/)? for deployment of entire site or of images folder?
+5. [HTTPS](https://docs.webfaction.com/user-guide/websites.html#secure-sites-https) and [redirect](https://docs.webfaction.com/software/static.html#static-redirecting-from-http-to-https)
+6. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
+7. Compression of sitemap.xml before uploading?
+8. Streamlined command for creating post
 
 ## Alternative automatic deployment of stories section with Git
 
