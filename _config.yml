@@ -11,3 +11,4 @@ author_name: Simon Griffee
 author_email: simon@simongriffee.com
 exclude: 
 - deploy
+- README.md
