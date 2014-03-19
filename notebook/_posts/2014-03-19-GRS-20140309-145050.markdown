@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Piazza Celimontana
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140309-145050
+category: notebook
+excerpt:
+tags: [bw, boy, cap, baseball cap, hat, 8 to 13 years, walk, strange, motorcycle, bike, noon]
+---
