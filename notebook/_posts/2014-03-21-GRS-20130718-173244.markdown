@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via di San Gregorio
+location: Rome, Italy
+date_taken: July 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20130718-173244
+category: notebook
+date: 2014-03-21 23:59:45
+excerpt:
+tags: [color, girl, boy, bra, cleavage, wallet, storage, roma, dress, summer, 20 to 30 years, spring]
+---
