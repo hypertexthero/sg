@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Via di San Marcello
+location: Rome, Italy
+date_taken: March 2014
+camera: Fuji X100s
+lens: Fujinon Aspherical Lens f/2
+image: GRS-20140315-173631
+category: notebook
+excerpt:
+tags: [color, flower, men, 30 to 50 years, walking, window, leather jacket]
+---
