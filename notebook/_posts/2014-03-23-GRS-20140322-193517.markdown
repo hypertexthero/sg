@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Piazza di San Calisto
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140322-193517
+date: 2014-03-23 23:09:00
+category: notebook
+excerpt:
+tags: [bw, priest, cross, men, 20 to 70 years, religion, catholic, night, flash, expression]
+---

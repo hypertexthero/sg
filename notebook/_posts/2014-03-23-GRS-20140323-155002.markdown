@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via dei Fori Imperiali
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140323-155002
+date: 2014-03-23 22:13:00
+category: notebook
+excerpt:
+tags: [bw, woman, blanket, thermal, runner, marathon, 20 to 35 years, bandana, sweat]
+---
