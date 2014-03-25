@@ -30,6 +30,7 @@ See [this](http://www.miskatonic.org/2014/01/09/jekyll/) and [this](http://natha
 6. [Search via JavaScript](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/)? Currently using Duck Duck Go.
 7. Compression of sitemap.xml before uploading?
 8. Streamlined command for creating post
+9. Refactor stories section [like this](http://www.stevenkasher.com/exhibition/103/#!3695)
 
 ## Alternative automatic deployment of stories section with Git
 
