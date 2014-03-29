@@ -1,0 +1,15 @@
+--- 
+layout: entry
+title: Via di San Gregorio
+location: Rome, Italy
+date_taken: March 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140327-173937
+date: 2014-03-30 00:00:52
+category: notebook
+excerpt:
+tags: [bw, carabinieri, men, 20 to 45 years, police, armed, roadblock, security, obama]
+---
+
+Outtake from new story: [Obama in Rome](/stories/obama-in-rome).
