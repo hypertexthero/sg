@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Viale Aventino
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140328-092102
+date: 2014-03-30 22:48:00
+category: notebook
+excerpt:
+tags: [color, woman, 60 to 80 years, hair, green, orange, sunglasses, bus stop, mouth]
+---
