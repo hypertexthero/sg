@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via della Lungaretta
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140322-202715
+date: 2014-03-31 23:18:00
+category: notebook
+excerpt:
+tags: [bw, flash, boys, men, 10 to 15 years, 30 to 60 years, haircut, unibrow, expression, night, kids, adults]
+---
