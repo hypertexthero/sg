@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Piazza della Rotonda
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140323-170447
+date: 2014-04-02 23:03:00
+category: notebook
+excerpt:
+tags: [bw, women, 40 to 60 years, bags, shopping bags, expression, trenchcoat, coat, pillar]
+---
