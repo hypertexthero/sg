@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: FAO
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140319-093711
+date: 2014-04-08 22:38:00
+category: notebook
+excerpt:
+tags: [bw, boys, suits, 17 to 23 years, entrance, glass doors, ambition, suit, determination, anger]
+---
