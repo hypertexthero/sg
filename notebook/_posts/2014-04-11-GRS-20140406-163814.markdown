@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via dei Fori Imperiali
+location: Rome, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140406-163814
+date: 2014-04-11 22:34:00
+category: notebook
+excerpt:
+tags: [30 to 45 years, band, brass, bw, men, military, music, musical, notes, trombone, trumpet]
+---
