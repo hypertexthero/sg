@@ -1,0 +1,15 @@
+--- 
+layout: entry
+title: FAO
+location: Rome, Italy
+date_taken: April 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140417-122626
+date: 2014-04-18 22:30:54
+category: notebook
+excerpt:
+tags: [20 to 50 years, advert, bw, doppelganger, fototessera, man, mechanic, passage, Photo Booth, technician, time]
+---
+
+The FAO doppelgänger machine.
