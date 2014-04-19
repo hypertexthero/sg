@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via di San Gregorio
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140319-112825
+date: 2014-04-19 15:33:50
+category: notebook
+excerpt:
+tags: [25 to 60 years, bus, bw, street sellers, tour, tourists]
+---
