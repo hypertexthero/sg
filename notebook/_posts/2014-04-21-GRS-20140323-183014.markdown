@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Campidoglio
+location: Rome, Italy
+date_taken: March 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140323-183014
+date: 2014-04-21 22:46:48
+category: notebook
+excerpt:
+tags: [40 to 60 years, bw, coat, corinthian column, flash, hat, legend, lupa capitolina, night, pillar, remus, roman wolf, romulus, she-wolf, shewolf, spqr, wolfman, woman, worry]
+---
