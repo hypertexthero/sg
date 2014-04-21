@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Mãe
+location: Formello, Italy
+date_taken: December 2013
+camera: Leica M3
+lens: Leitz Summicron 50mm f/2
+image: GRS-20131207-145917
+date: 2014-04-21 12:07:42
+category: notebook
+excerpt:
+tags: [film, color, leica m3, fuji, iso200, mãe, mom, odila, fire, kindling, fireplace, glove, expression, wood, hand]
+---
