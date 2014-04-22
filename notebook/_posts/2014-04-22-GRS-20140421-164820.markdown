@@ -1,0 +1,15 @@
+--- 
+layout: entry
+title: Largo Chigi
+location: Rome, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140421-164820
+date: 2014-04-22 21:56:40
+category: notebook
+excerpt:
+tags: [5 to 70 years, bw, close, family, grimace, street, walk]
+---
+
+Homage to B. Gilden's bent mouth family.
