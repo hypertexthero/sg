@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Viale della Trinità dei Monti
+location: Rome, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140421-161823
+date: 2014-04-23 23:03:39
+category: notebook
+excerpt:
+tags: [14 to 18 years, boys, bw, car, gang, hand, hoodie, madonna, necklace, punks, scissors, shirt]
+---
