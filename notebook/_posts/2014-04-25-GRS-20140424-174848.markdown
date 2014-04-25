@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via di San Giovanni in Laterano
+location: Rome, Italy
+date_taken: April 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140424-174848
+date: 2014-04-25 23:08:52
+category: notebook
+excerpt:
+tags: [20 to 35 years, bw, catholic, chain, cobblestones, cross, expression, headscarf, nuns, ring, sunlight, trees, women]
+---
