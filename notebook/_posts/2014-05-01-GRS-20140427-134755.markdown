@@ -1,0 +1,15 @@
+--- 
+layout: entry
+title: Via della Conciliazione
+location: Rome, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140427-134755
+date: 2014-05-02 00:31:15
+category: notebook
+excerpt:
+tags: [25 to 50 years, black, catholic, cloud, dome, garbage, groups, john paul II, john XXIII, man, newspaper, people, religion, sanctification, sky, st. peter's basilica]
+---
+
+From my [JPII & JXXIII Sanctification](/stories/jpii-jxxiii-sanctification "Many confused people.") story.
