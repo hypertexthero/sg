@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via del Corso
+location: Rome, Italy
+date_taken: April 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140416-192218
+date: 2014-05-03 14:10:51
+category: notebook
+excerpt:
+tags: [16 to 25 years, bag, bw, flash, gesture, girl, goth, hair, leggings, pattern, street]
+---
