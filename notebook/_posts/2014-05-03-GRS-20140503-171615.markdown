@@ -1,0 +1,21 @@
+--- 
+layout: entry
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: May 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140503-171615
+date: 2014-05-03 19:25:04
+category: notebook
+excerpt:
+tags: [20 to 40 years, bw, costumes, emperor, empire, evil, facism, force, guards, may the 4th be with you, men, ratzinger, security, star wars, storm trooper]
+---
+
+[Joseph Ratzinger][pope] makes a surprise visit to the Colosseum with a considerable entourage one day prior to the [Empire's][vatican] May 4th [celebrations][may4].
+
+[pope]: http://archive.today/L9auY "Pope Benedict XVI"
+
+[vatican]: http://vatican.va "La Santa Sede"
+
+[may4]: http://leganerd.com/2014/04/30/roma-star-wars-day/ "May the 4th be with you"
