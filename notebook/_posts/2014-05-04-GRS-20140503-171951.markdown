@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: May 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140503-171951
+date: 2014-05-04 22:59:29
+category: notebook
+excerpt:
+tags: [20 to 30 years, bw, contact lenses, costume, eyes, force, gesture, hand, jedi, man, reach, robe]
+---
