@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle Pascual Márquez, Feria de Sevilla
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140507-000445
+date: 2014-05-15 00:37:43
+category: notebook
+excerpt:
+tags: [16 to 25 years, aggression, boys, bw, expression, feria, flash, lamps, mouth, night, pair, suit, tie, machismo]
+---
