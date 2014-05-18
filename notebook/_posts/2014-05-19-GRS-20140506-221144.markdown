@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle Pascual Márquez, Feria di Sevilla
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140506-221144
+date: 2014-05-19 00:17:42
+category: notebook
+excerpt:
+tags: [20 to 30 years, bw, dress, expression, feria dress, flash, flower, hair, mobile phone, night, woman]
+---
