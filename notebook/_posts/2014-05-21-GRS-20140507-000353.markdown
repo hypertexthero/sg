@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle Pascual Márquez
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140507-000353
+date: 2014-05-21 23:24:34
+category: notebook
+excerpt:
+tags: [60 to 80 years, conversation, expression, flash, gangsters, glasses, men, night, shirt, suit, tie, boss]
+---

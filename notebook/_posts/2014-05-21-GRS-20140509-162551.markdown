@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Plaza de la Encarnación
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140509-162551
+date: 2014-05-21 23:25:22
+category: notebook
+excerpt:
+tags: [60 to 90 years, architecture, bowtime, bw, man, parasol, Plaza de la Encarnación]
+---
