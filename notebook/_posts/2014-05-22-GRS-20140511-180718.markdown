@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle Mateos Gago
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140511-180718
+date: 2014-05-22 21:40:44
+category: notebook
+excerpt:
+tags: [20 to 40 years, beer, blackboard, bw, cloud, expression, man, vapor, waiter, water]
+---

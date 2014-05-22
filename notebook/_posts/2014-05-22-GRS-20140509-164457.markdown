@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle Velázquez
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140509-164457
+date: 2014-05-22 21:51:01
+category: notebook
+excerpt:
+tags: [70 to 90 years, belly, belt, bw, eating, man, map, old, stomach]
+---
