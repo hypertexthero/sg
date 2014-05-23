@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Claudia Riding
+location: Near Carmona, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140510-202225
+date: 2014-05-23 23:37:33
+category: notebook
+excerpt:
+tags: [bw, claudia, equestrian, horse, jump, jumping, riders, triage]
+---
