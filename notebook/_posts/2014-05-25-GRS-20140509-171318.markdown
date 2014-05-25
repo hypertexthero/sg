@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle San Acasio
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140509-171318
+date: 2014-05-25 23:21:22
+category: notebook
+excerpt:
+tags: [45 to 65 years, bw, hand, hat, jacket, man, pocket, shades, sombrero, suit, sunglasses, tie, woman]
+---
