@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Carmen Riding
+location: Near Carmona, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140510-203704
+date: 2014-05-26 23:33:58
+category: notebook
+excerpt:
+tags: [20 to 35 years, boy, bw, carmen, fields, girl, horse, peter, riding]
+---
