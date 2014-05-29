@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Calle Antonio el Balarin
+location: Seville, Spain
+date_taken: May 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140511-142204
+date: 2014-05-29 22:51:57
+category: notebook
+excerpt:
+tags: [30 to 40 years, abraham, bird, boom, dove, expression, fear, fright, man, pigeon, plants, sunglasses, whack, wings]
+---
