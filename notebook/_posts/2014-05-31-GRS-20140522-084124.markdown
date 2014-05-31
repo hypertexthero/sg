@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Via di San Gregorio
+location: Rome, Italy
+date_taken: May 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+image: GRS-20140522-084124
+date: 2014-05-31 23:56:10
+category: notebook
+excerpt:
+tags: [30 to 60 years, bicycle, bw, jehova's witnesses, men, religion, stress, walk, women]
+---
