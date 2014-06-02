@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Piazza del Plebiscito
+location: Naples, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+image: GRS-20140430-145153
+date: 2014-06-02 23:30:24
+category: notebook
+excerpt:
+tags: [60 to 80 years, arm in arm, arms, bw, expression, glasses, hand, old men]
+---
