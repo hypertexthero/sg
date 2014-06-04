@@ -1,6 +1,6 @@
 name: Simon Griffee · Photographer
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 permalink: none
 url:
 production_url: http://simongriffee.com

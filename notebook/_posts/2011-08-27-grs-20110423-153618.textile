@@ -1,9 +1,0 @@
---- 
-layout: entry
-title: GRS-20110423-153618
-image: "1286"
-category: story-meyou
-tags: []
-
----
-
