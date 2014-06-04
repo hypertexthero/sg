@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: The Decisive Moment Online
-excerpt: Probably one of the most important books on photography ever published, "The Decisive Moment online":http://e-photobooks.com/cartier-bresson/decisive-moment.html.
+excerpt: Probably one of the most important books on photography ever published.
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
 Probably one of the most important books on photography ever published, "The Decisive Moment online":http://e-photobooks.com/cartier-bresson/decisive-moment.html.

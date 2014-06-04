@@ -8,6 +8,7 @@ tags:
 - grd3
 - grdiii
 - gr digital
+- writing
 ---
 "Ryan":http://pixelgrain.org asked me (paraphrased):
 

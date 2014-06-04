@@ -11,7 +11,7 @@ tags:
 - bw
 - candid
 - men
-- "30\xE2\x80\x9340"
+- "30–40"
 - bags
 - rain
 - raining

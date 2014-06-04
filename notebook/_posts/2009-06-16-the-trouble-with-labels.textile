@@ -2,7 +2,8 @@
 layout: entry
 title: The Trouble With Labels
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 In this case, Chien-Chi Chang's "The Chain":http://www.lensculture.com/chain.html illustrates the trouble with the label _'Buddhism'_:

@@ -1,9 +1,10 @@
 --- 
 layout: entry
 title: Descriptedlines.com
-excerpt: "\"Descriptedlines.com : Fiction, reading notes and ephemera (Beautiful writing.)\":http://descriptedlines.com/."
+excerpt: "Fiction, reading notes and ephemera (Beautiful writing.)"
 category: notebook
-tags: []
-
+tags: 
+- writing
+- web design
 ---
 "Descriptedlines.com : Fiction, reading notes and ephemera (Beautiful writing.)":http://descriptedlines.com/.

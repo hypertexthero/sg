@@ -1,9 +1,11 @@
 --- 
 layout: entry
 title: Ridley Scott's Bladerunner
+excerpt: "Ridley Scott's Bladerunner"
 category: notebook
-tags: []
-
+tags: 
+- writing
+- film
 ---
 The _real_ director's cut of Blade Runner "seems to be here":http://www.wired.com/entertainment/hollywood/magazine/15-10/ff_bladerunner?currentPage=all. I like the portrait of Ridley Scott, by Robert Maxwell:
 

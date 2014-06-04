@@ -5,7 +5,7 @@ image: "279"
 location: Yorkville, California, US
 date_taken: March 2007
 camera: Canon EOS 5D
-lens: "EF 70\xE2\x80\x93200mm f/4 L IS USM"
+lens: "EF 70–200mm f/4 L IS USM"
 category: notebook
 tags: 
 - bw

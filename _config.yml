@@ -4,8 +4,8 @@ pygments: true
 permalink: none
 url:
 production_url: http://simongriffee.com
-paginate: 30
-paginate_path: "thumbs/page:num"
+# paginate: 30
+# paginate_path: "thumbs/page:num"
 destination: ~/Sites/sg.dev
 author_name: Simon Griffee
 author_email: simon@simongriffee.com

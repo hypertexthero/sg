@@ -4,6 +4,7 @@ title: Our Walled World
 excerpt: Our Walled World
 category: imaginarylines
 tags: 
+- writing
 - walled world
 - borders
 - barriers

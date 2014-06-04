@@ -1,10 +1,10 @@
 --- 
 layout: entry
 title: Digital Journalist
-excerpt: I had the pleasure of discovering the "Digital Journalist (Monthly online magazine for visual journalism.)":http://digitaljournalist.org/  through "Behind the Lens (George Barr.)":http://www.georgebarr.blogspot.com/.
+excerpt: Monthly online magazine for visual journalism
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 p(preamble). I had the pleasure of discovering the "Digital Journalist (Monthly online magazine for visual journalism.)":http://digitaljournalist.org/  through "Behind the Lens (George Barr.)":http://www.georgebarr.blogspot.com/. Some highlights I've enjoyed:
 

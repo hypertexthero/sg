@@ -3,7 +3,8 @@ layout: entry
 title: Red Violet Blues
 excerpt: Red Violet Blues
 category: notebook
-tags: []
+tags:
+- writing
 
 ---
 Roman rooftop briefly radiated with white heat, 

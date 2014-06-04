@@ -2,7 +2,8 @@
 layout: entry
 title: Hello, World
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 This -site- project is a spontaneous reaction to real events involving what I call _imaginary lines_, or abstract barriers, either in the physical world or in the human mind. These barriers are not real in the natural world. These are barriers imposed by humans.

@@ -4,6 +4,7 @@ title: Body and Soul
 excerpt: Body and Soul
 category: notebook
 tags: 
+- writing
 - john coltrane
 - body and soul
 - jazz

@@ -4,6 +4,7 @@ title: Sugar Man
 excerpt: Sugar Man
 category: notebook
 tags: 
+- writing
 - sugar man
 - song
 - sixto rodriguez

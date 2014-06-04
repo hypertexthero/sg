@@ -3,7 +3,8 @@ layout: entry
 title: Camerati
 excerpt: Camerati
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Alessandro Sala at Cesuralab":http://www.cesuralab.com/projects.php?p=15&pag=1:

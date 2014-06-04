@@ -12,7 +12,7 @@ tags:
 - street
 - boys
 - girl
-- "10\xE2\x80\x9315"
+- "10–15"
 - afternoon
 - love
 - lost

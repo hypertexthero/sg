@@ -4,6 +4,7 @@ title: "Kenny Burrell: My Favorite Things"
 excerpt: "Kenny Burrell: My Favorite Things"
 category: notebook
 tags: 
+- writing
 - Kenny Burrell
 - My Favorite Things
 - guitar

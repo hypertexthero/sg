@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Packing List July\xE2\x80\x93August 2011"
+title: "Packing List July–August 2011"
 excerpt: Packing List
 category: notebook
 tags: 

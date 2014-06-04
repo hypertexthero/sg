@@ -8,6 +8,7 @@ tags:
 - words
 - steve mccurry
 - sontag
+- writing
 ---
 bq. Susan Sontag said,  "The camera makes everyone a tourist in other people’s reality…" The same can be said for reading books.
 

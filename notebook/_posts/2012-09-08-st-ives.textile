@@ -5,6 +5,7 @@ location: St. Ives, Cornwall, UK
 date_taken:
 category: notebook
 tags: 
+- writing
 - dad
 - letter
 - st. ives

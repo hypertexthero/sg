@@ -12,7 +12,7 @@ tags:
 - shop
 - window
 - man
-- "60\xE2\x80\x9380"
+- "60–80"
 - deer
 - stuffed
 ---

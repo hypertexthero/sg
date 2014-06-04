@@ -1,11 +1,10 @@
 --- 
 layout: entry
 title: Che Guevara Photo
-excerpt: "bq. \"The unchecked proliferation of the picture\xE2\x80\x94based on a <a href=\"http://en.wikipedia.org/wiki/Che_Guevara_(photo)\">photograph by Alberto Korda</a> in 1960\xE2\x80\x94is partly due to a political choice by Korda and others not to demand payment for non-commercial use of the image.\"\r\n\
-  \xE2\x80\x94 \"Stephanie Holmes, BBC News\":http://news.bbc.co.uk/2/hi/americas/7028598.stm"
+excerpt: The unchecked proliferation of the picture—based on a photograph by Alberto Korda in 1960—is partly due to a political choice by Korda and others not to demand payment for non-commercial use of the image.""
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
 !/images/226.jpg (Che Guevara, 1960, by Alberto Korda.)!
 

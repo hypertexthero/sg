@@ -1,10 +1,10 @@
 --- 
 layout: entry
 title: LightZone Wishlist
-excerpt: I've been using and enjoying the Mac OS X version of "LightZone 2.0 (LightCraft.com - LightZone.)":http://www.lightcrafts.com/products/lightzone/ for a month now, and have a list of improvements and suggestions. I plan to keep this list updated.
+excerpt: I've been using and enjoying the Mac OS X version of LightZone 2.0.
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 p(preamble). I've been using and enjoying the Mac OS X version of "LightZone 2.0 (LightCraft.com - LightZone.)":http://www.lightcrafts.com/products/lightzone/ for a month now, and have a list of improvements and suggestions. I plan to keep this list updated.
 

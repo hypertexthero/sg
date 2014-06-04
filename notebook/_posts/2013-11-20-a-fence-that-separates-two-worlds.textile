@@ -4,6 +4,7 @@ title: A Fence That Separates Two Worlds
 excerpt: A Fence That Separates Two Worlds
 category: notebook
 tags: 
+- writing
 - fence
 - imaginary lines
 - separation

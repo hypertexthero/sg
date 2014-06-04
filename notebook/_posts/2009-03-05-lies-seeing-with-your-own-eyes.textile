@@ -2,7 +2,8 @@
 layout: entry
 title: Lies, Seeing With Your Own Eyes
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Good evening. I have come to Jerusalem today as a novelist, which is to say as a professional spinner of lies.

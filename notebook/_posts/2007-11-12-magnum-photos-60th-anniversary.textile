@@ -1,9 +1,10 @@
 --- 
 layout: entry
 title: Magnum Photos 60th Anniversary
-excerpt: 60 years ago Magnum Photos "was founded":http://digitaljournalist.org/issue0706/magnum.html by "George Rodger":http://images.google.com/images?q=George+Rodger&hl=en&safe=off, "Robert Capa":http://images.google.com/images?q=Robert+Capa&hl=en&safe=off, "Henri Cartier-Bresson":http://blog.magnumphotos.com/2007/11/behind_the_image_my_birthday_present_from_henri.html and "David Seymour":http://images.google.com/images?q=David+Seymour&hl=en&safe=off.
+excerpt: 60 years ago Magnum Photos was founded.
 category: notebook
-tags: []
-
+tags:
+- writing
+- magnum photos
 ---
 60 years ago Magnum Photos "was founded":http://digitaljournalist.org/issue0706/magnum.html by "George Rodger":http://images.google.com/images?q=George+Rodger&hl=en&safe=off, "Robert Capa":http://images.google.com/images?q=Robert+Capa&hl=en&safe=off, "Henri Cartier-Bresson":http://blog.magnumphotos.com/2007/11/behind_the_image_my_birthday_present_from_henri.html and "David Seymour":http://images.google.com/images?q=David+Seymour&hl=en&safe=off.

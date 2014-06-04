@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: The Real Toy Story
-excerpt: "\"The real toy story\":http://www.photomichaelwolf.com/the_real_toy_story/index.html."
+excerpt: The real toy story
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 "The real toy story":http://www.photomichaelwolf.com/the_real_toy_story/index.html.

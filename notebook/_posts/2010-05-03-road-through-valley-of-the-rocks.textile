@@ -7,6 +7,6 @@ date_taken: July 2005
 category: story-jtus
 tags: 
 - GRS-20050705-161830
-- "Ts\xC3\xA9 Bii' Ndzisgaii"
+- "Tsé Bii' Ndzisgaii"
 ---
 

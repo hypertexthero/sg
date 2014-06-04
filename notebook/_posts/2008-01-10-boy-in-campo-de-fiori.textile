@@ -18,6 +18,6 @@ tags:
 - surprise
 - girl
 - boy
-- "15\xE2\x80\x9320"
+- "15–20"
 ---
 

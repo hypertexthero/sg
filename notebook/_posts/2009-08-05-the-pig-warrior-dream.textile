@@ -4,10 +4,11 @@ title: The Pig Warrior Dream
 category: notebook
 tags: 
 - pig
-- " warrior"
-- " dream"
-- " kick"
-- " foot"
+- warrior
+- dream
+- kick
+- foot
+- writing
 ---
 I am moving from metal strut to strut in a large structure shaped like a helicopter. Other low-flying Apache war helicopters are flying inside, their rotor blades swung forward, chopping the air, searching for me. I manage to reach the opposite side of the structure and lower myself under a table. "Amber":http://descriptedlines.com is with me. 
 

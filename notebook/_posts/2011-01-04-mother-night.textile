@@ -4,6 +4,7 @@ title: Mother Night
 excerpt: Mother Night
 category: notebook
 tags: 
+- writing
 - mother night
 - vonnegut
 - being

@@ -4,6 +4,7 @@ title: Goodbye, J.J. Cale
 excerpt: Goodbye, J.J. Cale
 category: notebook
 tags: 
+- writing
 - j.j. cale
 - jj cale
 - digital blues

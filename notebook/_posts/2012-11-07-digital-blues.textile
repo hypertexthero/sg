@@ -4,6 +4,7 @@ title: Digital Blues
 excerpt: Digital Blues
 category: notebook
 tags: 
+- writing
 - music
 - blues
 - digital blues

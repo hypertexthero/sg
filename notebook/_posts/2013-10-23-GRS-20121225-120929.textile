@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Apolin\xC3\xA1\xC5\x99sk\xC3\xA1"
+title: "Apoliná\xC5\x99ská"
 image: "1893"
 location: Prague, Czech Republic
 date_taken: December 2012

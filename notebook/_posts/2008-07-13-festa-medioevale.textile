@@ -11,7 +11,7 @@ tags:
 - bw
 - movement
 - woman
-- "40\xE2\x80\x9350"
+- "40–50"
 - music
 - medieval
 - medievale

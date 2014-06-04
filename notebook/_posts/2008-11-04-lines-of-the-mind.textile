@@ -2,7 +2,8 @@
 layout: entry
 title: Lines of the Mind
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Organized religion and the so-called religious are ridiculous":http://news.bbc.co.uk/2/hi/uk_news/7706977.stm. They are much like a "…traveling company of acrobats, trained animals, and clowns that give performances, typically in a large tent, in a series of different places." 

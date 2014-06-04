@@ -12,7 +12,7 @@ tags:
 - children
 - boy
 - girl
-- "3\xE2\x80\x937"
+- "3–7"
 - door
 - trolley
 - step

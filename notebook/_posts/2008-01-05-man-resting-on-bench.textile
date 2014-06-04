@@ -13,7 +13,7 @@ tags:
 - landscape
 - shoes
 - black man
-- "30\xE2\x80\x9350"
+- "30–50"
 - lake
 - mountain
 - cloud

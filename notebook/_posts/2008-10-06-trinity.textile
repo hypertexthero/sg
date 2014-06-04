@@ -2,7 +2,8 @@
 layout: entry
 title: Trinity
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Carl de Keyzer's _Trinity_ (Click on 'Skip movie and enter Carl de Keyzer portfolio', and then on 'Trinity New Book'.)":http://www.carldekeyzer.com/ is excellent: 

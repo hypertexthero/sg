@@ -13,7 +13,7 @@ tags:
 - libero pensiero
 - procession
 - passeio
-- "girl 6\xE2\x80\x9312"
+- "girl 6–12"
 - candle
 - cross
 - pointy hat

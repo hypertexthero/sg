@@ -3,7 +3,8 @@ layout: entry
 title: Light and Shade
 excerpt: Light and Shade
 category: notebook
-tags: []
+tags:
+- writing
 
 ---
 bq. 'If you want my opinion concerning that, I'll tell you that I don't think there is a drama here. And here's why. To my mind, love…the two loves that Plato, remember, defines in his _Symposium_,[25] these two loves serve as a touchstone for people. Some people understand only the one, others the other. And those who understand only non-platonic love shouldn't talk about drama. In such love there can be no drama. "Thank you kindly for the pleasure, with my respects&rdquo;—there's the whole drama. And for platonic love there can be no drama, because in such love everything is clear and pure, because…'

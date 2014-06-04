@@ -1,0 +1,28 @@
+---
+layout: archive_thumbnails
+category: archive
+---
+
+<h1>Notebook Monthly Thumbnail Archives</h1>
+<p>Browse by <a href="/archive/">timeline</a>. Adventurous? Visit a <a href="/random/" title="Let the stars and math choose.">random</a> entry.</p>
+
+<form method="get" id="search" action="http://duckduckgo.com/">
+    <input type="hidden" name="sites" value="simongriffee.com"/>
+    <input type="hidden" name="k8" value="#444444"/>
+    <input type="hidden" name="k9" value="#D51920"/>
+    <input type="hidden" name="kt" value="h"/>
+    <input type="text" name="q" maxlength="255" placeholder="Search&hellip;"/>
+    <input type="submit" value="Search" />
+</form>
+
+<dl id="timelinelist">
+{% for post in site.posts %}
+  {% if post.category != 'unlisted' %}
+    {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+    {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+        {% if month != nmonth %}
+            <dt><a href="/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/">{{ post.date | date: '%B %Y' }}</a></dt>
+        {% endif %}
+  {% endif %}
+{% endfor %}
+</dl>

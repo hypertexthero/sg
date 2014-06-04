@@ -3,7 +3,7 @@ layout: entry
 title: Birthday Boy
 excerpt: A sepia photograph of dad.
 category: notebook
-tags: []
+tags: [writing,dad]
 
 ---
  <img src="/images/dad.jpg" width="412" height="492" alt="A sepia photograph of dad." />

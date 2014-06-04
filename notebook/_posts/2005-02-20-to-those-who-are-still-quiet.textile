@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: To Those Who Are Still Quiet
-excerpt: "<a href=\"http://www.freecamilo.org/words.htm#humanity\" title=\"Regaining My Humanity by Camilo Mej\xC3\xADa.\">\"I realized that I was part of a war that I believed was immoral and criminal, a war of aggression, a war of imperial domination.\"</a>  --Camilo Mej\xC3\xADa."
+excerpt: "I realized that I was part of a war that I believed was immoral and criminal, a war of aggression, a war of imperial domination."
 category: notebook
-tags: []
+tags: [writing]
 
 ---
 p(preamble). <a href="http://www.freecamilo.org/words.htm#humanity" title="Regaining My Humanity by Camilo Mejía.">"I realized that I was part of a war that I believed was immoral and criminal, a war of aggression, a war of imperial domination."</a>  --Camilo Mejía.

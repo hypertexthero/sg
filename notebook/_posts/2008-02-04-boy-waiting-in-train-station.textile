@@ -15,6 +15,6 @@ tags:
 - look
 - station
 - platform
-- "boy 14\xE2\x80\x9320"
+- "boy 14–20"
 ---
 

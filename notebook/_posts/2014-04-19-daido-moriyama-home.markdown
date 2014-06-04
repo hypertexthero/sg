@@ -8,6 +8,7 @@ tags:
 - daido moriyama
 - home
 - photography
+- writing
 ---
 
 Daido Moriyama in ‘[In Pictures](https://www.youtube.com/watch?v=foWAs3V_lkg)’:

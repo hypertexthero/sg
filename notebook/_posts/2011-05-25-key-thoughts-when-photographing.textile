@@ -6,5 +6,6 @@ category: notebook
 tags: 
 - thoughts
 - photographing
+- writing
 ---
 <blockquote><a href="http://www.luminous-landscape.com/columns/sm-07-07.shtml">"Never clever, the name of the game is to fill the frame, spend the time and you'll get results."</a></blockquote>

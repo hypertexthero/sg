@@ -4,6 +4,7 @@ title: "Josef Koudelka: Formed by the World"
 excerpt: "Josef Koudelka: Formed by the World"
 category: imaginarylines
 tags: 
+- writing
 - Josef Koudelka
 - world
 - photography

@@ -1,9 +1,10 @@
 --- 
 layout: entry
-title: "Answers &amp; Nominations: \xE2\x80\x98The Next Big Thing\xE2\x80\x99"
-excerpt: "A week ago, \"Miss Alashiya Gordes\":http://starkholborn.com/2012/12/12/next-big-thing-part-ii/ slapped a label that said \xE2\x80\x98The Next Big Thing\xE2\x80\x99 on me, which means answers to ten questions and tag-slapping up to five authors to do the same the following Wednesday. One, two, go: "
+title: "Answers &amp; Nominations: ‘The Next Big Thing’"
+excerpt: "A week ago, Miss Alashiya Gordes slapped a label that said 'The Next Big Thing' on me, which means answers to ten questions and tag-slapping up to five authors to do the same the following Wednesday."
 category: notebook
 tags: 
+- writing
 - the next big thing
 - photography
 - philosophy

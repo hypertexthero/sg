@@ -10,7 +10,7 @@ category: notebook
 tags: 
 - bw
 - man
-- "60\xE2\x80\x9380"
+- "60–80"
 - st. peter's
 - square
 - vatican

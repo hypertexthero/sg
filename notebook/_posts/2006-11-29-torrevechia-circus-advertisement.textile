@@ -5,7 +5,7 @@ image: "23"
 location: Rome, Italy
 date_taken: May 2003
 camera: Canon PowerShot G2
-lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+lens: "Canon 34–102mm f/2.0–2.5 Zoom Lens"
 category: notebook
 tags: 
 - Rome

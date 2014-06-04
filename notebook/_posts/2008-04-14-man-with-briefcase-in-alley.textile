@@ -11,7 +11,7 @@ tags:
 - bw
 - street
 - man
-- "30\xE2\x80\x9350"
+- "30–50"
 - alleyway
 - candid
 - sunlight

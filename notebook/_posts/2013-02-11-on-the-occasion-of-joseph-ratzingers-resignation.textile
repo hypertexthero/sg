@@ -4,6 +4,7 @@ title: On the Occasion of Joseph Ratzinger's Resignation
 excerpt: On the Occasion of Joseph Ratzinger's Resignation
 category: notebook
 tags: 
+- writing
 - Pope Benedict XVI
 - resignation
 - jiddu krishnamurti

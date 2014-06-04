@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Aqui Agora
-excerpt: "Esta voc\xC3\xAA vai gostar Betti\xE2\x80\xA6"
+excerpt: "Esta você vai gostar Betti…"
 category: notebook
-tags: []
+tags: [writing]
 
 ---
 p(preamble). <a href="http://www.tvmemoria.hpg.ig.com.br/aqui_agora.htm" title="Memórias do programa que revolucionou o telejornalismo no Brasil.">Esta você vai gostar Betti…</a>

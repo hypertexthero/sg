@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Auto-retrato Com Minha M\xC3\xA3e"
+title: "Auto-retrato Com Minha Mãe"
 image: "254"
 location: Rome, Italy
 date_taken: October 2007
@@ -15,7 +15,7 @@ tags:
 - window
 - reflection
 - campo di fiore
-- "m\xC3\xA3e"
+- "mãe"
 - odila augusta mozzato griffee
 ---
 

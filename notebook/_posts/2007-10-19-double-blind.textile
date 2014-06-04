@@ -1,9 +1,10 @@
 --- 
 layout: entry
 title: Double Blind
-excerpt: "I saw Paolo Pellegrin's _Double Blind: Lebanon Conflict 2006_ exhibition in Rome last month. Moving \"images of war and its results\":http://digitaljournalist.org/issue0710/double_blind_intro.html."
+excerpt: "I saw Paolo Pellegrin's Double Blind exhibition in Rome last month."
 category: notebook
-tags: []
-
+tags: 
+- writing
+- photographer
 ---
 I saw Paolo Pellegrin's _Double Blind: Lebanon Conflict 2006_ exhibition in Rome last month. Moving "images of war and its results":http://digitaljournalist.org/issue0710/double_blind_intro.html.

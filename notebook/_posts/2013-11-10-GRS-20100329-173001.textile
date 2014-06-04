@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "L\xC3\xAA Th\xC3\xA1nh T\xC3\xB4n"
+title: "Lê Thánh T\xC3\xB4n"
 image: "1911"
 location: Saigon, Vietnam
 date_taken: March 2010

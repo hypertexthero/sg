@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "M\xC3\xA3e &amp; Dad"
+title: "Mãe &amp; Dad"
 image: "607"
 location: Bracciano, Italy
 date_taken: 13 February 2010
@@ -9,7 +9,7 @@ lens: GR Lens f/1.9 28mm-e
 category: notebook
 tags: 
 - bw
-- "m\xC3\xA3e"
+- "mãe"
 - dad
 - vagone
 - restaurant

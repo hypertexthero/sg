@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Lightstalkers
-excerpt: "\"Lightstalkers is a network of unconventional travelers\":http://www.lightstalkers.org/about/manifesto."
+excerpt: "Lightstalkers is a network of unconventional travelers"
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 "Lightstalkers is a network of unconventional travelers":http://www.lightstalkers.org/about/manifesto.

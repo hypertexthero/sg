@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Free Bilal Hussein
-excerpt: "\"Free Bilal Hussein\":http://www.freebilal.org/."
+excerpt: Free Bilal Hussein
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 "Free Bilal Hussein":http://www.freebilal.org/.

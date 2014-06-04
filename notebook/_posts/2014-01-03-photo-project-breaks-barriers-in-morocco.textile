@@ -3,7 +3,9 @@ layout: entry
 title: Photo Project Breaks Barriers in Morocco
 excerpt: Photo Project Breaks Barriers in Morocco
 category: imaginarylines
-tags: []
+tags:
+- writing
+- borders
 
 ---
 Nicolai Hartvig:

@@ -2,7 +2,8 @@
 layout: entry
 title: Social Control Through Fear
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Government plans travel database":http://news.bbc.co.uk/2/hi/uk_news/7877182.stm:

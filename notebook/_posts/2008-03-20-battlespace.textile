@@ -1,13 +1,10 @@
 --- 
 layout: entry
 title: Battlespace
-excerpt: |
-  "Photographs from Iraq and Afghanistan":http://www.battlespaceonline.org/.
-  
-
+excerpt: Photographs from Iraq and Afghanistan
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
 "Photographs from Iraq and Afghanistan":http://www.battlespaceonline.org/.
 

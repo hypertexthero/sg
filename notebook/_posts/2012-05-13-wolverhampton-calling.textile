@@ -3,6 +3,7 @@ layout: entry
 title: Wolverhampton Calling
 category: notebook
 tags: 
+- writing
 - wolverhampton
 - bruce gilden
 - photography workshop

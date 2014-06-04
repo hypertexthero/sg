@@ -6,5 +6,6 @@ category: notebook
 tags: 
 - favorite things
 - train
+- writing
 ---
 Trains of thoughts don't stop but are too hard to follow, can't turn them off tracks that go on and on and on and on and on. Any more clichés? You're my "favorite":http://www.youtube.com/watch?v=iQsvMf8X0FY "things":http://www.youtube.com/watch?v=qt9iLDmaQwk.

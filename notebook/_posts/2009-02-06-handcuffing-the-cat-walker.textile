@@ -2,7 +2,8 @@
 layout: entry
 title: Handcuffing the Cat-Walker
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Michael Johnston":http://theonlinephotographer.typepad.com/the_online_photographer/2009/02/on-authoritarianism.html:

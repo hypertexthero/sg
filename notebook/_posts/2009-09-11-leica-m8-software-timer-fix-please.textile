@@ -8,6 +8,7 @@ tags:
 - m8
 - m9
 - timer
+- writing
 ---
 Can you provide a firmware update for the Leica M8 with the following feature, please? It really would make me very happy.
 

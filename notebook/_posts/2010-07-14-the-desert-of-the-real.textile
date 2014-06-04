@@ -4,6 +4,7 @@ title: The Desert of the Real
 excerpt: The Desert of the Real
 category: notebook
 tags: 
+- writing
 - games
 - desert
 - molleindustria

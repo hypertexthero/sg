@@ -1,10 +1,10 @@
 --- 
 layout: entry
 title: LightZone
-excerpt: "\"LightZone (Lightcrafts website.)\":http://www.lightcrafts.com has a lovely, \"intuitive feel (The Thing about Intuition, by Fabio Riccardi.)\":http://fricc.blogspot.com/2006/03/thing-about-intuition.html. It is the most exciting photographic development software I've used in a long time, and an important part of my \"workflow (SimonGriffee.com)\":http://simongriffee.com/about/."
+excerpt: LightZone software
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 p(preamble). "LightZone (Lightcrafts website.)":http://www.lightcrafts.com has a lovely, "intuitive feel (The Thing about Intuition, by Fabio Riccardi.)":http://fricc.blogspot.com/2006/03/thing-about-intuition.html. It is the most exciting photographic development software I've used in a long time, and an important part of my "workflow (SimonGriffee.com)":http://simongriffee.com/about/. 
 

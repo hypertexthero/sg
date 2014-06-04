@@ -4,6 +4,7 @@ title: Shout-Out to Critical Mass in Rome
 excerpt: Shout Out to Critical Mass in Rome
 category: notebook
 tags: 
+- writing
 - critical mass
 - rome
 - bicycle

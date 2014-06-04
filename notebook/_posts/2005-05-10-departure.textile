@@ -3,7 +3,7 @@ layout: entry
 title: Departure
 excerpt: An illustration of a Macchi Castoldi MC 72 water plane, which is the HyperTextHero logotype.
 category: notebook
-tags: []
+tags: [writing, travel]
 
 ---
  <a class="imglink" href="http://hypertexthero.com" title="Hypertexthero's Macchi Castoldi MC 72."><img alt="An illustration of a Macchi Castoldi MC 72 water plane, which is the HyperTextHero logotype." src="/images/22.gif" /></a>

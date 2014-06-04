@@ -2,7 +2,8 @@
 layout: entry
 title: The Will to Find Out
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "What is wanted is not the will to believe, but the will to find out, which is the exact opposite." —Bertrand Russell, _Skeptical Essays_, 1928

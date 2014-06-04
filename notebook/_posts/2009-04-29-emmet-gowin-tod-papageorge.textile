@@ -2,7 +2,8 @@
 layout: entry
 title: Emmet Gowin, Tod Papageorge
 category: notebook
-tags: []
+tags: 
+- writing
 
 ---
 Forget about politics and swine flu for some time and read these two conversations:

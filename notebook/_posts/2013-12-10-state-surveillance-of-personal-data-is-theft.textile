@@ -4,6 +4,7 @@ title: State Surveillance of Personal Data Is Theft
 excerpt: State Surveillance of Personal Data Is Theft
 category: imaginarylines
 tags: 
+- writing
 - surveillance
 - edward snowden
 ---

@@ -4,6 +4,7 @@ title: Oblivious in the Dream of Life
 excerpt: Oblivious in the Dream of Life
 category: notebook
 tags: 
+- writing
 - oblivious
 - dream
 - life

@@ -1,9 +1,10 @@
 --- 
 layout: entry
 title: Patrick Smith's photographs
-excerpt: " \"Patrick Smith's photographs (PatrickSmith.fr)\":http://www.patricksmith.fr/index.html give me the sensation of there being far too many people on this planet."
+excerpt: "Patrick Smith's photographs give me the sensation of there being far too many people on this planet."
 category: notebook
-tags: []
-
+tags: 
+- writing
+- photographer
 ---
  "Patrick Smith's photographs (PatrickSmith.fr)":http://www.patricksmith.fr/index.html give me the sensation of there being far too many people on this planet.

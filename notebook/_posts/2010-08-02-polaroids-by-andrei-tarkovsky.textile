@@ -3,7 +3,11 @@ layout: entry
 title: Polaroids by Andrei Tarkovsky
 excerpt: Polaroids by Andrei Tarkovsky
 category: notebook
-tags: []
+tags:
+- writing
+- andrei tarkovsky
+- photography
+- photographers
 
 ---
 "Polaroids":http://www.diphotos.net/JJ/Tarkovskij/Web/li.htm by Russian film-maker "Andrei Tarkovsky":http://en.wikipedia.org/wiki/Andrei_Tarkovsky (click on the picture to open a window with the pictures, and then on the top squares for more pictures). Information in English and Spanish about them "here":http://riowang.blogspot.com/2010/06/tarkovskys-polaroids.html.

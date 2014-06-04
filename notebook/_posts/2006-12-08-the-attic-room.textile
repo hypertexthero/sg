@@ -4,8 +4,8 @@ title: The Attic Room
 image: "26"
 location: Oakland, California
 date_taken: December 2006
-camera: "\xE2\x80\x98Innovage\xE2\x80\x99 Mini Digital Camera"
-lens: "\xE2\x80\x98f/2.8\xE2\x80\x99 unknown lens"
+camera: "‘Innovage’ Mini Digital Camera"
+lens: "‘f/2.8’ unknown lens"
 category: notebook
 tags: 
 - playground

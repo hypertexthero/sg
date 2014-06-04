@@ -1,0 +1,11 @@
+--- 
+layout: entry
+title: Driving Through Navajo Nation
+image: "705"
+location: Navajo Nation, New Mexico, US
+category: story-jtus
+tags: 
+- GRS-20050704-145920
+- writing
+---
+

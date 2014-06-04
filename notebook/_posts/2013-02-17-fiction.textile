@@ -4,6 +4,7 @@ title: Fiction
 excerpt: Fiction
 category: notebook
 tags: 
+- writing
 - fiction
 - mike johnston
 ---

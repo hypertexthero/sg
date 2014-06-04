@@ -2,7 +2,8 @@
 layout: entry
 title: "A World Without Borders"
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 …Would be a better world. Thanks to "Ryan":http://pixelgrain.org for indicating "Reza Aramesh's work":http://www.rezaaramesh.com/content/content15/page01.htm photographed by "Atlanta Rascher":http://www.atlantarascher.com/.

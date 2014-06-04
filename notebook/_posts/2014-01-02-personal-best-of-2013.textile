@@ -6,6 +6,7 @@ date_taken:
 excerpt: Personal Best of 2013
 category: notebook
 tags: 
+- writing
 - 2013 review
 - snowden
 - chelyabinsk

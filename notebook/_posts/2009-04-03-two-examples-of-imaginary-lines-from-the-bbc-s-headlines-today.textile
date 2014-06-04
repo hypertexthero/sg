@@ -2,7 +2,8 @@
 layout: entry
 title: Two Examples of Imaginary Lines From The BBC's Headlines, Today
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 # _Social Imaginary Lines:_ "China hi-tech exam cheats jailed":http://news.bbc.co.uk/2/hi/asia-pacific/7980607.stm - Eight parents and teachers who used hi-tech equipment to help children cheat in Chinese college entrance exams are jailed.

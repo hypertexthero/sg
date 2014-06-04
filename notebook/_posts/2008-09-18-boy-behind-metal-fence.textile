@@ -13,7 +13,7 @@ tags:
 - street
 - boy
 - blonde
-- "5\xE2\x80\x9310"
+- "5–10"
 - sky
 - clouds
 - fence

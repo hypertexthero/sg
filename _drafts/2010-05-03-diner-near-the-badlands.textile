@@ -1,0 +1,10 @@
+--- 
+layout: entry
+title: Diner Near The Badlands
+image: "694"
+location: Near Badlands, South Dakota, US
+category: story-jtus
+tags: 
+- GRS-20050621-120245
+---
+

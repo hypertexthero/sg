@@ -1,13 +1,11 @@
 --- 
 layout: entry
 title: Artificiality
-excerpt: "The things we lose:\r\n\
-  \r\n\
-  bq. A good friend of mine just bought one of the Leica-clone point and shoots, the Panasonic one, 10mp, 16\xC3\x979 format, it\xE2\x80\x99s really nice."
+excerpt: The things we lose
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
 p(preamble). The things we lose:
 
-bq.. "A good friend of mine just bought one of the Leica-clone point and shoots, the Panasonic one, 10mp, 16×9 format, it’s really nice. We were out on New Years and he said he really liked it but hated the red eye preflash. So we tried to figure out how to turn it off, two professional photographers, no luck, and then we tried to figure out how to fool it to turn it off. Can’t be done! So you miss the moment. I had my M6 and flash on it, f11, hyperfocal distance, 28mm lens. I didn’t even need to look through it or focus it, and it goes off instantly, exactly when you want it to. It really is a little bit like “shooting.
+bq.. "A good friend of mine just bought one of the Leica-clone point and shoots, the Panasonic one, 10mp, 16×9 format, it’s really nice. We were out on New Years and he said he really liked it but hated the red eye preflash. So we tried to figure out how to turn it off, two professional photographers, no luck, and then we tried to figure out how to fool it to turn it off. Can’t be done! So you miss the moment. I had my M6 and flash on it, f11, hyperfocal distance, 28mm lens. I didn’t even need to look through it or focus it, and it goes off instantly, exactly when you want it to. It really is a little bit like "shooting".

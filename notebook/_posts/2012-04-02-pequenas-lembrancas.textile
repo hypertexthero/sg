@@ -5,6 +5,7 @@ location: Brasil
 excerpt: "Pequenas Lembranças"
 category: notebook
 tags: 
+- writing
 - simon
 - odila
 - beto

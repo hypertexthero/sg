@@ -3,7 +3,8 @@ layout: entry
 title: The Truth Will Always Win
 excerpt: The Truth Will Always Win
 category: notebook
-tags: []
+tags:
+- writing
 
 ---
 "Julian Assange writing in 'The Australian'":http://blogs.theaustralian.news.com.au/mediadiary/index.php/australianmedia/comments/julian1/:

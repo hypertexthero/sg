@@ -11,6 +11,6 @@ tags:
 - bw
 - bar
 - candid
-- "new years eve 2008\xE2\x80\x932009"
+- "new years eve 2008–2009"
 ---
 

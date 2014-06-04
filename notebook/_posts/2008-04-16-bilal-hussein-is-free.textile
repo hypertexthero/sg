@@ -1,13 +1,10 @@
 --- 
 layout: entry
 title: Bilal Hussein is Free
-excerpt: |
-  "Bilal Hussein is free":http://www.freebilal.org/!
-  
-
+excerpt: Bilal Hussein is Free
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 "Bilal Hussein is free":http://www.freebilal.org/!
 

@@ -9,6 +9,7 @@ tags:
 - choosing
 - selecting
 - culling
+- writing
 ---
 In photography the word 'editing' traditionally means selecting the best photos from a set. This usually involves a large number of small pictures&nbsp;—&nbsp;'contact' or <a href="http://theonlinephotographer.typepad.com/the_online_photographer/2010/11/how-to-make-a-good-proof-sheet.html" title="How to make a good proof sheet.">'proof' prints</a>&nbsp;—&nbsp;laid out on a table, pinned to a wall, clipped to a string, or displayed in a user interface on a computer screen. The editor looks at the pictures, moves them around, culls the bad ones, keeps the best ones.
 

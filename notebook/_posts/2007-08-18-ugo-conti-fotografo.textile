@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Ugo Conti - Fotografo
-excerpt: "\"Ugo Conti - Fotografo\":http://www.ugoconti.net/. Beautiful \"black and white images\":http://www.ugoconti.net/photogallery_1106/index.html."
+excerpt: Ugo Conti - Fotografo
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
 "Ugo Conti - Fotografo":http://www.ugoconti.net/. Beautiful "black and white images":http://www.ugoconti.net/photogallery_1106/index.html.

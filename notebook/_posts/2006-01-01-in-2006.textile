@@ -1,18 +1,13 @@
 --- 
 layout: entry
 title: In 2006
-excerpt: |-
-  # Draw on paper more.
-  # Write on paper more (and send more letters).
-  # Become proficient in at least one: PHP(PHP:Hypertext Preprocessor), Python, Ruby.
-  # Publish my photographs, for goodness' sake.
-  # Record a song.
+excerpt: Resolutions
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
-# Draw on paper more.
-# Write on paper more (and send more letters).
-# Become proficient in at least one: PHP(PHP:Hypertext Preprocessor), Python, Ruby.
-# Publish my photographs, for goodness' sake.
-# Record a song.
+1. Draw on paper more.
+2. Write on paper more (and send more letters).
+3. Become proficient in at least one: PHP(PHP:Hypertext Preprocessor), Python, Ruby.
+4. Publish my photographs, for goodness' sake.
+5. Record a song.

@@ -1,10 +1,9 @@
 --- 
 layout: entry
 title: Washington DC
-excerpt: "Consider this a test of new \"equipment \r\n\
-  (Powerbook 12in.)\":http://www.apple.com/powerbook/index12.html and  \"offices (Starbucks.)\":http://www.starbucks.com/' connectivity. I'm near _Farragut North_ Metro station in Washington DC, a \"few blocks away (In a Starbucks.)\":http://maps.google.com/maps?q=Washington,+DC+1734+l+street&ll=38.903200,-77.040000&spn=0.022402,0.031757&t=k&hl=en from the White House, which I unexpectedly ran into during my first random walk a few days ago. This city is teeming with law-enforcement personnel and sirens that are too loud. The inhabitants have all been polite and courteous. "
+excerpt: Travel log beginning.
 category: notebook
-tags: []
+tags: [writing,travel]
 
 ---
 p(preamble). Consider this a test of new "equipment 

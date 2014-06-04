@@ -2,8 +2,9 @@
 layout: entry
 title: Eye Contact
 category: notebook
-tags: []
-
+tags: 
+- writing
+- photographer
 ---
 bq. "it is all in the approach... the handshake ... the "body language" and voice....and the most important thing of all...eye contact....the "language" of eye contact is universal, international and cross cultural....your intent is most often mirrored in your eyes.....this is when you are "judged" by a complete stranger....."
 

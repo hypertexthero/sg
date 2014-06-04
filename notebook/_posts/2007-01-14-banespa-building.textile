@@ -2,13 +2,13 @@
 layout: entry
 title: Banespa Building
 image: "52"
-location: "S\xC3\xA3o Paulo, Brazil"
+location: "São Paulo, Brazil"
 date_taken: October 2001
 camera: Canon PowerShot G1
-lens: "Canon 34\xE2\x80\x93102mm f/2.0\xE2\x80\x932.5 Zoom Lens"
+lens: "Canon 34–102mm f/2.0–2.5 Zoom Lens"
 category: notebook
 tags: 
-- "S\xC3\xA3o Paulo"
+- "São Paulo"
 - Banespa
 - banco
 - predios

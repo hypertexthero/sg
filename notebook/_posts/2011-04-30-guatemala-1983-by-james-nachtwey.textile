@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: Guatemala, 1983 - Clergy traveled in military helicopters to the mass of  Pope John Paul II in the war zone
+title: Guatemala, 1983, by James Nachtwey - Clergy traveled in military helicopters to the mass of Pope John Paul II in the war zone
 excerpt: Guatemala, 1983 - Clergy traveled in military helicopters to the mass of  Pope John Paul II in the war zone. Photograph by James Nachtwey
 category: notebook
 tags: 
@@ -8,6 +8,7 @@ tags:
 - war
 - clergy
 - james nachtwey
+- writing
 ---
  <a href="http://www.jamesnachtwey.com/jn/slides/g11.html"><img src="/images/1094.jpg" /></a>
 

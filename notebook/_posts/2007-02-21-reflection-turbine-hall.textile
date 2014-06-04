@@ -5,7 +5,7 @@ image: "87"
 location: London, UK
 date_taken: February 2004
 camera: Canon Digital Ixus 400
-lens: "36-108mm f/2.8\xE2\x80\x934.9 Zoom"
+lens: "36-108mm f/2.8–4.9 Zoom"
 category: notebook
 tags: 
 - tate

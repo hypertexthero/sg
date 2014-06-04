@@ -14,7 +14,7 @@ tags:
 - hair
 - expression
 - mom
-- "m\xC3\xA3e"
+- "mãe"
 - movement
 - train station
 - diagonal

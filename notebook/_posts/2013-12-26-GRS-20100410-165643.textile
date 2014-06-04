@@ -1,8 +1,8 @@
 --- 
 layout: entry
-title: "Near Hai M\xC6\xB0\xC6\xA1i Ba Th\xC3\xA1ng T\xC3\xA1m"
+title: "Near Hai Mươi Ba Tháng Tám"
 image: "1958"
-location: "Hu\xC3\xA9, Vietman"
+location: "Hué, Vietman"
 date_taken: April 2010
 camera: Ricoh GR Digital III
 lens: Ricoh GR Lens 28mm-e f/1.9

@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Sky
-excerpt: I looked at the sky today. I looked at the sky. Blue. Yellow and gray. White. Blue clouds. Storm front coming in. Like a triangle, falling down on the land. The trees. The green green trees, light green. Spring leaves. Against the blue and gray clouds. White clouds. Afternoon. They spread out, spread out and fell down on the land. Like a triangle. Driving, driving down the road. I wanted to stop. Make a picture. Get that moment. Moments. I looked at the sky.
+excerpt: I looked at the sky today. I looked at the sky. Blue. Yellow and gray. White. Blue clouds. Storm front coming in.
 category: notebook
-tags: []
+tags: [writing]
 
 ---
 p(preamble). I looked at the sky today. I looked at the sky. Blue. Yellow and gray. White. Blue clouds. Storm front coming in. Like a triangle, falling down on the land. The trees. The green green trees, light green. Spring leaves. Against the blue and gray clouds. White clouds. Afternoon. They spread out, spread out and fell down on the land. Like a triangle. Driving, driving down the road. I wanted to stop. Make a picture. Get that moment. Moments. I looked at the sky.

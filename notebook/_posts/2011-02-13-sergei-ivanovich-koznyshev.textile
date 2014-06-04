@@ -4,6 +4,7 @@ title: Sergei Ivanovich Koznyshev
 excerpt: Sergei Ivanovich Koznyshev
 category: notebook
 tags: 
+- writing
 - Sergei Ivanovich Koznyshev
 - common good
 - heart

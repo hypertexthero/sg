@@ -3,7 +3,7 @@ layout: entry
 title: Personal Computing Hope
 excerpt: A photograph showing the Mac mini personal computer against a white background.
 category: notebook
-tags: []
+tags: [writing]
 
 ---
  <a style="border:0;" href="http://www.apple.com/macmini/design.html" title="Find out more about the Mac mini design"><img src="/images/macmini.jpg" height="255" width="370" alt="A photograph showing the Mac mini personal computer against a white background. The Mac mini's design is minimal, with only a CD slot and status light on the front." /></a>

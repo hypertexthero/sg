@@ -4,6 +4,7 @@ title: Wikileaks
 excerpt: Wikileaks
 category: notebook
 tags: 
+- writing
 - wikileaks
 - cablegate
 - assange

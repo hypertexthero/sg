@@ -4,6 +4,7 @@ title: Voodoo Chile - SRV
 excerpt: Voodoo Chile - SRV
 category: notebook
 tags: 
+- writing
 - srv
 - voodoo chile
 - stevie ray vaughan

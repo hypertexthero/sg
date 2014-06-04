@@ -3,7 +3,7 @@ layout: entry
 title: Notte Bianca 2007
 excerpt: I will be walking around the center of Rome photographing during "la Notte Bianca":http://www.lanottebianca.it tonight.
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 I will be walking around the center of Rome photographing during "la Notte Bianca":http://www.lanottebianca.it tonight.

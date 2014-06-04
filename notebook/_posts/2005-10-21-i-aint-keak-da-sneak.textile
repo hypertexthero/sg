@@ -1,10 +1,10 @@
 --- 
 layout: entry
 title: I Ain't Keak da Sneak
-excerpt: "Bought da Ghetro PCS cellphone when I moved to da bay are-a. No one wit my numba' but gettin' hella lot o' calls like hysteria. Hardcore. Sometimes 3 o'clock in da mornin'. Niggas lookin' fo Pete. Bitches callin' fo Keats. Yeah, dat's ma word. "
+excerpt: "Bought da Ghetro PCS cellphone when I moved to da bay are-a. No one wit my numba' but gettin' hella lot o' calls like hysteria. Hardcore. Sometimes 3 o'clock in da mornin'. Niggas lookin' fo Pete. Bitches callin' fo Keats. Yeah, dat's ma word."
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 p(preamble). Bought da Ghetro PCS cellphone when I moved to da bay are-a. No one wit my numba' but gettin' hella lot o' calls like hysteria. Hardcore. Sometimes 3 o'clock in da mornin'. Niggas lookin' fo Pete. Bitches callin' fo Keats. Yeah, dat's ma word. 
 

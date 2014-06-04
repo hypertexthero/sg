@@ -1,11 +1,11 @@
 --- 
 layout: entry
-title: "Indo pro Gale\xC3\xA3o"
+title: "Indo pro Galeão"
 image: "1506"
 location: Rio de Janeiro, Brazil
 date_taken: October 2001
 camera: Canon PowerShot G1
-lens: "Canon 7\xE2\x80\x9321mm Lens"
+lens: "Canon 7–21mm Lens"
 category: notebook
 tags: 
 - bw

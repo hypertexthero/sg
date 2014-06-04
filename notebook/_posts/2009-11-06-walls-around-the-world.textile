@@ -5,6 +5,7 @@ category: imaginarylines
 tags: 
 - walls
 - berlin
+- writing
 ---
 "Two decades since the Berlin Wall came down, BBC Mundo looks at walls and barriers around the world which are still standing - or have been put up - since 1989."
 

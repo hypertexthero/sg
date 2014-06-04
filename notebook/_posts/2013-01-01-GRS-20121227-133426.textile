@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Pet\xC5\x99\xC3\xADnsk\xC3\xA1 rozhledna"
+title: "Pet\xC5\x99ínská rozhledna"
 image: "1687"
 location: Prague, Czech Republic
 date_taken: December 2012
@@ -9,7 +9,7 @@ lens: Leitz Summilux 35mm f/1.4
 category: notebook
 tags: 
 - bw
-- "Pet\xC5\x99\xC3\xADn tower"
+- "Pet\xC5\x99ín tower"
 - tree
 - silhouette
 - branches

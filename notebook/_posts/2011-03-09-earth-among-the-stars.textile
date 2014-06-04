@@ -9,5 +9,6 @@ tags:
 - html
 - css
 - perspective
+- writing
 ---
 "Sometimes it's good to remember perspective (HTML Earth)":http://simongriffee.com/earth/.

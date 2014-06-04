@@ -4,6 +4,7 @@ title: Canon EF 70-200mm f/4 L IS Lens + Accessories for Sale (Sold)
 image: "491"
 category: notebook
 tags: 
+- writing
 - canon
 - 70-200
 - f/4

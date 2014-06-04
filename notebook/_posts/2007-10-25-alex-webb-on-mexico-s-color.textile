@@ -1,12 +1,11 @@
 --- 
 layout: entry
 title: Alex Webb on Mexico's Color
-excerpt: "bq. \"You go to Mexico and you walk down the street and you are assaulted by the colors. It is an explosion that takes place. And you feel that it is in the heart of that culture. Of course, if you go to New York now, it is full of color. Times Square is full of color, but it is really full of color to sell things. It is commercial color. And it is designed very specifically to sell things. I am sure it is true to say that in Mexico color is used to sell things too, but somehow you feel that the color is more embedded in the heart of the society in Mexico or the Carribean.\"\r\n\
-  \r\n\
-  \xE2\x80\x94 \"Alex Webb\":http://fototapeta.art.pl/2005/axwe.php"
+excerpt: "You go to Mexico and you walk down the street and you are assaulted by the colors."
 category: notebook
-tags: []
-
+tags:
+- writing
+- photographer
 ---
 bq. "You go to Mexico and you walk down the street and you are assaulted by the colors. It is an explosion that takes place. And you feel that it is in the heart of that culture. Of course, if you go to New York now, it is full of color. Times Square is full of color, but it is really full of color to sell things. It is commercial color. And it is designed very specifically to sell things. I am sure it is true to say that in Mexico color is used to sell things too, but somehow you feel that the color is more embedded in the heart of the society in Mexico or the Carribean."
 

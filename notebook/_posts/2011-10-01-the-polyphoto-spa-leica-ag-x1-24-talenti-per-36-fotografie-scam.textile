@@ -4,6 +4,7 @@ title: The Polyphoto S.p.A. / Leica AG X1 '24 talenti per 36 fotografie' Scam
 excerpt: " Work to advertise Leica and Polyphoto for 12 weeks in return for borrowing an X1 and having the chance to be an assistant to an unnamed photographer and maybe having your pictures exhibited somewhere."
 category: notebook
 tags: 
+- writing
 - leica
 - polyphoto
 - 24x36

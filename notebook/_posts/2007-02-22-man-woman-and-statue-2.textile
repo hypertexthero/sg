@@ -5,7 +5,7 @@ image: "88"
 location: London, UK
 date_taken: July 2003
 camera: Canon PowerShot G2
-lens: "Canon 34\xE2\x80\x93102mm f/2\xE2\x80\x93f/2.5 Zoom Lens"
+lens: "Canon 34–102mm f/2–f/2.5 Zoom Lens"
 category: notebook
 tags: 
 - tate modern

@@ -4,6 +4,7 @@ title: Waves Dream
 excerpt: Waves Dream
 category: notebook
 tags: 
+- writing
 - dream
 - waves
 ---

@@ -13,6 +13,6 @@ tags:
 - stilt legs
 - girl
 - tourists
-- "caff\xC3\xA9"
+- "caffé"
 ---
 

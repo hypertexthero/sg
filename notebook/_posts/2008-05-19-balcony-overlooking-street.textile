@@ -13,7 +13,7 @@ tags:
 - man
 - ladies
 - women
-- "60\xE2\x80\x9380"
+- "60–80"
 - fair
 ---
 

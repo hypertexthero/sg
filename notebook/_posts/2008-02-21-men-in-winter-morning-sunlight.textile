@@ -14,6 +14,6 @@ tags:
 - street corner
 - cigarette
 - newspaper
-- "60\xE2\x80\x9390"
+- "60–90"
 ---
 

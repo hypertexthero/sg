@@ -5,6 +5,8 @@ excerpt: Dreamin' of You
 category: notebook
 tags: 
 - dreamin' of you
+- writing
+- music
 ---
 bq.. The light in this place is really bad
 Like being in the bottom of a stream

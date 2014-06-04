@@ -1,10 +1,11 @@
 --- 
 layout: entry
 title: American Beauty
-excerpt: bq.. "I discovered that this camera was the technical means in photography, of communicating what the world looks like in a state of heightened awareness, and it's that awareness of really looking at the everyday world with clear and focused attention that I'm interested in."
+excerpt: "I discovered that this camera was the technical means in photography, of communicating what the world looks like in a state of heightened awareness, and it's that awareness of really looking at the everyday world with clear and focused attention that I'm interested in."
 category: notebook
-tags: []
-
+tags: 
+- writing
+- photographer
 ---
 p(preamble). "Movie about the work of Stephen Shore (Jay's Movies - Stephen Shore.)":http://www.jaymovies.com/2006/05/stephen_shore.html, via "The Online Photographer (Mike Johnston's site.)":http://theonlinephotographer.blogspot.com/.
 

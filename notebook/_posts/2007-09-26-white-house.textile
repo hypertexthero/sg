@@ -5,7 +5,7 @@ image: "214"
 location: Washington DC, Virginia, US
 date_taken: May 2005
 camera: Canon PowerShot SD200
-lens: "Canon 35\xE2\x80\x93105mm f/2.8\xE2\x80\x934.9"
+lens: "Canon 35–105mm f/2.8–4.9"
 category: notebook
 tags: 
 - bw

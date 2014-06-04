@@ -1,7 +1,7 @@
 --- 
 layout: entry
 title: Rough Packing List for Extended Travel
-excerpt: "Two days ago I saw the sun setting into the Tyrrhenian Sea off the ancient Etruscan port of \"Pyrgi\":http://en.wikipedia.org/wiki/Pyrgi. While walking on the sand at dusk I decided I will go traveling and end up living by a beach somewhere early next year. I started the following list to help me get organized:"
+excerpt: "Two days ago I saw the sun setting into the Tyrrhenian Sea off the ancient Etruscan port of Pyrgi. While walking on the sand at dusk I decided I will go traveling and end up living by a beach somewhere early next year. I started the following list to help me get organized."
 category: notebook
 tags: 
 - packing list
@@ -9,6 +9,7 @@ tags:
 - sunset
 - moon
 - pink floyd
+- writing
 ---
 Two days ago I saw the sun setting into the Tyrrhenian Sea off the ancient Etruscan port of "Pyrgi":http://en.wikipedia.org/wiki/Pyrgi. While walking on the sand at dusk I decided I will go traveling and end up living by a beach somewhere early next year. I started the following list to help me get organized:
 

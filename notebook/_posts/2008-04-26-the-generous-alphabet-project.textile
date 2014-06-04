@@ -1,19 +1,10 @@
 --- 
 layout: entry
 title: The Generous Alphabet Project
-excerpt: |
-  From now on most of my writing can be found at "GenerousAlphabet.org (Generous Alphabet Project Journal.)":http://generousalphabet.org/journal/, so please visit and bookmark "http://generousalphabet.org/journal/":http://generousalphabet.org/journal/. 
-  
-  The photography here will, of course, continue, and in the meantime, a test of yet another <a href="http://twitter.com/simongriffee/" title="A test of yet another channel of communication: Twitter.com/SimonGriffee">communications channel</a>:
-  
-  h3. Twitter Updates
-  
-  <ul id="twitter_update_list"></ul>
-  
-
+excerpt: The Generous Alphabet Project
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 From now on most of my writing can be found at "GenerousAlphabet.org (Generous Alphabet Project Journal.)":http://generousalphabet.org/journal/, so please visit and bookmark "http://generousalphabet.org/journal/":http://generousalphabet.org/journal/. 
 

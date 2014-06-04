@@ -5,7 +5,7 @@ image: "1141"
 location: Wisconsin
 date_taken: July 2006
 camera: Canon EOS 300D
-lens: "EF 17\xE2\x80\x9340mm f/4 USM"
+lens: "EF 17–40mm f/4 USM"
 category: notebook
 tags: 
 - color

@@ -4,7 +4,8 @@ title: Happiness, Self-Consciousness
 category: notebook
 tags: 
 - happiness
-- " self-consciousness"
+- self-consciousness
+- writing
 ---
 Happiness is something which is not within the field of self-consciousness.
 

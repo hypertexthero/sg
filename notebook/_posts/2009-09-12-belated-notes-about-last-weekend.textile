@@ -4,6 +4,7 @@ title: Belated Notes About Last Weekend
 excerpt: I feel older after last weekend.
 category: notebook
 tags: 
+- writing
 - belated
 - weekend
 - notes

@@ -4,7 +4,8 @@ title: Imaginary Lines
 image: "578"
 excerpt: An attack on the ideas of national borders, sovereign states, nationalism and the political division of human beings.
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 This project is an attack on the ideas of national borders, sovereign states, nationalism and the political division of human beings. 

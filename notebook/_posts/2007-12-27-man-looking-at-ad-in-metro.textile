@@ -14,7 +14,7 @@ tags:
 - tophat
 - man
 - bald
-- "40\xE2\x80\x9360"
+- "40–60"
 - underground
 - metro
 - valle aurelia

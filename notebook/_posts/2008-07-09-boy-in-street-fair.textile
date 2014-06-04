@@ -10,7 +10,7 @@ category: notebook
 tags: 
 - bw
 - boy
-- "12\xE2\x80\x9316"
+- "12–16"
 - road
 - door
 - sun

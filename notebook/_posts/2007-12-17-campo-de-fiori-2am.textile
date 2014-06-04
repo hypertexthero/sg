@@ -10,7 +10,7 @@ category: notebook
 tags: 
 - bw
 - street
-- "man 18\xE2\x80\x9330"
+- "man 18–30"
 - night
 - fiore
 - long hair

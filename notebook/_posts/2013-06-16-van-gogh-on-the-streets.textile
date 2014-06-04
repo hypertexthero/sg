@@ -4,6 +4,7 @@ title: Van Gogh on the Streets
 excerpt: Van Gogh on the Streets
 category: notebook
 tags: 
+- writing
 - van gogh
 - Geroge Hendrik Breitner
 - painting

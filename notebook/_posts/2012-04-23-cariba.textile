@@ -4,6 +4,7 @@ title: Cariba!
 excerpt: Cariba - Wes Montgomery
 category: notebook
 tags: 
+- writing
 - cariba
 - wes montgomery
 - guitar

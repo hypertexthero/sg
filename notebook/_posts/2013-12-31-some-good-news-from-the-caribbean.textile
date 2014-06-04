@@ -3,6 +3,7 @@ layout: entry
 title: Some Good News From the Caribbean
 category: imaginarylines
 tags: 
+- writing
 - borders
 - cuba
 - havana

@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "M\xC3\xA3e em Cortona"
+title: "Mãe em Cortona"
 image: "1424"
 location: Cortona, Italy
 date_taken: July 2011
@@ -9,7 +9,7 @@ lens: Leitz Summilux 35mm f/1.4
 category: notebook
 tags: 
 - bw
-- "m\xC3\xA3e"
+- "mãe"
 - blur
 - night
 ---

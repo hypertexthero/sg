@@ -1,13 +1,13 @@
 --- 
 layout: entry
 title: A Conversation With Peter van Agtmael
-excerpt: |-
-  "A conversation":http://www.jmcolberg.com/weblog/2007/12/a_conversation_with_peter_van.html with "Peter van Agtmael":http://www.petervanagtmael.com/.
-  
-  bq. "While there has been a lot of phenomenal and revealing coverage of the war, especially by The New York Times, my main experience with censorship has come from the media, not the military. I will cite a few examples."
+excerpt: "While there has been a lot of phenomenal and revealing coverage of the war, especially by The New York Times, my main experience with censorship has come from the media, not the military. I will cite a few examples."
 category: notebook
-tags: []
-
+tags:
+- writing
+- photographer
+- media
+- censorship
 ---
 "A conversation":http://www.jmcolberg.com/weblog/2007/12/a_conversation_with_peter_van.html with "Peter van Agtmael":http://www.petervanagtmael.com/.
 

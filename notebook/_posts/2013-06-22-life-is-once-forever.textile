@@ -4,6 +4,7 @@ title: Life is Once, Forever
 excerpt: Life is Once, Forever
 category: notebook
 tags: 
+- writing
 - Henri Cartier-Bresson
 - life
 ---

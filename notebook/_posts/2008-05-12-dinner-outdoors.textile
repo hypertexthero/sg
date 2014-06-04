@@ -14,6 +14,6 @@ tags:
 - restaurant
 - cena
 - woman
-- "50\xE2\x80\x9370"
+- "50–70"
 ---
 

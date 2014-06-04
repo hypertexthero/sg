@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "C\xC3\xB4ng Vi\xC3\xAAn"
+title: "C\xC3\xB4ng Viên"
 image: "919"
 location: Saigon, Vietnam
 date_taken: April 2010

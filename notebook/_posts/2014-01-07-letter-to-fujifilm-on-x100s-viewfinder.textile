@@ -4,6 +4,7 @@ title: Letter to Fujifilm on X100S Viewfinder
 excerpt: Letter to Fujifilm
 category: notebook
 tags: 
+- writing
 - fuji
 - fujifilm
 - camera

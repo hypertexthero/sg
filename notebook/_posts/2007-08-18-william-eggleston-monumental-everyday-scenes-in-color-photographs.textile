@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: "William Eggleston: Monumental everyday scenes in color photographs"
-excerpt: " \"William Eggleston: Monumental everyday scenes in color photographs (EgglestonTrust.com)\":http://www.egglestontrust.com/index.html."
+excerpt: "William Eggleston: Monumental everyday scenes in color photographs"
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
  "William Eggleston: Monumental everyday scenes in color photographs (EgglestonTrust.com)":http://www.egglestontrust.com/index.html.

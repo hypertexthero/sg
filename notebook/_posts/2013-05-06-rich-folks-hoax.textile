@@ -4,6 +4,7 @@ title: Rich Folks Hoax
 excerpt: Rich Folks Hoax
 category: notebook
 tags: 
+- writing
 - sixto rodriguez
 - rich folks hoax
 - music

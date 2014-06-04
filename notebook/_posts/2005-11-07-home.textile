@@ -1,10 +1,11 @@
 --- 
 layout: entry
 title: Home
-excerpt: "\"Look again at that dot. That's here. That's home, That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives."
+excerpt: "Look again at that dot. That's here. That's home, That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives."
 category: notebook
-tags: []
-
+tags: 
+- carl sagan
+- writing
 ---
 p(preamble). "Carl Sagan (Wikipedia entry on the eminent proponent of the scientific method.)":http://en.wikipedia.org/wiki/Carl_Sagan, on the "view of Earth from 3.7 billion miles away as a pale blue dot (NASA: Image of Earth taken by Voyager 1 as it left the Solar System.)":http://visibleearth.nasa.gov/view_rec.php?vev1id=1947:
 

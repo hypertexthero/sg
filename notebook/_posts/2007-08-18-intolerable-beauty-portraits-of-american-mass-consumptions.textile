@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Intolerable Beauty - Portraits of American Mass Consumptions
-excerpt: "\"Intolerable Beauty - Portraits of American Mass Consumptions\":http://www.chrisjordan.com/current_set.php?arch_id=1."
+excerpt: Portraits of American Mass Consumptions
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 "Intolerable Beauty - Portraits of American Mass Consumptions":http://www.chrisjordan.com/current_set.php?arch_id=1.

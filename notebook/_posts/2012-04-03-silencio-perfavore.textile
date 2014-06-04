@@ -4,6 +4,7 @@ title: Silencio perFAVORE!!!
 excerpt: Silencio perFAVORE!!!
 category: notebook
 tags: 
+- writing
 - silence
 - belligerence
 - life

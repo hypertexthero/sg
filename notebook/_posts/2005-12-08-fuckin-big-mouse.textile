@@ -1,10 +1,10 @@
 --- 
 layout: entry
 title: FUCKIN BIG MOUSE
-excerpt: "\"I have subscribed this newsgroup for a month. I thought you people are discussing all kind of strategy games. Since i am also crazy about turn-based all real-time strategy games, I had great expectation on this group. But you all f_cking people have only big mouse."
+excerpt: "I have subscribed this newsgroup for a month. I thought you people are discussing all kind of strategy games. Since i am also crazy about turn-based all real-time strategy games, I had great expectation on this group. But you all f_cking people have only big mouse."
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 p(preamble). "comp.sys.ibm.pc.games.strategic > 
 YOU'RE ALL FUCKIN BIG MOUSE (Masterpiece.)":http://groups.google.com/group/comp.sys.ibm.pc.games.strategic/msg/a5c2cf66221eab17?q=g:thl3037241068d&dq=&hl=en&lr=&ie=UTF-8&oe=UTF-8

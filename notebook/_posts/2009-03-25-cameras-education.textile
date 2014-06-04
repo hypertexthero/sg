@@ -2,7 +2,8 @@
 layout: entry
 title: Cameras, Education
 category: notebook
-tags: []
+tags: 
+- writing
 
 ---
 "…my camera has led me down educational paths, that academia never did do, could do or maybe even should do…."

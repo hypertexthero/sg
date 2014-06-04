@@ -2,7 +2,8 @@
 layout: entry
 title: Tools of Power
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 <blockquote><p>"<a href="http://news.bbc.co.uk/2/hi/africa/7677999.stm" title="Tsvangirai 'cannot attend talks' : Africa : BBC News">Zimbabwe's opposition leader Morgan Tsvangirai cannot attend regional talks due to delays with his travel papers, officials say</a>."</p></blockquote>

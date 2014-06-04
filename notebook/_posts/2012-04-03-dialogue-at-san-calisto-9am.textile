@@ -4,10 +4,11 @@ title: Dialogue at San Calisto, 9am
 excerpt: Dialogue at San Calisto, 9am
 category: notebook
 tags: 
-- "caf\xC3\xA9"
+- "café"
 - coffee
 - san calisto
 - italians
+- writing
 ---
 "Give me a coffee, please."
 

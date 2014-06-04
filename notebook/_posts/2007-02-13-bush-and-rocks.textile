@@ -5,7 +5,7 @@ image: "81"
 location: Joshua Tree, California, US
 date_taken: January 2007
 camera: Canon EOS 5D
-lens: "EF 17\xE2\x80\x9340mm f/4.0L USM"
+lens: "EF 17–40mm f/4.0L USM"
 category: notebook
 tags: 
 - bush

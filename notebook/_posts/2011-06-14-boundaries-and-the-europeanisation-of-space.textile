@@ -4,6 +4,7 @@ title: "Boundaries and the Europeanisation of Space: The EU, Integration and Evo
 excerpt: If indeed we accept the view that borders are human-made, it would be needed to not only ask the question why humans are producing and reproducing borders, but also what moral consequences do the (re)produced borders, are they justified and are there socio-spatial alternatives that could be produced?
 category: imaginarylines
 tags: 
+- writing
 - borders
 - europe
 - boundaries

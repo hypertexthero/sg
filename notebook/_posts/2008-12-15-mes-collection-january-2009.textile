@@ -1,11 +1,11 @@
 --- 
 layout: entry
-title: "M\xC3\xAAs Collection \xC2\xB7 January 2009"
+title: "Mês Collection \xC2\xB7 January 2009"
 image: "303"
 location: Wyoming, US
 date_taken: June 2005
 camera: Canon EOS 300D
-lens: "EF 28\xE2\x80\x93135mm f/3.5\xE2\x80\x935.6 IS USM"
+lens: "EF 28–135mm f/3.5–5.6 IS USM"
 excerpt: "<form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\r\n    <input type=\"hidden\" name=\"cmd\" value=\"_s-xclick\" />\r\n    <input type=\"hidden\" name=\"hosted_button_id\" value=\"2090655\" />\r\n    <input type=\"hidden\" name=\"on0\" value=\"Print Size\" />\r\n    <label for=\"os0\">Print Size</label>\r\n    <select name=\"os0\">\r\n\
   \t    <option value=\"A5 - Limited edition of 100 prints\">A5 - Limited edition of 100 prints \xE2\x82\xAC60,00</option>\r\n    \t<option value=\"A4 - Limited edition of 40 prints\">A4 - Limited edition of 40 prints \xE2\x82\xAC90,00</option>\r\n    </select>\r\n    <input type=\"hidden\" name=\"currency_code\" value=\"EUR\" />\r\n    <input type=\"image\" src=\"http://simongriffee.com/images/PurchasePrint.gif\" border=\"0\" name=\"submit\" alt=\"Purchase Print\" />\r\n    <img alt=\"\" border=\"0\" src=\"https://www.paypal.com/en_US/i/scr/pixel.gif\" width=\"1\" height=\"1\" />\r\n\
   </form>"

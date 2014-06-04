@@ -4,6 +4,7 @@ title: The Wind
 excerpt: The Wind
 category: notebook
 tags: 
+- writing
 - wind
 - Robert Lous Stevenson
 - A Child's Garden of Verses

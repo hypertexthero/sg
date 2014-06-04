@@ -13,7 +13,7 @@ tags:
 - city
 - lonely
 - boy
-- "7\xE2\x80\x9314"
+- "7–14"
 - prati
 ---
 

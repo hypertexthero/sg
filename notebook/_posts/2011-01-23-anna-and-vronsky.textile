@@ -4,6 +4,7 @@ title: Anna and Vronsky
 excerpt: Anna and Vronsky
 category: notebook
 tags: 
+- writing
 - anna karenina
 - love
 - vronsky

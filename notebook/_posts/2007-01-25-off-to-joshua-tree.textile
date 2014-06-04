@@ -1,9 +1,9 @@
 --- 
 layout: entry
 title: Off to Joshua Tree
-excerpt: There will be no updates the next few days because I will be at "Joshua Tree national park (A desert park.)":http://www.nps.gov/jotr/ attending "Per Volquartz's workshop (Master photographer and printer.)":http://www.pervolquartz.com/workshops.html. I'll be back next Tuesday, with lots of new photographs!
+excerpt: There will be no updates the next few days because I will be at Joshua Tree national park.
 category: notebook
-tags: []
-
+tags: 
+- writing
 ---
 p(preamble). There will be no updates the next few days because I will be at "Joshua Tree national park (A desert park.)":http://www.nps.gov/jotr/ attending "Per Volquartz's workshop (Master photographer and printer.)":http://www.pervolquartz.com/workshops.html. I'll be back next Tuesday, with lots of new photographs!

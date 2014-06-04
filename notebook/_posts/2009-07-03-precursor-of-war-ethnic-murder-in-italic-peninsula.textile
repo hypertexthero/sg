@@ -2,7 +2,8 @@
 layout: entry
 title: Precursor of War, Ethnic Murder in Italic Peninsula
 category: imaginarylines
-tags: []
+tags: 
+- writing
 
 ---
 "Italy adopts law to curb migrants":http://news.bbc.co.uk/2/hi/europe/8132084.stm:

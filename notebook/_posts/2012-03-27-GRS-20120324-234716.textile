@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Marta, T\xC3\xA9a"
+title: "Marta, Téa"
 image: "1483"
 location: Rome, Italy
 date_taken: March 2012

@@ -11,7 +11,7 @@ tags:
 - bw
 - street
 - girl
-- "5\xE2\x80\x9310"
+- "5–10"
 - dog
 - late afternoon
 - light

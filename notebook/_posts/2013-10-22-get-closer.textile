@@ -5,6 +5,7 @@ excerpt: Get Closer
 category: notebook
 tags: 
 - robert capa
+- writing
 - get closer
 - magnum photos
 ---

@@ -12,7 +12,7 @@ tags:
 - candid
 - underground
 - tube
-- "man 60\xE2\x80\x9390"
-- "woman 30\xE2\x80\x9350"
+- "man 60–90"
+- "woman 30–50"
 ---
 

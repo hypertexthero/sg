@@ -11,6 +11,7 @@ tags:
 - mediterraneo
 - travel
 - photography
+- writing
 ---
 <div style="text-align:center; margin:0 auto;">
 

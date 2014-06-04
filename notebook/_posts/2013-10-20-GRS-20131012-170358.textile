@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Robert Capa in Italia 1943\xE2\x80\x931944, Museo di Roma"
+title: "Robert Capa in Italia 1943–1944, Museo di Roma"
 image: "1889"
 location: Rome, Italy
 date_taken: October 2013

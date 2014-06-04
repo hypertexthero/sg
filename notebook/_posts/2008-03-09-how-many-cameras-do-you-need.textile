@@ -1,13 +1,10 @@
 --- 
 layout: entry
 title: How Many Cameras Do You Need
-excerpt: |
-  "How many cameras do you need":http://www.rogerandfrances.com/howmany.html?
-  
-
+excerpt: How many cameras do you need
 category: notebook
-tags: []
-
+tags:
+- writing
 ---
 "How many cameras do you need":http://www.rogerandfrances.com/howmany.html?
 

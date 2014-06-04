@@ -3,7 +3,11 @@ layout: entry
 title: "Two Good Customer Service Experiences: Leica &amp; Ricoh"
 excerpt: "Two Good Customer Service Experiences: Leica & Ricoh"
 category: notebook
-tags: []
+tags: 
+- writing
+- leica
+- ricoh
+- cameras
 
 ---
 # Out-of-warranty Leica M8 shutter broke during travels in Thailand. Sent it to Leica, where it was quickly repaired, cleaned, adjusted and sent back to me with a new one-year warranty for a reasonable price. A new protective film for the LCD and a lens cleaning cloth were also in the package. Excellent.

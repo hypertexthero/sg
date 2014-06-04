@@ -4,6 +4,7 @@ title: Curiosity and Schools
 excerpt: Curiosity and Schools
 category: notebook
 tags: 
+- writing
 - curiosity
 - aaron swartz
 ---

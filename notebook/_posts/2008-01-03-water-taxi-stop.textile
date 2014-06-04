@@ -11,7 +11,7 @@ tags:
 - bw
 - street
 - against sun
-- "woman 18\xE2\x80\x9325"
+- "woman 18–25"
 - silhouette
 ---
 

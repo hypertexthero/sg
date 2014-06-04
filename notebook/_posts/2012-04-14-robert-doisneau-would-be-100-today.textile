@@ -4,6 +4,7 @@ title: Robert Doisneau Would Be 100 Today
 excerpt: Robert Doisneau Would Be 100 Today
 category: notebook
 tags: 
+- writing
 - robert doisneau
 - photographer
 ---

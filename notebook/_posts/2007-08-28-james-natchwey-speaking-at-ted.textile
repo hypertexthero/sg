@@ -1,10 +1,11 @@
 --- 
 layout: entry
 title: James Natchwey Speaking at TED
-excerpt: bq. "Our political and military leaders were telling us one thing, and photographers were telling us another. I believed the photographers, and so did millions of other Americans."
+excerpt: "Our political and military leaders were telling us one thing, and photographers were telling us another. I believed the photographers, and so did millions of other Americans."
 category: notebook
-tags: []
-
+tags: 
+- writing
+- photographer
 ---
 bq. "Our political and military leaders were telling us one thing, and photographers were telling us another. I believed the photographers, and so did millions of other Americans."
 

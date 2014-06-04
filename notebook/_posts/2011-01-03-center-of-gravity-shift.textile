@@ -4,6 +4,7 @@ title: Center of Gravity Shift
 excerpt: Center of Gravity Shift
 category: notebook
 tags: 
+- writing
 - love
 ---
 Between the yellow lamp light and blue window light on a Thursday morning…time compressed…the universe broadened.

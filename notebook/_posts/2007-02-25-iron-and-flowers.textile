@@ -5,7 +5,7 @@ image: "90"
 location: Palo Alto, California, US
 date_taken: April 2006
 camera: Panasonic Lumix LX1
-lens: "Leica Vario-Elmarit 28\xE2\x80\x93112mm"
+lens: "Leica Vario-Elmarit 28–112mm"
 category: notebook
 tags: 
 - iron

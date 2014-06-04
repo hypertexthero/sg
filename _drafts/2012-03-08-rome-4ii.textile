@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: Rome - 4ii
+image: "1433"
+category: story-p3
+tags: 
+- bw
+- jrb
+- boy
+- girl
+---
+

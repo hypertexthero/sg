@@ -4,6 +4,7 @@ title: In The Cave
 excerpt: In The Cave
 category: notebook
 tags: 
+- writing
 - in the cave
 - photography
 - exhibition

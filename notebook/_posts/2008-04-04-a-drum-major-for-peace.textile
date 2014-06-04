@@ -1,13 +1,11 @@
 --- 
 layout: entry
-title: a-drum-major-for-peace
-excerpt: |
-  "Mike Johnston remembers Martin Luther King":http://theonlinephotographer.typepad.com/the_online_photographer/2008/04/a-drum-major-fo.html.
-  
-
+title: A Drum Major for Peace
+excerpt: Mike Johnston remembers Martin Luther King
 category: notebook
-tags: []
-
+tags: 
+- writing
+- martin luther king
 ---
 "Mike Johnston remembers Martin Luther King":http://theonlinephotographer.typepad.com/the_online_photographer/2008/04/a-drum-major-fo.html.
 

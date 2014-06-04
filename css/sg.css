@@ -144,11 +144,11 @@ div.homethumb h3, div.homethumb p {margin-bottom:0;}
 
 ol.thumbs {margin:0 0 0 10px !important;}
 body.storiesstoryindex ol.thumbs {margin:0 0 0 247px !important;}
-ol.thumbs li {float:left; list-style:decimal outside; color:#333; margin:0 0 10px 30px; width:233px !important; height:233px !important;}
+ol.thumbs li {float:left; list-style:none; color:#333; margin:0 0 10px 0; width:233px !important; height:233px !important;}
 ol.thumbs li a {display:block; border:none;}
 ol.thumbs li a:hover, ol.thumbs li a:active {background:transparent; color:#c00 !important;}
 ol.thumbs li:hover {color:#c00;}
-ol.thumbs li img {margin:-10px 0 0 -20px; padding:10px;}
+ol.thumbs li img {margin:-10px 0 0 -10px; padding:10px;}
 ol.thumbs li:hover img {outline:1px solid #ccc;}
 
 ol.thumbs li.textthumb {padding:0 !important;}
@@ -228,7 +228,7 @@ sup.footnote {line-height:0; font-size:0.9em !important;}
 body#archive #content p {margin-top:0; margin-bottom:0.25em;}
 body#archive #content p em {	font-size:0.75em !important; line-height:1.461em; 	}
 ul#notebooktitlelist {list-style:none;}
-body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0; font-weight:bold;}
+body.notebooktimeline div#content dl#timelinelist dt {margin:1.5em 0 0.25em; font-weight:bold; font-size:1.5em;}
 body.notebooktimeline div#content dl#timelinelist dd.archiveday {font-weight:normal; margin:0 0 -1.4em 0;}
 body.notebooktimeline div#content dl#timelinelist dd.archivetitle {position:relative; color:#2b2b2b; margin-left:1.5em;}
 em.capturedate, .small {font-size:0.75em; line-height:1.35em; color:#777;}

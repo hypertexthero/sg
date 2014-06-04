@@ -4,6 +4,7 @@ title: Dreams and Ambition
 excerpt: Dreams and Ambition
 category: notebook
 tags: 
+- writing
 - dreams
 - ambition
 - david alan harvey

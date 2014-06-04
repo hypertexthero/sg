@@ -9,7 +9,7 @@ lens: Leitz Summilux 35mm f/1.4
 category: notebook
 tags: 
 - bw
-- "m\xC3\xA3e"
+- "mãe"
 - mom
 - house
 - rocks
