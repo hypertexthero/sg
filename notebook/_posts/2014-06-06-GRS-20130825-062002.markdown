@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Near Cala dell'Allume
+location: Isola del Giglio, Italy
+date_taken: August 2013
+camera: Fuji Z33WP
+lens: Fujinon Lens
+image: GRS-20130825-062002
+date: 2014-06-06 23:42:25
+category: notebook
+excerpt:
+tags: [20 to 35 years, Amber, cloud, dress, expression, girl, hat, mounain, sandals, stick, summer, trail, portrait]
+---
