@@ -1,0 +1,13 @@
+--- 
+layout: entry
+title: Viale Aventino
+location: Rome, Italy
+date_taken: June 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+image: GRS-20140604-125016
+date: 2014-06-08 22:08:59
+category: notebook
+excerpt:
+tags: [40 to 60 years, expression, klux, man, priest, robe, valise, white]
+---
