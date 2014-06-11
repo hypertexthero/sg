@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Trastevere
+location: Rome, Italy
+date_taken: August 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-06-12 00:08:27
+tags: [20 to 30 years, black, boy, flash, girl, julia, laughing, laughter, party, peter, plastic cup]
+image: GRS-20130829-221852
+---
