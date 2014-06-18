@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Pra\xC5\xBEsk\xC3\xBD orloj"
+title: "Pražský orloj"
 image: "1685"
 location: Prague, Czech Republic
 date_taken: December 2012

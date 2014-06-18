@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Karl\xC5\xAFv most"
+title: "Karlův most"
 image: "1688"
 location: Prague, Czech Republic
 date_taken: December 2012
@@ -9,7 +9,6 @@ lens: Leitz Summilux 35mm f/1.4
 category: notebook
 tags: 
 - bw
-- "Karl\xC5\xAFv most"
 - Charles Bridge
 - sillhouette
 - water
