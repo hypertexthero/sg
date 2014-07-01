@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: LaStorta (Vampiruuuu)
+location: Rome, Italy
+date_taken: June 2014
+camera: iPhone 5c
+lens: iPhone 5c Lens
+date: 2014-07-01 21:20:40
+tags: [cat, eyes, feline, flash, lastorta, night, paw, pose, reflection, sofa, vampire, years]
+image: GRS-20140623-233605
+---
