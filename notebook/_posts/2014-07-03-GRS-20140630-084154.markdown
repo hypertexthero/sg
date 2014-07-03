@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza Venezia
+location: Rome, Italy
+date_taken: June 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-07-03 22:54:43
+tags: [30 to 45 years, blur, bw, expression, hair, hand, overexposure, woman]
+image: GRS-20140630-084154
+---
