@@ -1,7 +1,7 @@
 /* 
 sg.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: Wednesday, 04 June 2014: 14:49:34 Italy Time
+Last update: 2014-07-08 20:34:42
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -128,7 +128,7 @@ h6 {font-size:0.55em; text-transform:uppercase; font-style:italic; margin:1.7em 
 
 /* =paragraphs, =misc ---------- */
 
-p {margin-bottom:1.186em; font-size:1em; line-height:1.5em;}
+p, blockquote {margin-bottom:1.186em; font-size:1em; line-height:1.5em;}
 .center {text-align:center;}
 li, dd {font-size:1em; line-height:1.5em;}
 
@@ -213,8 +213,8 @@ div.sec {margin-bottom:4em; clear:both;}
 hr, div.end {   height:1px; background:#cc9; margin:3em -240px 3.5em; width:740px; border:none 0; 
     display:block; clear:both; color:#ccc; }
 * html body hr {height:0; background:none; margin-top:-10px;}
-blockquote {margin:1em 0 1.4em; padding-left:1em; border-left:1px solid #ccc;}
-pre {   font-family:monospace; font-size:1em; padding:10px; }
+blockquote {}
+pre {font-family:monospace; font-size:1em; padding:10px; }
 em, i, cite {font-style:italic;}
 strong, b {font-weight:bold;}
 del {text-decoration:line-through; color:#777;}
