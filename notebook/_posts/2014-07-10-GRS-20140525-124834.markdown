@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: May 2014
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-07-10 21:22:35
+tags: [40 to 60 years, bw, expression, hat, man, sweat, tourists, woman]
+image: GRS-20140525-124834
+---

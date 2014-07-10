@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: JRB
+location: Chiang Mai, Thailand
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+date: 2014-07-10 22:48:33
+tags: [20 to 35 years, bw, chiang mai, computer, film, john ryan brubaker, jrb, laptop, man, matches, photographer, photography]
+image: GRS-20100302-120712
+---
