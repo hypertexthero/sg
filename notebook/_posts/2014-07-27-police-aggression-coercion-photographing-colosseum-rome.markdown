@@ -14,6 +14,16 @@ tags:
 - colosseum
 ---
 
+_* * *_
+
+_UPDATE Monday, 28 July 2014: 10:38:48 Italy Time_
+
+1. Thanks everyone — I am fine. I walk by the Colosseum almost every day on my way to work, and in the past year have increasingly witnessed violent behavior by the police there towards the Bangladeshi people selling goods to the tourists — I'm tired of seeing this, and don't care if what they're doing is considered 'illegal' — they are people trying to make a living and deserve better treatment. If that officer went crazy and lost control because I was taking pictures, imagine how these people must be treated. I am glad I saw it from the other side!
+
+2. [Here is a leaflet <small>(PDF 48kb)</small>](http://www.foto-grafo.net/wp-content/uploads/2014/07/SPRights.pdf) to print and carry with you in case you are confronted by a law enforcement agent of officer who questions your street photography activity. Thanks to [Andrea Monti](http://www.foto-grafo.net/archives/2898) for this.
+
+_* * *_
+
 I was walking down [Via dei Fori Imperiali](https://mapsengine.google.com/map/edit?mid=zNNLa_uvcCAY.kadeL1cKHexM), right next to where [this photograph](http://simongriffee.com/notebook/GRS-20140702-175917) was taken, on my way to visit my mother outside of Rome. The time was around 11 a.m. on Sunday 27 July 2014. I heard a commotion amid the tourists walking on the sidewalk and when I turned to look I saw a Polizia Municipale e Protezione Civile officer whom I would later learn to be **(real names withheld until I speak to a lawyer)** *Mr Officer A* chasing and eventually violently grabbing by the neck a small man selling sun umbrellas in the middle of many tourists. I began to take photographs of the scene along with other people who were present. *Mr Officer A* suddenly leaped towards me and roughly grabbed my upper-left arm and backpack strap while shouting "Da mi questa maquinetta!" ("Give me this camera!"). I jumped back and stumbled away from him, losing my hat in the process.
 
 He shouted at me from a distance saying "Come here!" and I told him from a distance that I did nothing wrong. He picked up my hat and walked back to the police car. I called 112 for the Carabinieri and asked for help, and the official on the telephone indicated there were Carabinieri stationed by the other Colosseum entrance and that I should speak with them. I went to them and explained the situation. One of the Carabinieri accompanied me to [the location](https://mapsengine.google.com/map/edit?mid=zNNLa_uvcCAY.kadeL1cKHexM) where *Mr Officer A*'s patrol car was parked. *Mr Officer A* together with his partner *Ms Officer B*, demanded I hand him my identification and I complied. I was explaining what happened to the Carabinieri when a third man in Polizia Municipale e Protezione Civile uniform came to me and began roughly asking questions, including where I am from and what my job is. He said they needed to take me to their office for questioning. The Carabinieri began walking away so I walked after him and asked him to help me a second time, and at this point *Mr Officer A*, *Ms Officer B* and the third Polizia Municipale e Protezione Civile man surrounded me and said I was resisting arrest and they would need to handcuff me if I did not come along.
@@ -43,7 +53,6 @@ And apologies to you, dear viewer, for this annoying pause.
 Back to photographing.
 
 —Simon
-
 
 <h2 id="falsecharges">The False Charges</h2>
 <!--
