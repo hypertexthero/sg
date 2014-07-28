@@ -39,7 +39,7 @@ p.breadcrumbs a.active {border:none; font-weight:bold;}
 body.storieslatest, body.storiesstoryindex, body.notebookthumbnails {margin-left:20px; margin-right:20px;} 
 body.notebookthumbnails {margin-left:30px; margin-right:20px;} 
 
-#content {text-align:left; clear:both; margin-bottom:2.5em;} /*=Note: commented out apparently unecessary width…check in IE…
+#content {text-align:left; clear:both; margin-bottom:2.5em;} /*=Note: commented out apparently unecessary width - check in IE
 */
 body.textpage #content {margin-top:3em;}
 
@@ -245,8 +245,9 @@ ul.archivelist li {padding:0 0 2em; display:inline-block; margin-right:18px; tex
 ul.archivelist li a {border:0;}
 
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
-ol {font-size:inherit; list-style:decimal inside;}
+ol {font-size:inherit; list-style:decimal inside !important;}
 #textframe ul, #textframe ol {list-style:outside; padding-left:1em;}
+#textframe ol {list-style:decimal inside !important;}
 
 ul ul, ol ol, ul ol, ol ul {margin:0 0 0 2.1em !important;}
 

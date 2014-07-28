@@ -19,7 +19,6 @@ _* * *_
 _UPDATE Monday, 28 July 2014: 10:38:48 Italy Time_
 
 1. Thanks everyone — I am fine. I walk by the Colosseum almost every day on my way to work, and in the past year have increasingly witnessed violent behavior by the police there towards the Bangladeshi people selling goods to the tourists — I'm tired of seeing this, and don't care if what they're doing is considered 'illegal' — they are people trying to make a living and deserve better treatment. If that officer went crazy and lost control because I was taking pictures, imagine how these people must be treated. I am glad I saw it from the other side!
-
 2. [Here is a leaflet <small>(PDF 48kb)</small>](http://www.foto-grafo.net/wp-content/uploads/2014/07/SPRights.pdf) to print and carry with you in case you are confronted by a law enforcement agent of officer who questions your street photography activity. Thanks to [Andrea Monti](http://www.foto-grafo.net/archives/2898) for this.
 
 _* * *_
