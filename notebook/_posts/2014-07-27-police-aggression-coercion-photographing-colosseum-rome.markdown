@@ -16,10 +16,16 @@ tags:
 
 _* * *_
 
+_UPDATE Monday, 28 July 2014: 11:59:16 Italy Time_
+
+[@romacapitaleTW accuses me of wounding two of their officers](https://twitter.com/romacapitaleTW/status/493686049919762432 "Who am I? Steven Seagal?"). This is a lie. Anyone with photos or video documenting the events yesterday at the Colosseum please do [get in touch](/contact/).
+
+_* * *_
+
 _UPDATE Monday, 28 July 2014: 10:38:48 Italy Time_
 
 1. Thanks everyone — I am fine. I walk by the Colosseum almost every day on my way to work, and in the past year have increasingly witnessed violent behavior by the police there towards the Bangladeshi people selling goods to the tourists — I'm tired of seeing this, and don't care if what they're doing is considered 'illegal' — they are people trying to make a living and deserve better treatment. If that officer went crazy and lost control because I was taking pictures, imagine how these people must be treated. I am glad I saw it from the other side!
-2. [Here is a leaflet <small>(PDF 48kb)</small>](http://www.foto-grafo.net/wp-content/uploads/2014/07/SPRights.pdf) to print and carry with you in case you are confronted by a law enforcement agent of officer who questions your street photography activity. Thanks to [Andrea Monti](http://www.foto-grafo.net/archives/2898) for this.
+2. [Here is a leaflet <small>(PDF 48kb)</small>](http://www.foto-grafo.net/wp-content/uploads/2014/07/SPRights.pdf) to print and carry with you in case you are confronted by a law enforcement agent or officer who questions your street photography activity. Thanks to [Andrea Monti](http://www.foto-grafo.net/archives/2898) for this.
 
 _* * *_
 
@@ -29,11 +35,11 @@ He shouted at me from a distance saying "Come here!" and I told him from a dista
 
 I entered the Polizia Municipale e Protezione Civile's patrol car which was parked [here in Piazza del Colosseo](https://mapsengine.google.com/map/edit?mid=zNNLa_uvcCAY.kadeL1cKHexM) with *Ms Officer B* in the back and *Mr Officer A* driving and was taken to the Corpo di Polizia Locale di Roma Capitale at Via della Greca, 5 00186 in Rome. I was taken to a room with two police workers whose names I do not know. While I was waiting I tried to telephone my wife and my mother but was not allowed to finish the call before they took my phone away from me and turned it off. Later when I asked to make a phone call they informed me I had already had. The third Polizia Municipale e Protezione Civile person who had roughly asked questions also arrived (I do not know his name), and he, along with *Mr Officer A* and *Ms Officer B* repeatedly gave false information, including falsely accusing me of pushing their colleague (the third man whose name I do not know) and of interfering with their work and letting the man they were trying to arrest get away (even if this were true, which it is not — they arrested the other man — it was the officer's decision to jump at me and let him go. I was only taking pictures and never got in his way).
 
-The police workers confiscated the rest of my belongings, including my wallet, telephone, and backpack with all contents as well as my Fujifilm X100S camera serial number 32M10667 and its memory card. They had my Italian driver's licence and Brazilian passport (which was in my bag as I needed to go to the Brazilian embassy later in the week). They proceeded to make various remarks clearly designed to make me afraid, including that I could be incarcerated for between 5 months to six years for resisting arrest, that they would signal my employee about what happened (good!), and that they would need to take me to a station outside of Rome's center to be photographed since, despite being a resident here and also holding UK citizenship (though I did not have my passport with me), I was classed as a foreigner since I was not born in Italy. I kept silent as no lawyer was present.
+The police workers confiscated the rest of my belongings, including my wallet, telephone, and backpack with all contents as well as my Fujifilm X100S camera serial number 32M10667 and its memory card. They had my Italian driver's licence and Brazilian passport (which was in my bag as I needed to go to the Brazilian embassy later in the week). They proceeded to make various remarks clearly designed to make me afraid, including that I could be incarcerated for between 5 months to six years for resisting arrest, that they would signal my employer about what happened (good!), and that they would need to take me to a station outside of Rome's center to be photographed since, despite being a resident here and also holding UK citizenship (though I did not have my passport with me), I was classed as a foreigner since I was not born in Italy. I kept silent as no lawyer was present.
 
 I was then driven to the Immigration Office at the Police headquarters in Tor Cervara in Via Teofilo Patini (angolo Via Salvati) by *Mr Officer A* with *Ms Officer B* riding in the back at very high speed with sirens activated. At Tor Cervara I was put in a cell to wait for a few minutes and was then taken to a room where I was photographed and had my finger and palm prints taken by officials there. While in Tor Cervara I witnessed several people of African and Indian origin in confinement in another large cell. Many of them seemed passed out on the floor. I left in the same car with *Mr Officer A* driving and *Ms Officer B* next to me in the back seat and was taken back to Via della Greca. During the car ride I spoke with *Ms Officer B* and indicated I was sorry for causing them trouble, but that I was very surprised at their reaction to me taking their photos. *Ms Officer B* said that their work is difficult and that they have orders to stop the illegal sellers around the Colosseum.
 
-Back in Via della Greca *Mr Officer A* read out to me a description of what happened from his own report, including the false charges against me, and I was instructed to sign various papers without a lawyer present (the police workers whose names I do not know were there as well as Ms - - - -, Ufficiale di Polizia Giudiziaria, whose name I found out later). I apologized to all present for taking up their time, including *Mr Officer A*, and shook *Mr Officer A*'s hand, who by this time had calmed down. My Fujifilm X100S camera serial number 32M10667 with __8GB memory card__ and __Fujifilm MP-95 battery__ was confiscated, in *Mr Officer A*'s words, "in order to check the photographs" despite them being able to check them there in the station (and despite it [not being a crime in Italy](http://www.foto-grafo.net/archives/1705)).
+Back in Via della Greca *Mr Officer A* read out to me a description of what happened from his own report, including the false charges against me, and I was instructed to sign various papers without a lawyer present (the police workers whose names I do not know were there as well as Ms - - - -, Ufficiale di Polizia Giudiziaria, whose name I found out later). I apologized to all present for taking up their time, including *Mr Officer A*, and shook *Mr Officer A*'s hand, who by this time had calmed down. My Fujifilm X100S camera serial number 32M10667 with 8GB memory card and Fujifilm MP-95 battery was confiscated, in *Mr Officer A*'s words, "in order to check the photographs" despite them being able to check them there in the station (and despite it [not being a crime in Italy](http://www.foto-grafo.net/archives/1705)).
 
 I was informed I would be contacted in six months to come before a judge, and that I could get my own lawyer or have one provided by the state, and that the camera's return would depend on the judge's decision. I was released at around 14:00 in the afternoon. Later I realized my drivers license was missing from my wallet. I returned to the station and asked for it and it was returned to me by Ms. - - - -, Ufficiale di Polizia Giudiziaria, after signing another form. After inquiring about the camera Ms - - - - informed me its return would have to wait for the judge's decision.
 
@@ -53,8 +59,8 @@ Back to photographing.
 
 —Simon
 
-<h2 id="falsecharges">The False Charges</h2>
-<!--
+<!--<h2 id="falsecharges">The False Charges</h2>
+
 The following is what I have to been able to find on an __initial__ internet search regarding the charges against me. I will update them when I know for sure.
 
 - 336 - Violenza o minaccia a un pubblico ufficiale
