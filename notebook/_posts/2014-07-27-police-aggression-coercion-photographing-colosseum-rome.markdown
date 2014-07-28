@@ -59,6 +59,24 @@ Back to photographing.
 
 —Simon
 
+<p><i>Share this:</i>
+  <script type="text/javascript" charset="utf-8">
+    function emailFriend(){
+    var strrep, ptitle = document.title;
+    strrep = ptitle.replace(/"/g,'%22');
+    strrep = ptitle.replace(/&/g,'%26');
+    var mailtourl = "mailto:?subject=Police Aggression and Coercion When Photographing by the Colosseum in Rome&body="+encodeURIComponent('http://simongriffee.com/notebook/police-aggression-coercion-photographing-colosseum-rome/');
+    location.href = mailtourl;
+    return false
+    }
+  </script>
+
+  <a href="javascript:;" onclick="emailFriend();return false" title="With your own mail application.">Mail</a>,
+  <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com/notebook/police-aggression-coercion-photographing-colosseum-rome/&amp;source=tweetbutton&amp;text={{ page.title }} - Simon Griffee&amp;url=http://simongriffee.com/notebook/police-aggression-coercion-photographing-colosseum-rome" title="Tweet tweet.">Twitter</a>,
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com/notebook/police-aggression-coercion-photographing-colosseum-rome" title="Book of many faces.">Facebook</a>, or
+  <a href="https://plus.google.com/share?url=http://simongriffee.com/notebook/police-aggression-coercion-photographing-colosseum-rome" title="Googoo">Google +</a>
+</p>
+
 <!--<h2 id="falsecharges">The False Charges</h2>
 
 The following is what I have to been able to find on an __initial__ internet search regarding the charges against me. I will update them when I know for sure.
