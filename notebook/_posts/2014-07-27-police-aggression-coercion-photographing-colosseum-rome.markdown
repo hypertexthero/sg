@@ -16,6 +16,12 @@ tags:
 
 _* * *_
 
+_UPDATE Monday, 28 July 2014: 17:03:39 Italy Time_
+
+Thanks again for all your expressions of help and sympathy. I am currently taking legal advice and will stop updating this, let the legal process take its course, and write another post in the future. I have always held Rome's Police in high regard which is why I am shocked and disappointed about what happened yesterday.
+
+_* * *_
+
 _UPDATE Monday, 28 July 2014: 11:59:16 Italy Time_
 
 [@romacapitaleTW accuses me of wounding two of their officers](https://twitter.com/romacapitaleTW/status/493686049919762432 "Who am I? Steven Seagal?"). This is a lie. Anyone with photos or video documenting the events yesterday at the Colosseum please do [get in touch](/contact/).
@@ -47,7 +53,7 @@ I am currently seeking (please [contact me](/contact/)):
 
 1. Any witnesses who were present at [the location](https://mapsengine.google.com/map/edit?mid=zNNLa_uvcCAY.kadeL1cKHexM) (there were many tourists, vendors and even Roman centurions present).  
 2. Stories from anyone else who has experienced police aggression and coercion while photographing in Rome.  
-3. An Italian lawyer with experience defending photographers (I am already contacting potential ones). I plan to contest all the false charges against me and press charges of my own should the chance of winning be high.
+3. <del>An Italian lawyer with experience defending photographers (I am already contacting potential ones). I plan to contest all the false charges against me and press charges of my own should the chance of winning be high.</del> I now have a lawyer, thank you.
 
 I think photographing in a public place, and also photographing police officers in a public place, [is not and should not](http://www.foto-grafo.net/archives/1705) be a crime. 
 
