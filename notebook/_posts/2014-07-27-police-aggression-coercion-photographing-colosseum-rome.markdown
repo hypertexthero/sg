@@ -16,7 +16,7 @@ tags:
 
 _* * *_
 
-_UPDATE Tuesday, 29 July 2014: 14:16:28 Italy Time_
+<i id="u04">UPDATE Tuesday, 29 July 2014: 14:16:28 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u04" title="Link to this update.">#</a>
 
 I was asked why I apologized to the police while in their office and in the car when returning from Tor Cervara. 
 
@@ -28,19 +28,19 @@ I have now found a lawyer, and thank everyone that has offered their help very m
 
 _* * *_
 
-_UPDATE Monday, 28 July 2014: 17:03:39 Italy Time_
+<i id="u03">UPDATE Monday, 28 July 2014: 17:03:39 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u03" title="Link to this update.">#</a>
 
 Thanks again for all your expressions of help and sympathy. I am currently taking legal advice and will stop updating this, let the legal process take its course, and write another post in the future. I have always held Rome's Police in high regard which is why I am shocked and disappointed about what happened yesterday.
 
 _* * *_
 
-_UPDATE Monday, 28 July 2014: 11:59:16 Italy Time_
+<i id="u02">UPDATE Monday, 28 July 2014: 11:59:16 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u02" title="Link to this update.">#</a>
 
 [@romacapitaleTW accuses me of wounding two of their officers](https://twitter.com/romacapitaleTW/status/493686049919762432 "Who am I? Steven Seagal?"). This is a lie. Anyone with photos or video documenting the events yesterday at the Colosseum please do [get in touch](/contact/).
 
 _* * *_
 
-_UPDATE Monday, 28 July 2014: 10:38:48 Italy Time_
+<i id="u01">UPDATE Monday, 28 July 2014: 10:38:48 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u01" title="Link to this update.">#</a>
 
 1. Thanks everyone — I am fine. I walk by the Colosseum almost every day on my way to work, and in the past year have increasingly witnessed violent behavior by the police there towards the Bangladeshi people selling goods to the tourists — I'm tired of seeing this, and don't care if what they're doing is considered 'illegal' — they are people trying to make a living and deserve better treatment. If that officer went crazy and lost control because I was taking pictures, imagine how these people must be treated. I am glad I saw it from the other side!
 2. [Here is a leaflet <small>(PDF 48kb)</small>](http://www.foto-grafo.net/wp-content/uploads/2014/07/SPRights.pdf) to print and carry with you in case you are confronted by a law enforcement agent or officer who questions your street photography activity. Thanks to [Andrea Monti](http://www.foto-grafo.net/archives/2898) for this.
