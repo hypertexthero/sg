@@ -16,6 +16,18 @@ tags:
 
 _* * *_
 
+_UPDATE Tuesday, 29 July 2014: 14:16:28 Italy Time_
+
+I was asked why I apologized to the police while in their office and in the car when returning from Tor Cervara. 
+
+I apologized because I _was afraid_, and was looking for a way out of what I was made to think was a hopeless situation. With no one to defend me present, with no phone, and under intense pressure from the Officer A (with the others simply confirming whatever he said without allowing me to say my version of events), I felt helpless and remained silent. I was made to believe that if I did not find a way out of the situation I would not be allowed to leave that day and would be imprisoned for an indeterminate amount of time until a judge could see me.
+
+Needless to say I __DO NOT__ agree with anything that was written in the report with the charges against me (I was not even given a copy of the report, or anything that indicated they have my camera), and was coerced to sign all the papers.
+
+I have now found a lawyer, and thank everyone that has offered their help very much.
+
+_* * *_
+
 _UPDATE Monday, 28 July 2014: 17:03:39 Italy Time_
 
 Thanks again for all your expressions of help and sympathy. I am currently taking legal advice and will stop updating this, let the legal process take its course, and write another post in the future. I have always held Rome's Police in high regard which is why I am shocked and disappointed about what happened yesterday.
