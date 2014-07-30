@@ -16,7 +16,15 @@ tags:
 
 _* * *_
 
-<i id="u06">UPDATE 6 - Tuesday, 30 July 2014: 08:10:00 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u06" title="Link to this update.">#</a>
+<i id="u07">UPDATE 7 - Wednesday, 30 July 2014: 18:30:24 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u07" title="Link to this update.">#</a>
+
+I've sent a complaint to the British Consulate by email after speaking to them on the phone today. I'm a bit under the weather with the amount of paperwork and writing of the past few days, so apologies if I don't respond to you for a while.
+
+After receiving a sympathetic email about my fear of the officers I remembered that during the initial 'questioning' (they did not let me answer any questions) at the police station I noticed a large wooden stick with paper taped to one of its ends in plain view resting on various documents on a side-table next one of the police workers present. I'm not sure if they always keep it there, or bring it out when they 'question' people.
+
+_* * *_
+
+<i id="u06">UPDATE 6 - Wednesday, 30 July 2014: 08:10:00 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u06" title="Link to this update.">#</a>
 
 Yesterday I spoke with the chief of security at my place of work (FAO - Food and Agriculture Organization of the United Nations). I have now [named my place of work](/notebook/police-aggression-coercion-photographing-colosseum-rome#item4) in my original article below.
 
