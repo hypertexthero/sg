@@ -16,6 +16,17 @@ tags:
 
 _* * *_
 
+<i id="u08">UPDATE 8 - Thursday, 31 July 2014: 09:30:55 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u08" title="Link to this update.">#</a>
+
+An article about what happened to me last Sunday was [published in Wanted in Rome](http://www.wantedinrome.com/news/2003332/expat-photographer-arrested-in-front-of-colosseum.html), a "fortnightly magazine in English for expats and tourists living, or just visiting, the Eternal City" (_not_ a law enforcement website! :) It includes a photograph of me and two of my photographs that were taken months before the incident this Sunday. Thanks to Wanted in Rome for publishing and to [Amber](http://descriptedlines.com/) for writing.
+
+Here is a photograph of me holding my camera that was taken from me by Rome's Police:
+
+![GRS-20131216-224449](/images/GRS-20131216-224449.jpg)  
+_Simon Griffee in December 2013 with his Fujifilm X100S camera (serial number 32M10667) that was taken by Rome's Police._
+
+_* * *_
+
 <i id="u07">UPDATE 7 - Wednesday, 30 July 2014: 18:30:24 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u07" title="Link to this update.">#</a>
 
 I've sent a complaint to the British Consulate by email after speaking to them on the phone today. I'm a bit under the weather with the amount of paperwork and writing of the past few days, so apologies if I don't respond to you for a while.
