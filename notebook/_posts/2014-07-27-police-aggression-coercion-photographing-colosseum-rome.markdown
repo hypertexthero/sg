@@ -16,6 +16,14 @@ tags:
 
 _* * *_
 
+<i id="u09">UPDATE 9 - Friday, 01 August 2014: 13:53:03 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u09" title="Link to this update.">#</a>
+
+I've filed a complaint at the Brazilian Consulate in person. I am distributing [flyers](/AggressioneCoercizioneFotografandoColosseoaRoma.pdf) around the area in search of witnesses.
+
+The best thing about all this is that it is generating a discussion and increasing awareness. I now know that people have [been killed while in police custody after 'routine arrests' here](http://www.agoravox.it/Stefano-Cucchi-e-gli-altri-morti.html) before, which makes the whole experience even more memorable.
+
+_* * *_
+
 <i id="u08">UPDATE 8 - Thursday, 31 July 2014: 09:30:55 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u08" title="Link to this update.">#</a>
 
 An article about what happened to me last Sunday was [published in Wanted in Rome](http://www.wantedinrome.com/news/2003332/expat-photographer-arrested-in-front-of-colosseum.html), a "fortnightly magazine in English for expats and tourists living, or just visiting, the Eternal City" (_not_ a law enforcement website! :) It includes a photograph of me and two of my photographs that were taken months before the incident this Sunday. Thanks to Wanted in Rome for publishing and to [Amber](http://descriptedlines.com/) for writing.
