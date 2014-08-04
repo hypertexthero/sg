@@ -187,7 +187,7 @@ img#potmplate {margin-bottom:1.25em !important;}
 
 div#plateframe {position:relative; margin:0 auto; text-align:center;}
 body#notebook div#plateframe {margin:0 auto;}
-div#plateframe a {border:none !important;}
+/*div#plateframe a {border:none !important;}*/
 div#plateframe a:hover {background:transparent !important;}
 div#plateframe img {border:3px solid #000 !important;}
 
