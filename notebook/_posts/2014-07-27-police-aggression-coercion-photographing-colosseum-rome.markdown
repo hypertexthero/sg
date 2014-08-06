@@ -14,6 +14,26 @@ tags:
 - colosseum
 ---
 
+**[Leggi la traduzione in Italiano](https://docs.google.com/document/d/1xW5oeL50srZgVUTLpouDFjpPoVHGO9G-HMRvRTXTpYA/edit)**
+
+_* * *_
+
+<i id="u10">UPDATE 10 - Wednesday, 06 August 2014: 10:45:54 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u10" title="Link to this update.">#</a>
+
+To help raise awareness of abusive behavior towards photographers and others by some in Rome's Police you can tweet to the following people:
+
+- [Ignazio Marino - @ignaziomarino](https://twitter.com/ignaziomarino) - Rome's mayor.
+- [Roma Capitale - @romacapitaleTW](https://twitter.com/romacapitaleTW) - The City of Rome.
+- [Raffaele Clemente - @raffaeleclement](https://twitter.com/raffaeleclement) - Rome's Chief of Police.
+
+I've just [Tweeted to Mr. Marino](https://twitter.com/simongriffee/status/496937700512251904):
+
+> @ignaziomarino Ho vissuto a Roma per 15 anni. É la prima volta che qualcosa mi é stata tolta con la forza. http://goo.gl/ot98Na
+
+<i>(I have lived in Rome for 15 years. It is the first time that something has been taken from me by force. http://goo.gl/ot98Na)</i>
+
+Recently in the north of Italy a journalist [spent a frightening night in jail after taking a photograph of a policeman](http://espresso.repubblica.it/attualita/2014/08/05/news/per-una-notte-sequestrato-dalla-polizia-la-denuncia-di-un-giornalista-di-rovigo-1.175733?ref=HRBZ-1) (thanks to my mom Odila for sending this to me). [Read an English translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fespresso.repubblica.it%2Fattualita%2F2014%2F08%2F05%2Fnews%2Fper-una-notte-sequestrato-dalla-polizia-la-denuncia-di-un-giornalista-di-rovigo-1.175733%3Fref%3DHRBZ-1&edit-text=&act=url).
+
 _* * *_
 
 <i id="u09">UPDATE 9 - Friday, 01 August 2014: 13:53:03 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u09" title="Link to this update.">#</a>
@@ -63,7 +83,7 @@ Many thanks to Marzia for contacting and interviewing me and to my friends Alash
 
 There is now an [Italian translation](https://docs.google.com/document/d/1njrpg7Sdj90sArPLBPFpr83r4ECA_cwjT2cQPjur8U0/edit) of my original report and some of the updates. Thank you, Riccardo! 
 
-## [Leggi la traduzione in Italiano](https://docs.google.com/document/d/1njrpg7Sdj90sArPLBPFpr83r4ECA_cwjT2cQPjur8U0/edit)
+## [Leggi la traduzione in Italiano](https://docs.google.com/document/d/1xW5oeL50srZgVUTLpouDFjpPoVHGO9G-HMRvRTXTpYA/edit)
 
 _* * *_
 
@@ -98,7 +118,7 @@ _* * *_
 
 _* * *_
 
-**[Leggi la traduzione in Italiano](https://docs.google.com/document/d/1njrpg7Sdj90sArPLBPFpr83r4ECA_cwjT2cQPjur8U0/edit) »**
+**[Leggi la traduzione in Italiano](https://docs.google.com/document/d/1xW5oeL50srZgVUTLpouDFjpPoVHGO9G-HMRvRTXTpYA/edit) »**
 
 <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#item1"><span id="item1">#</span></a> I was walking down [Via dei Fori Imperiali](https://mapsengine.google.com/map/edit?mid=zNNLa_uvcCAY.kadeL1cKHexM), right next to where [this photograph](http://simongriffee.com/notebook/GRS-20140702-175917) was taken, on my way to visit my mother outside of Rome. The time was around 11 a.m. on Sunday 27 July 2014. I heard a commotion amid the tourists walking on the sidewalk and when I turned to look I saw a Polizia Municipale e Protezione Civile officer whom I would later learn to be **(real names withheld until I speak to a lawyer)** *Mr Officer A* chasing and eventually violently grabbing by the neck a small man selling sun umbrellas in the middle of many tourists. I began to take photographs of the scene along with other people who were present. *Mr Officer A* suddenly leaped towards me and roughly grabbed my upper-left arm and backpack strap while shouting "Da mi questa maquinetta!" ("Give me this camera!"). I jumped back and stumbled away from him, losing my hat in the process.
 
