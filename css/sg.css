@@ -1,7 +1,7 @@
 /* 
 sg.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2014-07-08 20:34:42
+Last update: 2014-08-11 23:54:37
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -187,7 +187,7 @@ img#potmplate {margin-bottom:1.25em !important;}
 
 div#plateframe {position:relative; margin:0 auto; text-align:center;}
 body#notebook div#plateframe {margin:0 auto;}
-/*div#plateframe a {border:none !important;}*/
+div#plateframe a {border:none !important;}
 div#plateframe a:hover {background:transparent !important;}
 div#plateframe img {border:3px solid #000 !important;}
 
