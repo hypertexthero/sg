@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Dad On Day of Departure For His Last Trip to Africa
+location: Fiumicino Airport, Rome, Italy
+date_taken: March 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-08-11 23:19:41
+tags: [50 to 70 years, bw, dad, expression, glasses, indoors, man, peter griffee, reading]
+image: GRS-20080308-095229
+---
+I miss you, dad.
