@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: August 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-08-25 22:07:37
+tags: [bangladeshi, color, colosseo, colosseum, man, motorino, rain, reflection, rome, street, umbrella, walk]
+image: GRS-20140823-193148
+---

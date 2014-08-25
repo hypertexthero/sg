@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via dei Fori Imperiali
+location: Rome, Italy
+date_taken: August 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-08-25 21:35:52
+tags: [45 to 70 years, artifact, bw, close, crowd, expression, glare, glasses, man, shades, sun, sunglasses, tourists]
+image: GRS-20140819-172411
+---
