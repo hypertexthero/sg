@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via di Porta Angelica
+location: Rome, Italy
+date_taken: July 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-08-28 22:12:07
+tags: [60 to 80 years, bowtie, bw, expression, face lines, glasses, man]
+image: GRS-20140707-120647
+---
