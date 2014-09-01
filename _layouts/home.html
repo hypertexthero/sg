@@ -47,7 +47,7 @@
       <div id="plateframe">
           {% for post in site.posts limit:1 %}
             {% if post.date_taken %}
-              <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">
+              <a href="{{post.next_in_category.url}}" title="Previous Notebook entry.">
                   <img {% if post.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ post.image }}.{% if post.extension %}{{ post.extension }}{% else %}jpg{% endif %}" alt="Permanent link to this Notebook entry." />
               </a>
               <div class="caption">

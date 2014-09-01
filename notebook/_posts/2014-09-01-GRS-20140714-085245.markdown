@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Viale Aventino
+location: Rome, Italy
+date_taken: July 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-09-01 09:50:41
+tags: [bw, crowds, dress, faceless, feet, handbag, rush, shoes]
+image: GRS-20140714-085245
+---
