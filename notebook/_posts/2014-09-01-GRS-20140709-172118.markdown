@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: July 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-09-01 11:10:31
+tags: [40 to 65 years, badge, bicycle, bw, men, police, sunglasses, uniform, wheel, window]
+image: GRS-20140709-172118
+---
