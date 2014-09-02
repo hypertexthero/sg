@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: July 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-09-02 21:13:47
+tags: [16 to 25 years, 40 to 65 years, boy, bw, expression, family, man, parents, rocks, sitting, tourists, woman]
+image: GRS-20140717-092525
+---
