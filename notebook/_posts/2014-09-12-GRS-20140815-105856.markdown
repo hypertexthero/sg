@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Goodbye Zucchina
+location: Rome, Italy
+date_taken: January 2014
+camera: iPhone 5s
+lens: iPhone 5s back camera 4.12mm f/2.2
+date: 2014-09-12 12:45:30
+tags: [cat, color, sleeping, sofa, zucca, zucchina]
+image: GRS-20140815-105856
+---
+Gone too soon, sweetest cat. Missing you.
