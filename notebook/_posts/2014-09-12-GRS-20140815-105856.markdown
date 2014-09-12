@@ -4,7 +4,7 @@ category: notebook
 excerpt:
 title: Goodbye Zucchina
 location: Rome, Italy
-date_taken: January 2014
+date_taken: August 2014
 camera: iPhone 5s
 lens: iPhone 5s back camera 4.12mm f/2.2
 date: 2014-09-12 12:45:30
