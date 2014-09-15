@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Nguy\xE1\xBB\x85n Thái H\xE1\xBB\x8Dc Intersection"
+title: "Nguyen Thai Hoc Intersection"
 image: "930"
 location: Saigon, Vietnam
 date_taken: March 2010

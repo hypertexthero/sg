@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Train Line Between Saigon and H\xE1\xBB\x99i An"
+title: "Hue Saigon and Hoi An"
 image: "1919"
 location: Vietnam
 date_taken: April 2010

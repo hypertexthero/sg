@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Nam K\xE1\xBB\xB3 Kh\xE1\xBB\x9Fi Ngh\xC4\xA9a"
+title: "Ham Nghi"
 image: "1955"
 location: Saigon, Vietnam
 date_taken: April 2010

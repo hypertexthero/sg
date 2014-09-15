@@ -1,11 +1,11 @@
 --- 
 layout: entry
-title: "Near Thi\xE1\xBB\x81n Quang Lake"
+title: "Near Thien Quang Lake"
 image: "944"
 location: Hanoi, Vietnam
 date_taken: April 2010
 camera: Ricoh GR Digital III
-lens: "Ricoh GR Lens 28mm-e f/1.9 "
+lens: "Ricoh GR Lens 28mm-e f/1.9"
 category: notebook
 tags: 
 - bw

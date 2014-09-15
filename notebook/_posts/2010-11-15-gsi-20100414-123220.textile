@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: Street Scene GSI-20100414-123220
+title: Street Scene
 image: "949"
 location: Hanoi, Vietnam
 date_taken: April 2010

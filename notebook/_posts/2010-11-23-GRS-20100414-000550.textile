@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: Street at Night GRS-20100414-000550
+title: Street at Night
 image: "965"
 location: Hanoi, Vietnam
 date_taken: April 2010

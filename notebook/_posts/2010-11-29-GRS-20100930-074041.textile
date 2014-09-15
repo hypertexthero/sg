@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: Stazione Termini GRS-20100930-074041
+title: Stazione Termini
 image: "969"
 location: Rome, Italy
 date_taken: September 2010

@@ -1,11 +1,11 @@
 --- 
 layout: entry
-title: "H\xC3\xA0n Thuyên"
+title: "Cafe Han Thuyen"
 image: "1907"
 location: Saigon, Vietnam
 date_taken: March 2010
 camera: Ricoh GR Digital III
-lens: "Ricoh GR Lens 28mm-e f/1.9 "
+lens: "Ricoh GR Lens 28mm-e f/1.9"
 category: notebook
 tags: 
 - bw

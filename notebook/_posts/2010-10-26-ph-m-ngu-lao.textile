@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: "Ph\xE1\xBA\xA1m Ng\xC5\xA9 Lão"
+title: "Ph M Ngu Lao"
 image: "922"
 location: Saigon, Vietnam
 date_taken: March 2010

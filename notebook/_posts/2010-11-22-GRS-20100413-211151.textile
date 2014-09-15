@@ -1,6 +1,6 @@
 --- 
 layout: entry
-title: Police Van GRS-20100413-211151
+title: Police Van
 image: "960"
 location: Hanoi, Vietnam
 date_taken: April 2010

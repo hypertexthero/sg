@@ -18,6 +18,27 @@
     </div> <!-- /#header -->
     <div id="footer" class="largetopmargin">
       {% include footer.html %}
+      
+      <p class="center"><a id="showshare" href="#share" title="Or an enemy.">Show to a Friend</a></p>
+      <p id="share" class="center" style="display:none;">
+        <script type="text/javascript" charset="utf-8">
+          function emailFriend(){
+          var strrep, ptitle = document.title;
+          strrep = ptitle.replace(/"/g,'%22');
+          strrep = ptitle.replace(/&/g,'%26');
+          var mailtourl = "mailto:?subject=Photographs by Simon Griffee&body="+encodeURIComponent(location.href);
+          location.href = mailtourl;
+          return false
+          }
+        </script>
+
+        <a href="javascript:;" onclick="emailFriend();return false" title="With your own mail application.">Mail</a> ·
+        <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com{{page.url}}/&amp;source=tweetbutton&amp;text={{ page.title }} - Photographs by Simon Griffee&amp;url=http://simongriffee.com{{page.url}}" title="Tweet tweet.">Twit</a> · 
+        <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com{{page.url}}" title="Book of many faces.">Face</a> · 
+        <a href="https://plus.google.com/share?url=http://simongriffee.com{{page.url}}" title="Googoo">Goo</a>
+      </p>
+      
+      
     </div> <!-- /#footer -->
   </div> <!-- /#page -->
   {% include bodyend.html %}
