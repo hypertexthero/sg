@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Luca and Suvi
+location: Rome, Italy
+date_taken: December 2010
+camera: Leica M9
+lens: Leitz Summicron 50mm f/2
+date: 2014-09-19 23:41:09
+tags: [luca suvi bar cigarette friends love hand blur night bw]
+image: GRS-20101226-010409
+---
+Goodbye, Luca.
