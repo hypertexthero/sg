@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Luca, Ryan, Kim, Simon, Amber, Photograph by Suvi
+location: Rome, Italy
+date_taken: April 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-09-21 23:19:08
+tags: [20 to 35 years, Amber, April 2013, boy, bw, cigarette, coffee, expression, girl, Kim, Luca, Photograph by Suvi, rome, Ryan, Simon]
+image: GRS-20130406-231517
+---
