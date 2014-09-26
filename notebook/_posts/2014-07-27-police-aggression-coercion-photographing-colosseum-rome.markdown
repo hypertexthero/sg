@@ -18,6 +18,17 @@ tags:
 
 _* * *_
 
+<i id="u11">UPDATE 11 - Friday, 26 September 2014: 10:00:23 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" title="Link to this update.">#</a>
+
+The Tribunale Ordinario di Roma has annulled the confiscation order and hopefully I'm getting my camera back in a few days.
+
+It&rsquo;s not over yet and the charges against me still need to be dismissed, but this is an important victory towards that. Many thanks to everyone who has helped me, especially Odila, Amber and my lawyer [Andrea Monti](http://www.andreamonti.com/).
+
+
+<a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" style="border:0;"><img src="/images/annulled-camera-sequestration-decree.gif" alt="Annulled Camera Sequestration Decree"></a>
+
+_* * *_
+
 <i id="u10">UPDATE 10 - Wednesday, 06 August 2014: 10:45:54 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u10" title="Link to this update.">#</a>
 
 To help raise awareness of abusive behavior towards photographers and others by some in Rome's Police you can tweet to the following people:
