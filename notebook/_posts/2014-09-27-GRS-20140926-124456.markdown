@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via Poli
+location: Rome, Italy
+date_taken: Circa April 2014
+camera: Leica M3
+lens: Leitz Summicron 50mm f/2
+date: 2014-09-27 12:00:36
+tags: [20 to 40 years, 50mm, african, black, buttons, bw, coat, expression, film, hand, hotel, leica m3, man, reception, scan, trix400, uniform]
+image: GRS-20140926-124456
+---
