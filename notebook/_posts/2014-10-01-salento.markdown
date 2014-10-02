@@ -23,4 +23,5 @@ Peter John Griffee
 <a href="/salento/" title="See the slideshow. Viewing time is 13 minutes."><img style="margin:0;" src="/img/SalentoT/intro.jpg" alt=""></a>
 
 [13-minute slideshow with music](/salento/ "Music: Echoes Part II, Pink Floyd Live at Pompeii Film - Roger Waters, Richard Wright, Nick Mason, David Gilmour. Photographs: Simon Griffee.") (recommended).  
-[Normal viewing gallery](/stories/salento.html "In the Stories section.").
+[View as video on Vimeo](http://vimeo.com/107822340).  
+[Normal gallery](/stories/salento.html "In the Stories section.").
