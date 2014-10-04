@@ -12,3 +12,5 @@ The Tribunale Ordinario di Roma has annulled the confiscation order and hopefull
 It&rsquo;s not over yet and the charges against me still need to be dismissed, but this is an important victory towards that. Many thanks to everyone who has helped me, especially Odila, Amber and my lawyer [Andrea Monti](http://www.andreamonti.com/).
 
 <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" style="border:0;"><img src="/images/annulled-camera-sequestration-decree.gif" alt="Annulled Camera Sequestration Decree"></a>
+
+<a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" style="border:0;"><img src="/images/annulled-camera-sequestration-decree-full.gif" alt="Annulled Camera Sequestration Decree - Complete"></a>

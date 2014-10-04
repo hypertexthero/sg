@@ -27,6 +27,8 @@ It&rsquo;s not over yet and the charges against me still need to be dismissed, b
 
 <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" style="border:0;"><img src="/images/annulled-camera-sequestration-decree.gif" alt="Annulled Camera Sequestration Decree"></a>
 
+<a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" style="border:0;"><img src="/images/annulled-camera-sequestration-decree-full.gif" alt="Annulled Camera Sequestration Decree - Complete"></a>
+
 _* * *_
 
 <i id="u10">UPDATE 10 - Wednesday, 06 August 2014: 10:45:54 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u10" title="Link to this update.">#</a>
