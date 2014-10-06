@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Viale Aventino
+location: Rome, Italy
+date_taken: February 2012
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-10-06 02:43:07
+tags: [aurienne auriane, bw, cape, coat, feet, flight, flying, girl, hair, jump, step, street]
+image: GRS-20120221-085105
+---
