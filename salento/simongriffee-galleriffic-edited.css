@@ -1,9 +1,9 @@
 /* Galleriffic-specific css rules for SimonGriffee.com slideshows with jPlayer music.
 Author:Simon Griffee (based on original Galleriffic CSS at http://www.twospy.com/galleriffic/ ) 
-Last update: Monday, 2 August 2010
+Last update: 2014-10-08 22:07:44
 */
 
-body {background:#111;}
+body {background:#111; padding-top:25px;}
 
 a {border:none !important;}
 div#container {text-align:center;}
@@ -20,7 +20,7 @@ div.ss-controls a {color:#c96;}
 div.ss-controls a.play {position:absolute; top:0; left:50%; margin-left:-200px; padding-top:12em;}
 div.ss-controls a.pause {padding-top:680px; color:#444;}
 
-p.ssbread {position:absolute; top:725px; left:50%; width:600px; margin-left:-300px;}
+p.ssbread {position:absolute; top:980px; left:50%; width:600px; margin-left:-300px;}
 p.ssbread, p.ssbread a {border:none;}
 p.ssbread a {padding:11px;}
 p.ssbread a:hover {text-decoration:none; color:#eee;}
@@ -28,11 +28,11 @@ p.ssbread a:hover {text-decoration:none; color:#eee;}
 div.nav-controls {display:none;}
 div.slideshow-container {position:relative; width:980px; margin:0 auto !important;}
 
-div.loader {position:absolute; top:0; left:0; }
+div.loader {position:absolute; top:0; left:0;}
 div.slideshow {
 margin:0 auto; text-align:center;}
 div.slideshow span.image-wrapper {display:block; position:absolute; top:0; left:0; width:980px; /*  height:653px;*/}
-div.slideshow-container, div.loader, div.slideshow, div.slideshow span.image-wrapper {margin:0 auto !important; padding:0 !important; line-height:0 !important; height:auto !important; border:none !important; clear:none !important; }
+div.slideshow-container, div.loader, div.slideshow, div.slideshow span.image-wrapper {margin:0 auto !important; padding:0 !important; line-height:0 !important; height:auto !important; border:none !important; clear:none !important;}
 div.slideshow a.advance-link {height:653px;/*  This should be set to be at least the height of the largest image in the slideshow */ text-align:center; line-height:0;}
 div.slideshow a.advance-link:hover, div.slideshow a.advance-link:active, div.slideshow a.advance-link:visited {text-decoration:none;}
 div.slideshow img {vertical-align:middle;}

@@ -9,6 +9,8 @@ production_url: http://simongriffee.com
 destination: ~/Sites/sg.dev
 author_name: Simon Griffee
 author_email: simon@simongriffee.com
+redcarpet: 
+  extensions: [smart]
 exclude: 
 - deploy
 - README.md
