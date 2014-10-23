@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Palazzo Farnese
+location: Rome, Italy
+date_taken: May 2014
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-10-23 21:51:04
+tags: [20 to 50 years, Amber, courtyard, dress, expression, eyebrows, lips, palazzo farnese, stripes, woman, women]
+image: GRS-20140524-152840
+---
+This is Day 2 of 5 of [black and white photo fest](/notebook/GRS-20140116-195618), where, after being named by [John Ryan Brubaker](http://jrbrubaker.com/), I'm to post one black and white photo per day and name a photographer I would like to see do the same. Today I name [Gaspar Hijo de Carlos](http://ercjspr.tumblr.com/).
