@@ -1,0 +1,16 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Baia dei Turchi
+location: Salento, Italy
+date_taken: September 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-10-26 20:58:00
+tags: [15 to 35, alice in wonderland, bag, bw, dark, dress, fairytale, forest, forest path, girl, leaves, light, path, sunlight]
+image: GRS-20140908-115155
+---
+Fourth of five black and white photographs for [BW-photo-post-thingy](/notebook/GRS-20140116-195618 "Post one black and white photo a day for five days and name a photographer you would like to see do the same each time you post.")-due-to-[JRB](http://jrbrubaker.com/), so he doesn't RRRRRAGE.
+
+I'd like to see some from [Carolyn Manney](http://carolynmanney.com/ "Photographer, etc, etc, etc!").
