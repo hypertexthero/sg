@@ -1,5 +1,6 @@
 name: Simon Griffee
-markdown: redcarpet
+# markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: none
 url:
@@ -9,8 +10,10 @@ production_url: http://simongriffee.com
 destination: ~/Sites/sg.dev
 author_name: Simon Griffee
 author_email: simon@simongriffee.com
-redcarpet: 
-  extensions: [smart]
+# redcarpet:
+#   extensions: [smart]
+# kramdown:
+#   input: [GFM]
 exclude: 
 - deploy
 - README.md

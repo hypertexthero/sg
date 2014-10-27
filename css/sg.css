@@ -197,8 +197,9 @@ body#search p.date {text-align:left;}
 p.feeds {padding-top:3em;}
 p.notecaption, div.notecaption {font-size:0.75em; line-height:1.261em; font-style:italic; clear:both; text-align:center;}
 p.entry-summary {margin-bottom:3em;}
-p.smallprint, p.footnote {font-size:0.75em; letter-spacing:0.055em;}
-p.footnote {color:#666;}
+p.smallprint, div.footnote {font-size:0.75em; letter-spacing:0.055em;}
+div.footnote {color:#666;}
+div.footnotes ol li {font-size:0.9em; list-style:decimal;}
 span.caps, strong.caps {font-size:0.95em; line-height:0;}
 .current {font-style:italic; border-left:8px solid #ccc; padding-left:5px;}
 .clear {clear:both;}
@@ -223,7 +224,7 @@ kbd {background:#ff9;}
 acronym, cite {border-bottom:1px dashed #2b2b2b;}
 address {margin:1.5em 0; font-style:italic;}
 sup {line-height:0;}
-sup.footnote {line-height:0; font-size:0.9em !important;}
+a.footnote, a.reversefootnote, sup.footnote {line-height:0; font-size:0.9em !important;  padding:0 3px !important; margin:0 2px !important; outline:#ccc solid 1px !important; }
 
 body#archive #content p {margin-top:0; margin-bottom:0.25em;}
 body#archive #content p em {	font-size:0.75em !important; line-height:1.461em; 	}

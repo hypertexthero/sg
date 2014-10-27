@@ -1,0 +1,36 @@
+--- 
+layout: entry
+title: Editing
+excerpt: Editing
+category: notebook
+tags: 
+- editing
+- photo editing
+- choosing
+- selecting
+- culling
+- writing
+---
+In photography the word 'editing' traditionally means selecting the best photos from a set. This usually involves a large number of small pictures — 'contact' or <a href="http://theonlinephotographer.typepad.com/the_online_photographer/2010/11/how-to-make-a-good-proof-sheet.html" title="How to make a good proof sheet.">'proof' prints</a> — laid out on a table, pinned to a wall, clipped to a string, or displayed in a user interface on a computer screen. The editor looks at the pictures, moves them around, culls the bad ones, keeps the best ones.
+
+<img src="/images/1022.jpg" />
+
+> <a href="http://news.bbc.co.uk/2/hi/entertainment/arts_and_culture/7907632.stm" title="The Americans in the frame - BBC.">Frame 13, Looking In: Robert Frank's "The Americans"</a>
+
+In the digital era the primary meaning of the word 'editing' when applied to the word 'photographs' has unfortunately become _'the manipulation of an image with photo editing software such as Photoshop'_. Traditional _editing_ became 'photo organizing' or 'photo management'. 
+
+[Editing](http://www.luminous-landscape.com/columns/sm-10-06.shtml "Editing 101 by Mike Johnston.") means culling, improving, condensing, simplifying — removing the unnecessary, leaving the best. In this sense, when applied to photographs, and if you want to improve your photography, I think 'editing' is a better word than 'organizing' or 'management', and it should be embraced in its traditional sense. 
+
+Endlessly manipulating a photograph with graphics software will not make it a better photograph or you a better photographer. Taking more pictures, looking at them,[^1] and _choosing_ the best, will.
+
+Despite much mythology such as Cartier-Bresson's Decisive Moment, the photographic act consists of two things: Shooting pictures and choosing which pictures to show.[^2] Most people only do the first, but editing is [at least as important as shooting](http://davidalanharvey.typepad.com/road_trip/2007/09/editing.html "Editing Tango by David Alan Harvey."). As in many things in life, you have to choose, difficult as it may be.
+
+> To be honest, most of my pictures suck. The saving grace of that admission is that most of your pictures suck, too. How could I possibly know such a thing? Because most of everybody's pictures suck, that's how. I've seen Cartier-Bresson's contact sheets, and most of his pictures sucked. One of my teachers said that it was an epiphany for him when he took a class from Garry Winogrand and learned that most of Winogrand's exposures sucked. It's the way it is.
+
+— Mike Johnston, [The Magic Bullet](http://www.luminous-landscape.com/columns/sm-sept4-05.shtml "One of Mike's excellent 'Sunday Morning Photographer' columns.")
+
+*Dear Internet, a request:* We need an online photo editing site _specialized in the traditional editing process of culling a collection of photos._ This site would let you upload a set of pictures, choose the best ones, arrange them in a [sequence](http://davidalanharvey.typepad.com/road_trip/2007/09/one-two-three.html#comments "See comments in this post.") and save a unique URL with the new 'edit' to be sent to others for discussion. It could be built with a web framework such as [Django](http://djangoproject.com/ "For perfectionists with deadlines.") combined with revision control software such as [Git](http://git-scm.com/ "Fast version control."). Please make this, or I may have to!
+
+[^1]: Good advice: have prints of pictures you think you like hanging somewhere where you see them often. Pinned to a board on a wall, tacked to a mirror, taped to your monitor, anything. After living with the pictures for some time, you eventually 'see' the ones you really like, and the others fall away.
+
+[^2]: A third thing could be 'how to show the pictures': Single print, book, gallery wall space, projection, website, and so on.
