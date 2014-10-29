@@ -18,6 +18,27 @@ tags:
 
 _* * *_
 
+<i id="u12">UPDATE 12 - Wednesday, 29 October 2014: 13:16:29 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u12" title="Link to this update.">#</a>
+
+Last week <a href="/notebook/camera-returned.html">my camera was returned to me</a> by Rome's police with the photographs that led to the incident still inside.
+
+<a href="/unlisted/police-incident-27-july-2014.html">Here they are</a>:
+
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#0"><img src="/img/PoliceIncident27July2014T/001-GRS-20140727-110215-t.jpg" alt="001-GRS-20140206-144751"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#1"><img src="/img/PoliceIncident27July2014T/002-GRS-20140727-110217-t.jpg" alt="002-GRS-20140208-094020"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#2"><img src="/img/PoliceIncident27July2014T/003-GRS-20140727-110218-t.jpg" alt="003-GRS-20140208-110219"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#3"><img src="/img/PoliceIncident27July2014T/004-GRS-20140727-110220-t.jpg" alt="004-GRS-20140208-104531"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#4"><img src="/img/PoliceIncident27July2014T/005-GRS-20140727-110222-t.jpg" alt="005-GRS-20140206-130230"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#5"><img src="/img/PoliceIncident27July2014T/006-GRS-20140727-110223-t.jpg" alt="006-GRS-20140208-144524"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#6"><img src="/img/PoliceIncident27July2014T/007-GRS-20140727-110225-t.jpg" alt="007-GRS-20140208-093852"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#7"><img src="/img/PoliceIncident27July2014T/008-GRS-20140727-110227-t.jpg" alt="008-GRS-20140208-121346"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#8"><img src="/img/PoliceIncident27July2014T/009-GRS-20140727-110228-t.jpg" alt="009-GRS-20140206-132636"></a>
+<a class="thumb" href="/unlisted/police-incident-27-july-2014#9"><img src="/img/PoliceIncident27July2014T/010-GRS-20140727-110230-t.jpg" alt="010-GRS-20140208-105157"></a> 
+
+<p>The final photo was taken in the moment <i>Mr. Officer A</i> suddenly <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#item1">lunged at me while screaming “Da mi questa maquinetta!” (“Give me this camera!”)</a>.</p>
+
+_* * *_
+
 <i id="u11">UPDATE 11 - Friday, 26 September 2014: 10:00:23 Italy Time</i> <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome#u11" title="Link to this update.">#</a>
 
 The Tribunale Ordinario di Roma has annulled the confiscation order and hopefully I'm getting my camera back in a few days.
