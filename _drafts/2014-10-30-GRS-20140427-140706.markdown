@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via della Conciliazione
+location: Rome, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-10-30 15:24:29
+tags: [18 to 75, beatification, bw, crowd, group, hat, men, pointing, women]
+image: GRS-20140427-140706
+---
