@@ -1,0 +1,16 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza di San Calisto
+location: Rome, Italy
+date_taken: October 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-10-31 13:29:34
+tags: [25 to 35 years, blur, bw, halloween, jesper, man, stilts]
+image: GRS-20131101-003411
+---
+After supervising over BIG DATA sets with [Gaspar Hijo de Carlos](http://eternalcitystyle.tumblr.com/) we have concluded [B&W photo festa](/notebook/GRS-20140116-195618) needs to be extended to name further photographic stakeholders we'd like to see post black and white photograph-thing a day for cinco días and, on each dia the 'post' button is declicked, name further stakeholders they would like see perform the same action and pray their wish comes true.
+
+GHdC stresses that rather than a straight jacket, this is an _enabler_.
