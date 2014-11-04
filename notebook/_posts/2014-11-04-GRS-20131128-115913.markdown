@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Amber, Rue d'Albanie
+location: Brussels, Belgium
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-11-04 18:59:55
+tags: [20 to 30 years, Amber, building, bw, european, girl, hair, hat, lamp, laugh, low sun, smile, street]
+image: GRS-20131128-115913
+---
