@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: November 2014
+camera: Ricoh GR Digital V
+lens: Ricoh GR Lens 28mm-e f/2.8
+date: 2014-11-10 22:50:21
+tags: [boy (4 to 10 years), bw, cobblestones, expression, father, father & son, glint, hero, man (all ages), son, sunlight, superman, walking]
+image: GRS-20141102-133943
+---
