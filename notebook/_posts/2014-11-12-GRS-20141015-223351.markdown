@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via di Porta Labicana
+location: Rome, Italy
+date_taken: October 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-11-12 21:51:29
+tags: [20 to 30 years, arms, boy, date, girl, night, street]
+image: GRS-20141015-223351
+---
