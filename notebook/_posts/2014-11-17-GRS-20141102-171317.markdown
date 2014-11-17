@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via del Corso
+location: Rome, Italy
+date_taken: November 2014
+camera: Ricoh GR Digital V
+lens: Ricoh GR Lens 28mm-e f/2.8
+date: 2014-11-17 20:32:28
+tags: [15 to 20 years, boy, bw, girl, haircut, movement, shopping, street, walk]
+image: GRS-20141102-171317
+---
