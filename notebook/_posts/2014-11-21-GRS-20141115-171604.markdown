@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Basilica di Santa Maria Sopra Minerva
+location: Rome, Italy
+date_taken: November 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-11-21 10:45:19
+tags: [60 to 80 years, bw, catholic, chains, church, dark, death, hat, man, saint, statue, tomb]
+image: GRS-20141115-171604
+---
