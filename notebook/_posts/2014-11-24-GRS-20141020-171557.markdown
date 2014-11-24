@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Termini
+location: Rome, Italy
+date_taken: October 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-11-24 21:01:44
+tags: [all ages, bw, men, movement, silhouette, walking, woman]
+image: GRS-20141020-171557
+---

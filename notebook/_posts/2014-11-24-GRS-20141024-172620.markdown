@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Capitoline Hill
+location: Rome, Italy
+date_taken: October 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2014-11-24 22:02:51
+tags: [15 to 20 years, amos, bird, bw, cloud, expression, football, girl, hair, legs, reflection, seagull, young, marble]
+image: GRS-20141024-172620
+---
