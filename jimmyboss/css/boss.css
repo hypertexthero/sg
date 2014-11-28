@@ -1,0 +1,400 @@
+/*
+boss.css by Jimmy Boss
+Wednesday, 30 November 2011
+*/
+
+* {
+margin:0;
+padding:0;
+}
+
+body {
+text-align:center;
+color:#000;
+background:#fff;
+font: normal 76%/140% Verdana, "bitstream vera sans", Helvetica, Arial, Sans-Serif;
+word-spacing: 0.1em;
+padding:24px 24px 8em 24px;
+}
+
+p.skip {display:none;}
+/* 
+
+=Links, =Images ------------------------------------------------ 
+
+*/
+a {outline:none !important;} /* Prevent visible outline on clicked anchors in Firefox */
+a:link {
+color:#03c;
+padding-bottom:0;
+}
+a:visited {
+color:#609; 
+padding-bottom:0;
+}
+a:hover {
+text-decoration:none;
+outline:none;
+}
+a:active {color:#f00; outline:none;}
+
+img {border:0; border-style:none; text-decoration:none;}
+/*a:link img.wet_article_thumb {border:1px solid #666;}
+a:visited img.wet_article_thumb {border:1px solid #444;}
+a:hover img.wet_article_thumb, a:active img.wet_article_thumb {border:1px solid #444;}
+*/
+a:link img, a:visited img {border:0; border-style:none; text-decoration:none; border-bottom:none;}
+
+a.imglink:link, a.imglink:visited {border: none;}
+/* Trying to stop IE form putting a border under linked images. Unsuccessful so far. Update: Had to assign a class to links: http://www.webmasterworld.com/forum83/2276.htm */
+
+h1 a:link, h1 a:visited {text-decoration:none;}
+
+/* =Layout ------------------------------------------------ */
+
+#page {
+position:relative;
+text-align:left;
+margin:48px 13% 0 0;
+padding:0;
+/*min-width: 550px;
+max-width: 1400px;*/
+}
+
+#header {position:relative;}
+
+/*  =logo ---------------- */
+
+p#logo {font-size:1em; line-height:1.6em; margin-bottom:0; font-family:helvetica, sans-serif;}
+p#logo strong {font-weight:bold; display:block; width:190px; text-align:right; font-size:1.5em;} /* Logo */
+p#logo strong a:link, p#logo strong a:visited {color:#000; text-decoration:none;}
+p#logo strong a:hover, p#logo strong a:active {color:#f00;}
+p#logo em {text-align:left; position:absolute; left:195px; top:0; font-style:normal;} /* Breadcrumbs */
+p#slogan {
+    font-size:1em;
+    width:190px;
+    font-family:helvetica, sans-serif;
+    font-weight:normal;
+    margin:0 0 4em; /* This controls top margin of content block */
+    font-style:italic;
+    text-align:right;
+    }
+
+/*p.crumbs {font-size:0.9em; position:absolute; top:20px; left:30px;}*/
+
+#content {
+font-size:1em;
+/*line-height:1.8em;*/
+margin:0 0 1em 238px;
+max-width:42em;
+}
+
+#sidebar {
+font-family:helvetica, sans-serif;
+position:absolute;
+top:9em;
+left:0;
+font-size:1em;
+margin:0;
+padding:0;
+width:190px;
+word-spacing:normal;
+background:#fff;
+text-align:right;
+}
+ul#navigation {list-style:none !important; font-size:0.9em; text-align:right; line-height:1.65em !important;}
+ul#navigation li {}
+/*ul#navigation li a:link, ul#navigation li a:visited {text-decoration:none;}
+ul#navigation li a:hover, ul#navigation li a:active {text-decoration:underline;}*/
+div#adspot img {margin:3em 0 0.4em;}
+div#adspot p {color:#333; font-size:11px;}
+div#sidebar h3 {margin:3em 0 0.5em; text-align:right; padding-left:30px;}
+
+ul.wet_recent_comments {list-style:none; padding-left:30px; text-align:right;}
+ul.wet_recent_comments li {font-size:0.9em;}
+ul.wet_recent_comments li p {font-size:inherit; line-height:inherit;}
+#sidebar a:link, #sidebar a:visited {text-decoration:none;}
+#sidebar a:hover, #sidebar a:active {text-decoration:underline;}
+
+body#home a.nav-home,
+body#archive a.nav-archive,
+body#about a.nav-about,
+body#advertising a.nav-advertising, 
+body#contact a.nav-contact,
+body#copyright a.nav-copyright {text-decoration:none; font-weight:bold;}
+
+#footer {
+padding:1em 0 0;
+margin:2em 0 0 238px;
+text-align:left;
+color:#333;
+font-family:helvetica, sans-serif !important;
+border-top:double #eee;
+}
+#footer p {font-size:0.95em;
+line-height:1.65em !important;}
+
+div#content h1 {
+	font-family:helvetica, sans-serif;
+	font-size:1.6em; 
+	line-height:1.2em;
+	letter-spacing:-0.025em;
+	margin:0 0 0.5em; 
+	font-weight:bold;
+	color:#000;
+	}
+
+body#article div#content h1, body#home div#content h1 {margin-top:0;}
+div#content h1 a:link, div#content h1 a:visited {color:#000; text-decoration:none !important; font-weight:bold;}
+div#content h1 a:hover, div#content h1 a:active {color:#f00; margin-top:0 !important;}
+
+h2 {
+	font-family:helvetica, sans-serif;
+	font-size:1.3em;
+	line-height:1.2em;
+	margin:1.5em 0 0.5em;
+	font-weight:bold;
+	color:#000;
+	}
+body#search h2 {margin-top:0;}
+h2#comments {margin-top:3em;}
+h3 {
+	font-size:1em; 
+	line-height:1.2em;
+	font-weight:bold;
+	margin:1.7em 0 0.5em;
+	color:#000;
+	}
+h3#commentator {margin-bottom:0 !important;}
+h4 {
+	font-size:1em;
+	font-weight:normal;
+	font-style:italic;
+	margin:1.7em 0 0.5em;
+	}
+
+h5 {
+	font-size:0.85em;
+	text-transform:uppercase;
+	margin:1.7em 0 0.5em;
+	}
+
+h6 {
+	font-size:0.8em;
+	text-transform:uppercase;
+	font-style:italic;
+	margin:1.7em 0 0.5em;
+	}
+
+/****************************************************************************
+=Paragraphs, =Misc
+****************************************************************************/
+
+p {
+	font-size:1.1em;
+	margin-bottom:1.4em;
+	line-height:1.4em;
+	}
+hr {
+	height:1px;
+	background:#000;
+	margin:12px auto 12px;
+	border:none 0; 
+	border-top:1px solid #000;
+	display:block;
+	}
+* html body hr {height:0; background:none; margin-top:-10px;}
+blockquote {margin:1em 0; padding-left:1em; border-left:1px solid #ccc;} 
+pre {
+	font-family:courier, "courier new", monospace;
+	font-size:1.1em;
+	line-height:1.5em;
+	margin:0 0 1.4em;
+	}
+em, i, cite {font-style:italic;}
+strong, b {font-weight:bold;}
+del {font-style:line-through;}
+ins {background:#ffc; text-decoration:none; border-bottom:1px dashed;}
+kbd {background:#ff9;}
+acronym, cite {border-bottom:1px dashed #999;}
+address {margin:1.5em 0; font-style:italic;}
+sup {line-height:0;}
+
+.small, .smallpermlink {font-size:0.85em !important; text-decoration:none;}
+.smallpermlink {margin:0 0 6em;}
+.normal {font-weight:normal;}
+.info {font-size:0.6px;}
+p.date {margin:0 0 0 !important; font-size:1em; font-family:helvetica, sans-serif; color:#777;}
+p.meta {font-size:1em; font-family:helvetica, sans-serif; margin-bottom:3em;}
+p.meta span {font-family:"Zapf Dingbats", "Apple Symbols", "Arial Unicode MS", sans-serif; font-size:1.2em; line-height:0;}
+p.end {font-size:0.9em; margin:0 0 9em; color:#ccc;}
+body#article p.end {margin-bottom:2em !important;}
+p.caption {font-size:0.9em; margin:0.2em 0 1.8em !important; font-style:italic; max-width:500px;}
+body#blog p.end {margin-bottom:3em;}
+p.smallprint, p.footnote {font-size:0.85em; letter-spacing:0.055em;}
+span.caps, strong.caps {font-size:0.95em;}
+.current {font-style:italic; border-left:8px solid #ddd; padding-left:5px;}
+li.current a {color:#000 !important;}
+.clear {clear:both;}
+.floatleft {float:left; margin:1em 2.5em 1.5em 0;}
+.floatright {float:right; margin:1em 0 1.5em 2.5em;}
+
+
+body#archive #content p {margin-top:0; margin-bottom:0.25em;}
+body#archive #content p em {
+	font-size:0.75em !important; line-height:1em;
+	}
+
+
+/****************************************************************************
+=Lists
+****************************************************************************/
+ul {
+	list-style:disc inside;
+	}
+ul.left {float:left;}
+ul.right {float:right;}
+dl {
+	font-size:1em;
+	line-height:1.4em; 
+	}
+li, dd {font-size:1.1em; line-height:1.4em;}
+/*ul ul, ol ol {
+    margin-left: 1.5em;
+}*/
+ul, dl {
+	margin: 0 0 1.4em 0.20em;
+}
+ol {
+	font-size:inherit;
+	list-style:decimal inside;
+	margin:0 0 1.4em 1.5em;
+    text-indent: -1.6em;
+	}
+
+
+/****************************************************************************
+=Forms
+****************************************************************************/
+body#contact input, body#contact textarea {margin-bottom:1em;}
+body#contact textarea {width:90%;}
+body#contact form {margin-top:3em;}
+input, textarea {padding:2px; background:#fff; margin:0 0 1em;}
+textarea {margin-bottom:1em; height:10em; width:30em; margin-bottom:1em;}
+label {font-size:0.95em; color:#666;}
+label span {font-size:0.9em;}
+div.button input {width:auto;}
+input.button {text-transform:capitalize; margin:2px 0 1em;}
+input.searchbutton {text-transform:capitalize; margin:2px 0;}
+input.searchinput {margin-bottom:2px;}
+span.checkbox label {font-size:1em;}
+input.checkbox {margin:1em 0 0; background:#eee;}
+input#txpCommentSubmit, input#txpCommentPreview {padding:5px 15px; background:#36c; color:white; margin:0.5em 0;}
+input#txpCommentSubmit {font-weight:bold; font-style:italic;}
+input#txpCommentSubmit.disabled {padding:5px 15px; background:#ccc; color:white;}
+fieldset {padding:1em; border:1px solid #ddd;}
+div.comment.even.author {background:transparent url(../images/jimmyboss-avatar.gif) no-repeat top right !important;}
+div.comment.odd.author {background:#ececec url(../images/jimmyboss-avatar.gif) no-repeat top right !important;}
+div#content form#search {margin:1.5em 0 2em;}
+
+/****************************************************************************
+=Comments
+****************************************************************************/
+div.commentform {margin:1.5em 0; padding:0 1.5em; border-top:1px solid #ddd; border-bottom:1px solid #ddd;}
+div.comments-wrapper {margin-left:1.5em;}
+div.comment {padding:15px; margin:1.5em auto;}
+div#commentpreviewnote {color:#36c;}
+div#commentpreviewnote em strong {background:#36c; color:#fff; padding:5px; font-weight:normal; font-size:0.8em; line-height:0;}
+div#cpreview {
+border:dashed 1px #03c;
+margin:1em 0; 
+padding:1em 1.5em 1.5em;
+}
+ul.comments_error {color:#f00;}
+ul.zemError {list-style:none;}
+div#cpreview h3 {margin-left:1em;}
+form#txpCommentInputForm {margin:3em 0; padding:0 0 1em; border-top:double #eee; border-bottom:double #eee;}
+#cpreview div.comment {padding:0.2em 1em;}
+div.odd {background:#ececec;} /* 'even' and 'odd' are default classes assigned by the <txp:ajw_comment_alt /> tag of the ajw_comment_alt plugin to alternate the background of comments. */
+div.even {background:transparent;}
+/*div.comment.even span.comment-no a {color:#333 !important;}*/
+/*div.comment span.comment-no a:hover, div.comment span.comment-no a:active {color:#333 !important;}*/
+p.comment_meta {color:#333;}
+div.comment p.comment_meta span.comment-no a {font-size:2em; float:left; padding:0 1em 0 0; border:none;}
+/****************************************************************************
+=Tables
+****************************************************************************/
+table {
+	width:auto;
+	padding:0;
+	margin:0;
+	}
+	table caption {
+		padding:0 0 5px 0;
+		width:auto;	 
+		font-style:italic;
+		text-align:right;
+		}
+	table th {
+		font:bold 11px helvetica, sans-serif;
+		color:#000;
+		border-right:1px solid #ccc;
+		border-bottom:1px solid #ccc;
+		border-top:1px solid #ccc;
+		letter-spacing:2px;
+		text-transform:uppercase;
+		text-align:left;
+		padding:6px 6px 6px 12px;
+		background:#eee; /*url(images/bg_tableHeader.jpg) no-repeat*/
+		}
+	table th.nobg {
+		border-top:0;
+		border-left:0;
+		border-right:1px solid #ccc;
+		background:none;
+		}
+	table td {
+		border-right:1px solid #ccc;
+		border-bottom:1px solid #ccc;
+		background:#fff;
+		padding:6px 6px 6px 12px;
+		}
+	table td.alt {
+		background:#F5FAFA;
+		}
+	table th.vert {
+		border-left:1px solid #ccc;
+		border-top:0;
+		background:#fff;
+		font:bold 10px helvetica, sans-serif;
+		}
+	table th.vertalt {
+		border-left:1px solid #ccc;
+		border-top:0;
+		background:#f5fafa;
+		font:bold 10px helvetica, sans-serif;
+		}
+		
+/* =Lightbox --------------------------------------------- 
+Boss thanks: http://www.huddletogether.com/projects/lightbox/ 
+*/
+
+#lightbox {
+	background-color:#eee;
+	padding: 10px;
+	}
+#lightboxDetails {
+	font-size: 0.8em;
+	padding-top: 0.4em;
+	}	
+#lightboxCaption {float:left; font-size:1.3em;}
+#keyboardMsg {float:right; font-size:1.1em;}
+
+#lightbox img {border:none;} 
+#overlay img {border:none; position:absolute; z-index:500;}
+
+#overlay {background-image:url(../images/overlay.png);}
+
+* html #overlay {
+	background:transparent url(../images/overlay_ie.gif) repeat 0 0;
+	}

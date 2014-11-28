@@ -1,0 +1,54 @@
+/* 
+pastaclock.css by Jimmy Boss - http://jimmyboss.com 
+*/
+
+* {margin:0; padding:0;}
+body {font-size:100%; font-family:helvetica, sans-serif; text-align:center; background:#fff; position:relative;}
+
+html, body {height:100%;}
+#page {min-height:100%;} /* http://www.communitymx.com/content/article.cfm?cid=BAD95 */
+
+div#leaderboardad {text-align:left; margin:1em;}
+div#linkunitad {margin:2em;}
+a:link, a:visited {color:#00f;}
+a:hover, a:active {color:#c30; text-decoration:none;}
+img {border:none !important;}
+.moreinfo {font-style:italic; color:#555;}
+h1#logo {font-size:120%;}
+h1#logo strong {font-size:80%; font-weight:normal;}
+h1#countdown {font-size:1000%; color:#00F; padding:0.1em 0.2em;}
+h1#countdown:hover {background:#fc6;}
+h2 {margin:1em 0 1em;}
+.small {font-size:80% !important;}
+p.small {margin:1.5em 0;}
+label {font-size:120%;}
+input {padding:0.5em; font-weight:bold;}
+p {margin:1em 0;}
+p#restart {display:none;}
+p#footer {margin:3em 25% 3em; padding-bottom:10em; font-size:80%; line-height:140%;}
+/*p.breadcrumbs {text-align:left !important;}*/
+ul#minuteselector {list-style:none; margin-bottom:1em;}
+ul#minuteselector li {display:inline;}
+ul#minuteselector li a, em.block {display:block; padding:0.5em 0.75em 0.35em; text-decoration:none;}
+em.block {color:#999; font-size:80%;}
+ul#minuteselector li a.alt {background:#eee;}
+ul#minuteselector li a:hover, ul li a:active {background:#fc6 url(images/spaghetti.gif) repeat-x 0 50%; font-weight:bold; font-size:150%;}
+ol {text-align:left; margin:1em 25%;}
+ol li {line-height:130%; margin-bottom:1em;}
+p#extrasecondsnote {line-height:140%;}
+body.nonote #extrasecondsnote {display:none !important;}
+/*body.nonote p#restart {display:visible !important;}*/
+body.runtostove div#page {background:url(images/rambo.jpg) no-repeat bottom center;} /* insert running image here */
+body.runtostove #extrasecondsnote {display:none !important;} 
+/*body.runtostove p#restart {display:block !important;} */
+body.warning div#page {background:url(images/smile.gif) no-repeat bottom center;} /* al dente smile */
+body.warning #extrasecondsnote {display:none !important;}
+/*body.warning p#restart {display:block !important;} */
+/*body.warning #aldente {display:visible;}*/
+table {margin:1em; font-size:90%; border-collapse: collapse;}
+td, th {padding:0.15em 0.75em; border:1px solid #ccc; border-top:none;}
+th {font-weight:bold;}
+tr.noborder td {border-bottom:none;}
+div#adspace {border:1px solid #ccc; width:468px; margin:3em auto;}
+div#adspace p {padding:20px; font-size:80%; line-height:140%; color:#999;}
+div#adspace p a {color:#999;}

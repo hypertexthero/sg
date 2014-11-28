@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="description" content="Pasta clock. Timer and technical advice for cooking pasta." />
+    <meta name="keywords" content="pasta, clock, cooking, timer, boiling" />
+    <meta name="robots" content="all" />
+    <meta http-equiv="imagetoolbar" content="false" />
+    <meta name="MSSmartTagsPreventParsing" content="true" />
+    
+	<title>2 Minutes : Pasta Clock</title>
+	
+	<link rel="Shortcut Icon" href="../favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" type="text/css" href="../pastaclock.css" />
+	
+	<!--[if lte IE 6]>
+    <style type="text/css">
+    #container {
+    height: 100%;
+    }
+    </style>
+    <![endif]-->
+	
+    <script type="text/javascript" src="../soundmanager2-nodebug-jsmin.js"></script>
+    
+	<script type="text/javascript">
+	
+	// Sound manager
+	// Sound Manager 2 by Scott Schiller - http://www.schillmania.com/projects/soundmanager2/
+
+	soundManager.url = '/'; // directory where SM2 .SWFs live
+    soundManager.debugMode = false;
+    soundManager.onload = function() {
+    }
+
+    // Timer begins here
+	// Lightning Timer script by Simon Willison - http://simonwillison.net/2008/Nov/12/lightning/
+   
+ 	var secs = 125;
+    var count = 1 * secs;
+
+
+    window.onload = function() {
+        document.getElementById('countdown').onclick = function() {
+            this.onclick = null;
+            countdown();
+        }
+        document.getElementById('countdown').style.cursor = 'pointer';
+    }
+
+    function countdown() {
+        if (count > 0) {
+            document.getElementById('countdown').style.cursor = '';
+            var obj = document.getElementById("countdown");
+            obj.replaceChild(
+                document.createTextNode(count.toMinutesAndSeconds()),
+                obj.firstChild
+            );
+            document.title = count.toMinutesAndSeconds(); 
+            count--;
+            window.setTimeout(countdown, 1000);
+            document.body.className = 'nonote';
+        } else {
+            document.body.className = 'deadline';
+            var obj = document.getElementById("countdown");
+            obj.replaceChild(
+                document.createTextNode(count.toMinutesAndSeconds()),
+                obj.firstChild
+            );
+            document.title = count.toMinutesAndSeconds();
+            obj.onclick = function() {
+                location.reload();
+            };
+            obj.style.cursor = 'pointer';
+            document.body.className = 'nonote';
+            soundManager.play('alarm','/alarm.mp3'); // play alarm with call to sound manager 
+        }
+        if (count > secs - 6) { // extra seconds to give time to go to stove
+        document.body.className = 'runtostove';
+        }
+        if (count < 35) {
+            document.body.className = 'warning';
+        }
+    }
+    Number.prototype.toMinutesAndSeconds = function() {
+        // convert numeric seconds input to minutes and seconds string output
+        var nn, curTime = new Date(this * 1000);
+        return nn = curTime.getMinutes() + ":" + (
+            ((nn = curTime.getSeconds()) < 10) ? "0" + nn : nn
+        );
+    }
+    </script>
+	
+</head>
+
+<body>
+<div id="page">
+
+
+
+<p class="breadcrumbs"><a href="../index.html" title="Pasta Clock homepage.">Pasta Clock</a> <a href="../index.html" title="Pasta Clock homepage."><img src="../images/pasta.gif" width="31" height="31" alt="Rotelli Pasta." align="absmiddle" /></a> 2 minutes</p>
+
+<h1 id="countdown">Begin</h1>
+
+<p class="small" id="extrasecondsnote">There are 5 extra seconds to give you time to RUN LIKE JOHN J. to the stove!!<br />When YELLOW SMILE appears (around 30 seconds before end of time) taste the pasta to see if it&rsquo;s al dente!</p>
+
+<p><em>Random Recipe:</em></p>
+
+<p><h3>Carbonara</h3>
+<p>(For 2 people)</p>
+<ul>
+    <li>2 glugs of olive oil</li>
+    <li>1 strip of pancetta, cut into thin strips</li>
+    <li>3 to 4 tablespoons white wine</li>
+    <li>3 egg yolks</li>
+    <li>3 tablespoons grated parmigiano-reggiano</li>
+    <li>1 tablespoon grated pecorino romano</li>
+    <li>A couple sprigs flat leaf parsley, finely chopped</li>
+    <li>Salt, pepper</li>
+</ul>
+<ol>
+    <li>Pour olive oil in a small saucepan over medium-high heat. Add
+    pancetta and cook until browned but not crisped. Pour in the white
+    wine and cook some more, until the liquid is reduced by half. Turn off
+    the heat and set the pan aside.</li>
+    <li>In a bowl big enough for the pasta, beat the egg yolks with the
+    cheeses, parsley and a pinch of salt and some fresh ground pepper.</li>
+    <li>When the pasta is finished cooking, very al dente, drain it and add it
+    to the yolk/cheese sauce. Turn the pancetta back on to high heat. Stir
+    the pasta with the sauce until well coated and yellow. Add in the hot
+    pancetta. Stir some more. Serve and eat.</li>
+</ol>
+<p><strong>Best Pasta:</strong> Spaghetti or Rigatone.</p></p>
+<p class="small">* A glug is the sound the olive oil makes when coming out of the bottle.</p>
+
+
+
+</div> <!-- page end -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-293592-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

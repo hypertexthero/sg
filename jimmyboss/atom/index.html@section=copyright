@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-gb" xmlns="http://www.w3.org/2005/Atom"><title type="text">Jimmy Boss - copyright</title>
+<subtitle type="text">I’m The Boss!</subtitle>
+<link rel="self" href="http://jimmyboss.com/atom/?section=copyright" />
+<link rel="alternate" type="text/html" href="http://jimmyboss.com/" />
+<id>tag:jimmyboss.com,2005:35cc2d08827e577212d23d9cb0d5aaa9/copyright</id>
+<generator uri="http://textpattern.com/" version="4.0.6">Textpattern</generator>
+<updated>2011-11-30T22:08:24Z</updated>
+<author>
+		<name>Jimmy Boss</name>
+		<email>&#106;&#105;&#109;&#109;&#121;&#64;&#106;&#105;&#109;&#109;&#121;&#98;&#111;&#115;&#115;&#46;&#99;&#111;&#109;</email>
+		<uri>http://jimmyboss.com/</uri>
+</author>
+</feed>
