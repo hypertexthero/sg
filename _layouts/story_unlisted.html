@@ -3,93 +3,110 @@ layout: story_base_unlisted
 ---
 
 <div id="container">
-  <div id="page" role="main">
-    <div id="gallery">
-      <div id="slideshow" class="slideshow"></div>
-      <div id="captiondisplay"></div>
-    </div>
-  </div> <!-- end page --> 
-  
-  <div id="subheader" role="banner">
-    <!-- <p class="small"><a href="/" title="Homepage.">SimonGriffee.com</a> <small class="quiet">/</small> <a href="/stories/" title="List of Stories.">Stories</a> <small class="quiet">/</small></p> -->
-    <h1>
-      <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}
-        <br>
-        <span class="normal"><!-- {{ page.categories }}<br> --><i>{{ page.type}} <br> {{ page.timeframe }}</i></span>
-      </a>
-    </h1>
-    <div id="thumbs-min" class="imgnav">
+  <div id="content">
+    <p id="storynav" class="quiet">
+      <small><a class="normal" href="/" title="Simon Griffee Homepage.">Simon Griffee</a> / <a class="normal" href="/stories/" title="Return to Stories Index.">Stories</a> / </small> <a href="{{ site.url }}{{ page.url }}" title="Permanent link to this project.">{{ page.title }}</a><br><small>{{ page.type}}, {{ page.timeframe }}</small>
+    </p>
+    {% if page.intro %}
+      <div class="intro">
+        {{ page.intro }}
+      </div>
+    {% endif %}  
+    <div id="gallery" class="royalSlider gallery rsMinW rs-image-gallery rsHor rsFade rsWithThumbs rsWithThumbsHor">
       {{ content }}
+      <div id="captions_container"></div>
     </div>
-    <div id="controls" class="controls"></div>
-  </div> <!-- end #subheader -->
+  </div>
   
-    <div id="footer">
-      <p>&copy; {{ site.time|date:"%Y" }} <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>.</p>
+  <div id="footer">
+    
+    <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p>
+    
+    {% include navigation_nav_only.html %}
 
-    </div> <!-- end footer -->
+  </div> <!-- end footer -->
 
-    <div id="quietbox">  
-      <a id="silence" href="#" title="Hide and show meta information.">Silence</a>
-    </div>
-  </div> <!-- end container -->
+  <div id="quietbox">  
+    <p class="center"><a class="normal" id="silence" href="#" title="Hide and show meta information.">Silence</a></p>
+  </div>
+</div> <!-- end container -->
 
-<script type="text/javascript">
-$('div.content').css('display', 'block');
-// Initially set opacity on thumbs and add
-      // additional styling for hover effect on thumbs
-      var onMouseOutOpacity = 0.30;
-      $('#thumbs-min ul.thumbs li').css('opacity', onMouseOutOpacity)
-        .hover(
-          function () {
-            $(this).not('.selected').fadeTo('fast', 0.70);
-          }, 
-          function () {
-            $(this).not('.selected').fadeTo('fast', onMouseOutOpacity);
-          }
-        );
+     <script>
+        // Important note! If you're adding CSS3 transition to slides, fadeInLoadedSlide should be disabled to avoid fade-conflicts.
+  jQuery(document).ready(function($) {
+    var si = $('#gallery').royalSlider({
+      addActiveClass: true,
+      arrowsNav: false,
+      controlNavigation: 'thumbnails',
+      autoScaleSlider: true, 
+      autoScaleSliderWidth: 980,
+      autoScaleSliderHeight: 652,
+      loop: true,
+      fadeinLoadedSlide: false,
+      globalCaption: true,
+      keyboardNavEnabled: true,
+      globalCaptionInside: true,
 
-        $(document).ready(function() {
-                // Initialize Advanced Galleriffic Gallery
-                var galleryAdv = $('#gallery').galleriffic('#thumbs-min', {
-                  delay:                  4000,
-                  numThumbs:              12,
-                  preloadAhead:           12,
-                  enableTopPager:         true,
-                  enableBottomPager:      false,
-                  imageContainerSel:      '#slideshow',
-                  controlsContainerSel:   '#controls',
-                  captionContainerSel:    '#captiondisplay',
-                  loadingContainerSel:    '#loading',
-                  renderSSControls:       true,
-                  renderNavControls:      true,
-                  playLinkText:           '&#9658;play',
-                  pauseLinkText:          '&#x25FC;stop',
-                  prevLinkText:           '&larr;prior',
-                  nextLinkText:           'next&rarr;',
-                  nextPageLinkText:       '»',
-                  prevPageLinkText:       '«',
-                  enableHistory:          true,
-                  autoStart:              false,
-                  onChange:               function(prevIndex, nextIndex) {
-                    $('#thumbs-min ul.thumbs').children()
-                      .eq(prevIndex).fadeTo('fast', onMouseOutOpacity).end()
-                      .eq(nextIndex).fadeTo('fast', 0.7);
-                  },
-                  onTransitionOut:        function(callback) {
-                    $('#captiondisplay').fadeTo('fast', 0.0);
-                    $('#slideshow').fadeTo('fast', 0.0, callback);
-                  },
-                  onTransitionIn:         function() {
-                    $('#slideshow').fadeTo('fast', 1.0);
-                    $('#captiondisplay').fadeTo('fast', 1.0);
-                  },
-                  onPageTransitionOut:    function(callback) {
-                    $('#thumbs-min ul.thumbs').fadeTo('fast', 0.0, callback);
-                  },
-                  onPageTransitionIn:     function() {
-                    $('#thumbs-min ul.thumbs').fadeTo('fast', 1.0);
-                  }
-                });
-              });
-</script>
+      deeplinking: {
+        enabled: true,
+        change: true,
+        prefix: ''
+      },
+      
+      autoPlay: {
+        // autoplay options go gere
+        enabled: true,
+        pauseOnHover: true,
+        delay: 6000
+      },
+      
+    	fullscreen: {
+    		// fullscreen options go gere
+    		enabled: true,
+    		nativeFS: true
+    	},
+      // image_generation: {
+      //   lazyLoading:!0,
+      //   imageWidth:'',
+      //   imageHeight:'',
+      //   thumbImageWidth:60,
+      //   thumbImageHeight:45
+      // },
+      thumbs:{
+        spacing:12, 
+        paddingTop:28, 
+        paddingBottom:4, 
+        // thumbWidth:60,
+        // thumbHeight:45,
+        arrows:!1, 
+        appendSpan:!0
+      }
+      //,
+      // visibleNearby: {
+      //   enabled: true,
+      //   centerArea: 0.5,
+      //   center: true,
+      //   breakpoint: 650,
+      //   breakpointCenterArea: 0.64,
+      //   navigateByCenterClick: true
+      // }
+    }).data('royalSlider');
+
+    // $("#fullscreen_button").click( function(){
+    //       sliderInstance.enterFullscreen();
+    // });
+    $(".rsFullscreenBtn").insertBefore("#storynav");
+    $(".rsCaption").appendTo("#captions_container");
+
+    // $(".rsFullscreenBtn").click(function(){
+    //   $(this).text($(this).text() == 'Full Screen' ? 'x' : 'Full Screen');
+    //   $(this).addClass("silenced");
+    //   $("#subheader, #footer, .rsGCaption, .rsNav, #showshare").slideToggle("fast");
+    // });
+
+  });
+
+
+      </script> 
+
+<!-- =todo: caption div in bottom. toggleable on or off. jquery append figure text into caption box. -->
