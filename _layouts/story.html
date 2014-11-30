@@ -51,8 +51,8 @@ layout: story_base
   </div>
 </div> <!-- end container -->
 
-     <script>
-        // Important note! If you're adding CSS3 transition to slides, fadeInLoadedSlide should be disabled to avoid fade-conflicts.
+<script>
+// Important note! If you're adding CSS3 transition to slides, fadeInLoadedSlide should be disabled to avoid fade-conflicts.
   jQuery(document).ready(function($) {
     var si = $('#gallery').royalSlider({
       addActiveClass: true,
@@ -65,7 +65,7 @@ layout: story_base
       fadeinLoadedSlide: false,
       globalCaption: true,
       keyboardNavEnabled: true,
-      globalCaptionInside: true,
+      globalCaptionInside: false,
 
       deeplinking: {
         enabled: true,
@@ -93,11 +93,11 @@ layout: story_base
       //   thumbImageHeight:45
       // },
       thumbs:{
-        spacing:12, 
-        paddingTop:28, 
-        paddingBottom:4, 
-        // thumbWidth:60,
-        // thumbHeight:45,
+        spacing:10, 
+        paddingTop:4, 
+        paddingBottom:0, 
+        thumbWidth:80,
+        thumbHeight:53,
         arrows:!1, 
         appendSpan:!0
       }
@@ -115,8 +115,4 @@ layout: story_base
     $(".rsCaption").appendTo("#captions_container");
 
   });
-
-
-      </script> 
-
-<!-- =todo: caption div in bottom. toggleable on or off. jquery append figure text into caption box. -->
+</script> 
