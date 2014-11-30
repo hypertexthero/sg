@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Manly Beacon, Zabriskie Point
+location: Death Valley, California
+date_taken: July 2005
+camera: Canon EOS 300D
+lens: EF 28-135mm f/3.5-5.6 IS USM
+date: 2014-11-30 23:08:51
+tags: [bw, zabriskie point, manly beacon, landscape, arid, dry, twilight, desert, rock, rock formation, waves, undulating, undulation, geography, earth, mars]
+image: GRS-20050712-211113
+---
