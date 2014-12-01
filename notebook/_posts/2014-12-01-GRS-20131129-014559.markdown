@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Bar
+location: Brussels, Belgium
+date_taken: November 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2014-12-01 22:57:21
+tags: [bar, beer, blur, bw, couple, happy, indoor, kiss, laughing, night, smile, kissing, drunk]
+image: GRS-20131129-014559
+---
