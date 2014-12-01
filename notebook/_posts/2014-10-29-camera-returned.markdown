@@ -8,4 +8,4 @@ tags: [police, agression, injustice, photography, education]
 ---
 Last week my camera was returned to me by Rome's police with the photographs that led to the <a href="/notebook/police-aggression-coercion-photographing-colosseum-rome">incident</a> still inside.
 
-<del>Here they are:</del> UPDATE: My lawyer has recommended I not publish them until the case is dismissed, so I have removed them for now.
+<del>Here they are:</del> UPDATE: My lawyer has recommended I wait for the case to be dismissed before deciding on publishing them.

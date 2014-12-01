@@ -22,7 +22,7 @@ _* * *_
 
 Last week <a href="/notebook/camera-returned.html">my camera was returned to me</a> by Rome's police with the photographs that led to the incident still inside.
 
-<del>Here they are:</del> UPDATE: My lawyer has recommended I not publish them until the case is dismissed, so I have removed them for now.
+<del>Here they are:</del> UPDATE: My lawyer has recommended I wait for the case to be dismissed before deciding on publishing them.
 
 _* * *_
 
