@@ -3,6 +3,7 @@ layout: entry
 title: Editing
 excerpt: Editing
 category: notebook
+date: 2011-01-24 21:32:21
 tags: 
 - editing
 - photo editing
