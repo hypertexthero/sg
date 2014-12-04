@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via di Santa Maria in Via
+location: Rome, Italy
+date_taken: April 2014
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2014-12-04 20:48:50
+tags: [40 to 60 years, bw, cleaning, expression, flash, man, reflection, table, waiter, window, worker]
+image: GRS-20140424-193605
+---
