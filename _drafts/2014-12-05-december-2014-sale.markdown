@@ -1,0 +1,12 @@
+--- 
+layout: entry
+title: December 2014 Sale
+excerpt:
+category: notebook
+date: 2014-12-05 21:08:08
+tags: 
+- for sale
+- sale
+---
+
+- Epson V700 Photo film scanner: 250 Euros
