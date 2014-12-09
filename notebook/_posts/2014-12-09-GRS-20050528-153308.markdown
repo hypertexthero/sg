@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 166 Mott Street
+location: New York City
+date_taken: May 2005
+camera: Canon EOS 300D Digital
+lens: Canon 50mm f/1.4 USM
+date: 2014-12-09 20:23:28
+tags: [30 to 50 years, black, bw, car, empire state building, fire escape, skyscraper, street, SUV, USA, vertical, woman]
+image: GRS-20050528-153308
+---
