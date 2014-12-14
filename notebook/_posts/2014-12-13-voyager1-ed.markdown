@@ -16,7 +16,7 @@ tags:
 - friendship
 - peace
 ---
-<img src="/images/voyager-ed-0256.jpg" alt="Voyager 1 in Elite: Dangerous." style="margin-bottom:0;">
+<a href="/images/voyager-ed-0256.jpg"><img src="/images/voyager-ed-0256.jpg" alt="Voyager 1 in Elite: Dangerous." style="margin-bottom:0;"></a>
 
 Came across [Voyager 1](https://en.wikipedia.org/wiki/Voyager_1) while [flying](http://hypertexthero.com/logbook/2014/09/experience-flying-spaceship/ "The Experience of Flying in a Spaceship.") around the [Cosmos](http://hypertexthero.com/logbook/2014/03/cosmos/ "Cosmos. Carl Sagan is holding a photo of the plaque attached to Voyager.") in [Elite: Dangerous](http://www.elitedangerous.com/ "Elite: Dangerous website.")! It is [where it should be in the year 3300](https://www.reddit.com/r/EliteDangerous/comments/2owop5/this_is_the_secret_that_was_in_the_changelog/cmr8tuf "Reddit commenters do the math.").
 
