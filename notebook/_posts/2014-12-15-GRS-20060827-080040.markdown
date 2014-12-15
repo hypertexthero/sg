@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Self-Portrait With JRB and Redwood
+location: Prairie Creek Redwoods State Park, California
+date_taken: August 2006
+camera: Canon EOS 300D Digital
+lens: EF 17–40mm f/4.0L USM
+date: 2014-12-15 15:46:57
+tags: [20 to 30 years, bw, giant, men, picnic, redwood, ryan, self-portrait, table, tree]
+image: GRS-20060827-080040
+---
