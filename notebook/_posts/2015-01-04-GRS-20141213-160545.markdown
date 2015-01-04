@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via dei Fori Imperiali
+location: Rome, Italy
+date_taken: December 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-04 12:42:55
+tags: [50 to 70 years, bw, centurion, costume, man, roman, rome, street, suitcase, sunlight, travel]
+image: GRS-20141213-160545
+---
