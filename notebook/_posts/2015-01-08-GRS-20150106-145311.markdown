@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 116th Street and Broadway
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-08 11:33:58
+tags: [bw, cold, emerging, foot, overcast, shoe, step, street]
+image: GRS-20150106-145311
+---

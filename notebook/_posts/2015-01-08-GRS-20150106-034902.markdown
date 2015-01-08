@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Approaching JFK
+location: New York City, USA
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-08 09:57:05
+tags: [20 to 35 years, airplane, boy, bw, expression, foreboding, lights, man, night, window]
+image: GRS-20150106-034902
+---
