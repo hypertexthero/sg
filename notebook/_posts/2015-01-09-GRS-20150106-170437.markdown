@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway & 64th Street
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-09 12:01:10
+tags: [bw, city, clock, clock hand, people, sidewalk, snow, snowing, trees]
+image: GRS-20150106-170437
+---
