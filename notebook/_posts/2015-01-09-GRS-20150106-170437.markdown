@@ -2,7 +2,7 @@
 layout: entry
 category: notebook
 excerpt:
-title: Broadway & 64th Street
+title: Broadway &amp; 64th Street
 location: New York City
 date_taken: January 2015
 camera: Leica M9
