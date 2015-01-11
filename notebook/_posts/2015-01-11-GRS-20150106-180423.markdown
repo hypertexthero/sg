@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East 43rd Street
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-11 09:05:16
+tags: [40 to 60 years, avenue, bw, chrysler building, expression, grand central, haircut, italian tomatos, man, new york, skyscraper, street, walk, wet]
+image: GRS-20150106-180423
+---
