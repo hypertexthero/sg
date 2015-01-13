@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Avenue of the Americas
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-12 21:08:23
+tags: [50 to 70 years, bw, cia, empire state building, expression, glass, glasses, hair, headband, skyscraper, street, woman]
+image: GRS-20150107-203044
+---

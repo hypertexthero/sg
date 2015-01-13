@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Amber at Ferry Terminal
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-12 22:02:44
+tags: [20 to 35 years, Amber, atlantic, barrier, bw, clouds, contrails, expression, girl, glare, hair, sea, sky, statue of liberty, sunlight, sunset, USA, water]
+image: GRS-20150111-221627
+---
