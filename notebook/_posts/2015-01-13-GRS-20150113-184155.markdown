@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-13 22:28:49
+tags: [30 to 50 years, bare legs, bw, cigarette, coat, crossing, expression, feet, foot traffic, legs, overweight, pedestrians, street, woman]
+image: GRS-20150113-184155
+---
