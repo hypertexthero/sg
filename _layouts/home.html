@@ -74,43 +74,6 @@
               </div> <!-- /.caption -->
             {% endif %}
           {% endfor %}				
-{% comment %}
-				<table border="0" style="table-layout: fixed;">
-					<tr>
-						<td>
-							<div id="sliderr">	
-								<img src="/img/Salento/001-GRS-20140905-120424.jpg">
-								<img src="/img/Salento/002-GRS-20140908-172802.jpg">
-								<img src="/img/Salento/003-GRS-20140907-162455.jpg">
-								<img src="/img/Salento/004-GRS-20140909-100539.jpg">
-								<img src="/img/Salento/005-GRS-20140907-221356.jpg">
-								<img src="/img/Salento/006-GRS-20140904-184544.jpg">
-								<img src="/img/Salento/007-GRS-20140903-155814.jpg">
-								<img src="/img/Salento/008-GRS-20140905-101006.jpg">
-								<img src="/img/Salento/009-GRS-20140907-182834.jpg">
-								<img src="/img/Salento/010-GRS-20140905-182417.jpg">
-								<img src="/img/Salento/011-GRS-20140905-162953.jpg">
-								<img src="/img/Salento/012-GRS-20140905-152253.jpg">
-								<img src="/img/Salento/013-GRS-20140907-103442.jpg">
-								<img src="/img/Salento/014-GRS-20140907-183404.jpg">
-								<img src="/img/Salento/015-GRS-20140907-111727.jpg">
-								<img src="/img/Salento/016-GRS-20140910-144723.jpg">
-								<img src="/img/Salento/017-GRS-20140904-112957.jpg">
-								<img src="/img/Salento/018-GRS-20140922-112932.jpg">
-								<img src="/img/Salento/019-GRS-20140905-095201.jpg">
-								<img src="/img/Salento/020-GRS-20140904-192521.jpg">
-								<img src="/img/Salento/021-GRS-20140904-193223.jpg">
-								<img src="/img/Salento/022-GRS-20140909-144136.jpg">
-								<img src="/img/Salento/023-GRS-20140905-125415.jpg">
-								<img src="/img/Salento/024-GRS-20140905-162949.jpg">
-								<img src="/img/Salento/025-GRS-20140904-182557.jpg">
-								<img src="/img/Salento/026-GRS-20140908-174432.jpg">
-								<img src="/img/Salento/027-GRS-20140908-115502.jpg">
-							</div>
-						</td>
-					</tr>
-				</table>
-{% endcomment %}
 					
       </div> <!-- /#plateframe -->
       
@@ -125,6 +88,29 @@
             {% include home_navigation.html %}
           </li>
         </ul>
+
+{% comment %}
+        <h2>
+          <a href="/singles/" title="Selected best photographs.">Singles</a>
+        </h2>
+				
+				<ul>
+					<li><a href="/singles/corporate.html">Corporate</a></li>
+					<li><a href="/singles/cultural.html">Cultural</a></li>
+					<li><a href="/singles/fashion.html">Fashion</a></li>
+					<li><a href="/singles/fine-art.html">Fine Art</a></li>
+					<li><a href="/singles/landscape.html">Landscape</a></li>
+					<li><a href="/singles/lifestyle.html">Lifestyle</a></li>
+					<li><a href="/singles/motion-music.html">Motion &amp; Music</a></li>
+					<li><a href="/singles/portraits.html">Portraits</a></li>
+					<li><a href="/singles/reportage-street-travel.html">Reportage, Street &amp; Travel</a></li>
+				</ul>
+				
+        <ul>
+          {% for post in site.posts %}{% if post.category contains 'singles' %}
+          <li><a href="{{ post.url }}" title="See this category.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
+        </ul>
+{% endcomment %}
 
         <h2>
           <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>

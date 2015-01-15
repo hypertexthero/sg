@@ -453,3 +453,14 @@
   bottom:-30px;
   right:0;
 }
+
+
+
+/***************
+*
+*  9. Custom Styles for sg
+*
+****************/
+
+.rsMinW .rsTab, .rsNavSelected {background:transparent !important; box-shadow:none !important; border:0 !important; background:transparent; border:0 !important;}
+.rsNavSelected img {outline:2px double #333 !important;}

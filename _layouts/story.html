@@ -10,13 +10,12 @@ layout: story_base
     {% if page.intro %}
       <div class="intro">
         {{ page.intro }}
-      </div>
+      </div> <!-- /intro -->
     {% endif %}
     <div id="gallery" class="royalSlider gallery rsMinW rs-image-gallery rsHor rsFade rsWithThumbs rsWithThumbsHor">
       {{ content }}
-      <div id="captions_container"></div>
-    </div>
-  </div>
+    </div> <!-- /gallery -->
+  </div> <!-- /content -->
   
   <div id="footer">
     
@@ -24,7 +23,7 @@ layout: story_base
     
     {% include navigation_nav_only.html %}
 
-  </div> <!-- end footer -->
+  </div> <!-- /footer -->
 
   <div id="quietbox">  
     <p id="share" class="center" style="display:none;">
@@ -48,8 +47,8 @@ layout: story_base
     <p class="center"><a class="normal" id="showshare" href="#share" title="Or an enemy.">Show to a Friend</a></p>
     <p class="center"><a class="normal" id="silence" href="#" title="Hide and show meta information.">Silence</a></p>
 
-  </div>
-</div> <!-- end container -->
+  </div> <!-- /quietbox -->
+</div> <!-- /container -->
 
 <script>
 // Important note! If you're adding CSS3 transition to slides, fadeInLoadedSlide should be disabled to avoid fade-conflicts.
@@ -57,25 +56,25 @@ layout: story_base
     var si = $('#gallery').royalSlider({
       addActiveClass: true,
       arrowsNav: false,
-      controlNavigation: 'thumbnails',
+      controlNavigation: 'tabs',
       autoScaleSlider: true, 
       autoScaleSliderWidth: 980,
       autoScaleSliderHeight: 652,
-      loop: true,
+      loop: false,
       fadeinLoadedSlide: false,
-      globalCaption: true,
+      globalCaption: false,
       keyboardNavEnabled: true,
       globalCaptionInside: false,
 
       deeplinking: {
         enabled: true,
         change: true,
-        prefix: ''
+        prefix: 'img'
       },
       
       autoPlay: {
         // autoplay options go gere
-        enabled: true,
+        enabled: false,
         pauseOnHover: true,
         delay: 6000
       },
