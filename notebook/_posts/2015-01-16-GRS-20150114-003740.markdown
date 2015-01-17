@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 110th Street Station
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-16 23:31:05
+tags: [20 to 30 years, bw, coat, eyelashes, girl, hat, lips, metro, noir, rails, underground]
+image: GRS-20150114-003740
+---
