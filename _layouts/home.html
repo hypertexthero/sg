@@ -89,7 +89,7 @@
           </li>
         </ul>
 
-{% comment %}
+			{% comment %}
         <h2>
           <a href="/singles/" title="Selected best photographs.">Singles</a>
         </h2>
@@ -101,7 +101,7 @@
 					<li><a href="/singles/fine-art.html">Fine Art</a></li>
 					<li><a href="/singles/landscape.html">Landscape</a></li>
 					<li><a href="/singles/lifestyle.html">Lifestyle</a></li>
-					<li><a href="/singles/motion-music.html">Motion &amp; Music</a></li>
+					<!-- <li><a href="/singles/motion-music.html">Motion &amp; Music</a></li> -->
 					<li><a href="/singles/portraits.html">Portraits</a></li>
 					<li><a href="/singles/reportage-street-travel.html">Reportage, Street &amp; Travel</a></li>
 				</ul>
@@ -110,7 +110,7 @@
           {% for post in site.posts %}{% if post.category contains 'singles' %}
           <li><a href="{{ post.url }}" title="See this category.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
         </ul>
-{% endcomment %}
+				{% endcomment %}
 
         <h2>
           <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>

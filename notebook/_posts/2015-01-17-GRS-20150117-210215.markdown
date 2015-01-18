@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue &amp; 53rd
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-17 21:44:15
+tags: [40 to 65 years, boss, bw, coat, crossing, light, man, moustache, serious, street]
+image: GRS-20150117-210215
+---
