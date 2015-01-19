@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Times Square
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-19 10:55:35
+tags: [30 to 60 years, batman, blue monster, bw, costumes, men, money, penguin, puppets, times square, toy story, woody]
+image: GRS-20150115-205139
+---
