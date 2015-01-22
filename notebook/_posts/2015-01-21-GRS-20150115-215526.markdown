@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Ice Skating Rink, Central Park
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-21 19:38:56
+tags: [adults, buildings, bw, city, ice, ice skating, kids, park, skaters, skating, skyscapers, trees, winter]
+image: GRS-20150115-215526
+---
