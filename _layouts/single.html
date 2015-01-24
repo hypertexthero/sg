@@ -1,0 +1,117 @@
+---
+layout: single_base
+---
+
+<div id="container">
+  <div id="content">
+    <p id="storynav" class="quiet">
+      <small><a class="normal" href="/" title="Simon Griffee Homepage.">Simon Griffee</a> / <a class="normal" href="/singles/" title="Return to Singles Index.">Singles</a> / </small> <a href="{{ site.url }}{{ page.url }}" title="Permanent link to this category.">{{ page.title }}</a><br><small>{{ page.type}}</small>
+    </p>
+    {% if page.intro %}
+      <div class="intro">
+        {{ page.intro }}
+      </div> <!-- /intro -->
+    {% endif %}
+    <div id="gallery" class="royalSlider gallery rsMinW rs-image-gallery rsHor rsFade rsWithThumbs rsWithThumbsHor">
+      {{ content }}
+    </div> <!-- /gallery -->
+  </div> <!-- /content -->
+  
+  <div id="footer">
+    
+    <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p>
+    
+    {% include navigation_nav_only.html %}
+
+  </div> <!-- /footer -->
+
+  <div id="quietbox">  
+    <p id="share" class="center" style="display:none;">
+      <script type="text/javascript" charset="utf-8">
+        function emailFriend(){
+        var strrep, ptitle = document.title;
+        strrep = ptitle.replace(/"/g,'%22');
+        strrep = ptitle.replace(/&/g,'%26');
+        var mailtourl = "mailto:?subject=Photographs by Simon Griffee&body="+encodeURIComponent(location.href);
+        location.href = mailtourl;
+        return false
+        }
+      </script>
+
+      <a href="javascript:;" onclick="emailFriend();return false" title="With your own mail application.">Mail</a> ·
+      <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com{{page.url}}/&amp;source=tweetbutton&amp;text={{ page.title }} - Photographs by Simon Griffee&amp;url=http://simongriffee.com{{page.url}}" title="Tweet tweet.">Twit</a> · 
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com{{page.url}}" title="Book of many faces.">Face</a> · 
+      <a href="https://plus.google.com/share?url=http://simongriffee.com{{page.url}}" title="Googoo">Goo</a>
+    </p>
+
+    <p class="center"><a class="normal" id="showshare" href="#share" title="Or an enemy.">Show to a Friend</a></p>
+    <p class="center"><a class="normal" id="silence" href="#" title="Hide and show meta information.">Silence</a></p>
+
+  </div> <!-- /quietbox -->
+</div> <!-- /container -->
+
+<script>
+// Important note! If you're adding CSS3 transition to slides, fadeInLoadedSlide should be disabled to avoid fade-conflicts.
+  jQuery(document).ready(function($) {
+    var si = $('#gallery').royalSlider({
+      addActiveClass: true,
+      arrowsNav: false,
+      controlNavigation: 'tabs',
+      autoScaleSlider: true, 
+      autoScaleSliderWidth: 980,
+      autoScaleSliderHeight: 652,
+      loop: false,
+      fadeinLoadedSlide: false,
+      globalCaption: false,
+      keyboardNavEnabled: true,
+      globalCaptionInside: false,
+
+      deeplinking: {
+        enabled: true,
+        change: true,
+        prefix: 'img'
+      },
+      
+      autoPlay: {
+        // autoplay options go gere
+        enabled: false,
+        pauseOnHover: true,
+        delay: 6000
+      },
+      
+    	fullscreen: {
+    		// fullscreen options go gere
+    		enabled: true,
+    		nativeFS: true
+    	},
+      // image_generation: {
+      //   lazyLoading:!0,
+      //   imageWidth:'',
+      //   imageHeight:'',
+      //   thumbImageWidth:60,
+      //   thumbImageHeight:45
+      // },
+      thumbs:{
+        spacing:10, 
+        paddingTop:4, 
+        paddingBottom:0, 
+        thumbWidth:80,
+        thumbHeight:53,
+        arrows:!1, 
+        appendSpan:!0
+      }
+      //,
+      // visibleNearby: {
+      //   enabled: true,
+      //   centerArea: 0.5,
+      //   center: true,
+      //   breakpoint: 650,
+      //   breakpointCenterArea: 0.64,
+      //   navigateByCenterClick: true
+      // }
+    }).data('royalSlider');
+    $(".rsFullscreenBtn").insertBefore("#storynav");
+    $(".rsCaption").appendTo("#captions_container");
+
+  });
+</script> 

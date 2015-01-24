@@ -1,7 +1,7 @@
 /* 
 sg2014.css
 SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2014-08-11 23:54:37
+Last update: 2015-01-23
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -36,23 +36,23 @@ p.breadcrumbs span {margin:0 0.25em;}
 p.breadcrumbs a.active {border:none; font-weight:bold;}
 
 #page {position:relative; /*max-width:970px;*/ margin:0 auto 0; /*background:#ccc;*/}
-body.storieslatest, body.storiesstoryindex, body.notebookthumbnails, body.story {margin-left:20px; margin-right:20px;} 
-body.story {padding-top:20px;}
+body.storieslatest, body.singleslatest, body.storiesstoryindex, body.singlessingleindex, body.notebookthumbnails, body.story, body.single {margin-left:20px; margin-right:20px;} 
+body.story, body.single {padding-top:20px;}
 body.notebookthumbnails {margin-left:30px; margin-right:20px;} 
 
 #content {text-align:left; clear:both; margin-bottom:2.5em;} /*=Note: commented out apparently unecessary width - check in IE
 */
 body.textpage #content {margin-top:3em;}
 
-body#stories #content, body.storieslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.storiestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
+body#stories #content, body#singles #content, body.storieslatest #content, body.singleslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.singlessingleindex #content, body.storiestitle #content, body.singlestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
 
 div#textframe {max-width:32em; margin:0.5em auto 0;}
 
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
 div#textframe.withimage {margin-bottom:3em;}
-body#stories div#textframe {max-width:100% !important;}
+body#stories div#textframe, body#singles div#textframe {max-width:100% !important;}
 div#textframe h1, div#textframe h2 {text-align:center;}
-body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, #content h1, body#stories div#textframe h2 {text-align:left; margin-bottom:0;}
+body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div#textframe h1, body#singles div#textframe h1, #content h1, body#stories div#textframe h2, body#singles div#textframe h2 {text-align:left; margin-bottom:0;}
 
 #content h1 {margin-top:1em; line-height:1.5em;}
 
@@ -88,6 +88,7 @@ body#about #navcontainer li#nav-about a,
 body#contact #navcontainer li#nav-contact a,
 body#stories #navcontainer li#nav-stories a,
 body#stories #navcontainer li#nav-archives a,
+body#singles #navcontainer li#nav-singles a,
 body#maps #navcontainer li#nav-maps a,
 body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;}
 /* TODO: Thumbnail archive pages: http://masonry.desandro.com/docs/intro.html */

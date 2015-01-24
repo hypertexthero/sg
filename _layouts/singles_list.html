@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+  {% include head.html %}
+  <title>Singles - {{ site.name }}</title>
+</head>
+
+<body id="singles" class="singleslatest">
+  <div id="page">
+    <div id="header">
+      {% include navigation.html %}
+    </div>
+  </div> <!-- header end -->
+
+<div id="content">
+  <div id="textframe">
+    <h1 style="margin:0;">Singles</h1>
+    <ul class="archivelist">
+      {{ content }}
+    </ul>
+  </div> <!-- /#textframe -->
+</div> <!-- /#content -->
+
+<div id="footer" class="largetopmargin">
+    <div id="footer" class="largetopmargin">
+      {% include footer.html %}
+    </div> <!-- /#footer -->
+  </div> <!-- /#page -->
+  {% include bodyend.html %}
+</body>
+</html>
