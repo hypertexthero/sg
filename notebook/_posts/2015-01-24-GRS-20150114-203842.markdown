@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East 38th Street
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-24 18:25:01
+tags: [50 to 80 years years, bw, cat, coat, fur, fur coat, gloves, handbag, hat, leopard, tiger, woman]
+image: GRS-20150114-203842
+---
