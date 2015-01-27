@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 86th Street &amp; Broadway
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-26 23:24:33
+tags: [bw, coat, face covered, man, mask, masked, snow, snowing, street, vulto, vult]
+image: GRS-20150126-201630
+---
