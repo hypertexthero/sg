@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 90th Street &amp; Broadway, New York City
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-27 22:22:10
+tags: [50 to 70 years, blizzard, bw, coat, footprints, snow, snowflakes, snowing, street, tracks, umbrella, wet, woman]
+image: GRS-20150126-202401
+---

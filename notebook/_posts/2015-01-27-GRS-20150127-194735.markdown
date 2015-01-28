@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 77th Street &amp; Columbus Avenue
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-27 21:39:49
+tags: [15 to 20 years, american flag, black man, boy, bw, crossing, girl, slush, snow, street, suv, trash can, wet]
+image: GRS-20150127-194735
+---
