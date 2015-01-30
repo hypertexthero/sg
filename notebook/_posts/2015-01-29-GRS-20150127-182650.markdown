@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park Reservoir
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-29 21:05:41
+tags: [bw, Central Park Reservoir, city, clouds, fine art, ice, lake, landscape, manhattan, new york city, skyline, snow, winter]
+image: GRS-20150127-182650
+---
