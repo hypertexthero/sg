@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-01-31 22:59:10
+tags: [50 to 70 years, 1920s, 1930s, batman, bw, coat, commissioner gordon, crossing, flapping, gotham, hat, man, raincoat, shoes, spectacles, street, suit, tie, trechcoat, valise, wind]
+image: GRS-20150130-200524
+---
+Ran into Commissioner Gordon downtown. Asked if he was carrying a sewing machine in his valise.
