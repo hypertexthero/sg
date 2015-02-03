@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 59th Street Columbus Circle
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-03 16:53:03
+tags: [bw, coffee, falling, fire hidrant, jump, jumping, pedestrians, rush, slush, snow, steam, street, stumbling, taxi, wet, winter]
+image: GRS-20150202-170331
+---
