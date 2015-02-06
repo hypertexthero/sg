@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-05 20:56:34
+tags: [25 to 40 years, angel, bw, expression, lookin up, man, snow, street, wet, wings, winter]
+image: GRS-20150202-210320
+---
