@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: MTA 1 Line Express
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-07 11:56:00
+tags: [blur, bw, expression, film, frame, metro, motion, people, subway, train, window]
+image: GRS-20150129-004941
+---
