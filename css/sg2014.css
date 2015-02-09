@@ -207,6 +207,10 @@ h1 span.smaller {font-size:0.875em; line-height:0;}
 .floatright {float:right; margin:0 0 2em 2em;}
 .clearboth {clear:both;}
 
+#storynav {margin:0 !important; float:left;}
+.floatedh1 {margin:0 0 0 0.25em !important; line-height:0.5em !important; display:inline-block; height:1em;}
+/*.rsImg { margin-top: 50px !important; }*/
+
 div.sec {margin-bottom:4em; clear:both;}
 
 hr, div.end {   height:1px; background:#cc9; margin:3em -240px 3.5em; width:740px; border:none 0; 
@@ -301,6 +305,7 @@ div.storycolumn {float:left; width:auto;}
 div.storycolumn h2 {font-size:1.5em;}
 div.storycolumnmarginright {margin-right:6em;}
 .introthumb {margin:1em 0 0.5em; display:block; outline:0 !important; /*width:200px; height:133px;*/}
+.intro {clear:both;}
 
 /* =responsive structure ---------------------- */
 
@@ -318,4 +323,5 @@ div.storycolumnmarginright {margin-right:6em;}
     div.storycolumn {width:auto !important;}
     #footer {clear:both;}
     body#home div.caption {text-align:left;}
+/*		.rsImg { margin-top: auto !important; }*/
     }

@@ -65,6 +65,14 @@
                 {{ post.content }}
               </div> <!-- /.caption -->
             {% else %}
+						
+						{% comment %} For singles {% endcomment %}
+							{% if post.homeimg %}
+	              <a href="{{ site.url }}{{ post.url }}" title="See this Singles category.">
+	                  <img src="{{ post.homeimg }}" alt="See this Singles category." />
+	              </a>
+							{% endif %}
+						
               <div class="caption">
                 <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
                   <p class="date">
@@ -84,17 +92,17 @@
           <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
           <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
           <li>
-            <a href="/notebook/" title="My journal.">Notebook</a>
+            <a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a>
             {% include home_navigation.html %}
           </li>
         </ul>
 
-				{% comment %}
+
         <h2>
           <a href="/singles/" title="Selected best photographs.">Singles</a>
         </h2>
-				
 
+				{% comment %}
 				<ul>
 					<li><a href="/singles/corporate.html">Corporate</a></li>
 					<li><a href="/singles/cultural.html">Cultural</a></li>
@@ -106,13 +114,13 @@
 					<li><a href="/singles/portraits.html">Portraits</a></li>
 					<li><a href="/singles/reportage-street-travel.html">Reportage, Street &amp; Travel</a></li>
 				</ul>
-
+				{% endcomment %}
 
         <ul>
           {% for post in site.posts %}{% if post.category contains 'singles' %}
           <li><a href="{{ post.url }}" title="See this category.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
         </ul>
-				{% endcomment %}
+				
 
         <h2>
           <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>
