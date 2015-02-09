@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 72nd Street &amp; Broadway
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-09 12:23:40
+tags: [14 to 21 years, baseball cap, boys, bw, dance, hoodie, jeans, jump, slush, snow, step, stop over, street, winter]
+image: GRS-20150202-160553
+---
