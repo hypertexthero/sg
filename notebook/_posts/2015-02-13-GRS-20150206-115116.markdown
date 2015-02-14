@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Riverside Drive Near West 135th
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-13 15:26:03
+tags: [50 to 80 years, arch, asphalt, beam, beard, bridge, bw, construction worker, helmet, man, metal, pedestrian, snow, spectacles, street]
+image: GRS-20150206-115116
+---
