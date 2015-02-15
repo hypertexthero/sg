@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Flatiron Building from 5th Avenue
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-15 11:16:03
+tags: [60 to 80 years, architecture, bw, flare, flatiron, flatiron building, glare, hat, lens, sun, winter, woman]
+image: GRS-20150213-124817
+---
