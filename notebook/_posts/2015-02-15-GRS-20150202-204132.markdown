@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue at 42nd Street
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-15 23:55:08
+tags: [20 to 40 years, bw, couple, embrace, kiss, kissing, love, outdoors, ring, snow, street, winter]
+image: GRS-20150202-204132
+---
