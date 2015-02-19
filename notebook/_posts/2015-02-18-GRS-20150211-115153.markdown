@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Bryant Park, Winter
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-18 18:01:02
+tags: [bank, building, bw, coat, couple, fountain, frozen, frozen fountain, glare, hair, ice, man, park, skyscaper, sunlight, tree, water, water tower, winter, woman]
+image: GRS-20150211-115153
+---
