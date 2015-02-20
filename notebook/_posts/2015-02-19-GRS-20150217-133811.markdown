@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue at 41st Street
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-02-19 22:59:25
+tags: [70 to 110 years, beard, bw, coat, cold, eyebrows, hat, jewish, old man, pavement, street, sun, tie, walden, wet]
+image: GRS-20150217-133811
+---
