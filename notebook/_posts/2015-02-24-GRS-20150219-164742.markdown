@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Tompkins Square Park, East Village
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-02-24 20:55:14
+tags: [boy, bw, cut, fence, girl, lamp, park, path, sky, snow, tree, treeline, walk, walking, winter]
+image: GRS-20150219-164742
+---
