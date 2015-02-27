@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Grand Central Station
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-02-26 22:49:09
+tags: [american flag, big windows, bride, bw, clock, couple, crowd, groom, indoor space, time, train station]
+image: GRS-20150106-181159
+---
