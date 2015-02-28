@@ -1,0 +1,21 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Goodbye, Leonard
+location: New York City
+date_taken: February 2015
+camera: Macbook Pro 15in Camera
+lens: Macbook Pro 15in Lens
+date: 2015-02-27 22:06:03
+tags: [death, goodbye, leonard nimoy, live long and prosper, self-portrait, spock]
+image: GRS-20150227-215451
+---
+I heard Leonard Nimoy had died today while walking down a street. I stopped, and suddenly overcome with grief, cried. 
+
+Goodbye, Spock. I will miss you.
+
+Leonard's [final tweet](https://twitter.com/TheRealNimoy/status/569762773204217857):
+
+> A life is like a garden. Perfect moments can be had, but not preserved, except in memory. <abbr title="Live long and propser.">LLAP</abbr>
+
