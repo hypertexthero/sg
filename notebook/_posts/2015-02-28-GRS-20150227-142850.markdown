@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Madison Avenue and 42nd Street
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-02-28 22:04:18
+tags: [20 to 60 years, boots, bw, dress, fashion, girl, hair, houndstooth, indian, invisibility, invisible, mother, rich]
+image: GRS-20150227-142850
+---
