@@ -1,21 +1,21 @@
-<h1 id="logo"><a href="/" title="SimonGriffee.com homepage.">Simon Griffee <!-- <i class="normal">· Photographer</i> --></a></h1>
- <div id="navcontainer">
-   <ul>
-     <li id="nav-home"><a href="/" title="SimonGriffee.com homepage.">Home</a></li>
-     <li id="nav-notebook"><a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a></li>
-     <li id="nav-stories"><a href="/stories/" title="Projects, essays, series of photographs.">Stories</a></li>
-		 <li id="nav-singles"><a href="/singles/" title="Selected best photographs.">Singles</a></li>
-     <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
-     <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
-   </ul>
-   <ul class="subnav">
-     {% if post.next_in_category != nil %}<li><em><a rel="prev" href="{{post.next_in_category.url}}">&larr; Before</a></em></li>{% endif %} 
-     {% if post.previous_in_category != nil %}<li><em><a rel="next" href="{{post.previous_in_category.url}}">After &rarr;</a></em></li>{% endif %}
-     {% if page.next_in_category != nil %}<li><em><a rel="prev" href="{{page.next_in_category.url}}">&larr; Before</a></em></li>{% endif %} 
-     {% if page.previous_in_category != nil %}<li><em><a rel="next" href="{{page.previous_in_category.url}}">After &rarr;</a></em></li>{% endif %}
-     {% if page.path contains 'notebook' %}
-     <li><em><a href="/random/" title="Let the stars and math choose.">Random</a></em></li>
-     <li id="nav-archives"><em><a href="/archive/" title="Browse the SimonGriffee.com notebook archive.">Archive</a></em></li>
-     {% endif %}
-   </ul>
- </div>  <!-- /#navcontainer -->
+<h1 id="logo"><a href="/" title="Photographer.">Simon Griffee</a></h1>
+<div id="navcontainer">
+ <ul class="nav">
+   <li id="nav-home"><a href="/" title="SimonGriffee.com homepage.">Home</a></li>
+   <li id="nav-notebook"><a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a></li>
+   <li id="nav-stories"><a href="/stories/" title="Projects, essays, series of photographs.">Stories</a></li>
+	 <li id="nav-singles"><a href="/singles/" title="Selected best photographs.">Singles</a></li>
+   <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
+   <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
+ </ul>
+ <ul class="subnav">
+   {% if post.next_in_category != nil %}<li><em><a rel="prev" href="{{post.next_in_category.url}}">&larr; Before</a></em></li>{% endif %} 
+   {% if post.previous_in_category != nil %}<li><em><a rel="next" href="{{post.previous_in_category.url}}">After &rarr;</a></em></li>{% endif %}
+   {% if page.next_in_category != nil %}<li><em><a rel="prev" href="{{page.next_in_category.url}}">&larr; Before</a></em></li>{% endif %} 
+   {% if page.previous_in_category != nil %}<li><em><a rel="next" href="{{page.previous_in_category.url}}">After &rarr;</a></em></li>{% endif %}
+   {% if page.path contains 'notebook' %}
+   <li><em><a href="/random/" title="Let the stars and math choose.">Random</a></em></li>
+   <li id="nav-archives"><em><a href="/archive/" title="Browse the SimonGriffee.com notebook archive.">Archive</a></em></li>
+   {% endif %}
+ </ul>
+</div>  <!-- /#navcontainer -->

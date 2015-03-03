@@ -1,7 +1,5 @@
 /* 
-sg2014.css
-SimonGriffee.com master stylesheet by Simon Griffee
-Last update: 2015-01-23
+sg2014.css - SimonGriffee.com master stylesheet
 */
 
 * {vertical-align:baseline; font-family:inherit; outline:0; margin:0; padding:0;}
@@ -28,7 +26,7 @@ a.imglink:link, a.imglink:visited, div.imglink a:link, div.imglink a:visited {bo
 
 /* =layout ------------------------------------------------ */
 
-#header {margin:25px auto 0 !important; padding:0 !important;} /*position:relative; */
+#header {margin:0 auto 0 !important; padding:9px 0;} /*position:relative; */
 body.storiesstoryindex #header {margin-bottom:15px !important;}
 
 p.breadcrumbs {font-size:0.75em; line-height:1.461em;}
@@ -36,17 +34,18 @@ p.breadcrumbs span {margin:0 0.25em;}
 p.breadcrumbs a.active {border:none; font-weight:bold;}
 
 #page {position:relative; /*max-width:970px;*/ margin:0 auto 0; /*background:#ccc;*/}
-body.storieslatest, body.singleslatest, body.storiesstoryindex, body.singlessingleindex, body.notebookthumbnails, body.story, body.single {margin-left:20px; margin-right:20px;} 
-body.story, body.single {padding-top:20px;}
+body.storieslatest #content, body.singleslatest #content, body.storiesstoryindex #content, body.singlessingleindex #content, body.notebookthumbnails #content, body#stories #content, body#singles #content {margin-left:10px; margin-right:10px;}
+/*body#stories, body#singles {padding-top:20px;}*/
 body.notebookthumbnails {margin-left:30px; margin-right:20px;} 
 
-#content {text-align:left; clear:both; margin-bottom:2.5em;} /*=Note: commented out apparently unecessary width - check in IE
-*/
+
+#content {text-align:left; clear:both; margin:1em 0;}
+
 body.textpage #content {margin-top:3em;}
 
 body#stories #content, body#singles #content, body.storieslatest #content, body.singleslatest #content, body.storiessingles #content, body.storiesstoryindex #content, body.singlessingleindex #content, body.storiestitle #content, body.singlestitle #content, body.notebookthumbnails #content, body.notebooktitle #content, body.notebooktimeline #content {width:auto !important;}
 
-div#textframe {max-width:32em; margin:0.5em auto 0;}
+div#textframe {max-width:32em; margin:0 auto 0;}
 
 body.notebooktimeline div#textframe, body#maps div#textframe {max-width:52em !important;}
 div#textframe.withimage {margin-bottom:3em;}
@@ -58,24 +57,27 @@ body.textpage div#textframe h1, body.textpage div#textframe h2, body#stories div
 
 /*  =logo ---------------- */
 
-h1#logo {font-size:1.2em !important; font-weight:normal; margin:0 0 0.4em; line-height:1em;}
+h1#logo {font-size:1em; margin:0 0 10px; line-height:1em; float:left;}
 
-h1#logo a {margin:0; padding:0.25em 0.45em;}
+h1#logo a {margin:0; padding:9px 10px;}
 body.storiesstoryindex h1#logo {text-align:left; margin:0 0 0 -0.4em;}
 
+ul.nav {float:left; padding:0 !important;}
 #navcontainer {padding:0; text-align:center;}
-body.storiesstoryindex #navcontainer {padding-top:1em; text-align:left; margin-left:-0.3em;}
-#navcontainer ul {padding:0; margin:0 0 0.25em; list-style-type:none; position:relative; line-height:1em;}
+body.storiesstoryindex #navcontainer {text-align:left; margin-left:-0.3em;}
+#navcontainer ul {padding:0; margin:0; list-style-type:none; position:relative; line-height:1em;}
 /*body#notebook #navcontainer ul {margin-bottom:1.15em;}*/
-#navcontainer li {display:inline; margin:0; line-height:2em;}
+#navcontainer li {display:inline-block; margin:0 0 10px; line-height:1em;}
 #navcontainer li.active {font-weight:bold;}
 #navcontainer li.active span {font-weight:normal;}
-.normal {font-weight:normal !important;}
-#navcontainer ul a, #navcontainer ul a:link,#navcontainer ul a:visited {padding:0.4em 0.65em; border:none;}
+#navcontainer ul a, 
+#navcontainer ul a:link,
+#navcontainer ul a:visited {padding:9px 6px; border:none;}
 #navcontainer ul a:hover, #navcontainer ul a:focus {color:#000;}
 
+ul.subnav {float:right; padding:0 !important;}
 ul.subnav em {font-style:normal;}
-ul.subnav a {font-weight:normal;}
+ul.nav a, ul.subnav a {font-weight:normal;}
 ul.subnav a:hover, ul.subnav a:focus {background:#fff !important;} 
 
 body.storieslatest li#nav-storieslatest a,
@@ -87,7 +89,6 @@ body#notebook #navcontainer li#nav-notebook a,
 body#about #navcontainer li#nav-about a,
 body#contact #navcontainer li#nav-contact a,
 body#stories #navcontainer li#nav-stories a,
-body#stories #navcontainer li#nav-archives a,
 body#singles #navcontainer li#nav-singles a,
 body#maps #navcontainer li#nav-maps a,
 body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;}
@@ -99,16 +100,15 @@ body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
 #footer input {margin:0 0 0.75em; background:#ddd; padding:5px;}
-#footer input#searchbutton {padding:4px;}
+#footer input#searchbutton {padding:4px; color:#666;}
 #footer input#searchbutton:hover {cursor:pointer;}
 input.zemSubmit {padding:4px !important; letter-spacing:0.1em;}
 input.zemSubmit:hover {cursor:pointer;}
 #footer a {color:#666 !important; font-weight:normal;}
 
-h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center; letter-spacing:0 !important;}
-h2#NotebookPhotoTitle {font-size:1em !important;}
+h2#NotebookPhotoTitle, h2#StoryPhotoTitle {clear:both; margin:0 0 1em !important; font-weight:normal; text-align:center; letter-spacing:0 !important; font-size:1em !important;}
+h2#NotebookPhotoTitle a {font-weight:normal;}
 div#textframe.withimage h2 {text-align:left;}
-h1.weakcaption {font-weight:normal !important; font-size:0.9em !important;}
 
 body#prints h1#StoryPhotoTitle {font-style:normal; font-weight:bold;}
 h1 a:link, h1 a:visited {border:none;}
@@ -187,18 +187,19 @@ div#plateframe {position:relative; margin:0 auto; text-align:center;}
 body#notebook div#plateframe {margin:0 auto;}
 div#plateframe a {border:none !important;}
 div#plateframe a:hover {background:transparent !important;}
-div#plateframe img {border:3px solid #000 !important;}
+div#plateframe img {border:3px solid #000 !important; margin-bottom:0.25em;}
 
 p.ruler {clear:both; height:0; width:0; border:none; margin:0; padding:0; text-indent:-2000em;}
 
 body#search p.date {text-align:left;}
+p.date a {font-weight:normal;}
 p.feeds {padding-top:3em;}
 p.notecaption, div.notecaption {font-size:0.75em; line-height:1.261em; font-style:italic; clear:both; text-align:center;}
 p.entry-summary {margin-bottom:3em;}
 p.smallprint, div.footnote {font-size:0.75em; letter-spacing:0.055em;}
 div.footnote {color:#666;}
 div.footnotes ol li {font-size:0.9em; list-style:decimal;}
-span.caps, strong.caps {font-size:0.95em; line-height:0;}
+span.caps, strong.caps {font-size:0.95em; line-height:0; text-transform:uppercase;}
 .current {font-style:italic; border-left:8px solid #ccc; padding-left:5px;}
 .clear {clear:both;}
 .quiet {color:#444 !important;}
@@ -206,9 +207,10 @@ h1 span.smaller {font-size:0.875em; line-height:0;}
 .floatleft {float:left; margin:0 1.5em 1em 0;}
 .floatright {float:right; margin:0 0 2em 2em;}
 .clearboth {clear:both;}
+.normal {font-weight:normal !important;}
 
 #storynav {margin:0 !important; float:left;}
-.floatedh1 {margin:0 0 0 0.25em !important; line-height:0.5em !important; display:inline-block; height:1em;}
+.floatedh1 {margin:0 !important;}
 /*.rsImg { margin-top: 50px !important; }*/
 
 div.sec {margin-bottom:4em; clear:both;}
@@ -323,5 +325,6 @@ div.storycolumnmarginright {margin-right:6em;}
     div.storycolumn {width:auto !important;}
     #footer {clear:both;}
     body#home div.caption {text-align:left;}
+		h1#logo, ul.nav, ul.subnav {float:none; text-align:center;}
 /*		.rsImg { margin-top: auto !important; }*/
     }

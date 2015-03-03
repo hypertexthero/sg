@@ -17,3 +17,4 @@ author_email: simon@simongriffee.com
 exclude: 
 - deploy
 - README.md
+- bc/

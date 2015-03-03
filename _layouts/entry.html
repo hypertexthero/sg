@@ -15,12 +15,12 @@ layout: entry_base
 
   <div id="textframe" class="text">
     {% if page.date_taken %}
-      <h2 id="NotebookPhotoTitle" class="weakcaption title"><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">{{ page.title }}, {{ page.location }}, {{ page.date_taken }}</a></h2>
-      <p class="small center">Published {{ page.date | date: "%-d %B %Y" }}</p>
+      <h2 id="NotebookPhotoTitle" class="title"><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">{{ page.title }}, {{ page.location }}, {{ page.date_taken }}</a></h2>
+      <p class="date center"><i><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">Published {{ page.date | date: "%-d %B %Y" }}</a></i></p>
       {{ content }}
     {% else %}
       <h2 class="title"><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">{{ page.title }}</a></h2>
-      <p class="small center">Published {{ page.date | date: "%-d %B %Y" }}</p>
+      <p class="date center"><i><a href="{{ site.url }}{{ page.url }}" title="Permanent link to this note.">Published {{ page.date | date: "%-d %B %Y" }}</a></i></p>
       {{ content }}
     {% endif %}
   </div> <!-- /#textframe -->

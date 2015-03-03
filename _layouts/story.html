@@ -3,10 +3,15 @@ layout: story_base
 ---
 
 <div id="container">
+  <div id="header">
+    {% include navigation_nav_only.html %}
+  </div> <!-- /#header -->
   <div id="content">
+		{% comment %}
     <p id="storynav" class="quiet">
       <small><a class="normal" href="/" title="Simon Griffee Homepage.">Simon Griffee</a> / <a class="normal" href="/stories/" title="Return to Stories Index.">Stories</a> / </small><br><small>{{ page.type}}, {{ page.timeframe }}</small>
     </p>
+		{% endcomment %}
 		<h1 class="floatedh1">{{ page.title }}</h1>
     {% if page.intro %}
       <div class="intro">
@@ -21,8 +26,6 @@ layout: story_base
   <div id="footer">
     
     <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p>
-    
-    {% include navigation_nav_only.html %}
 
   </div> <!-- /footer -->
 
