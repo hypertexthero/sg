@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 137th Street &amp; Broadway
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-03 17:07:37
+tags: [back, bw, cold, gray, grey, harlem, people, snow, street, walking, winter]
+image: GRS-20150126-222623
+---

@@ -2,7 +2,7 @@
 layout: entry
 category: notebook
 excerpt:
-title: Broadway &amp; East 4th Street, New York City
+title: Broadway &amp; East 4th Street
 location: New York City
 date_taken: February 2015
 camera: Leica M9
