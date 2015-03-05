@@ -22,7 +22,7 @@ img, a img {border:0 !important; border-style:none; text-decoration:none; margin
 a:link img, a:visited img {border:0 !important; border-style:none; text-decoration:none; border-bottom:none; cursor:pointer;}
 a.imglink:link, a.imglink:visited, div.imglink a:link, div.imglink a:visited {border:none !important; cursor:pointer;}
 
-:target {background: #ffc !important;}
+body#notebook :target {background: #ffc !important;}
 
 /* =layout ------------------------------------------------ */
 
@@ -211,6 +211,7 @@ h1 span.smaller {font-size:0.875em; line-height:0;}
 
 #storynav {margin:0 !important; float:left;}
 .floatedh1 {margin:0 !important;}
+.floatedthumbnav {margin: 0!important; font-size:0.9em;}
 /*.rsImg { margin-top: 50px !important; }*/
 
 div.sec {margin-bottom:4em; clear:both;}

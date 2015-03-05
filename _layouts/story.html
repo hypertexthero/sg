@@ -13,6 +13,7 @@ layout: story_base
     </p>
 		{% endcomment %}
 		<h1 class="floatedh1">{{ page.title }}</h1>
+		{% comment %}<p class="floatedthumbnav"><a href="#footer" title="See thumbnails further below.">&darr; thumbs</a></p>{% endcomment %}
     {% if page.intro %}
       <div class="intro">
         {{ page.intro }}
@@ -26,7 +27,7 @@ layout: story_base
   <div id="footer">
     
 		<p>
-			<em>Photographer &middot; New York City</em>
+			<em>Photographer &middot; Based in New York City</em>
 			<br>
 			<a style="font-weight:normal !important;" href="mailto:simon@simongriffee.com" title="Click to send an email using your email software.">simon@simongriffee.com</a>
 			<br>
@@ -57,7 +58,7 @@ layout: story_base
     </p>
 
     <p class="center"><a class="normal" id="showshare" href="#share" title="Or an enemy.">Show to a Friend</a></p>
-    <p class="center"><a class="normal" id="silence" href="#" title="Hide and show meta information.">Silence</a></p>
+    {% comment %}<p class="center"><a class="normal" id="silence" href="#" title="Hide and show meta information.">Silence</a></p>{% endcomment %}
 
   </div> <!-- /quietbox -->
 </div> <!-- /container -->
@@ -71,10 +72,10 @@ layout: story_base
       controlNavigation: 'tabs',
       autoScaleSlider: true, 
       autoScaleSliderWidth: 980,
-      autoScaleSliderHeight: 652,
+      autoScaleSliderHeight: 440,
       loop: false,
       fadeinLoadedSlide: false,
-      globalCaption: false,
+      globalCaption: true,
       keyboardNavEnabled: true,
       globalCaptionInside: false,
 
@@ -123,7 +124,7 @@ layout: story_base
       // }
     }).data('royalSlider');
     $(".rsFullscreenBtn").insertBefore("#storynav");
-    $(".rsCaption").appendTo("#captions_container");
+    // $(".rsCaption").appendTo("#captions_container");
 
   });
 </script> 
