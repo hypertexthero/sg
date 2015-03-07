@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbus Circle
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-07 10:38:46
+tags: [asian, bus, cold, color, columbus, column, dark, girl, gray, melancholy, movement, sadness, sky, snow, statue, trees, winter]
+image: GRS-20150305-124405
+---
