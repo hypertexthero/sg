@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-08 21:45:59
+tags: [70 to 90 years, bw, cane, eyes, glasses, hand, hat, mouth, old man, old woman, sunlight, winter]
+image: GRS-20150117-203733
+---
+Happy [Women's Day](http://www.internationalwomensday.com/).
