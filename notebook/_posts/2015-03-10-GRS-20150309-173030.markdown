@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Times Square Near Armed Forces Recruitment Station
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-10 16:52:55
+tags: [american, Armed Forces Recruitment Station, boy, bw, crowd, expression, flag, man, nationalism, old, times square, young]
+image: GRS-20150309-173030
+---
