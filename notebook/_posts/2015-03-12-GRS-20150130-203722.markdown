@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue &amp; 42nd Street
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-12 14:29:23
+tags: [boy, color, crowd, expression, girl, hair, hat, headphones, laughter, lipstick, man, new york, phone, soho, street corner]
+image: GRS-20150130-203722
+---
