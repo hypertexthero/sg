@@ -2,7 +2,7 @@
 layout: entry
 category: notebook
 excerpt: En-route from NYC to Grand Rapids, Michigan.
-title: 30,000ft ✈ DL6241
+title: 3000ft ✈ DL6241
 location: New York City
 date_taken: March 2015
 camera: Fuji X100s
