@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt: En-route from NYC to Grand Rapids, Michigan.
+title: 30,000ft ✈ DL6241
+location: New York City
+date_taken: March 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-03-13 11:27:53
+tags: [airplane, flight, landscape, altitude, high, air travel, writing, note, atmosphere, bw, city, flying, metropolis, new york city, nyc, population, roads, sky, skyline, wing, aeroplane]
+image: GRS-20150313-100156
+---
+
+En-route from NYC to Grand Rapids, Michigan.
