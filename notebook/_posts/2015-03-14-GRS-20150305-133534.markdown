@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-14 15:19:33
+tags: [40 to 60 years, color, expression, flag, plastic, raincoat, snow, snowing, woman]
+image: GRS-20150305-133534
+---
