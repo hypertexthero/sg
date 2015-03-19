@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Muskellunge Lake
+location: Michigan
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-18 21:57:45
+tags: [beach, bw, cloud, farmer, finger, frozen, hair, hand, arm, ice, icy, lake, rag, sand, sky, snow, strong, treeline, water, winter, trufant]
+image: GRS-20150316-160142
+---
