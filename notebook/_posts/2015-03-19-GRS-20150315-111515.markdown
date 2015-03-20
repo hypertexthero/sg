@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Lyon Street NE
+location: Grand Rapids, Michigan
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-19 23:12:53
+tags: [20 to 35 years, 30 to 50 years, Amber, coffee, coffee shop, color, conversation, expression, girl, hair, light, margaret, phone, red hair, street, window, woman]
+image: GRS-20150315-111515
+---
