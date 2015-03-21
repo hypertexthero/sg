@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Public Eye Exhibition, NYPL
+location: New York City
+date_taken: March 2015
+camera: iPhone 5s
+lens: iPhone 5s Lens
+date: 2015-03-20 17:19:18
+tags: [publiceyeNYPL, 20 to 30 years, boy, bw, exhibition, eye, girl, instagram, library, mirror, nypl, public, self-portrait, shadow]
+image: GRS-20150320-153314
+---
+I am in the [#publiceyeNYPL](https://twitter.com/hashtag/publiceyenypl) today at my adopted, favorite library and coffice, [#NYPL](http://www.nypl.org/)! Tomorrow going to first ever [#wwim at #wwim11nyc](https://community.instagram.com/) -- thanks to gentleman [@omarzrobles](https://instagram.com/omarzrobles) who i met on the street for the invite.

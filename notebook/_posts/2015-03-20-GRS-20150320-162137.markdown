@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street &amp; Broadway at Times Square
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-20 19:38:18
+tags: [15 to 35 years, 42nd street, advertising, athletic, athleticism, boy, broadway, bw, car, crosswalk, date, jump, jumping, leap, love, mobile phone, pedestrians, puddle, rain, reflection, times square, walk, walking, water, winter]
+image: GRS-20150320-162137
+---
