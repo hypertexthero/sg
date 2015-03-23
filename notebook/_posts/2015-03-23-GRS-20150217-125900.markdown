@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 59th Street
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-23 13:48:30
+tags: [70 to 110 years, bw, cane, coat, expression, glasses, mouth, old man, russian hat, surprise, winter]
+image: GRS-20150217-125900
+---

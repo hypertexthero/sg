@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Near Howard City
+location: Michigan
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-23 12:12:05
+tags: [amish, bw, driver, driving, farm, farmer, field, hat, jeff, laugh, road, steering wheel, truck]
+image: GRS-20150316-162827
+---
