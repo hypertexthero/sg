@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Hotel Bar
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-03-22 20:28:02
+tags: [bar, blur, club, color, expression, girl, hand, lights, lust, men, motion, night, nightlife, reflection]
+image: GRS-20150321-211209
+---
