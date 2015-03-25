@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-25 08:37:37
+tags: [14 to 18 years, arms, bw, desire, embrace, expression, friendship, girl, girls, headphones, hug, joy, kids, love, lust, teenagers, together, wrap, wrapped]
+image: GRS-20150324-150847
+---

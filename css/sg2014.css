@@ -123,10 +123,10 @@ h2 {
     margin: 1em 0 0.25em;
     }
 body#home h2 a:link, body#home h2 a:visited {border:none;}
-h3 {font-size:0.75em; margin:0 0 0.6em; }
-h4 {font-size:0.75em; font-weight:normal; font-style:italic; margin:1.7em 0 0.5em; }
-h5 {font-size:0.55em; text-transform:uppercase; margin:1.7em 0 0.5em; }
-h6 {font-size:0.55em; text-transform:uppercase; font-style:italic; margin:1.7em 0 0.5em; }
+h3 {font-size:1em; margin:0 0 0.6em; }
+h4 {font-size:1em; font-weight:normal; font-style:italic; margin:1.7em 0 0.5em; }
+h5 {font-size:1em; text-transform:uppercase; margin:1.7em 0 0.5em; }
+h6 {font-size:0.9em; text-transform:uppercase; font-style:italic; margin:1.7em 0 0.5em; }
 
 /* =paragraphs, =misc ---------- */
 
@@ -249,6 +249,7 @@ dl {font-size:1em; line-height:1.4em;}
 ul#titlelist, ul#timelinelist, ul.archivelist {margin-left:0 !important; padding-left:0 !important; list-style:none inside !important;}
 ul.archivelist li {padding:0 0 2em; display:inline-block; margin-right:18px; text-align:center;}
 ul.archivelist li a {border:0;}
+.unstyled {list-style:none inside; margin-left:0; padding-left:0;}
 
 #content ul, #content dl, #content ol {margin:0 0 1.4em 0.1em;}
 ol {font-size:inherit; list-style:decimal inside !important;}

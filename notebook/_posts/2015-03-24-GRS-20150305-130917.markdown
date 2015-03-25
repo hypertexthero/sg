@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Grand Army Plaza
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-24 09:27:23
+tags: [18 to 30 years, asian, color, friends, girls, glance, hair, look, red, snow, stripe, together, transparent, umbrella, winter, yes]
+image: GRS-20150305-130917
+---

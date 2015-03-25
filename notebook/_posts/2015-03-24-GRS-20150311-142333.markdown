@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-24 19:38:34
+tags: [3 to 12 years, bw, childhood, children, crying, expression, kids, laughing, parenting, play, street, stroller]
+image: GRS-20150311-142333
+---
+Waiting for mom, presumably in the store.

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-25 13:46:53
+tags: [40 to 60 years, against sun, bags, catholic, color, consumerism, expression, nuns, shawl, shopping, street, women]
+image: GRS-20150324-152548
+---
