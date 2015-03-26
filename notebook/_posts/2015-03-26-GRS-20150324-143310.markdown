@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbia University Quad
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-26 09:25:31
+tags: [30 to 60 years, buzzcut, bw, conversation, group, guards, haircut, ill-fitting, jacket, meeting, men, outdoors, suit, suits, tie, tough]
+image: GRS-20150324-143310
+---
+They didn't look like intellectuals, nor as if they were having an intellectual conversation. I didn't stick around to find out.
