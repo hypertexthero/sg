@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East 7th Street Scene After Explosion and Fire, New York City
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-03-27 00:32:15
+tags: [bw, column, crowd, east village, expression, fire, movement, panic, people, police line, sky, smoke, explosion, gas]
+image: GRS-20150326-160647
+---
+Today I was walking down St. Mark's Place and photographing by the Gem Spa 30 minutes prior to the explosion and subsequent fire at #121 2nd Avenue, one a block away. When I heard about the fire I went back to find chaos.

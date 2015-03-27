@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: St. Marks Place &amp; 3rd Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-03-27 10:44:20
+tags: [20 to 40 years, bw, distance, exhaustion, expression, fire, firefighters, firemen, flashlight, helmet, man, nyfd, radio, young man]
+image: GRS-20150326-161342
+---
+Firefighters in the East Village on 26 March 2015.
