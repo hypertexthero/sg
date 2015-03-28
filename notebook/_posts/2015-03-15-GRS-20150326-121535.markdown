@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-27 22:52:28
+tags: [advertising, army, black man, bw, consumerism, family, goodyear, purchase, reflection, shop, shopping, store, tourists, umbrella, uncle sam, us army, window]
+image: GRS-20150326-121535
+---
+Sometimes I see the word 'shoppe' used in shop names here, perhaps to make them sound more French, or at least European. This was not one them.
