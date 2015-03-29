@@ -94,7 +94,7 @@ body#maps #navcontainer li#nav-maps a,
 body#archives.notebookthumbnails #navcontainer li#nav-latest a {background:#ccc;}
 /* TODO: Thumbnail archive pages: http://masonry.desandro.com/docs/intro.html */
 
-#footer {margin:0 auto; text-align:center; padding:10px;}
+#footer {margin:0 auto; text-align:center; padding:10px; clear:both;}
 #footer p {font-size:0.9em !important; color:#666;}
 body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
@@ -144,14 +144,16 @@ div.ThumbTitleCaption p.small {font-size:0.65em; line-height:1.25em; display:inl
 div.homethumb {width:9em; margin-right:-5.7em; clear:both;}
 div.homethumb h3, div.homethumb p {margin-bottom:0;}
 
-.thumbs {margin:0 0 0 10px !important;}
+.thumbs, #gallery {margin:0 0 0 10px !important;}
 body.storiesstoryindex .thumbs {margin:0 0 0 247px !important;}
-.thumbs li {float:left; list-style:none; color:#333; margin:0 0 10px 0; width:233px !important; height:233px !important;}
-.thumbs li a {display:block; border:none;}
-.thumbs li a:hover, .thumbs li a:active {background:transparent; color:#c00 !important;}
-.thumbs li:hover {color:#c00;}
-.thumbs li img {margin:-10px 0 0 -10px; padding:10px;}
-.thumbs li:hover img {outline:1px solid #ccc;}
+.thumbs li, #gallery figure {float:left; list-style:none; color:#333; margin:0 0 10px 0; width:330px !important; height:330px !important;}
+.thumbs li a, #gallery figure a {display:block; border:none;}
+.thumbs li a:hover, .thumbs li a:active, #gallery figure a:hover, #gallery figure a:active {background:transparent; color:#c00 !important;}
+.thumbs li:hover, #gallery figure:hover {color:#c00;}
+.thumbs li img, #gallery figure img {margin:-10px 0 0 -10px; padding:10px;}
+.thumbs li:hover img, #gallery figure:hover img {outline:1px solid #ccc;}
+
+figcaption {display:none;}
 
 .thumbs li.textthumb {padding:0 !important;}
 .thumbs li.textthumb a {display:block !important; width:233px !important; height:233px !important;}

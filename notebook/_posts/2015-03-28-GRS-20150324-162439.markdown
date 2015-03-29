@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-28 23:09:06
+tags: [60 to 90 years, bite, bw, folder, moleskin, mouth, old man, sailor cap, shades, sunglasses, teeth, valise]
+image: GRS-20150324-162439
+---
+During [a workshop](/stories/five-days-in-paris) Richard Kalvar said he's always trying to get people holding things with their mouth. Here's an 'almost' in this field.
