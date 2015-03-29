@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-29 12:09:22
+tags: [40 to 65 years, bw, conversation, culinary, eating, food, food cart, food stand, hand, junk food, men, new york, street, street food, surprise, talking statue]
+image: GRS-20150311-140134
+---
+Culinary discussion.
