@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbus Circle
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-03-29 23:28:09
+tags: [band, boys, bw, columbus circle, crowd, kids, music, performance, sing, singing, song, yoyo]
+image: GRS-20150224-154023
+---
+I joined spectators for a few moments and observed the performance. 
