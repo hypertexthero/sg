@@ -201,7 +201,7 @@ p.entry-summary {margin-bottom:3em;}
 p.smallprint, div.footnote {font-size:0.75em; letter-spacing:0.055em;}
 div.footnote {color:#666;}
 div.footnotes ol li {font-size:0.9em; list-style:decimal;}
-span.caps, strong.caps {font-size:0.95em; line-height:0; text-transform:uppercase;}
+span.caps, strong.caps, .caps {font-size:0.95em; line-height:0; text-transform:uppercase;}
 .current {font-style:italic; border-left:8px solid #ccc; padding-left:5px;}
 .clear {clear:both;}
 .quiet {color:#444 !important;}

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-30 10:23:36
+tags: [70 to 110 years, beard, black, coat, dark, extreme, flag, hat, old man, religion, uniform, white]
+image: GRS-20150217-132248
+---
