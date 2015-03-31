@@ -14,7 +14,7 @@ layout: null
     <email>{{ site.author_email }}</email>
   </author>
 
-  {% for post in site.posts limit:10 %}
+  {% for post in site.posts limit:7 %}
   <entry>
     <id>{{ site.production_url }}{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="{{ site.production_url }}{{ post.url }}"/>
@@ -28,7 +28,7 @@ layout: null
     <content type="html">
       {{ post.content | xml_escape }}
       {% if post.date_taken %}
-      <![CDATA[<img src="{{ site.production_url }}images/{{ post.image }}.jpg" alt="{{ post.title }}" />]]>
+      <![CDATA[<img src="{{ site.production_url }}/images/{{ post.image }}.jpg" alt="{{ post.title }}" />]]>
       {% endif %}
     </content>
   </entry>

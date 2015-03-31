@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue Near The New School
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-03-31 11:21:03
+tags: [40 to 60 years, architecture, bw, cat, claw, gesture, glasses, graffitti, hands, head, homeless, leash, man, performance, scarf, scratch, street]
+image: GRS-20150330-141924
+---
+The cat's name is Nicolas.

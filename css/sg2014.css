@@ -100,8 +100,8 @@ body.notebookthumbnails #footer {padding-top:2em;}
 body.storieslatest #footer, body.storiesstoryindex #footer {width:auto !important;}
 body.storiesstoryindex #footer {padding-top:6em;}
 #footer input {margin:0 0 0.75em; background:#ddd; padding:5px;}
-#footer input#searchbutton {padding:4px; color:#666;}
-#footer input#searchbutton:hover {cursor:pointer;}
+#footer input#searchbutton, .button {padding:4px; color:#666;}
+#footer input#searchbutton:hover, .button:hover {cursor:pointer;}
 input.zemSubmit {padding:4px !important; letter-spacing:0.1em;}
 input.zemSubmit:hover {cursor:pointer;}
 #footer a {color:#666 !important; font-weight:normal;}
@@ -266,8 +266,8 @@ a#lightstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
 a#largerstyle {border-bottom:solid 1px #ccc; font-weight:normal;}
 
 /* =forms ------ */
-form.zemContactForm {margin:0 0 2em;}
-input, textarea {margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.5em; background:#fafafa; font-size:0.9em;}
+input, textarea, input.button {margin:0 0 1em; border:1px solid #bbb; font-weight:normal !important; padding:0.5em; background:#fafafa; font-size:0.9em;}
+label {line-height:1.5em; display:block;}
 div#packetform label {font-style:italic;}
 div#packetform select {padding:2px;}
 div#packetform input {padding:0; background:transparent;}
@@ -313,6 +313,7 @@ div.storycolumnmarginright {margin-right:6em;}
 .introthumb {margin:1em 0 0.5em; display:block; outline:0 !important; /*width:200px; height:133px;*/}
 .intro {clear:both;}
 
+/*body#notebook #mc_embed_signup {margin:0 auto;}*/
 /* =responsive structure ---------------------- */
 
 @media (max-width: 1400px) {
@@ -320,6 +321,7 @@ div.storycolumnmarginright {margin-right:6em;}
     max-width:100% !important;
     height:auto !important; /*border:0 !important; border-bottom:3px solid #000 !important;*/
     }
+	}
 @media (max-width: 960px) {
     div#plateframe img, div#textframe img {max-width:100% !important; height:auto !important; /*border:0 !important; border-bottom:3px solid #000 !important;*/}
     div#textframe {padding:0 1em;}
@@ -331,4 +333,5 @@ div.storycolumnmarginright {margin-right:6em;}
     body#home div.caption {text-align:left;}
 		h1#logo, ul.nav, ul.subnav {float:none; text-align:center;}
 /*		.rsImg { margin-top: auto !important; }*/
+		body#notebook #mc_embed_signup {margin:0 auto;}
     }
