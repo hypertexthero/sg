@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Sheridan Square &amp; West 4th Street
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-01 09:06:17
+tags: [20 to 40 years, arm, athletic, athleticism, bicycle, bike, bw, cyclist, delivery, helmet, lean, legend, man, road, street, wheel]
+image: GRS-20150330-190547
+---
+Cyclists in New York City often have their athleticism on display.
