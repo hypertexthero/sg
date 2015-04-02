@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Self-Portrait at Times Square
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-04-02 09:54:25
+tags: [30 to 40 years, 40 to 60, advertising, billboard, bw, camera, heart, kiss, kissing, love, man, screen, self-portrait, times square, video, woman]
+image: GRS-20150226-102506
+---

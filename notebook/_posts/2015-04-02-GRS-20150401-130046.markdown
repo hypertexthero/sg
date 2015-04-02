@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Gino at Google
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-02 09:19:52
+tags: [30 to 40 years, freedom tower, gino, men, new york city, Simon, sky, skyline, timer, self-portrait]
+image: GRS-20150401-130046
+---
+Thanks for the tour, Gino!
