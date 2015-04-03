@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Fifth Avenue at 33th Street
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-03 10:51:19
+tags: [50 to 80 years, cup, drink, food, hot dog, hotdog, man, packages, papaya dog, sign, street, takeaway food]
+image: GRS-20150330-131337
+---
+A customer departs a popular New York City eating establishment.
