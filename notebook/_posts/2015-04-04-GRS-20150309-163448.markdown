@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-04 11:14:08
+tags: [16 to 25 years, amos, boots, bw, cross-legged, crossed legs, girls, hair, jeans, marble, sitting, sprinker, street, youth]
+image: GRS-20150309-163448
+---
+She reminded me of Tori Amos in her youth.
