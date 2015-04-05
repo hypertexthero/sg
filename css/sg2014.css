@@ -307,5 +307,5 @@ div.storycolumnmarginright {margin-right:6em;}
 	h1#logo, ul.nav, ul.subnav {float:none; text-align:center;}
 }
 @media (max-width: 650px) {
-	div#search {max-width:90%;}
+	div#search {max-width:90%; margin:0;}
 }
