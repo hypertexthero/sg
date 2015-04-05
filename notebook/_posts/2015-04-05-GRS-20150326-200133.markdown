@@ -1,0 +1,16 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Geoff Dyer, Nikil Saval and Jenny Davidson at Strand Books
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-05 10:46:59
+tags: [books, geoff dyer, Jenny Davidson, letters, literature, Nikil Saval, photographer, politics, raymond williams, Strand Books, writers, writing]
+image: GRS-20150326-200133
+---
+One of my favorite contemporary writers, Geoff Dyer, in a Strand Books panel discussion with Nikil Saval and Jenny Davidson surrounding society's impact on literature through Raymond Williams' interviews in a new edition of _Politics and Letters_ which includes an updated introduction by Dyer.
+
+Dyer signed my copy of his book about photography, _The Ongoing Moment_, which I warmly recommend, along with his book about life on an aircraft carrier with pictures by Chris Steele-Perkins, _Another Great Day at Sea: Life Aboard the USS George HW Bush_.
