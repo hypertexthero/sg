@@ -20,8 +20,8 @@ _In loving memory_
 Peter John Griffee  
 6 April 1944–12 August 2012
 
-<a href="/salento/" title="See the slideshow. Viewing time is 13 minutes."><img style="margin:0;" src="/img/SalentoT/intro.jpg" alt=""></a>
+<a href="https://vimeo.com/107822340" title="See the slideshow. Viewing time is 13 minutes."><img style="margin:0;" src="/img/SalentoT/intro.jpg" alt=""></a>
 
-[13-minute slideshow with music](/salento/ "Music: Echoes Part II, Pink Floyd Live at Pompeii Film - Roger Waters, Richard Wright, Nick Mason, David Gilmour. Photographs: Simon Griffee.") (recommended).  
-[View as video on Vimeo](http://vimeo.com/107822340).  
+[13-minute slideshow with music](https://vimeo.com/107822340 "Music: Echoes Part II, Pink Floyd Live at Pompeii Film - Roger Waters, Richard Wright, Nick Mason, David Gilmour. Photographs: Simon Griffee.") (recommended).  
+<!-- [View as video on Vimeo](http://vimeo.com/107822340).   -->
 [Normal gallery](/stories/salento.html "In the Stories section.").
