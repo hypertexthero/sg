@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-06 12:43:22
+tags: [6 to 12 years, bench, boy, bw, chain, child, childhood, climb, expression, fence, grass, hanging, jump, kid, park, pavement, street lamp, tree]
+image: GRS-20150401-163249
+---
+Boy outside. Spring is coming.

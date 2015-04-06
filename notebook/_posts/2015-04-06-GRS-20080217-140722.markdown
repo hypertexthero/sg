@@ -1,0 +1,16 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With My Dad
+location: Trevignano, Italy
+date_taken: February 2008
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-06 10:09:45
+tags: [30 to 40 years, 40 to 65 years, bw, dad, father, hug, leather jacket, men, odila, peter, self-portrait, son, trees]
+image: GRS-20080217-140722
+---
+Photograph by my mom, Odila Griffee. 
+
+I miss you, dad.
