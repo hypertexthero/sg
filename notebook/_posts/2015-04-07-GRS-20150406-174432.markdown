@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park South
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-07 16:24:29
+tags: [5 to 10 years, 20 to 60 years, bicycle, bw, children, costume, crowd, cycling, daugter, division, family, fashion, father, flags, hair, haircut, hat, jew, jewish, kids, nationalism, organized religion, park, passover, religion, shalom, son, suit]
+image: GRS-20150406-174432
+---
+Ran into an exodus from Central Park.
