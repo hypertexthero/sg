@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbus Avenue
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-08 21:32:47
+tags: [20 to 35 years, Amber, bw, car, gesture, girl, hair, hand, road, scarf, wheel, wind]
+image: GRS-20150404-143319
+---
+The wind came suddenly in the morning and continued through the afternoon.
