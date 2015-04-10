@@ -58,8 +58,7 @@
               <div class="caption">
                 <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
                 <p class="date">
-                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i>
-                </p> 
+                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i>  <small>· {{ site.production_url }}{{ post.url }}</small></p>
                 {{ post.content }}
               </div> <!-- /.caption -->
             {% else %}
@@ -74,8 +73,7 @@
               <div class="caption">
                 <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
                   <p class="date">
-                    <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i>
-                  </p>
+                    <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i> <small>· {{ site.production_url }}{{ post.url }}</small></p>
                   {{ post.content }}
               </div> <!-- /.caption -->
             {% endif %}

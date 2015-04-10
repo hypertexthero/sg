@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park South
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-09 20:54:22
+tags: [11 to 16 years, bicycle, bw, expression, gesture, girl, girls, hair, halo, hand, handbag, happy, mischievious, park, road, shy, smile, sun, sunlight, walk]
+image: GRS-20150406-173937
+---
+Daydreamers welcome.

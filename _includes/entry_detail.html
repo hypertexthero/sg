@@ -10,12 +10,14 @@
 <div id="textframe" class="text">
   {% if post.date_taken %}
     <h2 id="NotebookPhotoTitle" class="weakcaption title"><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this note.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h2>
-      <p class="date center"><i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this note.">Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
+      <p class="date center"><i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this note.">Published {{ post.date | date: "%-d %B %Y" }}</a></i><small>  · 
+Permalink for copy &amp; paste: {{ site.url }}{{ post.url }}</small></p>
 
     {{ content }}
   {% else %}
     <h2 class="title"><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this note.">{{ post.title }}</a></h2>
-      <p class="date center"><i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this note.">Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
+      <p class="date center"><i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this note.">Published {{ post.date | date: "%-d %B %Y" }}</a></i><small>  · 
+Permalink for copy &amp; paste: {{ site.url }}{{ post.url }}</small></p>
 
     {{ content }}
   {% endif %}

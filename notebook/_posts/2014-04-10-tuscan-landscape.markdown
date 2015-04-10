@@ -12,9 +12,9 @@ excerpt:
 tags: [blue, clouds, color, cypress, desktop, field, green, house, landscape, mountain, tuscan, tuscany, windowsxp, windows xp, wallpaper]
 ---
 
-A homage to the [Windows XP wallpaper image](https://en.wikipedia.org/wiki/Charles_O%27Rear "Taken by photographer Charles O'Rear."), this photograph was taken on the side of a road near Montepulciano on March 2013 with a Leica M9 and 35mm Summilux f/1.4 lens made in 1980. 
+A homage to the [Windows XP wallpaper image](https://en.wikipedia.org/wiki/Charles_O%27Rear "Taken by photographer Charles O'Rear."), this photograph was taken on the side of a road near Montepulciano on March 2013. <!-- with a Leica M9 and 35mm Summilux f/1.4 lens made in 1980 -->
 
-Here’s [a full-resolution version <i class="small quiet">(5212×3468 pixels 11mb JPEG)</i>](/images/GRS-20130331-165918-tuscan-landscape.jpg "Right-click and Save As or Save Link As to download.") that you can use personally, perhaps as your computer desktop’s wallpaper or a print for your or a good friend’s wall. If you use the picture and want to say thanks you can buy me a glass of wine or a coffee with a suggested amount of 3 Euros sent to me via PayPal using the following button:
+Here’s [a full-resolution version <i class="small quiet">(5212×3468 pixels 8.5mb JPEG)</i>](/images/GRS-20130331-165918-tuscan-landscape.jpg "Right-click and Save As or Save Link As to download.") that you can use personally, perhaps as your computer desktop’s wallpaper or a print for your or a good friend’s wall. If you use the picture and want to say thanks you can buy me a glass of wine or a coffee with a suggested amount of 3 Euros sent to me via PayPal using the following button:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" >
 <input type="hidden" name="cmd" value="_s-xclick">
