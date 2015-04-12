@@ -1,0 +1,16 @@
+--- 
+layout: entry
+category: notebook
+excerpt: Wonder.
+title: Broadway &amp; West 32nd Street
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-10 21:39:06
+tags: [6 to 12 years, air, boy, bw, child, childhood, cloud, curiosity, delight, hand, happyness, kid, outreach, outreached arm, sky, steam, wonder]
+image: GRS-20150408-162040
+---
+[Jiddu Krishnamurti](http://hypertexthero.com/logbook/2013/09/the-function-of-education/):
+
+> I WONDER IF we have ever asked ourselves what education means. Why do we go to school, why do we learn various subjects, why do we pass examinations and compete with each other for better grades? What does this so-called education mean, and what is it all about? This is really a very important question, not only for the students, but also for the parents, for the teachers, and for everyone who loves this earth. Why do we go through the struggle to be educated? Is it merely in order to pass some examinations and get a job? Or is it the function of education to prepare us while we are young to understand the whole process of life? Having a job and earning one’s livelihood is necessary but is that all? Are we being educated only for that? Surely, life is not merely a job, an occupation; life is something extraordinarily wide and profound, it is a great mystery, a vast realm in which we function as human beings. If we merely prepare ourselves to earn a livelihood, we shall miss the whole point of life; and to understand life is much more important than merely to prepare for examinations and become very proficient in mathematics, physics, or what you will.

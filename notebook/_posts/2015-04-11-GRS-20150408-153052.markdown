@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt: Close, but distant.
+title: Times Square
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-11 22:14:05
+tags: [20 to 30 years, bw, crowd, eating, expression, homeless, man, outdoor, pavement, street, table, traveller, young man, young men, distance]
+image: GRS-20150408-153052
+---
+Close, but distant.
