@@ -10,7 +10,7 @@ tags: [simon griffee, photographs, notebook, blog, journal]
 	{% include entry_detail.html %}
 {% endcomment %}
 
-<div id="plateframe">
+<div id="plateframe" class="textcontent">
   {% for post in site.posts limit:14 %}
     {% if post.date_taken %}
       <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">

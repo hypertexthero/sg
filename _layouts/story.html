@@ -95,16 +95,8 @@ layout: story_base
 	
   
   <div id="footer">
-    
-		<p>
-			<em>Photographer &middot; Based in New York City</em>
-			<br>
-			<a style="font-weight:normal !important;" href="mailto:simon@simongriffee.com" title="Click to send an email using your email software.">simon@simongriffee.com</a>
-			<br>
-			+1 (347) 498-5369
-		</p>
 		
-    <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a>. All rights reserved.</p>
+    <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a></p>
 
   </div> <!-- /footer -->
 
@@ -132,10 +124,6 @@ layout: story_base
 
   </div> <!-- /quietbox -->
 </div> <!-- /container -->
-
-
-
-
 
 <script type="text/javascript">
 var initPhotoSwipeFromDOM = function(gallerySelector) {
@@ -334,82 +322,3 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 // execute above function
 initPhotoSwipeFromDOM('#gallery');
 </script>
-
-
-
-
-
-
-{% comment %}
-<script>
-
-	
-
-// Important note! If you're adding CSS3 transition to slides, fadeInLoadedSlide should be disabled to avoid fade-conflicts.
-  jQuery(document).ready(function($) {
-    var si = $('#gallery').royalSlider({
-      addActiveClass: true,
-      arrowsNav: false,
-      controlNavigation: 'tabs',
-      autoScaleSlider: true, 
-      autoScaleSliderWidth: 980,
-      autoScaleSliderHeight: 440,
-      loop: false,
-      fadeinLoadedSlide: false,
-      globalCaption: true,
-      keyboardNavEnabled: true,
-      globalCaptionInside: false,
-
-      deeplinking: {
-        enabled: true,
-        change: true,
-        prefix: 'img'
-      },
-      
-      autoPlay: {
-        // autoplay options go gere
-        enabled: false,
-        pauseOnHover: true,
-        delay: 6000
-      },
-      
-    	fullscreen: {
-    		// fullscreen options go gere
-    		enabled: true,
-    		nativeFS: true
-    	},
-      // image_generation: {
-      //   lazyLoading:!0,
-      //   imageWidth:'',
-      //   imageHeight:'',
-      //   thumbImageWidth:60,
-      //   thumbImageHeight:45
-      // },
-      thumbs:{
-        spacing:10, 
-        paddingTop:4, 
-        paddingBottom:0, 
-        thumbWidth:80,
-        thumbHeight:53,
-				//#todo
-        // thumbWidth:320,
-        // thumbHeight:213,
-        arrows:!1, 
-        appendSpan:!0
-      }
-      //,
-      // visibleNearby: {
-      //   enabled: true,
-      //   centerArea: 0.5,
-      //   center: true,
-      //   breakpoint: 650,
-      //   breakpointCenterArea: 0.64,
-      //   navigateByCenterClick: true
-      // }
-    }).data('royalSlider');
-    $(".rsFullscreenBtn").insertBefore("#storynav");
-    // $(".rsCaption").appendTo("#captions_container");
-
-  });
-</script> 
-{% endcomment %}
