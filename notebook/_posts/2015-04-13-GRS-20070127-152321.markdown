@@ -1,0 +1,18 @@
+--- 
+layout: entry
+category: notebook
+excerpt: "In January 2007 I attended a photography workshop with Per Volquartz in Joshua Tree National Park, California."
+title: Per Volquartz in Joshua Tree
+location: California
+date_taken: January 2007
+camera: Canon 5D
+lens: EF 17–40mm f/4.0L USM
+date: 2015-04-12 21:17:23
+tags: [desert, gesture, ground glass, hand, hat, joshua tree national park, laughter, master, medium fortmat, per volquartz, photographer, photography, reflection, view camera]
+image: GRS-20070127-152321
+---
+In January 2007 I [attended](/notebook/joshua-tree-gettogether) a photography workshop with [Per Volquartz](http://www.volquartz.com/pervolquartz/phot.html) and a mix of photographers in Joshua Tree National Park in California. Per was a master photographer and printer and a kind, joyful person. 
+
+When I searched for his website recently I was saddened to learn he passed away in 2011, so I went back to [these pictures](/stories/joshua-tree) I took during those days and nights on the high desert. 
+
+These are for Per.
