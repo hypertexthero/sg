@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Beto in Argiano
+location: Tuscany, Italy
+date_taken: March 2009
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-13 22:46:47
+tags: [30 to 50 years, alegria, argiano, arms, beto, bottle, fun, gesture, glass, hair, hand, happiness, irmão, laughter, man, risada, smile, teeth, wine]
+image: GRS-20090330-205031
+---
+Que você ultrapasse os tempos e os ventos, meu irmão! Te amo!

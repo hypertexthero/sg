@@ -1,0 +1,16 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Fortitude, New York Public Library
+location: New York City
+date_taken: January 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-13 23:13:56
+tags: [40 to 65 years, cold, fortitude, hair, lion, man, new york public library, nypl, sculpture, snow, statue, white hair, winter]
+image: GRS-20150130-193438
+---
+The lion guarding the north side of the library [is called Fortitude](http://www.nypl.org/help/about-nypl/library-lions "His friend, Patience, guards the south.").
+
+Visiting the library? Don't miss [Public Eye: 175 Years of Sharing Photography](http://www.nypl.org/events/exhibitions/public-eye), which has so much iconic work on display that I feel nervous being there and [often just hide](/notebook/GRS-20150320-153314 "I’m there, somewhere :)"), and [William Meyers](http://www.williammeyersphotography.com/)' whimsical, lovely photographs from the [Outer Boroughs](http://www.nypl.org/events/exhibitions/william-meyers-outer-boroughs).

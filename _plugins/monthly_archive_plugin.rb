@@ -58,7 +58,7 @@ module Jekyll
       self.ext = '.html'
       self.basename = 'index'
       self.content = <<-EOS
-{% for post in page.posts %}
+{% for post in page.posts reversed %}
   {% if post.category != 'unlisted' %}
     <li{% if post.date_taken == null %} class="textthumb"{% endif %}>{{ post.date | date: "%e" }} {% if post.date_taken %}<a href="{{ post.url }}">
       <img {% if post.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ post.image }}t.{% if post.extension %}{{ post.extension }}{% else %}jpg{% endif %}" alt="{{ post.title }}" />
