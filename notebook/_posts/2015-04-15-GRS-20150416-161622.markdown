@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-17 22:20:10
+tags: [bag, bw, crosswalk, crowd, expression, fashion, gel, hair, hair gel, man, pinstripe, ralph lauren polo, shoes, shopping, shopping bag, street, suit, tie]
+image: GRS-20150416-161622
+---
+Pinstripe suit type.

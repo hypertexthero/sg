@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-19 22:39:23
+tags: [60 to 80 years, brim, bw, camera, coat, cowboy, expression, flag, hat, man, pants, street, trousers, walk, walking]
+image: GRS-20150418-132155
+---
+Camera slinger showdown at high noon.

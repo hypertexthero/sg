@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-16 12:15:44
+tags: [8 to 13 years, animal, boy, branch, branches, bw, Central Park, dark, foraging, grass, hunting, stick, tree]
+image: GRS-20150412-160213
+---
+This frame reminded me of [Lord of The Flies](http://books.google.com/books?id=2wNNMdkaB34C "On Google Books.").
