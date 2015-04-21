@@ -1,0 +1,22 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Mãe Voltando a Roma
+location: Fiumicino, Italy
+date_taken: June 2010
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-20 21:07:03
+tags: [50 to 70 years, airport, dress, fashion, green, hat, mae, mãe, mom, mum, necklace, odila, phone, red, suitcase, travel, woman]
+image: GRS-20100627-212649
+---
+My mother Odila — a very strong woman. Much, much stronger than I or anyone else I know! Mom gave me my first 'serious' [camera][1] in 1997, a manual Canon single lens reflex with which I [learned the technical side of photography][2]. 
+
+I've been learning the more difficult side — where to stand, where to point the camera and what's in my heart — ever since! Cameras have taught me more about people, the world around me and myself than most anything, though it is best when combined with books, music and whatever you [love][3].
+
+Thank you, mom!
+
+[1]: /notebook/what-camera "What camera to learn photography?"
+[2]: http://hypertexthero.com/about/#education "My résumé for when I wear me designer hat, at Hypertexthero."
+[3]: http://hypertexthero.com/logbook/2013/09/the-function-of-education/ "The Function of Education."
