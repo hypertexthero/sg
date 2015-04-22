@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Will at Grand Station
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-21 21:00:45
+tags: [30 to 40 years, arches, bw, friends, friendship, grand central, hug, men, simon griffee, william loera, windows]
+image: GRS-20150418-145423
+---
+Meeting an old friend after 10 years. Photograph by Amy.

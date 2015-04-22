@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-21 21:48:26
+tags: [15 to 20 years, bw, envy, expression, girl, girls, heart, street, walk, group]
+image: GRS-20150416-120430
+---
+More girls.
