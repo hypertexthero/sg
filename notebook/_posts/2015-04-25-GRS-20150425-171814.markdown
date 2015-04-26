@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 145th Street Station
+location: New York City
+date_taken: April 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-04-25 22:08:19
+tags: [60 to 90 years, bars, black, black man, blues, coat, color, confidence, expression, fortitude, hat, light, man, race, underground]
+image: GRS-20150425-171814
+---
+He reminded me of the blues.

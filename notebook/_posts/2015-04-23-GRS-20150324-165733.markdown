@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-23 22:26:23
+tags: [50 to 70 years, bag, bw, gaze, glance, hair, man, stolen, street, suit, woman, furtive]
+image: GRS-20150324-165733
+---
+Furtive suit type.

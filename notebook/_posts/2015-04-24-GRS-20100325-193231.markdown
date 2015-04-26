@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Ko Lanta
+location: Andaman Sea
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+date: 2015-04-24 14:18:47
+tags: [20 to 35 years, bw, friends, Kim, laugh, laughter, man, night, outdoors, Ryan, woman]
+image: GRS-20100325-193231
+---
+[Ryan](http://jrbrubaker.com/) and [Kim](http://www.backstitched.com/) react to some bullshit I articulated.

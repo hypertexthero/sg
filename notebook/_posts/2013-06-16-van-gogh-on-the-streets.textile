@@ -10,6 +10,9 @@ tags:
 - painting
 - street
 ---
+
+<img src="/images/GRS-20130610-132412.jpg" width="720" height="479" alt="GRS 20130610 132412">
+
 Last week I came across the following in the Van Gogh museum in Amsteradama:
 
 bq. Van Gogh first met "Breitner":http://en.wikipedia.org/wiki/George_Hendrik_Breitner in January 1882. They roamed the poorest neighbourhoods of The Hague together to make drawings. Breitner later remarked that working on location sometimes caused problems with the local people, since Van Gogh worked in large formats and made his drawings with conspicuous gestures, rather than making discrete little sketches like Breitner.
