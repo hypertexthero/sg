@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbus Circle
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-30 16:19:07
+tags: [17 to 25 years, bag, color, dress, expression, foot, gesture, girls, hair, hand, legs, mobile phone, spring, summer, young, youth]
+image: GRS-20150418-114006
+---
+Spring.

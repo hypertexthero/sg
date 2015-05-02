@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Manhattan Avenue
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-27 23:02:45
+tags: [70 to 110 years, brooklyn, bw, cane, expression, finger, flags, greenpoint, hand, korea, led lights, man, military, mouth, old, street, sunglasses, trigger, veteran, vietnam, woman, ww2]
+image: GRS-20150427-150050
+---
+Cap, cane, jacket, backpack, sunglasses and LED lights: A well-prepared veteran. 

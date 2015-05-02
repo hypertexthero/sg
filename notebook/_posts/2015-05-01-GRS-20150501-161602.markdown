@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-02 11:56:06
+tags: [20 to 35 years, black, bw, emotion, expression, flowing, hair, jeans, lips, ripped, rips, sadness, street, woman]
+image: GRS-20150501-161602
+---

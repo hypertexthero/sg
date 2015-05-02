@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street and 6th Avenue
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-04-29 21:04:00
+tags: [16 to 25 years, afternoon, beautiful, color, eye, eyes, face, flowers, girl, glance, glint, hair, light, look, ophelia, street, young]
+image: GRS-20150427-164700
+---
+Thoughts of [Ophelia](http://en.wikipedia.org/wiki/Ophelia "Hair, flowers, glint.").
