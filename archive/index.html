@@ -18,7 +18,7 @@ category: archive
             <dt><a href="/{{ post.date | date: '%Y' }}/{{ post.date | date: '%m' }}/">{{ post.date | date: '%B %Y' }}</a></dt>
         {% endif %}
     <dd class="archiveday">{{ post.date | date: "%e" }}</dd>
-    <dd class="archivetitle"><a href="{{ post.url }}">{{ post.title }}</a> <em class="capturedate">{% if post.date_taken %}PHOTOGRAPH taken {% if post.location %}in {{ post.location }}{% endif %} on <time>{{ post.date_taken | date: "%e %B %Y" }}</time> {% endif %}{% if post.category contains 'stories' %}STORY {% endif %}{% if post.tags contains 'writing' %}WRITING{% endif %}</em></dd>
+    <dd class="archivetitle"><a href="{{ post.url }}">{{ post.title }}</a> <em class="capturedate">{% if post.date_taken %}PHOTOGRAPH {% if post.location %} {{ post.location }}{% endif %} {% endif %}{% if post.category contains 'stories' %}STORY {% endif %}{% if post.tags contains 'writing' %}WRITING{% endif %}</em></dd>
   {% endif %}
 {% endfor %}
 </dl>

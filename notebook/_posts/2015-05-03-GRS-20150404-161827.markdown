@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-03 09:04:17
+tags: [20 to 35 years, Amber, building, bw, Central Park, cloud, distance, expression, girl, grass, hair, hood, lake, scarf, sky, strand, tree, trunk, water]
+image: GRS-20150404-161827
+---
