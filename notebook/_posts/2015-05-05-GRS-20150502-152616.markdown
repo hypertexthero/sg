@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Herald Square
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-05 11:16:28
+tags: [18 to 25 years, bw, coal, color fight, crossing, dirt, face, festival, girls, hair, humor, humour, legs, painting, shirt, street, tshirt, walk, walking]
+image: GRS-20150502-152616
+---
+Photographers and pedestrians are both bewildered by the variety of criss-crossing foot traffic one comes across in New York City.
