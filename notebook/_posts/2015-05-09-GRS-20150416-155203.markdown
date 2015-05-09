@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue by NYPL
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-09 11:22:19
+tags: [70 to 110 years, alfred stieglitz, architecture, bowtie, bw, chain, doppelganger, fashion, hat, jacket, lion, lookalike, mustache, nypl, old fashioned, old man, street, tie, watch]
+image: GRS-20150416-155203
+---
+Ran into [Alfred Stieglitz](http://en.wikipedia.org/wiki/Alfred_Stieglitz) prowling 5th Avenue.

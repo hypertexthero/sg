@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-07 19:05:44
+tags: [18 to 25 years, arch, boy, bw, crowd, fountain, gesture, girl, hair, hanging around, love, mobile phone, sitting, steps, summer, water, young]
+image: GRS-20150506-171124
+---
+Water in the river of life.
