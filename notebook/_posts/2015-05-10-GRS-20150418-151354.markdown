@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-10 20:55:15
+tags: [30 to 50 years, clothes, color, daughter, dyed hair, fashion, garish, h&m, hair, hamburger, mother, platforms, shades, sunglasses, woman]
+image: GRS-20150418-151354
+---
+I apologize about the color.
