@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Cooper Hewitt Smithsonian Design Museum
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-13 15:35:18
+tags: [20 to 35 years, bw, chandelier, dark, dress, foyer, girl, guests, mansioned, old, staircase, visitors, wood, wood panelling]
+image: GRS-20150509-183518
+---

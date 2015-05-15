@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-13 20:49:47
+tags: [10 to 15 years, black, boy, bw, chaperone, charcoal, drawing, expression, face, pencil, portrait, scowl, trees, white, woman]
+image: GRS-20150406-153601
+---
+Two drawings.
