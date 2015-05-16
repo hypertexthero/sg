@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Times Square
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-15 23:25:50
+tags: [40 to 65 years, america, boots, bw, crowd, distance, expression, flag, guitar, hat, man, naked, naked cowboy, sadness, street worker, times square, worker]
+image: GRS-20150418-152303
+---
+The [Naked Cowboy](http://www.nakedcowboy.com/).
