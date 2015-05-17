@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 23rd Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-16 21:27:36
+tags: [40 to 55 years, age, aging, blonde, bw, cloud, distance, hair, melancholy, sadness, sky, thinking, thought, wind, woman]
+image: GRS-20150502-162214
+---
+Ars longa, vita brevis.
