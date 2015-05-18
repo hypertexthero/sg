@@ -18,6 +18,8 @@ a:visited {text-decoration:none; color:#111; border-bottom:1px solid #ccc; font-
 a:hover {text-decoration:none; color:#111; background:#fff; border-color:#ccc; outline:none;}
 a:active {color:#c00; outline:none; border-bottom:none;}
 
+.pswp__caption a {color:#ccc !important;}
+
 img, a img {border:0 !important; border-style:none; text-decoration:none; margin-bottom:1em;}
 a:link img, a:visited img {border:0 !important; border-style:none; text-decoration:none; border-bottom:none; cursor:pointer;}
 a.imglink:link, a.imglink:visited, div.imglink a:link, div.imglink a:visited {border:none !important; cursor:pointer;}
