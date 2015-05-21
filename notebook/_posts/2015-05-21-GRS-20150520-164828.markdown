@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and 151st Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-21 11:23:07
+tags: [5 to 10 years, ball, black, boys, bw, chaperone, children, expression, football, gesture, harlem, motion, play, playing, shoes, sidewalk, street]
+image: GRS-20150520-164828
+---
+Harlem street play.
