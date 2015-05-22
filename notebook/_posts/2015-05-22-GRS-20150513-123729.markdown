@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: New York Public Library
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-22 11:24:13
+tags: [18 to 25 years, bw, dress, expression, gesture, girl, girls, hands, indoors, marble, women]
+image: GRS-20150513-123729
+---
+Waiting for [Sally Mann](http://sallymann.com/) to sign my copy of [Hold Still](http://www.nytimes.com/2015/04/19/magazine/the-cost-of-sally-manns-exposure.html).
