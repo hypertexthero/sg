@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-27 13:18:54
+tags: [boy, bw, Central Park, distance, dollar, face, father, fishing, grass, lake, lawn, money, reflection, shadow, son, water]
+image: GRS-20150503-154714
+---
+We're not here for money.

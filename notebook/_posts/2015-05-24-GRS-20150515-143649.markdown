@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-24 23:15:07
+tags: [30 to 40 years, bw, catching, Central Park, frisbee, grass, lawn, man, running, shirtless, shorts, summer, throwing]
+image: GRS-20150515-143649
+---
+Unconventional frisbee catch or throw.

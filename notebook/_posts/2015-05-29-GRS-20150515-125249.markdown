@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 47th Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-29 22:04:56
+tags: [50 to 70 years, animated, bw, comedy, conversation, gesticulation, gesture, hand, hands, men, plaid shirt, reverse smile, roman smile, sales, salesman, sidewalk, street, suit]
+image: GRS-20150515-125249
+---
+A Roman reverse smile in NYC.

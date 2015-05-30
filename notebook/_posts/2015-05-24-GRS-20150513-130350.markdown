@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-24 23:01:29
+tags: [asian, bw, clouds, design, empire state building, expression, long hair, low angle, man, shirt, sky, street, swords, man, 20 to 40 years]
+image: GRS-20150513-130350
+---
+Empire State Building.

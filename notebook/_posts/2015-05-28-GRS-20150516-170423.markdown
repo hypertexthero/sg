@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Prospect Park, Brooklyn
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-28 23:16:16
+tags: [adults, ball, baseball, bat, batter, bw, children, game, gloves, grass, helmet, kids, lawn, little league, pit, pitch, prospect park, sports, swing]
+image: GRS-20150516-170423
+---
+A momentary lapse.

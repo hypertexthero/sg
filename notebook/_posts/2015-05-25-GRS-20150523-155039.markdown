@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The High Line
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-25 22:57:24
+tags: [7 to 14 years, bw, crowd, family, girls, grass, high line, parents, sneakers, tourists]
+image: GRS-20150523-155039
+---
