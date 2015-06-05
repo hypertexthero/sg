@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Maude
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-31 20:22:09
+tags: [animal, bw, cat, couch, cushions, excited, expression, feline, gianni, love, maude, paw, pet, scratch, sofa, tail]
+image: GRS-20150523-142740
+---
+I'll miss you, Maude!

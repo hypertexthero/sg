@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and 147th
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-04 14:12:09
+tags: [2 to 5 years, ball, basketball, bw, chewing-gum, dribble, girl, gum, hand, movement, pedestrians, sidewalk, sneakers, walk, walking]
+image: GRS-20150530-191033
+---

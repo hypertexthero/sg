@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Bruce at Home
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-04 22:59:58
+tags: [50 to 70 years, beard, books, bruce gilden, bw, expression, eyes, fuck, home, man, new york city, portrait, relaxed, ship]
+image: GRS-20150603-171406
+---
+Always a [pleasure](http://simongriffee.com/notebook/GRS-20120517-110955)!
