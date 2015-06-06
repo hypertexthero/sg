@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Amber, Morningside Heights
+location: New York City
+date_taken: June 2015
+camera: iPhone 5S
+lens: iPhone 5S Lens
+date: 2015-06-06 15:59:16
+tags: [20 to 35 years, Amber, apartment, bed, books, bw, girl, klimt, laughter, love, painting]
+image: GRS-20150606-152814
+---
