@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Marcos and Bianca at McSorley's Old Ale House
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-06 22:16:32
+tags: [bianca, beer, bw, friends, marcos]
+image: GRS-20150605-200601
+---
+Meeting old friends after 20 years.

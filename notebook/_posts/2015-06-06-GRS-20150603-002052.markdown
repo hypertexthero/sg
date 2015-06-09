@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Richard at The Half King
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-06 21:29:21
+tags: [8 to 40 years, bar, boys, bw, laughter, men, old friends, richard jensen, simon griffee]
+image: GRS-20150603-002052
+---
+Meeting an old friend after 20 years.

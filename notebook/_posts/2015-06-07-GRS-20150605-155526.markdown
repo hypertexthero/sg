@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 59th Street
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-07 11:41:07
+tags: [4 to 10 years, backpack, bw, camouflage, children, crowd, envy, girls, jewish cap, kids, parents, sidewalk, street]
+image: GRS-20150605-155526
+---
+Reflection.

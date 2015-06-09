@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-07 22:32:57
+tags: [18 to 25 years, anime, bw, costume, girl, high heels, japanese, legs, manga, mech, model, naked, provocative, robot, weird, young]
+image: GRS-20150605-123017
+---
+Models.

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Great Hill, Central Park
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-09 16:40:45
+tags: [adults, bw, Central Park, children, flying, hand, kite, late afternoon, line, park, path, play, running, string, water tower]
+image: GRS-20150607-194041
+---

@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Grand Army Plaza
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-08 13:19:30
+tags: [bandage, boys, broken nose, bw, cigarette, crossing, envy, fear, fight, jacket, jealousy, jeans, men, outsiders, street, toughie]
+image: GRS-20150605-155144
+---
+Contemporary [outsiders](http://www.lettersofnote.com/2013/03/the-outsiders.html).

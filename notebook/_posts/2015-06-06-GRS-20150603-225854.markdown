@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Marcos Outside Ear Inn
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-06 21:31:59
+tags: [8 to 40 years, beer, boys, bw, cars, friends, marcos kotlhar, men, old friends, street]
+image: GRS-20150603-225854
+---
+Meeting an old friend after 20 years.
