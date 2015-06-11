@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Foro di Augusto
+location: Rome, Italy
+date_taken: November 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-11 23:50:26
+tags: [bird, birds, bw, feathers, flight, flying, fori imperiali, overcast, pines, rome, seagull, seagulls, wing]
+image: GRS-20141115-143543
+---
