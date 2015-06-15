@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via di San Giovanni in Laterano by Mino
+location: Rome, Italy
+date_taken: December 2014
+camera: Ricoh GR Digital V
+lens: Ricoh GR Lens 28mm-e f/2.4
+date: 2015-06-15 16:47:15
+tags: [simon, self, laughter, guitar, electric, fender stratocaster, computer, playing, blues, joy]
+image: GRS-20141207-025233
+---
+Yours truly by friend and photographer [Mino Togna](http://minotogna.com/) using friend and photographer [Gaspar Hijo de Carlos](https://instagram.com/ercjspr)' camera.

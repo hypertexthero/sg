@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Yellow Bar
+location: Rome, Italy
+date_taken: November 2014
+camera: Ricoh GR Digital V
+lens: Ricoh GR Lens 28mm-e f/2.4
+date: 2015-06-15 15:56:59
+tags: [40 to 55 years, bar, bw, drinking, drinks, expression, flirting, gesticulation, laugh, man, talking statue, tunisian, woman, yellow bar]
+image: GRS-20141107-194125
+---

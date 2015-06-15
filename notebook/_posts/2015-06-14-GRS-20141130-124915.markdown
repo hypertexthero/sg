@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Mercato di Campagna Amica del Circo Massimo
+location: Rome, Italy
+date_taken: November 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-14 02:33:38
+tags: [60 to 80 years, bw, expression, eyes, kind, man, shades, sunglasses]
+image: GRS-20141130-124915
+---
