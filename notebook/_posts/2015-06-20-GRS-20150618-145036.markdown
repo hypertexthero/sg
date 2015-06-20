@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Isola Tiberina
+location: Rome, Italy
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-20 21:39:04
+tags: [30 to 40 years, bridge, bw, evening, expression, glasses, isola tiberina, jesper, man, river, tevere, tiber, twilight]
+image: GRS-20150618-145036
+---

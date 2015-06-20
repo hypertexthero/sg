@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: My Mother in Giardino degli Aranci
+location: Rome, Italy
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-20 21:22:44
+tags: [60 to 80 years, cityscape, clouds, cupola, distance, hat, landscape, mãe, odila, rome, sky, skyline, view, woman]
+image: GRS-20150616-122657
+---
