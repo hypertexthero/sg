@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Piazza del Colosseo
+location: Rome, Italy
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-22 01:02:45
+tags: [20 to 35 years, angel, breast, cloud, eyes, flight, flowers, flying, gesture, girl, hair, hands, lips, release, sky, suvi]
+image: GRS-20150619-234807
+---
