@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Roseto di Roma Capitale
+location: Rome, Italy
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-24 19:34:57
+tags: [bird, bw, clouds, cypress, grass, landscape, leaf, leaves, petals, rome, rose, rose garden, sky, skyline, tree]
+image: GRS-20150616-140814
+---

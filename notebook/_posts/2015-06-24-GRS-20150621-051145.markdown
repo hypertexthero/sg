@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via Cola del Rienzo
+location: Rome, Italy
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-24 00:39:14
+tags: [50 to 80 years, breasts, bw, dog, expression, man, shop, shopping, sidewalk, sunlight, walking, woman]
+image: GRS-20150621-051145
+---

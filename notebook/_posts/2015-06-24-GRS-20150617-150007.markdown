@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via Garibaldi
+location: Rome, Italy
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-24 19:41:21
+tags: [20 to 40 years, blur, bw, church, clouds, cypress, helmet, men, motorino, movement, scooter, skyline, twilight]
+image: GRS-20150617-150007
+---
+Addio per ora bellissima Roma!
