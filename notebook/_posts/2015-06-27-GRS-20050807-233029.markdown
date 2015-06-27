@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The Crucible
+location: Oakland, California
+date_taken: August 2005
+camera: Canon EOS 300D
+lens: Canon 50mm f/1.4 ESM
+date: 2015-06-27 12:47:21
+tags: [20 to 30 years, dance, dancing, fire, firedancer, girl, laying down, motion, oakland, the crucible, USA]
+image: GRS-20050807-233029
+---
+
+Almost ten years ago in West Oakland.

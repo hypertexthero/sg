@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Ko Ma
+location: Andaman Sea
+date_taken: March 2010
+camera: Ricoh GR Digital III
+lens: Ricoh GR Lens 28mm-e f/1.9
+date: 2015-06-27 17:46:19
+tags: [andaman, black, blue, clouds, color, distance, emerging, heart, horizon, island, light, ocean, orange, reflection, rock, sea, water, waves]
+image: GRS-20100324-110252
+---
+
+This picture is dedicated to [love, anywhere](http://www.theguardian.com/society/2015/jun/26/gay-marriage-legal-supreme-court).

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-27 10:35:31
+tags: [10 to 15 years, 30 to 50 years, bag, books, boy, color, crossing, expression, man, puddle, street, toy, trincket, walking]
+image: GRS-20150605-163709
+---
