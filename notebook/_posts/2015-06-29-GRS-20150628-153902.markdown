@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Gay Pride March, 5th Avenue
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-29 20:29:19
+tags: [arab, arabic, bw, crowd, flag, float, gay, gay pride, lbgt, middle-eastern, parade, performance, rainbow, spectators, window]
+image: GRS-20150628-153902
+---

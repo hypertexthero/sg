@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Gay Pride March, 5th Avenue
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-28 23:13:22
+tags: [arm, bw, costume, crowd, dance, dancing, dress, expression, flags, gay pride, happy, joy, march, parade, rainbow, smile, street]
+image: GRS-20150628-155944
+---
