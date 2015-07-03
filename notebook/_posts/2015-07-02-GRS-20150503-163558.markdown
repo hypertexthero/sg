@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-02 20:09:53
+tags: [18 to 25 years, bag, bw, dancer, dancing, drawings, expression, eyes, girl, glint, hair, handbag, lips, mobile phone, park, rock, scarf, trees]
+image: GRS-20150503-163558
+---

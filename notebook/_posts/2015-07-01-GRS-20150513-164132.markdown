@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-01 21:22:22
+tags: [70 to 100 years, bw, dots, elderly, pedestrians, people, polka dots, street, tour, tourists, walkers, walking]
+image: GRS-20150513-164132
+---

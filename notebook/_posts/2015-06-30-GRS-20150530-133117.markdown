@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-06-30 23:44:10
+tags: [30 to 50 years, bw, car, distance, expression, helmet, keys, prius, road, woman]
+image: GRS-20150530-133117
+---

@@ -31,7 +31,9 @@ tags: [writing, reflection, mindfullness, new york city, travel, life, friends]
     - Ian
     - Marco
     - Michael
-    - 
+    - Marcos
+    - Bianca
+    - Richard
 - Seek out artists
     - Bruce Gilden
     - Geoff Dyer
