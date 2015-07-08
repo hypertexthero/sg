@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 13th Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-06 20:57:00
+tags: [80 to 120 years, bw, cap, door, expression, hcb, house, jacket, light, old man, panelling, railing, restaurant, staircase, steps, tie, wood]
+image: GRS-20150525-185954
+---

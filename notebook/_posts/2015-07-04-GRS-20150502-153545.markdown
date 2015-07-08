@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Herald Square
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-04 10:50:48
+tags: [18 to 25 years, advertising, buildings, bw, expression, flag, flowers, girl, hair, lips, perfume, petals, roses, trees, windows, woman]
+image: GRS-20150502-153545
+---

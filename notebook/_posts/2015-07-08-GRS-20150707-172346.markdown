@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbia University
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-08 00:33:34
+tags: [18 to 25 years, alma mater, boy, bw, cloud, columbia university, column, girl, hand, quad, railing, rain, raining, steps, umbrella, water]
+image: GRS-20150707-172346
+---

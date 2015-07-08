@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 4th Street Courts
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-05 23:43:52
+tags: [20 to 40 years, ball, basketball, boys, bw, court, envy, expression, fence, finger, game, hand, men, movement, street, west 4th street, west fourth street courts]
+image: GRS-20150512-181640
+---

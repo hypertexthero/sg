@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-06 20:41:41
+tags: [8 to 16 years, boy, bw, child, dispenser, expression, kid, leaf, plant, pot, street, walk, walking, water bottle]
+image: GRS-20150528-171306
+---

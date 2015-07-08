@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Spring Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-03 20:46:31
+tags: [6 to 12 years, 20 to 40 years, bag, boy, bw, childhood, daydreaming, father, hailing cab, hoodie, kid, man, patinete, scooter, shoe, son, spring street, woman]
+image: GRS-20150603-192434
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-04 10:52:42
+tags: [4th of july, american flag, baseball cap, building, bw, city, expression, eyes, flag, glint, granite, man, old, reflection, restaurant, window]
+image: GRS-20150530-124928
+---
