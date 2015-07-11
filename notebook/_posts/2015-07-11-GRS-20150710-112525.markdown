@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: US Women's World Cup Ticker Tape Parade
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-11 12:29:58
+tags: [18 to 40 years, america, arms, bw, crowd, expression, fame, flag, float, football, hands, mobile phone, organized religion, parade, party, tickertape, united states, us women soccer team, women, world cup]
+image: GRS-20150710-112525
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 1 Train
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-08 23:43:43
+tags: [70 to 90 years, arthritis, bw, finger, hair, hairdo, hand, metro, old women, reflection, train, twins, underground]
+image: GRS-20150430-205016
+---

@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and 114th Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-11 11:21:25
+tags: [60 to 90 years, beard, coffee, cup, expression, glasses, market, old man, pocket, shirt, tolstoy, walk]
+image: GRS-20150709-105930
+---
+Passed Lev Nikolayevich Tolstoy in Morningside Heights.
