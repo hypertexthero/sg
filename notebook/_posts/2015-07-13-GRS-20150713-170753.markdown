@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue and 34th Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-13 23:28:51
+tags: [30 to 40 years, advertisement, asian, blonde, bw, crowd, distance, long hair, longing, look, man, rush, sadness, sidewalk, street, woman]
+image: GRS-20150713-170753
+---

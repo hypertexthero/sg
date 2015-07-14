@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-13 13:37:44
+tags: [6 to 12 years, asphalt, ballet, car, color, dance, daughter, dress, freedom tower, gesture, girl, hand, headband, lesson, mother, shoes, street]
+image: GRS-20150709-165847
+---

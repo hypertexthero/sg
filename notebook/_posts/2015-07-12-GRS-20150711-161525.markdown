@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Masters Eskinazi and Griffee at Northwest Corner Building, Columbia University
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-12 14:09:02
+tags: [bw, friends, victor, simon, glass, street, boys, men, 30 to 40 years, smile, expression]
+image: GRS-20150711-161525
+---
+Photograph by [Master Paulen](http://amberpaulen.com).
