@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Dutch Television Weather Report
+location: Manistee National Forest, Near Howard City, Michigan
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-17 11:06:05
+tags: [20 to 30 years, bw, change, climate, clouds, expression, low pressure, man, map, presenter, screen, suit, television, transmission, tv, weather, weatherman]
+image: GRS-20150715-215934
+---

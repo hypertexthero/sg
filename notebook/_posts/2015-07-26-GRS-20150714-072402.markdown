@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: During Bruce &amp; Sophie's Moving Fitness Program
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-26 12:10:17
+tags: [60 to 70 years, arm, bruce gilden, camera, car, color, expression, hat, leg, man, photographer, reflection, self-portrait, steering wheel, van, window]
+image: GRS-20150714-072402
+---

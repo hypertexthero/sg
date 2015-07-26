@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Jeff
+location: Howard City, Michigan
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-21 12:08:34
+tags: [agriculture, back, bw, clouds, countryside, crouch, digging, dirt, farmer, farming, field, glasses, ground, hands, jeff paulen, leaves, plants, potatoes, potatos, ring, shovel, soil, vegetables]
+image: GRS-20150717-131431
+---
