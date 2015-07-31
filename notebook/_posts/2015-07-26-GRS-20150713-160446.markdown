@@ -1,0 +1,20 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Bryant Park, Zona
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-26 22:26:08
+tags: [6 to 12 years, bag, blur, boy, cap, childhood, color, curiosity, cusp, daydreaming, distance, dream, foreboding, hesitation, leaves, park, shirt, shorts, sitting, standing, step]
+image: GRS-20150713-160446
+---
+
+Just finished reading [Zona](http://geoffdyer.com/2012/02/06/zona/) by my favorite writer-who-is-not-dead [Geoff Dyer](http://simongriffee.com/notebook/GRS-20150326-200133) after [my trusted librarian](http://amberpaulen.com/ "And lovely.") recommended it to me.
+
+First time I watched Andrei Tarkovsky's [Stalker](https://en.wikipedia.org/wiki/Stalker_%281979_film%29), the film Zona is about, I was too stoned to remember what I thought about it the following day, but I do remember what I felt, and recommed you watch Andrei's film  and read Geoff's book, too. 
+
+The photograph above also reminds me of the Zone, which I seem to return to at regular intervals in my life, the last time being in 2010 while reading Arkady and Boris Strugatsky's novel [Roadside Picnic](https://en.wikipedia.org/wiki/Roadside_Picnic) which Tarkovsky's film is loosely based on, and prior to that while exploring the [Chernobyl Exclusion Zone](http://bldgblog.blogspot.com/2010/05/ghosts-of-future-borrowing-architecture.html) in the [Stalker computer game](https://en.wikipedia.org/wiki/S.T.A.L.K.E.R.:_Shadow_of_Chernobyl) in 2007.
+

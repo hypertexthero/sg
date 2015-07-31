@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-30 22:27:39
+tags: [15 to 20 years, anger, coffee, color, expression, eye, girl, hair, photographer, street]
+image: GRS-20150522-162716
+---

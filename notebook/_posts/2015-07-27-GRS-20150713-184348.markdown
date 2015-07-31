@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway &amp; 110th Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-27 23:00:26
+tags: [50 to 70 years, bag, color, companionship, death, dog, dying, friendship, fruit stand, fruits, love, shadow, sick, vegetables, woman]
+image: GRS-20150713-184348
+---

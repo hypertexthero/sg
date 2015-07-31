@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Prince Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-29 23:23:34
+tags: [camera, cartoon, color, drawing, face, fantasy, hat, looking down, man, mobile phone, painting, strange, street, woman]
+image: GRS-20150729-112217
+---

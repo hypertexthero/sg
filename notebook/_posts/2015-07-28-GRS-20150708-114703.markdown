@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Canal Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-28 21:30:11
+tags: [40 to 60 years, anxiety, cigarette, color, expression, glass, man, office worker, reflection, shirt, smoke, smoking, stress, tie]
+image: GRS-20150708-114703
+---
