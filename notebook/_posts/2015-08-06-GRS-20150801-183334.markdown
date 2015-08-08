@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Boston Commons
+location: Boston, Massachusetts
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-06 19:45:02
+tags: [10 to 18 years, 20 to 30 years, color, ducks, girls, glint, grass, green, lake, red, reflection, summer, sun, sunlight, water, willow tree]
+image: GRS-20150801-183334
+---

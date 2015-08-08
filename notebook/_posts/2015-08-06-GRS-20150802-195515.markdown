@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Calvary Cemetery and Manhattan Skyline
+location: New York City
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-06 15:03:53
+tags: [buildings, calvary cemetery, catholic, cemetery, city, color, cross, crosses, death, new york city, skyline, sunset]
+image: GRS-20150802-195515
+---
+
+Returning to NYC from Boston, reading [Haruki Murakami](/imaginarylines/lies-seeing-with-your-own-eyes)'s *Norwegian Wood*.

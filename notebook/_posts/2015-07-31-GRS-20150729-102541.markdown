@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 1 Line, 116th Street Station
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-07-31 11:41:11
+tags: [40 to 60 years, color, expression, hand, man, paint, tiles, underground]
+image: GRS-20150729-102541
+---

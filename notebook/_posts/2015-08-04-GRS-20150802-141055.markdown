@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Chinatown
+location: Boston, Massachusetts
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-04 22:16:26
+tags: [10 to 18 years, boy, china, chinese, cloth, dance, dragon, fan, kung fu, leque, light, martial art, shadow]
+image: GRS-20150802-141055
+---

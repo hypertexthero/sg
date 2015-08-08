@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Victor at MIT Stata Center
+location: Boston, Massachusetts
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-02 23:53:59
+tags: [30 to 40 years, bw, camera, expression, friends, leica, link, men, mirror, photograph, photography, self-portrait, simon, victor, zelda]
+image: GRS-20150801-164907
+---
+
+30 years of friendship.

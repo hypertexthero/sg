@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Killian Court, MIT
+location: Boston, Massachusetts
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-03 22:11:21
+tags: [building, bw, campus, classical, hands, lavoisier, lawn, mit, outreach, outside, reach, reaching, students]
+image: GRS-20150801-153448
+---
