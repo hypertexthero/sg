@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+<html>
+<head>
   {% include head.html %}
   <title>{{ page.category | capitalize}} - {{ site.name }}</title>
 </head>
@@ -17,10 +19,8 @@
 </div> <!-- /#content -->
 
 <div id="footer" class="largetopmargin">
-    <div id="footer" class="largetopmargin">
-      {% include footer.html %}
-    </div> <!-- /#footer -->
-  </div> <!-- /#page -->
-  {% include bodyend.html %}
+    {% include footer.html %}
+</div> <!-- /#page -->
+{% include bodyend.html %}
 </body>
 </html>

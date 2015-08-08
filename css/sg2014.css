@@ -151,7 +151,7 @@ body.storiesstoryindex .thumbs {margin:0 0 0 247px !important;}
 .thumbs li a:hover, .thumbs li a:active, #gallery figure a:hover, #gallery figure a:active {background:transparent; color:#c00 !important;}
 .thumbs li:hover, #gallery figure:hover {color:#c00;}
 .thumbs li img, #gallery figure img {margin:-10px 0 0 -10px; padding:10px;}
-.thumbs li:hover img, #gallery figure:hover img {outline:1px solid #ccc;}
+/*.thumbs li:hover img, #gallery figure:hover img {outline:1px solid #ccc;}*/
 
 figcaption {display:none;}
 
