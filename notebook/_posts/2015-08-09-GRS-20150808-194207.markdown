@@ -1,0 +1,17 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Fiona Apple at Lincoln Center Out of Doors
+location: New York City
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-09 10:10:32
+tags: [20 to 40 years, band, color, concert, fame, fiona apple, girl, instruments, lights, music, show, stage, watkins family hour]
+image: GRS-20150808-194207
+---
+
+Bob Dylan’s [Highway 61 Revisited](https://en.wikipedia.org/wiki/Highway_61_Revisited), released 50 years ago, was performed in its entirety by the [Watkins Family Hour house band](http://watkinsfamilyhour.com/) and guests.
+
+My favorite performances were [Fiona](http://www.fiona-apple.com/)'s [A Mistake](https://www.youtube.com/watch?v=pokyLl-633o) and [Shawn Colvin](http://shawncolvin.com/)'s cover of [Ballad of a Thin Man](https://www.youtube.com/watch?v=yDC0b7rfK5U).
