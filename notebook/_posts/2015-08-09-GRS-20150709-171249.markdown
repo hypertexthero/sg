@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue and 23rd Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-09 22:46:40
+tags: [18 to 25 years, book, bw, crowd, distance, girl, murakami, people, reading, rush hour, street, travel, trip, windup bird chronicle]
+image: GRS-20150709-171249
+---
