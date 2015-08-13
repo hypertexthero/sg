@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-10 21:04:59
+tags: [16 to 25 years, arm, bowtie, bw, crossing, expression, friends, friendship, girls, holding hands, legs, mobile phone, netting, people, shorts, socks, street, tattoo, young]
+image: GRS-20150709-154337
+---

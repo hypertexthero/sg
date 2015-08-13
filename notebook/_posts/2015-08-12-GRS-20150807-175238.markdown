@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Brooklyn Bridge Park
+location: New York City
+date_taken: August 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-08-12 22:26:06
+tags: [20 to 35 years, amber, atlantic, beach, boat, bw, expression, girl, ocean, sail, sailboat, sand, sea, sun]
+image: GRS-20150807-175238
+---
+[Salento](/stories/salento) [echoes](https://www.youtube.com/watch?v=xmADpBu_ZCA) this time of year.
