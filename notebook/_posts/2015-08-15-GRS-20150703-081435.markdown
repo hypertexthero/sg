@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbia University
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-15 22:07:35
+tags: [16 to 25 years, anger, black, boys, bw, columbia university, division, dome, expression, jacket, quad, students, suit, suits, tie]
+image: GRS-20150703-081435
+---

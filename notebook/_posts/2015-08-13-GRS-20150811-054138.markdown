@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: August 2015
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-08-13 23:47:07
+tags: [20 to 35 years, bw, departure, girl, glass, jumping, leaving, shop, sneakers, street, tennis shoes, vitrine, walking, window]
+image: GRS-20150811-054138
+---

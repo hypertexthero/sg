@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: June 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-17 21:07:30
+tags: [20 to 40 years, bowtie, bw, clown, comedy, hat, makeup, mark, men, street, theater, tissue, tragey, tragicomedy]
+image: GRS-20150605-154247
+---
