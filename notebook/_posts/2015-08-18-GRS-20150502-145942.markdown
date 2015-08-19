@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway Near Times Square
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-08-18 22:02:58
+tags: [boy, bw, cleopatra, confusion, costume, desire, egypt, fair, girl, muslim, street, tourism]
+image: GRS-20150502-145942
+---
