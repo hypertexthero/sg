@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Bus to Pittsburgh
+location: Pennsylvania
+date_taken: August 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-08-28 21:52:43
+tags: [18 to 30 years, boy, bus, bw, chimney, clouds, dream, drive, girl, nuclear, passenger, power plant, road, sleep, sleeping, smoke, trip, vapor, window]
+image: GRS-20150820-120011
+---

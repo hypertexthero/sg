@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: John Ryan and Kimberly Joy at Lindy Point
+location: Blackwater Falls State Park, West Virginia
+date_taken: August 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-08-29 22:21:34
+tags: [25 to 35 years, bw, forest, friends, hills, Kim, light, man, mist, mountains, ray, rock, rolling, Ryan, sky, sunlight, woman]
+image: GRS-20150824-182901
+---
