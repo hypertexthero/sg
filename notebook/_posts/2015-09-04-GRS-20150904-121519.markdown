@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street and 5th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-04 22:03:20
+tags: [40 to 60 years, building, bw, city, crossing, distance, flash, girl, man, movement, road, street, walk]
+image: GRS-20150904-121519
+---

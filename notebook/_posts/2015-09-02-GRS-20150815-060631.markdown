@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Coney Island Beach
+location: New York City
+date_taken: August 2015
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-02 15:35:10
+tags: [beach, buildings, bw, clouds, coney island, distance, girl, hair, horizon, ocean, sand, sea, sky, summer, sun, swimmers, swimming, water, wind]
+image: GRS-20150815-060631
+---

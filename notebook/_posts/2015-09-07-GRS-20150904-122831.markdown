@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-07 18:44:38
+tags: [70 to 90 years, blur, bw, flash, man, new york, news, newspaper, speed, street, stress, tension, umbrella, walk, walking]
+image: GRS-20150904-122831
+---

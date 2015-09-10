@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Procession, Piazza del Colosseo
+location: Rome, Italy
+date_taken: March 2013
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-01 10:45:45
+tags: [20 to 70 years, black, blur, bw, catholic, colosseum, glance, night, nuns, religion, women]
+image: GRS-20130329-214032
+---
+Part of my [submission to Lens Culture's Street Photography Awards 2015](https://www.lensculture.com/street-photography-now-2015/event-submission/116223).

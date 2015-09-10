@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue and 23rd Street
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-05 22:09:41
+tags: [20 to 40 years, black, bw, crossing, crowd, expression, gesture, latino, men, new york, people, white, women]
+image: GRS-20150709-170508
+---
