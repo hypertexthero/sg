@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th or 7th Avenue
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-13 12:56:57
+tags: [20 to 40 years, bw, coffee, dress, girl, hair, legs, menu, milkshake, shoes, window, writing]
+image: GRS-20150728-181038
+---
