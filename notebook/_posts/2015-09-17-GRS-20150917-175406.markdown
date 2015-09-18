@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 43rd Street and 6th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-17 22:49:13
+tags: [40 to 60 years, bw, coat, commando, crossing, fashion, italian, man, office worker, street, suit, tie, walk]
+image: GRS-20150917-175406
+---
+During my investigation into the nature of the reality of Fashion Week I suddenly ran into an _Office Commando._

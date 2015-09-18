@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East 14th Street at Union Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-16 23:30:27
+tags: [15 to 25 years, bw, direct, girl, hand, look, plaid shirt, scar]
+image: GRS-20150915-185029
+---

@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Sixth Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-17 23:00:18
+tags: [16 to 25 years, asian, black, bw, dress, expression, flowers, gaze, girls, orchids, street, walk, walking]
+image: GRS-20150917-172015
+---
+The fashioned path through the fields of streets with flowers flowing in the tunneling winds of Fashion Week.
