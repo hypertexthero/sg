@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and West 44th Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-20 21:50:36
+tags: [30 to 50 years, black, blur, bw, close, crossing, expression, flash, hat, i love ny, men, motion, pedestrians, street, walking, woman]
+image: GRS-20150920-115325
+---
+Signing off after two days of intense shooting for [#WHPfilltheframe](http://blog.instagram.com/post/129372453637/150918-whp-189).

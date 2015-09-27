@@ -1,0 +1,26 @@
+--- 
+layout: entry
+title: Vito and Jimmy Discuss Big Data
+excerpt: Jimmy interviews Vito on the subject of Big Data.
+category: notebook
+date: 2015-09-27 18:00:00
+tags: 
+- audio
+- message
+- big data
+- vito
+- jimmy
+---
+<style>
+  figure {margin-bottom:2em;}
+  img, audio, noscript {margin:0; padding:0;}
+</style>
+<figure>
+  <img src="/images/vito-GRS-20141030-235712.jpg" alt="Vito." title="Vito." width="500">
+  <audio controls="controls" title="Jimmy interviews Vito on the subject of Big Data.">  
+     <source src="/audio/big-data.mp3" />
+  </audio>
+  <noscript>
+      <p><a href="/audio/big-data.mp3">Jimmy interviews Vito on the subject of Big Data.</a>.</p>
+  </noscript>
+</figure>

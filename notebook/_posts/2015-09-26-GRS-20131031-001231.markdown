@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Frankie at Da Gino
+location: Rome, Italy
+date_taken: October 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-09-26 19:38:35
+tags: [bw, conversation, espression, eyes, frankie, gesture, italy, men, restaurant, waiter]
+image: GRS-20131031-001231
+---
+Frankie 'discussing' what he will eat at Da Gino's.

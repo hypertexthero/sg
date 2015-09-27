@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Avenue of the Americas
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-24 19:57:32
+tags: [20 to 30 years, blur, bw, expression, eyes, flash, girl, mouth open, scarf, scream, surprise, woman]
+image: GRS-20150923-164313
+---
+Reminds me of The Shining.

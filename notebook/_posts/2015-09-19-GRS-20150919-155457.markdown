@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue and 45th Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-19 22:30:05
+tags: [60 to 80 years, blur, bw, crossing, empire state building, expression, face, flash, hand, hat, motion, street, time, walk, woman]
+image: GRS-20150919-155457
+---
+The hand of time.

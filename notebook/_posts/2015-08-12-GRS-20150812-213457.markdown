@@ -4,7 +4,7 @@ category: notebook
 excerpt:
 title: Beto and Simon in Hyde Park
 location: London, UK
-date_taken: 1982
+date_taken: 1980
 camera: 
 lens: 
 date: 2015-08-12 21:48:39

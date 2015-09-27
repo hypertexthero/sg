@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and West 44th Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-19 22:01:41
+tags: [baby, bw, crossing, crowd, elderly, expression, flash, man, nyc, old man, street, stroller, times square, woman]
+image: GRS-20150919-164454
+---

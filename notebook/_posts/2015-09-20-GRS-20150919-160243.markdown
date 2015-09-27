@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue and 42nd Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-20 09:46:58
+tags: [50 to 70 years, bw, expression, eye, flash, man, sadness, street]
+image: GRS-20150919-160243
+---

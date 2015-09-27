@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-26 20:07:38
+tags: [20 to 35 years, afternoon, bw, covered, dress, eyes, girls, hair, park, scarf, sunlight, veil]
+image: GRS-20150925-142016
+---

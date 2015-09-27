@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-23 09:23:40
+tags: [5th avenue, 60 to 90 years, buildings, bw, coat, expression, face, girls, hair, old man, reflections, street, walking]
+image: GRS-20150919-154107
+---

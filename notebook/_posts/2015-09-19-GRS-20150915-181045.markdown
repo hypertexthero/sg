@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Union Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-19 11:34:21
+tags: [30 to 50 years, board, bw, chess, expression, men, outdoor, pieces, player, table, walk]
+image: GRS-20150915-181045
+---
+Chess players.
