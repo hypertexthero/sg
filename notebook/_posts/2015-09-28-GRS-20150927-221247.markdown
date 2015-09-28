@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Lunar Eclipse, Airliner, Clouds, Stars
+location: New York City
+date_taken: 27 September 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-09-28 00:09:38
+tags: [2015, astronomy, clouds, color, deneb, eclipse, moon, night, sky, stars, supermoon, uranus, vesta]
+image: GRS-20150927-221247
+---
+
+See a [larger version](/images/GRS-20150927-221247-large.jpg).
