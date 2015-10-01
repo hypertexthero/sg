@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Robert F. Kennedy Triborough Bridge
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-09-28 21:09:16
+tags: [blur, bridge, bus, bw, movement, new york city, reflection, skyline, skyscapers, speed, window]
+image: GRS-20150313-065727
+---

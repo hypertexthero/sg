@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Self-Portrait With Marcos at Ear Inn
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-09-29 22:19:54
+tags: [30 to 40 years, bar, blur, bw, expression, eyes, friend, friendship, marcos, men, movement]
+image: GRS-20150929-203621
+---
