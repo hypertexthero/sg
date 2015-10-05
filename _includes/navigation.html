@@ -2,40 +2,39 @@
 <div id="navcontainer">
  <ul class="nav">
    <li id="nav-notebook"><a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a></li>
+   {% if page.path contains 'notebook' %}
+     {% if post.next_in_category != nil %}<li><em><a rel="prev" href="{{post.next_in_category.url}}" title="See the previous entry.">&larr; Before</a></em></li>{% endif %} 
+     {% if post.previous_in_category != nil %}<li><em><a rel="next" href="{{post.previous_in_category.url}}" title="See the next entry.">After &rarr;</a></em></li>{% endif %}
+     {% if page.next_in_category != nil %}<li><em><a rel="prev" href="{{page.next_in_category.url}}"  title="See the previous entry.">&larr; Before</a></em></li>{% endif %} 
+     {% if page.previous_in_category != nil %}<li><em><a rel="next" href="{{page.previous_in_category.url}}" title="See the next entry.">After &rarr;</a></em></li>{% endif %}
+   {% endif %}
+		 <li><em><a href="/random/" title="Let the cosmos and math choose.">Random</a></em></li>
+		 <li id="nav-archives"><em><a href="/archive/" title="Browse the SimonGriffee.com notebook archive.">Archive</a></em></li>
    <li id="nav-stories"><a href="/stories/" title="Projects, essays, series of photographs.">Stories</a></li>
 	 <li id="nav-singles"><a href="/singles/" title="Selected best photographs.">Singles</a></li>
    <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
 	 <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact &amp; Mailing List</a></li>
-   <li id="nav-patrons"><a href="/p/" title="Buy a print.">Prints &amp; Patrons</a></li>
-</ul>
- <ul class="subnav">
-	  <li>
-				<a id="showshare" href="#" title="Or enemy.">Show to a friend</a>
-				<span id="share" class="center" style="display:none;">
-				  <script type="text/javascript" charset="utf-8">
-				    function emailFriend(){
-				    var strrep, ptitle = document.title;
-				    strrep = ptitle.replace(/"/g,'%22');
-				    strrep = ptitle.replace(/&/g,'%26');
-				    var mailtourl = "mailto:?subject=Photographs by Simon Griffee&body="+encodeURIComponent(location.href);
-				    location.href = mailtourl;
-				    return false
-				    }
-				  </script>
+   <li id="nav-prints"><a href="/p/" title="Buy a print.">Prints &amp; Patrons</a></li>
+   <li>
+ 			<a id="showshare" href="#" title="Or enemy.">Show to a friend</a>
+ 			<span id="share" class="center" style="display:none;">
+ 			  <script type="text/javascript" charset="utf-8">
+ 			    function emailFriend(){
+ 			    var strrep, ptitle = document.title;
+ 			    strrep = ptitle.replace(/"/g,'%22');
+ 			    strrep = ptitle.replace(/&/g,'%26');
+ 			    var mailtourl = "mailto:?subject=Photographs by Simon Griffee&body="+encodeURIComponent(location.href);
+ 			    location.href = mailtourl;
+ 			    return false
+ 			    }
+ 			  </script>
 
-				  <a href="javascript:;" onclick="emailFriend();return false" title="With your own mail application.">Mail</a> ·
-				  <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com{{page.url}}/&amp;source=tweetbutton&amp;text={{ page.title }}&amp;url=http://simongriffee.com{{page.url}}" title="Tweet tweet.">Twit</a> · 
-				  <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com{{page.url}}" title="Book of many faces.">Face</a> · 
-				  <a href="https://plus.google.com/share?url=http://simongriffee.com{{page.url}}" title="Googoo">Goo</a>
-				</span>
-	   </li>
-	   {% if post.next_in_category != nil %}<li><em><a rel="prev" href="{{post.next_in_category.url}}" title="See the previous entry.">&larr; Before</a></em></li>{% endif %} 
-	   {% if post.previous_in_category != nil %}<li><em><a rel="next" href="{{post.previous_in_category.url}}" title="See the next entry.">After &rarr;</a></em></li>{% endif %}
-	   {% if page.next_in_category != nil %}<li><em><a rel="prev" href="{{page.next_in_category.url}}"  title="See the previous entry.">&larr; Before</a></em></li>{% endif %} 
-	   {% if page.previous_in_category != nil %}<li><em><a rel="next" href="{{page.previous_in_category.url}}" title="See the next entry.">After &rarr;</a></em></li>{% endif %}
-	   {% if page.path contains 'notebook' %}
-			 <li><em><a href="/random/" title="Let the cosmos and math choose.">Random</a></em></li>
-			 <li id="nav-archives"><em><a href="/archive/" title="Browse the SimonGriffee.com notebook archive.">Archive</a></em></li>
-	   {% endif %}
- </ul>
+ 			  <a href="javascript:;" onclick="emailFriend();return false" title="With your own mail application.">Mail</a> ·
+ 			  <a href="https://twitter.com/intent/tweet?original_referer=http://simongriffee.com{{page.url}}/&amp;source=tweetbutton&amp;text={{ page.title }}&amp;url=http://simongriffee.com{{page.url}}" title="Tweet tweet.">Twit</a> · 
+ 			  <a href="https://www.facebook.com/sharer/sharer.php?u=http://simongriffee.com{{page.url}}" title="Book of many faces.">Face</a> · 
+ 			  <a href="https://plus.google.com/share?url=http://simongriffee.com{{page.url}}" title="Googoo">Goo</a>
+ 			</span>
+    </li>
+</ul>
+
 </div>  <!-- /#navcontainer -->

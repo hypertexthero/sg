@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 34th Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-10-01 23:07:16
+tags: [14 to 21 years, boys, bw, coca cola, coke, gang, group, hair, hats, jewish, shirts, street, walking]
+image: GRS-20150920-161911
+---

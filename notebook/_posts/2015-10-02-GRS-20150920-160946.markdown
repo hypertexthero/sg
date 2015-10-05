@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Herald Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-10-02 13:46:24
+tags: [abstract, blur, boys, bw, children, city, crossing, expression, flash, girl, motion]
+image: GRS-20150920-160946
+---

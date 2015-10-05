@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 116th Street Station
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-10-04 21:13:11
+tags: [bw, children, expression, faces, finger, girls, hair, lights, tile, underground, women]
+image: GRS-20150930-160945
+---
