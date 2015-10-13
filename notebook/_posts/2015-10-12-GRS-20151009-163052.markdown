@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street and 5th Avenue
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-12 19:21:08
+tags: [10 to 15 years, bicycle, bike, blonde, bw, flash, girl, glasses, hair, looking back, riding, street, young]
+image: GRS-20151009-163052
+---

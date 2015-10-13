@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Times Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-10-05 21:09:16
+tags: [16 to 25 years, blonde, bw, cheeks, eyes, flash, flush, gaze, girl, hair, lips, look, street, times square, yes]
+image: GRS-20150919-165621
+---
