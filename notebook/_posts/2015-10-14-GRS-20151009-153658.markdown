@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue at Grand Army Plaza
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-14 08:32:18
+tags: [asian, bw, comic, cosplay, costume, girls, hairy, legs, man, pompom, sailor moon, skirt]
+image: GRS-20151009-153658
+---
