@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Professor Raimondo Betti, Columbia University
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-10-15 22:12:03
+tags: [60 to 80 years, bw, cable, civil, columbia university, corrosion, engineering, man, mechanics, metal, research, science]
+image: GRS-20151015-100821
+---
+[Raimondo Betti](http://civil.columbia.edu/raimondo-betti) _(Professor, Civil Engineering and Engineering Mechanics, Columbia University)_ stands next to the [Cable Corrosion Monitoring System](https://www.youtube.com/watch?v=cP1CfGVVXO4), a major research project he led at Columbia's [Carleton Lab](http://carleton.columbia.edu/).

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Gino, Software Engineer, Google
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-16 19:24:15
+tags: [30 to 40 years, arch, bw, colosseum, computer graphics, earth, engineer, engineering, glasses, google, imagery, man, map, overhead, rome, satellite, screen, software, view]
+image: GRS-20151013-204904
+---

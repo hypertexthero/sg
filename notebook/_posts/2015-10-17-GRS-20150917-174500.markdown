@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street and 6th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-17 12:16:09
+tags: [20 to 30 years, bw, crowd, distance, espression, eyes, face, girl, street, walking]
+image: GRS-20150917-174500
+---

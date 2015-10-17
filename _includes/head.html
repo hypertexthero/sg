@@ -2,8 +2,8 @@
   <meta name="viewport" content="width=device-width">
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
   <meta charset="utf-8">
-  {% if post.category contains 'unlisted' %}<meta name="robots" content="noindex,nofollow">{% else %}{% endif %}
-  <meta name="description" content="Photographer">
+  {% if post.category contains 'unlisted' %}<meta name="robots" content="noindex,nofollow">{% else %}<meta name="robots" content="index,follow">{% endif %}
+  <meta name="description" content="Photography">
   <meta name="keywords" content="{% if page.tags %}{{ page.tags | join: ','}}{% endif %}">
   <meta name="author" content="Simon Griffee">
   <meta name="dcterms.rightsHolder" content="Content and design copyright by Simon Griffee.">
