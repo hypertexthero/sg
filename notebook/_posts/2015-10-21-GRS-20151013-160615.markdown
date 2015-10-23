@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-21 22:07:35
+tags: [30 to 80 years, beard, black, bw, cowboy, hat, man, moustache, scarf, street, white]
+image: GRS-20151013-160615
+---

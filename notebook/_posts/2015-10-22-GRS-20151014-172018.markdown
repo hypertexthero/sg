@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-22 20:07:44
+tags: [14 to 18 years, bw, expression, girls, hair, high school, smile, street, young]
+image: GRS-20151014-172018
+---

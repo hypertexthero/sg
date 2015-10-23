@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbus Circle
+location: New York City
+date_taken: August 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-18 11:28:36
+tags: [20 to 35 years, beard, city, color, columbus circle, glance, late afternoon, looking up, man, skyscapers, traffic, traffic light]
+image: GRS-20150831-192951
+---
