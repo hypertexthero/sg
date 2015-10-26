@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue and 40th Street
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-10-23 23:21:39
+tags: [30 to 45 years, bank, beer, bw, pedestrians, people, rain, raining, street, umbrella, woman]
+image: GRS-20151002-162532
+---

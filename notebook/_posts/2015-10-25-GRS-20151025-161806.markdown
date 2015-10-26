@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-25 22:30:57
+tags: [6 to 12 years, 15 to 25 years, boy, bw, crowd, daydreaming, flare, girl, lens, light, rays, sun, sunlight, washington square park]
+image: GRS-20151025-161806
+---
+A [day of dreaming](http://hypertexthero.com/logbook/2015/10/dolce/).

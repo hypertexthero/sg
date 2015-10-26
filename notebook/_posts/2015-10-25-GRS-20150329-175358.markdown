@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-25 11:50:45
+tags: [18 to 25 years, birl, bw, crossing, expression, eyes, girls, glasses, hair, street, sunlight]
+image: GRS-20150329-175358
+---
