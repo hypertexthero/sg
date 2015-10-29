@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt: Bears in New York City.
+title: Washington Square Park
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-26 21:48:34
+tags: [animal, bear, bears, bw, costume, dance, fantasy, mask, masked, men, outdoors, park, people, strange, weird, women]
+image: GRS-20151025-155740
+---
+Bears in New York City.

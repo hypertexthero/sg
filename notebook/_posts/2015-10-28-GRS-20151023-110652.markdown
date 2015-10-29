@@ -1,0 +1,15 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Magdalena Baczewska, Teatro of The Italian Academy, Columbia University
+location: New York City
+date_taken: October 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-10-28 21:22:39
+tags: [30 to 40 years, bach, beauty, bw, grand piano, hand, keyboard, keys, magdalena baczewska, movement, music, musical, pianist, piano, playing, spirit, spiritual, woman]
+image: GRS-20151023-110652
+---
+
+<p>I combined this image of piano virtuoso <a href="http://magdalenanyc.com/">Magdalena Baczewska</a> with one of leaves photographed in Inwood Hill Park to make a <a href="http://hypertexthero.com/logbook/2015/10/magdalena-baczewska-poster/">poster</a>. Listen to <a href="https://youtu.be/RmKK1pweU5Q?t=3686">Magdalena's performance of Bach’s Goldberg Variations on harpsichord</a>, and if you are in New York City on 18 November 2015 don’t miss her <a href="http://italianacademy.columbia.edu/event/magdalena-baczewska-piano">free concert at the Italian Academy</a>.</p>
