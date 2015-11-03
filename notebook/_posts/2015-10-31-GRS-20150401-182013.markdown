@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 1 Train
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-10-31 13:53:04
+tags: [6 to 12 years, child, children, color, costume, grin, hand, kid, laugh, laughing, mirror, teeth, wolf, wolfman]
+image: GRS-20150401-182013
+---

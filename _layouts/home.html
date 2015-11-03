@@ -22,7 +22,7 @@
     h1#logo a {padding:0; font-weight:bold !important;}
     h2 {margin:0.25em 0 0; font-size:1em; text-transform:uppercase; font-size:0.9em; letter-spacing:0.1em;}
     h3 {font-size:1em; font-weight:normal;}
-    h3 a {font-weight:normal !important;}
+    h3 a {font-weight:normal;}
     a.go {padding:0 5px; color:#999; font-size:0.9em;}
     .gogo a {font-weight:bold !important;}
     a.advance-link {border:0; height:0;}
@@ -79,7 +79,7 @@
 							{% else %}
 						
               <div class="caption">
-                <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
+                <h3><a style="font-weight:bold;" href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
                   <p class="date">
                     <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
                   {{ post.content }}

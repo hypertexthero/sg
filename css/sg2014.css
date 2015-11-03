@@ -188,6 +188,7 @@ img#potmplate {margin-bottom:1.25em !important;}
 
 div#plateframe {position:relative; margin:0 auto; text-align:center;}
 body#notebook div#plateframe {margin:0 auto;}
+body.notebookhome #content {margin-top:2em;}
 div#plateframe a {border:none !important;}
 div#plateframe a:hover {background:transparent !important;}
 div#plateframe img {border:3px solid #000 !important; margin-bottom:0.25em;}
@@ -257,6 +258,7 @@ ul.archivelist li a {border:0;}
 ol {font-size:inherit; list-style:decimal inside !important;}
 #textframe ul, #textframe ol {list-style:outside; padding-left:1em;}
 #textframe ol {list-style:decimal inside !important;}
+#textframe img {margin-bottom:0;}
 
 ul ul, ol ol, ul ol, ol ul {margin:0 0 0 2.1em !important;}
 
@@ -294,12 +296,12 @@ div.storycolumnmarginright {margin-right:6em;}
 
 /* =responsive structure ---------------------- */
 
-@media (max-width: 1400px) {
+/*@media (max-width: 1400px) {
   div#textframe img {
   max-width:100% !important;
-  height:auto !important; /*border:0 !important; border-bottom:3px solid #000 !important;*/
+  height:auto !important;
   }
-}
+}*/
 @media (max-width: 960px) {
   div#plateframe img, div#textframe img {max-width:100% !important; height:auto !important;}
   div#textframe {padding:0 1em;}

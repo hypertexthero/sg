@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-01 22:20:23
+tags: [alien, antenna, antennae, boy, bw, costume, eyes, girl, halloween, martian]
+image: GRS-20151031-171650
+---
