@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Peter and Carmen
+location: Grand Rapids, Michigan
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-09 22:29:10
+tags: [25 to 40 years, bow tie, boy, bw, carmen, close, dress, expression, girl, hair, marriage, peter]
+image: GRS-20151107-165025
+---

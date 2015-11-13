@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East 32nd Street
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-04 17:49:08
+tags: [16 to 25 years, bw, flare, girl, glare, hair, light, morning, pedestrian, skirt, street, sun, walking]
+image: GRS-20151029-090151
+---
+Heading to [Milton Glaser's studio](http://hypertexthero.com/logbook/2015/10/dolce/).

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 33rd Street and 8th Avenue
+location: New York City
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-03 23:14:55
+tags: [arrested, back, bw, face down, handcuffs, men, police, stairs, undercover]
+image: GRS-20151103-092849
+---

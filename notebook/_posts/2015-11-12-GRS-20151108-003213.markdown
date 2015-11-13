@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Alex
+location: Grand Rapids, Michigan
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-12 21:07:33
+tags: [25 to 35 years, alex, boy, bw, glass, look, man, shirt, tie]
+image: GRS-20151108-003213
+---
