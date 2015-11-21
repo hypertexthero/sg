@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Park Avenue and Easte 33rd Street
+location: New York City
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-18 22:55:13
+tags: [black, boys, bw, girls 10 to 16 years, kids, laughter, line, queue, school, smile, tie, window]
+image: GRS-20151105-095303
+---

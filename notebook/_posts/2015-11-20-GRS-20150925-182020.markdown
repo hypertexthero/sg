@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-11-20 19:17:18
+tags: [15 to 35 years, boy, bw, flash, glasses, humor, instagram, man, selfie, street]
+image: GRS-20150925-182020
+---

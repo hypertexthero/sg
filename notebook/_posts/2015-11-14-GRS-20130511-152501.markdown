@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Champ de Mars
+location: Paris
+date_taken: May 2013
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-14 10:49:40
+tags: [18 to 30 years, asian, bw, cloud, eiffel tower, expression, girl, hair, hand, paris, sky]
+image: GRS-20130511-152501
+---
+Love to Paris, City of Light.

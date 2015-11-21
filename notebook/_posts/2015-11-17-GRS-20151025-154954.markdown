@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: University Place
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-17 23:30:30
+tags: [18 to 25 years, bw, crossing, daydreaming, eye, girl, hair, scarf, street]
+image: GRS-20151025-154954
+---
