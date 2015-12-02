@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue and 42nd Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-11-28 11:27:04
+tags: [18 to 25 years, boots, boy, bw, crossing, flash, girl, graphic, shades, shorts, skull, sunglasses]
+image: GRS-20150920-153229
+---

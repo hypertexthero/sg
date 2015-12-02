@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbia University Main Quad
+location: New York City
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-22 19:27:46
+tags: [18 to 25 years, asian, color, columbia university, executive, hurry, running, rush, shoes, steps, student, suit, tie]
+image: GRS-20151113-110052
+---

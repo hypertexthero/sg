@@ -2,7 +2,7 @@
 layout: entry
 category: notebook
 excerpt:
-title: Park Avenue and Easte 33rd Street
+title: Park Avenue and East 33rd Street
 location: New York City
 date_taken: November 2015
 camera: Leica M9

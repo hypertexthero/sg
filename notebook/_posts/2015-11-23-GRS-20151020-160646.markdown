@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-11-23 22:47:07
+tags: [60 to 80 years, bw, close, eyes closed, flash, old, saints, sculpture, star, sun, woman]
+image: GRS-20151020-160646
+---

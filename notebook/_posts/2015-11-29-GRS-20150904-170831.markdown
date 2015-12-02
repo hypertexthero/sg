@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 14th Street Near 8th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-11-29 13:26:04
+tags: [50 to 70 years, bw, deserted, expression, eyes, man, street, tone]
+image: GRS-20150904-170831
+---

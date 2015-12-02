@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-12-01 19:46:36
+tags: [10 to 15 years, boy, bw, crossing, distance, expression, eyes, san angelo, street]
+image: GRS-20150904-125011
+---
