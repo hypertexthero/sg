@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 7th Avenue and Cristopher Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2015-12-03 20:08:26
+tags: [back, bent, bw, cane, old, street, walking, walking stick]
+image: GRS-20150929-153237
+---
