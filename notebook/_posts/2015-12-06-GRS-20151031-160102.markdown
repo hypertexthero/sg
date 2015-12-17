@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Herald Square
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-12-06 11:12:05
+tags: [30 to 45 years, alice in wonderland, bw, cosplay, costume, dress, hat, man, street, woman]
+image: GRS-20151031-160102
+---

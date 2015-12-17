@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway Near Union Square
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-12-09 17:56:47
+tags: [20 to 35 years, bw, conversation, dress, flash, girls, night, phones, sidewalk, street, underwear]
+image: GRS-20151014-183137
+---

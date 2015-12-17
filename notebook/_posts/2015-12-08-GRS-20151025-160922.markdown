@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-12-08 19:29:48
+tags: [6 to 12 years, boy, bw, cheecks, expression, hands, patinete, run, running, scooter, sunlight]
+image: GRS-20151025-160922
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The Lost Library at the Waldorf Astoria
+location: New York City
+date_taken: December 2015
+camera: Fuji X100s
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-12-15 21:32:44
+tags: [20 to 35 years, african, afro, black, bw, dance, dancing, dress, gesture, girl, hair, hand, movement, necklace, night, smile]
+image: GRS-20151210-211944
+---
