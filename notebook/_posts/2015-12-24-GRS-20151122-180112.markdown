@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 125th Street Station
+location: New York City
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-12-24 15:49:28
+tags: [4 to 10 years, 30 to 45 years, boy, bw, expression, mom, mother, scooter, son, station, underground, woman]
+image: GRS-20151122-180112
+---

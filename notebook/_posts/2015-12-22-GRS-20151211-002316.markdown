@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The Lost Library at the Waldorf Astoria
+location: New York City
+date_taken: December 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-12-22 19:48:08
+tags: [20 to 40 years, boy, bw, dance hall, embrace, girl, guy, joy, laughter, lights, man, night, party, woman]
+image: GRS-20151211-002316
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The Lost Library at the Waldorf Astoria
+location: New York City
+date_taken: December 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2015-12-19 08:19:42
+tags: [blacktie, bw, chandelier, crowd, devil, goth, gothic, horns, night, painting, party, people]
+image: GRS-20151210-220141
+---
