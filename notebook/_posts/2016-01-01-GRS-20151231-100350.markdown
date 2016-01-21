@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Santuario Madonna del Sorbo
+location: Formello, Italy
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-01-01 19:26:14
+tags: [beto, bw, coat, filho, mãe, man, mother, son, stick, woman]
+image: GRS-20151231-100350
+---

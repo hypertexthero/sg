@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Columbia University
+location: New York City
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-12-24 17:25:53
+tags: [aeroplane, airplane, back, clouds, columbia university, hand, landscape, laurel, mater, statue]
+image: GRS-20151216-161059
+---

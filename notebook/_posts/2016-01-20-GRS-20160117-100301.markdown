@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Giordano Bruno
+location: Campo de Fiore, Rome, Italy
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-01-20 20:36:43
+tags: [buildings, bw, campo de fiore, cloak, clouds, giordano bruno, rome, statue]
+image: GRS-20160117-100301
+---

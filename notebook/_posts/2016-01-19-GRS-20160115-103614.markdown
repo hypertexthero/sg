@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Circo Massimo
+location: Rome, Italy
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-01-19 16:08:02
+tags: [8 to 13 years, boy, bw, circo massimo, expression, hair, roman pine, run, running, tree, wind]
+image: GRS-20160115-103614
+---

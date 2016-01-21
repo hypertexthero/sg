@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Ian and Margarita
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2015-05-15 17:55:51
+tags: [wedding, man, woman, brooklyn bridge]
+image: GRS-20150514-120403
+---
