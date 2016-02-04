@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 34th Street and 7th Avenue
+location: New York City
+date_taken: February 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-01 22:08:50
+tags: [40 to 80 years, black, bw, crowd, expression, hood, new york, rush hour, street, woman]
+image: GRS-20160201-083010
+---

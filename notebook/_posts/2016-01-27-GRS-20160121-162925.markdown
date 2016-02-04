@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and 207th Street
+location: New York City
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-01-27 20:16:00
+tags: [8 to 13 years, boy, bw, children, coat, expression, game, hand, hat, kid, mexico, sunlight, tie]
+image: GRS-20160121-162925
+---

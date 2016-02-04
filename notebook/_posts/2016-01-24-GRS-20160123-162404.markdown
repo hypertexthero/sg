@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Shorakkopoch Rock
+location: Inwood, New York City
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-01-24 18:57:11
+tags: [bw, cold, inwood hill park, lamp, manhattan, person, rock, Shorakkopoch Rock, snow, tree, vult, walking]
+image: GRS-20160123-162404
+---

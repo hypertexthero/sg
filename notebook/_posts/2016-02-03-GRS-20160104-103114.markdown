@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via del Casale della Castelluccia
+location: Rome, Italy
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-03 20:09:56
+tags: [animals, bw, cypress, cypresses, fauna, fence, field, giustiniana, grass, horse, horses, italy, landscape, pasture]
+image: GRS-20160104-103114
+---

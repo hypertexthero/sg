@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 4th Street
+location: New York City
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-01-30 14:09:44
+tags: [20 to 35 years, 30 to 60 years, beard, bw, contrast, dark, ice, man, night, poor, poverty, rich, slush, snow, street, wet, winter, woman]
+image: GRS-20160127-001826
+---
