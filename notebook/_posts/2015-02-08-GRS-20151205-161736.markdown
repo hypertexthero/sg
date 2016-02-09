@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Union Square
+location: New York City
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-08 17:33:48
+tags: [3 to 10 years, 80 to 110 years, bw, old woman, people, street, stroller, walking, wheelchair, young child]
+image: GRS-20151205-161736
+---

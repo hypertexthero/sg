@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-06 23:21:32
+tags: [15 to 25 years, bw, distance, expression, eyes, flare, girl, hair, park, sunlight]
+image: GRS-20150404-163754
+---

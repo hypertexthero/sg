@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Madison Avenue and 42nd Street
+location: New York City
+date_taken: February 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-04 22:40:39
+tags: [20 to 45 years, breathing, bw, crossing, crowd, smoke, steam]
+image: GRS-20150227-142416
+---

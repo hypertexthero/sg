@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East Houston and Lafayette Street
+location: New York City
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-09 13:28:07
+tags: [20 to 35 years, beard, boy, bw, expression, jesus, man, street, surprise, wind]
+image: GRS-20151122-163730
+---
