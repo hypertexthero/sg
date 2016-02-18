@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Hudson River
+location: Metro North Railroad, New York
+date_taken: November 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2016-02-11 23:38:31
+tags: [16 to 25 years to 35 years, amber, blur, bw, cheek, close, clouds, eyelashes, girl, landscape, rail road, railroad, rails, river, sky, tracks, travel, trees]
+image: GRS-20151126-144455
+---

@@ -11,7 +11,7 @@ tags: [simon griffee, photographs, notebook, blog, journal]
 {% endcomment %}
 
 <div id="plateframe" class="textcontent">
-  {% for post in site.posts limit:7 %}
+  {% for post in paginator.posts %}
     {% if post.date_taken %}
       <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">
           <img {% if post.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ post.image }}.{% if post.extension %}{{ post.extension }}{% else %}jpg{% endif %}" alt="Permanent link to this Notebook entry." />
@@ -50,7 +50,20 @@ tags: [simon griffee, photographs, notebook, blog, journal]
 		<br>
 		<br>
 		<br>
-  {% endfor %}				
+  {% endfor %}
+  
+  <!-- Pagination links -->
+  <p class="pagination caps">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Prior</a>
+    {% else %}
+    {% endif %}
+      Page {{ paginator.page }} of {{ paginator.total_pages }}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+    {% else %}
+    {% endif %}
+  </p>
 	
 	<h2>Archives</h2>
 	<ul class="unstyled">

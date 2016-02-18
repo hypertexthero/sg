@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East River Ferries
+location: New York City
+date_taken: February 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-16 23:11:40
+tags: [boat, bw, east river, ferry, marine, maritime, pier, river bank, riverside, ship, wake, water, waves]
+image: GRS-20160216-162902
+---
+Taken during a visit to the <a href="http://droga5.com/">Droga5</a> offices. Thanks, Bianca!

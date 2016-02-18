@@ -55,13 +55,14 @@
               <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">
                   <img {% if post.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ post.image }}.{% if post.extension %}{{ post.extension }}{% else %}jpg{% endif %}" alt="Permanent link to this Notebook entry." />
               </a>
+              {% comment %}
               <div class="caption">
                 <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
                 <p class="date">
                   <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
                 {{ post.content }}
               </div> <!-- /.caption -->
-
+              {% endcomment %}
 						
 						{% comment %} For singles {% endcomment %}
 							{% elsif post.homeimg %}
@@ -69,12 +70,14 @@
 	                  <img src="{{ post.homeimg }}" alt="See this selection." />
 	              </a>
 								
+                {% comment %}
 		            <div class="caption">
 		              <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this selection.">{{ post.title }}</a></h3>
 		                <p class="date">
 		                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this selection."># Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
 										{{ post.intro }}
 		            </div> <!-- /.caption -->
+                {% endcomment %}
 
 							{% else %}
 						
@@ -87,6 +90,7 @@
             {% endif %}
           {% endfor %}				
 					
+          <p>{% include hireme.html %} <a href="/contact/">Get in touch</a>.</p>
       </div> <!-- /#plateframe -->
       
       <div id="subheader">
@@ -99,7 +103,7 @@
         <ul>
           <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
           <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
-          <li id="nav-prints"><a href="/p/" title="Buy a print.">Prints &amp; Patrons</a></li>
+          <li id="nav-prints"><a href="/p/" title="Buy a print or hire me to photograph for you.">Prints &amp; Commissions</a></li>
           <li>
             <a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a>
             {% include home_navigation.html %}

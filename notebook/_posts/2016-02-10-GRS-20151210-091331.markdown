@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 34th Street
+location: New York City
+date_taken: December 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2016-02-10 20:28:42
+tags: [20 to 30 years, bw, distance, expression, eyes, girl, hair, street]
+image: GRS-20151210-091331
+---

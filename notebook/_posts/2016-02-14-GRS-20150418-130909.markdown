@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Tiffany's, 5th Avenue
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-14 13:32:23
+tags: [13 to 18 years, bw, gaze, girl, longing, street, thinking, tiffany, tiffany's, vitrine, waves, window]
+image: GRS-20150418-130909
+---
