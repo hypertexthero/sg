@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 34th Street
+location: New York City
+date_taken: November 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-18 20:59:13
+tags: [60 to 80 years, beard, bw, jewish, lens flare, man, night, orthodox, pointing, street, suit, tie]
+image: GRS-20151123-180003
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The Cloisters
+location: New York City
+date_taken: November 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-21 12:33:01
+tags: [adult, arms, bw, child, climbing, effort, legs, man, river, tree]
+image: GRS-20151121-155232
+---
