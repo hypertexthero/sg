@@ -96,7 +96,10 @@ layout: story_base
   
   <div id="footer">
 		
-    <p>&copy; {{ site.time|date:"%Y" }} by <a href="http://simongriffee.com/about/" title="About Simon.">Simon Griffee</a></p>
+    <p>
+      &copy; {{ site.time | date: '%Y' }} Simon Griffee. All rights reserved.<br>
+      {% include social.html %}
+    </p>
 
   </div> <!-- /footer -->
 
