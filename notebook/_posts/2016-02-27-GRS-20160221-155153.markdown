@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: The Cloisters
+location: New York City
+date_taken: February 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-27 15:38:39
+tags: [boy, bw, conversation, girl, landscape, park, path, relationship, river, rocks, talking statue, trees, winter]
+image: GRS-20160221-155153
+---

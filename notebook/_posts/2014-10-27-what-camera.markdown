@@ -6,7 +6,6 @@ title: What Camera Should I Use to Learn Photography?
 date: 2014-10-27 10:10:13
 tags: [leica, photography, rangefinder, education]
 ---
-I don't often like talking about equipment, but here's something for people who ask me about cameras.
 
 Though I use other cameras (currently Fuji X100S and Ricoh GRD), I like [rangefinder](https://en.wikipedia.org/wiki/Rangefinder_camera "Wikipedia: Rangefinder camera.") cameras. The [Leica M](http://en.leica-camera.com/Photography/Leica-M/About-the-M-System "Avoid looking at the prices.") is — unfortunately — the only digital rangefinder camera that is made at this point in time.[^1]
 

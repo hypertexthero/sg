@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via dei Fori Imperiali
+location: Rome, Italy
+date_taken: April 2014
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-25 10:04:22
+tags: [70 to 90 years, bw, conversation, gesticulation, hand, hands, hat, hats, men, old men, tie, walking]
+image: GRS-20140421-171832
+---

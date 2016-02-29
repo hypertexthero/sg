@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: February 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-02-29 17:33:49
+tags: [bw, gaze, girl, makeup, mirror, reflection, restaurant, self-portrait, surprise, window]
+image: GRS-20160222-125107
+---

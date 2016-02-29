@@ -4,7 +4,7 @@ category: notebook
 excerpt:
 title: The Cloisters
 location: New York City
-date_taken: November 2016
+date_taken: November 2015
 camera: Leica M9
 lens: Leitz Summilux 35mm f/1.4
 date: 2016-02-21 12:33:01
