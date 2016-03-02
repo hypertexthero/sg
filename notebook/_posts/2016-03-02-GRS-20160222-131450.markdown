@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Union Square
+location: New York City
+date_taken: February 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-02 18:02:01
+tags: [18 to 25 years, bag, bw, distance, eyes, girl, hair, handbag, sunlight, tote, totebag]
+image: GRS-20160222-131450
+---

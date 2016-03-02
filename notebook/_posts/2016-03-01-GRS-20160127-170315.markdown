@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 207th Street Station
+location: New York City
+date_taken: January 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-01 09:45:10
+tags: [bw, industrial, landscape, metro, smokestack, snow, subway, train, winter]
+image: GRS-20160127-170315
+---
