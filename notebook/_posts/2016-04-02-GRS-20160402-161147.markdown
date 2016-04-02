@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Self-Portrait in Red and Blue
+location: New York City
+date_taken: April 2016
+camera: Red and blue pencils
+lens: Black paper
+date: 2016-04-02 17:46:50
+tags: [self-portrait, pencil, drawing, color, black, red, blue]
+image: GRS-20160402-161147
+---
