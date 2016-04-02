@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-16 21:57:20
+tags: [18 to 30 years, benches, bw, gesture, girls, grass, hair, hands, park, skirt, young people]
+image: GRS-20160310-163039
+---
+I miss Garry Winogrand.

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 59th Street
+location: New York City
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-02 12:28:41
+tags: [60 to 90 years, burgeoisie, bw, drink, expression, eyebrow, eyes, ladies, martini, money, old women, reflection, window]
+image: GRS-20160331-164652
+---

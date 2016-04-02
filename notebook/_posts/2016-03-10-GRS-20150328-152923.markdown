@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Rockefeller Center
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-03-10 10:24:57
+tags: [16 to 25 years, bw, crowd, eye, flags, flowing, friends, girl, hair, laugh, photographing, smile, teeth]
+image: GRS-20150328-152923
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Flatiron Plaza
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-24 10:40:30
+tags: [70 to 100 years, chinese, crossing, kung fu, martial arts, old man, street, suit]
+image: GRS-20150330-135810
+---

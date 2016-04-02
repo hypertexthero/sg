@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: McCarren Park, Brooklyn
+location: New York City
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-26 14:07:47
+tags: [6 to 12 years, ball, baseball, blur, boy, bw, child, childhoor, children, field, glove, hand, mother, movement, outdoors, park, play]
+image: GRS-20160325-154239
+---

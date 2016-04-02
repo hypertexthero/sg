@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Drew and Carolyn
+location: Beacon, New York
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-16 20:28:55
+tags: [30 to 40 years, afternoon, boy, carolyn, couple, drew, expression, friends, girl, street, sunlight, walking]
+image: GRS-20160312-174403
+---

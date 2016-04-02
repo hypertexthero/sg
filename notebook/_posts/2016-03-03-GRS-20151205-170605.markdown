@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Ian at Bar
+location: New York City
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-03 17:09:24
+tags: [30 to 40 years, bar, beer, english, friend, ian, pub, reflection, self-portrait, sent]
+image: GRS-20151205-170605
+---

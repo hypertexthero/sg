@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway Near Columbus Circle
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-18 20:38:37
+tags: [40 to 65 years, animal pattern, arm in arm, blade runner, bw, fashion, hair, man, print, scarf, shaes, street, sunglasses, tights, woman]
+image: GRS-20150412-152529
+---

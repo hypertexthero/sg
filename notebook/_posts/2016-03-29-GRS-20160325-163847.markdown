@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Marat in Brooklyn
+location: New York City
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-29 20:14:41
+tags: [bridge, brooklyn, distance, east river, marat, rays, river, sky, sunlight, water]
+image: GRS-20160325-163847
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue and 37th Street
+location: New York City
+date_taken: February 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-03 09:43:56
+tags: [8 to 16 years, boy, bw, cars, crossing, expression, eyes, gaze, street]
+image: GRS-20160222-124636
+---

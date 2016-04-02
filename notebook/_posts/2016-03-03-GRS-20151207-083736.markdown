@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 34th Street
+location: New York City
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-03 17:58:25
+tags: [bw, coffee, commmuters, emerging, empire state building, metro, morning, shoes, step, street, subway, walk]
+image: GRS-20151207-083736
+---

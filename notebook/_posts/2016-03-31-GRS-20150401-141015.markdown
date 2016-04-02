@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-31 11:07:17
+tags: [40 to 60 years, branches, bw, expression, face, hair, man, mouth, shoes, trees]
+image: GRS-20150401-141015
+---

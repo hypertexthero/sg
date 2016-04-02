@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 34th Street
+location: New York City
+date_taken: December 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-07 18:35:32
+tags: [40 to 60 years, bw, distance, glasses, hair, night, sadness, street, stress, wind, woman]
+image: GRS-20151214-180823
+---

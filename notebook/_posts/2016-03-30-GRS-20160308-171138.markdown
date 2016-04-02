@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue and 42nd Street
+location: New York City
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-30 19:37:34
+tags: [30 to 45 years, beard, bw, crossing, man, office worker, rush, shirt, street, stress, tie]
+image: GRS-20160308-171138
+---

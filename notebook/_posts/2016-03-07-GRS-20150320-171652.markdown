@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway and 145th Street
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-03-07 22:37:45
+tags: [35 to 60 years, black, bw, expression, eyes, harlem, man, snow, street, tractor, winter]
+image: GRS-20150320-171652
+---
