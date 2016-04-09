@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Dad With Piccola
+location: Formello, Italy
+date_taken: October 2011
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-06 10:43:05
+tags: [affection, cat, colo, dad, hold, holding, indoor, kitchen, love, paws, peter, piccola, warmth]
+image: GRS-20111023-181429
+---
+Thanks for looking after me, dad. I miss you.

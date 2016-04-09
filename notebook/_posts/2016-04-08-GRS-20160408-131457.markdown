@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Herald Square
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-08 21:17:54
+tags: [20 to 35 years, asian, bw, crowd, girl, hair, lips, mouth, movement, street]
+image: GRS-20160408-131457
+---

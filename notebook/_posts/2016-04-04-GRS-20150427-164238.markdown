@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue Near 42nd Street
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-04 18:35:34
+tags: [20 to 35 years, 40 to 65 years, bw, coat, expression, hat, jewish, man, orthodox, woman]
+image: GRS-20150427-164238
+---

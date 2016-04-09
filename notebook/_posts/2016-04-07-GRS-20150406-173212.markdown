@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Central Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-07 16:34:32
+tags: [6 to 12 years, boy, bw, Central Park, children, dress, girl, hair, jewish, orthodox, religion, rock, rocks, step, sunlight, walking]
+image: GRS-20150406-173212
+---

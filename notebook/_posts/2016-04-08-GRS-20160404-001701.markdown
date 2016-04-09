@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Frankie in Washington Square Park
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-08 21:10:57
+tags: [30 to 40 years, arch, cat, frankie, friend, ghost, jump, light, man, movement, night, panther]
+image: GRS-20160404-001701
+---
+Was good to see you, my friend.
