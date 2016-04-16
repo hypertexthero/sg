@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square South
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-14 20:57:48
+tags: [bernie sanders, burka, bw, covered, crowd, expression, eyes, face, finger, gesture, girls, rally, street, women]
+image: GRS-20160413-161410
+---

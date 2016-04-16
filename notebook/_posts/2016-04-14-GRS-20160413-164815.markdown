@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square South Corner
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-14 20:54:21
+tags: [16 to 25 years, bernie sanders, bw, eyes, girls, hair, jeans, lips, pose, pretty, shirt, tennis shoes]
+image: GRS-20160413-164815
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue Near 57th Street
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-10 21:27:37
+tags: [40 to 60 years, bw, hair, hand, men, old, purse, rich, shadow, shirt, women]
+image: GRS-20150418-131900
+---

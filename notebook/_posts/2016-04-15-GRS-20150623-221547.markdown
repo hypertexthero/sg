@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With my Brother by the Cliffs of Dover, 1982
+location: England
+date_taken: 1982
+camera: Unknown, probably Pentax SLR
+lens: Unknown, probably 35mm lens
+date: 2016-04-15 19:48:08
+tags: [beto, brothers, by dad, child, childhood, cliffs of dover, color, dad, eu, fun, hyde park, kid, me, running, simon, stroller]
+image: GRS-20150623-221547
+---
+Photograph by Peter Griffee.

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square West
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-14 20:27:42
+tags: [40 to 60 years, bernie sanders, bw, costumes, drawing, faces, glasses, hair, man, masks, vote, woman]
+image: GRS-20160413-164416
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 3rd Street
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-15 07:55:14
+tags: [bernie sanders, bw, costume, finger, hat, laughter, medals, officer, pointing, police, retired, shoes, sign, suit, tie, uniform]
+image: GRS-20160413-180105
+---

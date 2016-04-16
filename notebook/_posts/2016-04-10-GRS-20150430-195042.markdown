@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: With Eli Reed
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-10 21:05:10
+tags: [60 to 70 years, black, eli reed, gallery, leather, legend, leica, leica gallery, magnum, photo by cameron, photographer, simon griffee]
+image: GRS-20150430-195042
+---
+With <a href="http://lens.blogs.nytimes.com/2015/04/22/eli-reeds-long-walk-home/">Eli Reed</a> last year at Leica gallery at 670 Broadway. The gallery seems to have closed. Photograph by Cameron Cuchulainn.

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Poet's Walk, Central Park
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-12 20:48:02
+tags: [16 to 25 years, bw, Central Park, dress, girl, girls, light, Mariel Hemingway lookalike, smile, spring, sunny, white]
+image: GRS-20150418-123352
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Sullivan Street Near Washington Square South
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-14 22:11:55
+tags: [40 to 60 years, beard, bernie sanders, bw, glasses, johnny rotten, man, mic, rock, rock and roll, rock n' roll, rocker, smile, t-shirt, tshirt]
+image: GRS-20160413-162115
+---

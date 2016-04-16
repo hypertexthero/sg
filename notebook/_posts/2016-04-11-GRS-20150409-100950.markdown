@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Sixth Avenue and 42nd Street
+location: New York City
+date_taken: April 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-11 21:04:13
+tags: [40 to 60 years, bw, crossing, empire state building, man, rush, stress, traffic light, trees, walking, winter, work]
+image: GRS-20150409-100950
+---
