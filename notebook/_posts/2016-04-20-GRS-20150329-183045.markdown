@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: March 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-20 20:55:11
+tags: [20 to 30 years, bagel, book, bw, cafe, fixing, gesture, girl, hair, reflection, street, window]
+image: GRS-20150329-183045
+---

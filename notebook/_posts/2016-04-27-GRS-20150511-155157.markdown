@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street by NYPL
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-27 20:54:19
+tags: [30 to 65 years, blur, chair, cigarette, expression, furtive, money, monks, robes, zen]
+image: GRS-20150511-155157
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue and 42nd Street
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-21 20:18:35
+tags: [10 to 35 years, baby, bag, bw, carriage, expression, girls, hair, hand, hat, jewish, men, shopping, street, stroller, urban amish, women]
+image: GRS-20150515-131826
+---

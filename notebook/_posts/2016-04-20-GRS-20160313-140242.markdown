@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Riverfront Trail
+location: Hudson River, Beacon, New York
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-20 07:43:45
+tags: [beacon, bicycle, blur, branches, bw, movement, plants, river, trees, twigs]
+image: GRS-20160313-140242
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Subway Car
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-18 18:48:20
+tags: [20 to 35 years, blur, commuter, exhaustion, expression, eyes, man, reflection, subway, tired, train]
+image: GRS-20150524-195405
+---

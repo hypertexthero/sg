@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 8th Avenue
+location: New York City
+date_taken: July 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-23 12:37:48
+tags: [crown, distance, expression, eyes, folds, robes, statue, statue of liberty, still, woman]
+image: GRS-20150713-175403
+---

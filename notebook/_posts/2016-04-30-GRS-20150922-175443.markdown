@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Near Times Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-04-30 21:40:32
+tags: [40 to 60 years, bag, boots, bw, cowboy, distance, expression, flash, hair, hat, husband, jeans, man, marriage, pants, sandals, street, tan, wife, woman]
+image: GRS-20150922-175443
+---

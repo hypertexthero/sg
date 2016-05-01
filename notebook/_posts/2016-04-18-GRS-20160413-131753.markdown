@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Simon as Bernie, Washington Square South and East
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-18 21:26:22
+tags: [bernie sanders, campaign, election, placard, self, sign, simon, vote]
+image: GRS-20160413-131753
+---
+Photograph by a kind Bernie Sanders campaign volunteer.

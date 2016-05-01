@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West Fourth Street Courts
+location: New York City
+date_taken: May 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-04-24 20:45:34
+tags: [16 to 35 years, articulation, ball, basketball, black, court, feet, fence, gesture, hand, leg, limbs, men, movement]
+image: GRS-20150512-181911
+---

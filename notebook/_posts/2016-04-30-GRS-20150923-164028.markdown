@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street Near Times Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-04-30 21:06:21
+tags: [15 to 25 years, 40 to 60 years, abercombie, bags, bw, daughter, flash, girls, mother, shopping, street, surprise, walk]
+image: GRS-20150923-164028
+---

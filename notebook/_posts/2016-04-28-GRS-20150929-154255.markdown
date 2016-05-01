@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-04-28 21:36:20
+tags: [14 to 21 years, boys, bw, chess, chessboard, man, outdoors, players]
+image: GRS-20150929-154255
+---
