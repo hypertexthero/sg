@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: West 42nd Street
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-05-05 20:58:16
+tags: [30 to 60 years, bimbo, bw, distance, expression, eyes, gaze, hat, jersey, man, mexican hat, mexico, shirt, sunlight]
+image: GRS-20150920-144722
+---

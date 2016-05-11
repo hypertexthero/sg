@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Mãe &amp; Dad &amp; Me
+location: Passo Fundo, Brazil
+date_taken: 1978
+camera: Unknown
+lens: Unknown
+date: 2016-05-08 19:04:37
+tags: [baby, bebe, dad, father, mãe, marteen, mother, pai, simon]
+image: GRS-20150623-230926
+---
+Photographer unknown. Perhaps Maarten?

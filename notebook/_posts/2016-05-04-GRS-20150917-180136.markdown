@@ -1,0 +1,14 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street Near Times Square
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-05-04 21:20:40
+tags: [30 to 50 years, bald, bw, crossing, expression, gondola, humor, man, skateboard, street, stripes, transportation, woman]
+image: GRS-20150917-180136
+---
+Years ago while following a friend to the next stop in a night already colored by lots of tetrahydrocannabinol another acquaintance remarked that my friend was driving the car ahead of us as if pushing a long pole, held with both hands outside the window, against the asphalt — like a gondola. The pole and gondola turned out to be imaginary once we managed to stop laughing, but now I know that urban gondoliers do exist.

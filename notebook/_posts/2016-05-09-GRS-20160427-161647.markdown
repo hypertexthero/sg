@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Times Square – 42nd Street / Port Authority Bus Terminal
+location: New York City
+date_taken: April 2016
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2016-05-09 23:10:34
+tags: [10 to 18 years, bars, bw, door, entrance, exit, expression, girl, girls, jewish, metro, subway, underground, women]
+image: GRS-20160427-161647
+---

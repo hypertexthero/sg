@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Hudson River
+location: New York
+date_taken: October 2015
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-05-07 08:49:15
+tags: [blur, bw, clouds, glint, hills, landscape, motion, mountain, river, sky, speed, sun, sunset, trees, water]
+image: GRS-20151004-181211
+---
