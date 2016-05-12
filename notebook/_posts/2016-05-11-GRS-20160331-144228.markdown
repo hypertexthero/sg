@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 42nd Street and 5th Avenue
+location: New York City
+date_taken: March 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-05-11 20:32:26
+tags: [boy, bw, crossing, expression, faces, family, girl, grimace, man, mouth, mouths, street, tourists, woman]
+image: GRS-20160331-144228
+---
