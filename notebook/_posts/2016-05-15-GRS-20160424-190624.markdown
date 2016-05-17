@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 6th Avenue and West 4th Street
+location: New York City, April 2016
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-05-15 23:18:31
+tags: [13 to 18 years, bw, expression, eyes, girls, glance, hair, jeans, kids, look, stare, street]
+image: GRS-20160424-190624
+---

@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Times Square – 42nd Street / Port Authority Bus Terminal
+location: New York City
+date_taken: May 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-05-13 22:43:47
+tags: [40 to 60 years, anger, bw, coat, expression, face, grimace, hand, jesus, man, mustache, preacher, religion, tiles, underground, walk]
+image: GRS-20160509-173443
+---
