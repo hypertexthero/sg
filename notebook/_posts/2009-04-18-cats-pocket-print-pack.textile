@@ -6,8 +6,6 @@ tags:
 - Cats Pocket Print Pack
 - writing
 ---
-h1. Cats Pocket Print Pack
-
  <img src="/images/cats-pocket-print-packet.jpg" width="770" height="513" alt="A photograph of the eight prints included in the Cats print packet and the pocket print packet itself, with a pencil present for size reference." />
 
 "Back to Prints page":/prints/

@@ -6,8 +6,6 @@ tags:
 - rome pocket print pack
 - writing
 ---
-h1. Rome Pocket Print Pack
-
  <img src="/images/rome-pocket-print-packet.jpg" width="770" height="513" alt="A photograph of the eight prints included in the Rome print packet and the pocket print packet itself, with a pencil present for size reference." />
 
 "Back to Prints page":/prints/

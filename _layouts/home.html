@@ -1,183 +1,274 @@
-<!DOCTYPE HTML>
+<!doctype html>
 <html>
-<head>
-  {% include head.html %}
-  <title>
-    {{ site.name }}
-  </title>
-  <style type="text/css" media="screen">
-    /* homepage custom styles */
-    #subheader a, p.date a {border:0 !important; font-weight:normal !important;}
-    #content {padding:24px; margin:0; max-width:810px; text-align:left !important;}
-    #plateframe {width:580px; float:right; text-align:left !important;}
-    #plateframe img {max-width:780px; text-align:left !important;}
-    #plateframe div.caption img {border:0 !important;}
-    #plateframe a:hover {background:none; border:0;}
-    div.caption {text-align:left !important;}
-    #subheader {width:220px; float:left;}
-    #subheader ul {list-style-type:none; margin:0 0 1em; padding:0; clear:both;}
-    div.homesubnav {font-size:0.9em;}
-    #header {clear:both;}
-    h1#logo {margin-bottom:1em; float:none !important; line-height:1.25em; font-size:1em; font-weight:normal;}
-    h1#logo a {padding:0; font-weight:bold !important;}
-    h2 {margin:0.25em 0 0; font-size:1em; text-transform:uppercase; font-size:0.9em; letter-spacing:0.1em;}
-    h3 {font-size:1em; font-weight:normal;}
-    h3 a {font-weight:normal;}
-    a.go {padding:0 5px; color:#999; font-size:0.9em;}
-    .gogo a {font-weight:bold !important;}
-    a.advance-link {border:0; height:0;}
-    #footer {clear:both; text-align:left; margin-left:244px;}
-    @media (max-width: 1040px) {
-      body, #page, #content, #plateframe, #subheader, div.caption {display:block; position:relative; width:auto !important; min-width:auto !important; clear:both; text-align:center;}
-	
-      h2 {padding:0 5px 0 0;}
-      div.caption, #subheader, #plateframe, #footer {text-align:center; width:100% !important; margin:0 auto; text-align:center !important;}
-      h1#logo {text-align:center;}
-      #content {padding:10px 16px 10px 10px !important; max-width:auto;}
-      #content, #footer {padding:0 !important; margin:0 !important; max-width:auto;}
-      #plateframe {width:auto; margin-bottom:1.5em !important;}
-      div.caption {padding:0 20px !important; width:auto !important;}
-      #plateframe div.caption img {border:0 !important;}
-			{% comment %}
-			#page, #container, #content, #plateframe {width:auto !important; overflow: auto !important;}
-			div#sliderr {overflow-x:scroll; overflow-y:hidden; white-space:nowrap;}
-			div#sliderr img {display:inline !important; margin-right:1em !important;}
-			{% endcomment %}
-    }
-  </style>
-</head>
-<body id="notebook">
-  <div id="page">
-    <div id="content">
-      <div id="plateframe">
-          {% for post in site.posts limit:1 %}
-            {% if post.date_taken %}
-              <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">
-                  <img {% if post.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ post.image }}.{% if post.extension %}{{ post.extension }}{% else %}jpg{% endif %}" alt="Permanent link to this Notebook entry." />
-              </a>
-              {% comment %}
-              <div class="caption">
-                <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
-                <p class="date">
-                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
-                {{ post.content }}
-              </div> <!-- /.caption -->
-              {% endcomment %}
-						
-						{% comment %} For singles {% endcomment %}
-							{% elsif post.homeimg %}
-	              <a href="{{ site.url }}{{ post.url }}" title="See this selection.">
-	                  <img src="{{ post.homeimg }}" alt="See this selection." />
-	              </a>
-								
-                {% comment %}
-		            <div class="caption">
-		              <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this selection.">{{ post.title }}</a></h3>
-		                <p class="date">
-		                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this selection."># Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
-										{{ post.intro }}
-		            </div> <!-- /.caption -->
-                {% endcomment %}
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="index,follow">
 
-							{% else %}
-						
-              <div class="caption">
-                <h3><a style="font-weight:bold;" href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
-                  <p class="date">
-                    <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
-                  {{ post.content }}
-              </div> <!-- /.caption -->
-            {% endif %}
-          {% endfor %}				
-					
-          <p>{% include hireme.html %}</p>
-      </div> <!-- /#plateframe -->
+    <title>Simon Griffee</title>
+    
+    <style type="text/css" media="screen">
+      /* =Homepage styles */
       
-      <div id="subheader">
-        <h1 id="logo">
-					<a href="/" title="SimonGriffee.com homepage." style="font-size:1.1em;">Simon Griffee</a>
-					<br>
-					<em>Photography &amp; <br><a href="http://hypertexthero.com/work/">Design</a></em>
-          <br>
-          NYC
-				</h1>
+      /*! PocketGrid 1.1.0 * Copyright 2013 Arnaud Leray * MIT License */
+.block-group,.block,.block-group:after,.block:after,.block-group:before,.block:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+      .block-group{*zoom:1}
+      .block-group:before,.block-group:after{display:table;content:"";line-height:0}
+      .block-group:after{clear:both}
+      .block-group{list-style-type:none;padding:0;margin:0}
+      .block-group>.block-group{clear:none;float:left;margin:0 !important}
+      .block{float:left;width:100%}
+      /* end pocketgrid */
+      
+      body {margin:0; font:16px/1.7 normal normal; font-family:"Helvetica Neue",Helvetica,arial,freesans,clean,sans-serif; color:#514548;}
+      .box {height:100%; text-align:left; padding:0 10px;}
+      a {text-decoration:none; border-bottom:1px solid #ddd;}
+      a:hover {background:#eee;}
+      h1 {font-size:16px; font-weight:normal; letter-spacing:0.1em; margin:1em 0 0.5em;}
+      .header h1 {margin:5px 0 0;}
+      h2 {font-size:16px; margin:0 0 0;}
+      h2 small {font-weight:normal;}
+      ul {padding:0; list-style:none; margin:0 0 0.5em;}
+      li small {display:block; margin-bottom:1.5em; font-size:14px; padding:5px 0;}
+      img {display:block;}
+      .header, .footer {text-align:center;}
+      .header .box {padding-bottom:0;}
 
-        <ul>
-          <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
-          <li><a href="http://hypertexthero.com/work/" title="Hypertexthero.com">Design</a></li>
-          <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
-          <li id="nav-prints"><a href="/p/" title="Buy a print or hire me to photograph for you.">Prints &amp; Commissions</a></li>
-          <li>
-            <a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a>
-            {% include home_navigation.html %}
-          </li>
-            {% comment %}
-					<li>
+      @media (min-width: 768px) {
+        .design { width: 30%;  }
+        .photography { width: 40%; }
+        .writing { width: 30%; }
+        img {width:100%; height:auto;}
+      }
+      @media (min-width: 300px) {
+        img {width:100%; height:auto;}
+      }
+    </style>
+  </head>
 
-						<!-- Begin MailChimp Signup Form -->
-						<div id="mc_embed_signup" style="font-size:0.9em;">
-						<form action="//simongriffee.us10.list-manage.com/subscribe/post?u=65f6bb039b3c2a16e0a535abb&amp;id=be73afffb0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-						    <div id="mc_embed_signup_scroll">
-							<label for="mce-EMAIL" style="font-weight:normal !important;">Subscribe to <a style="font-weight:bold !important;" href="http://us10.campaign-archive1.com/home/?u=65f6bb039b3c2a16e0a535abb&id=be73afffb0" title="View previous emails.">my mailing list</a> to receive the previous week&rsquo;s notebook entries (usually photographs) by email every Monday. You won&rsquo;t be spammed.</label>
-							<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-						    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
-						    <div style="position: absolute; left: -5000px;"><input type="text" name="b_65f6bb039b3c2a16e0a535abb_be73afffb0" tabindex="-1" value=""></div>
-						    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" ></div>
-						    </div>
-						</form>
-						</div>
-						<!--End mc_embed_signup-->
+  <body>
 
-					</li>
-            {% endcomment %}
-        </ul>
+    <div class="block-group">
+      
+      <div class="header block">
+        <div class="box">
+          <h1>Simon Griffee</h1>
+        </div>
+      </div>
+      
+      
+      <div class="photography block">
+        <div class="box">
+          <h2>Photography <small><a href="http://simongriffee.com/notebook/">Notebook 2005–2016</a></small></h2>
+          
+          <ul>
+            <li>
+              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=22"><img src="http://simongriffee.com/img/Nyc/022-GRS-20150320-162137.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=7"><img src="http://simongriffee.com/img/Nyc/007-GRS-20150217-142910.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=40"><img src="http://simongriffee.com/img/Nyc/040-GRS-20151126-144455.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=41"><img src="http://simongriffee.com/img/Nyc/041-GRS-20151007-163402.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/salento#&gid=1&pid=27"><img src="http://simongriffee.com/img/Salento/027-GRS-20140908-115502.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/reportage#&gid=1&pid=8"><img src="http://simongriffee.com/img/Reportage/015-GRS-20140504-121413.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/empire-security#&gid=1&pid=9"><img src="http://simongriffee.com/img/EmpireSecurity/009-GRS-20140503-171951.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/the-island#&gid=1&pid=4"><img src="http://simongriffee.com/img/TheIsland/004-GRS-20100710-013930.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/you-and-me#&gid=1&pid=11"><img src="http://simongriffee.com/img/YouAndMe/011-GRS-20111127-142844.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/monterey-aquarium#&gid=1&pid=2"><img src="http://simongriffee.com/img/MontereyAquarium/002-GRS-20060223-135252.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/journey-through-us#&gid=1&pid=22"><img src="http://simongriffee.com/img/JourneyThroughUs/022-GRS-20050712-211738.jpg" alt="A black and white photograph."></a>
+            </li>
+            
+            <li>
+              <a href="http://simongriffee.com/stories/five-days-in-paris#&gid=1&pid=4"><img src="http://simongriffee.com/img/Paris2013/004-GRS-20130511-155108.jpg" alt="A black and white photograph."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/portraits#&gid=1&pid=43"><img src="http://simongriffee.com/img/Portraits/044-GRS-20111122-174515.jpg" alt="A black and white photograph."></a>
+            </li>
+            
+            
+          </ul>
+          
+        </div>
+      </div>
 
+      <div class="design block">
+        <div class="box">
+          <h2>Design <small><a href="http://hypertexthero.com/">Hypertexthero 2005–2016</a></small></h2>
+          
+          <ul>
+            <li>
+              <a href="http://hypertexthero.com/work/drawings/" title="Some of my drawings."><img  src="http://hypertexthero.com/static/img/work/drawings-illustrations.png" alt="Some of my drawings."></a>
+                <small>A few <a href="http://hypertexthero.com/work/drawings/">drawings and illustrations</a>.</small>
+            </li>
+            <li>
+              <a href="http://hypertexthero.com/work/websites/" title="Various website designs.">
+                <img src="http://hypertexthero.com/static/img/work/websites.jpg" alt="International Plant Protection Convention website redesign." title="International Plant Protection Convention website redesign.">
+              </a>
+              <small>Various <a href="http://hypertexthero.com/work/websites/">UX/UI website design</a> work, including some <a href="http://hypertexthero.com/work/websites/#lightcrafts">wireframe</a> examples.</small>
+            </li>
+            <li>
+              <a href="http://hypertexthero.com/work/roboto-typeface-explorations/" title="Be kind, damnit!"><img src="http://hypertexthero.com/static/img/work/be-kind-damnit.png" alt="Be kind, damnit!"></a> 
+              <small>Roboto <a href="http://hypertexthero.com/work/roboto-typeface-explorations/" title="Be kind, damnit!">typeface explorations</a>.</small>
+            </li>
+            <li>
+              <a href="http://hypertexthero.com/work/columbia-italian-academy/" title="See some of my work here and on College Walk in Columbia&rsquo;s Morningside Heights campus."><img src="http://hypertexthero.com/static/img/work/MagdalenaBaczewska.jpg" alt="I photographed piano virtuoso Magdalena Baczewska and leaves in Inwood Hill Park two days later. The idea to combine the two came while listening to Magdalena&rsquo;s performance of Bach&rsquo;s Goldberg Variations on harpsichord."></a> 
+              <small><a href="http://hypertexthero.com/work/columbia-italian-academy/" title="You can currently see some of my work on College Walk in the Morningside Heights campus.">Graphic design</a> for Columbia University’s Italian Academy.</small>
+            </li>
+            <li>
+              <a href="http://hypertexthero.com/work/robotics-law-ethics/"><img src="http://hypertexthero.com/static/img/work/robotics-law-ethics-cathode.jpg" alt="Good old GNU Nano running in a terminal, running in the Cathode terminal emulator." title="Good old GNU Nano running in a terminal, running in the Cathode terminal emulator." width="530"></a>
+              <small>Robotics Law and Ethics <a href="http://hypertexthero.com/work/robotics-law-ethics/">poster</a>.</small>
+            </li>  
+            <li>
+              <a href="http://hypertexthero.com/work/portraits/"><img src="http://hypertexthero.com/static/img/work/dev-bdale.jpg" alt="Bdale Garbee at FOSDEM 2013." title="Bdale Garbee at FOSDEM 2013." width="530"></a>
+              <small><a href="http://hypertexthero.com/work/portraits/">Portraits</a> of developers, engineers, musicians and cats. Above is <a href="https://en.wikipedia.org/wiki/Bdale_Garbee">Bdale Garbee</a> at <a href="https://archive.fosdem.org/2013/">FOSDEM 2013</a>.</small>
+            </li>
+            <li>
+              <a href="http://hypertexthero.com/work/basic-income-11-arguments/" title="11 elevator pitches for good."><img src="http://hypertexthero.com/static/img/work/1mbi.png" alt="11 elevator pitches for good."></a> 
+              <small><a href="http://hypertexthero.com/work/basic-income-11-arguments/" title="11 elevator pitches for good.">Eleven one-minute arguments for a basic income</a> for all human beings.</small>
+            </li>
+            <li>
+              <a href="http://hypertexthero.com/work/to-zapf/" title="To Zapf."><img style="max-width:320px; border:1px solid #eee;" src="http://hypertexthero.com/static/img/work/to-zapf.png" alt="To Zapf."></a> 
+              <small>For typography and calligraphy legend <a href="http://hypertexthero.com/work/to-zapf/" title="To Zapf.">Hermann Zapf</a>.</small>
+            </li>
+          	<li>
+          		<a href="http://hypertexthero.com/work/international-symbol-observer/" title="Accepted as U+23FF Observer Eye Symbol — yay!"><img src="http://hypertexthero.com/static/img/work/ObserverSymbol-t.png" alt="International Symbol for an Observer - Unicode Consortium."></a> 
+          		<small><a href="http://hypertexthero.com/work/international-symbol-observer/">International Symbol for an Observer</a> - Unicode Consortium.</small>
+          	</li>
+            <li>
+                <a href="http://hypertexthero.com/work/logotypes/" title="Logotypes."><img src="http://hypertexthero.com/static/img/work/ItWorksLogotype.png" alt="It Works logotype."></a>
+          			<small>Some <a href="http://hypertexthero.com/work/logotypes/">logotypes</a>.</small>
+            </li>
+            <li>
+                <a href="http://hypertexthero.com/work/business-cards/" title="Also known as calling cards."><img style="max-width:320px; border:1px solid #eee;" src="http://hypertexthero.com/static/img/work/PianistCard.png" alt="Business card for a pianist."></a>
+                <small>A couple of <a href="http://hypertexthero.com/work/business-cards/">business card</a> designs.</small>
+            </li>
+            <li>
+                <a href="http://hypertexthero.com/work/mylius-brochure/" title="Brochure for Mylius Yachts."><img src="http://hypertexthero.com/static/img/work/MyliusYachts.jpg" alt="Brochure cover for the small yet pleasurable Mylius 11E25 37&rsquo; Yacht." title="Brochure cover for the small yet pleasurable Mylius 11E25 37&rsquo; Yacht."></a>
+                  <small><a href="http://hypertexthero.com/work/mylius-brochure/" title="Sailing Art.">Brochure</a> for Mylius Yachts.</small>
+            </li>
+            <li>
+                <a href="http://hypertexthero.com/work/earth-among-the-stars/" title="Our pale blue dot. I miss Carl Sagan."><img src="http://hypertexthero.com/static/img/work/EarthAmongTheStars.png" alt="Earth Among The Stars in HTML and CSS." ></a><small>Earth Among The Stars <a href="http://hypertexthero.com/work/earth-among-the-stars/">experiment in old school HTML and CSS</a>.</small>
+            </li>
+          </ul>
+          
+        </div>
+      </div>
+      
+      <div class="writing block">
+        <div class="box">
+          <h2>Writing <small>And extended quotations, 2005–2016</small></h2>
+          <ul>
+            <li><a href="http://simongriffee.com/notebook/editing">Editing</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/03/cosmos/">Cosmos</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/10/dolce/">Dolce Via</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2016/04/photographer/">Photographer</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2011/01/tips-for-creating-your-online-identity/">Tips For Creating Your Online Identity</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2016/02/new-business-card/">New Business Card</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/03/gender/">Gender and Land Rights</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2012/04/web-design-where-to-begin/">Web Design: Where to Begin</a></li>
+            <li><a href="http://simongriffee.com/notebook/what-camera">What Camera Should I Use to Learn Photography?</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2016/01/jay-campbell-cello-conor-hanick-piano/">Jay Campbell on Cello, Conor Hanick on Piano</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/08/1-minute-arguments-basic-income-all-human-beings/">1-Minute Arguments For A Basic Income For All Human Beings</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/07/violence/">Violence</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/03/reasons-i-currently-use-mac/">The Reasons I Currently Use a Mac</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/03/cave-sector-cl-y-d15-4/">Cave Sector CL-Y D15 4</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/08/web-agreement-uri-thing/">The Web is Agreement, The URI is The Thing</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/07/fix-aching-wrist-when-developing-mac/">Fix for Aching Wrist When Developing With a Mac</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/07/connect-raspberry-pi-imac/">Connect to Raspberry Pi From an iMac</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/06/happier-people-computers-bigorgname/">Happier People and Computers in BigOrgName</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/05/firefox-29s-element-inspectors-worse-usability/">Firefox 29&rsquo;s Element Inspector&rsquo;s Worse Usability</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/04/easy-way-backup-website/">Easy Way to Backup a Website</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/04/eich-politics-firefox/">Don&rsquo;t Boycott Firefox Because of Brendan Eich</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/04/dont-hijack-browsers-keyboard-shortcuts/">Don&rsquo;t Hijack Browser Keyboard Shortcuts</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/04/climate-change-communication/">Climate Change Communication</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/03/web-publishing-maximum-longevity/">Web Publishing Workflow for Maximum Longevity</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/03/remembering-passwords/">Remembering Passwords</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/08/google-alphabet-logo-kerning/">Google Alphabet Logo Kerning</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/06/philosophy-joy-new-york-city-bus/">Philosophy of Joy on a New York City Bus</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/01/international-symbol-observer/">International Symbol for an Observer</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2015/01/digital-universe/">Digital Universe</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/09/experience-flying-spaceship/">The Experience of Flying in a Spaceship</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2014/07/elite-dangerous-education/">Elite: Dangerous Education</a></li>
+            <li><a href="http://hypertexthero.com/logbook/2011/11/the-pareto-problem-for-perfectionists/">The Pareto Problem for Perfectionists</a></li>
+            <li><a href="http://simongriffee.com/notebook/st-ives">St Ives</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/boundaries-and-the-europeanisation-of-space">Boundaries and the Europeanisation of Space: The EU, Integration and Evolving Theoretical Perspectives on Borders</a></li>
+            <li><a href="http://simongriffee.com/notebook/life-is-once-forever">Life is Once, Forever</a></li>
+            <li><a href="http://simongriffee.com/notebook/van-gogh-on-the-streets">Van Gogh on the Streets</a></li>
+            <li><a href="http://simongriffee.com/notebook/dialogue-at-san-calisto-9am">Dialogue at San Calisto, 9am</a></li>
+            <li><a href="http://simongriffee.com/notebook/red-violet-blues">Red Violet Blues</a></li>
+            <li><a href="http://simongriffee.com/notebook/mother-night">Mother Night</a></li>
+            <li><a href="http://simongriffee.com/notebook/attention">Attention</a></li>
+            <li><a href="http://simongriffee.com/notebook/joy-happiness">Joy and Happiness</a></li>
+            <li><a href="http://simongriffee.com/notebook/the-wind">The Wind</a></li>
+            <li><a href="http://simongriffee.com/notebook/prints/cats-pocket-print-pack">Cats Pocket Print Pack</a></li>
+            <li><a href="http://simongriffee.com/notebook/prints/rome-pocket-print-pack">Rome Pocket Print Pack</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/the-trouble-with-labels">The Trouble With Labels</a></li>
+            <li><a href="http://simongriffee.com/notebook/the-pig-warrior-dream">The Pig Warrior Dream</a></li>
+            <li><a href="http://simongriffee.com/notebook/rough-packing-list-for-extended-travel">Rough Packing List for Extended Travel</a></li>
+            <li><a href="http://simongriffee.com/notebook/why-the-ricoh-grd">Why the Ricoh GRD?</a></li>
+            <li><a href="http://simongriffee.com/notebook/asia-calling-consolidation-dusty-boxes">Asia Calling, Consolidation, Dusty Boxes</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/elsewhere-ara-s-photographs">Elsewhere: Ara&rsquo;s Photographs</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/the-united-states-border">The United States Border</a></li>
+            <li><a href="http://simongriffee.com/notebook/the-very-act-of-seeing">The Very Act of Seeing</a></li>
+            <li><a href="http://simongriffee.com/notebook/goodbye-steve">Goodbye, Steve</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/trinity">Trinity</a></li>
+            <li><a href="http://simongriffee.com/imaginarylines/hello-world">Hello, World</a></li>
+            <li><a href="http://simongriffee.com/notebook/richard-kalvar">Richard Kalvar</a></li>
+            <li><a href="http://simongriffee.com/notebook/russell-lee-a-talent-for-relating-to-strangers">Russell Lee - a talent for relating to strangers</a></li>
+            <li><a href="http://simongriffee.com/notebook/fuckin-big-mouse">Fuckin Big Mouse</a></li>
+            <li><a href="http://simongriffee.com/notebook/stone-river">Stone River</a></li>
+            <li><a href="http://simongriffee.com/notebook/home">Home</a></li>
+            <li><a href="http://simongriffee.com/notebook/i-aint-keak-da-sneak">I Ain&rsquo;t Keak da Sneak</a></li>
+            <li><a href="http://simongriffee.com/notebook/37000ft--lh459">37,000ft ✈ LH459</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/pope-in-africa">Pope in Africa</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/lines-of-the-mind">Line of the Mind</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/lies-seeing-with-your-own-eyes">Lies, Seeing With Your Own Eyes</a></li>
+            <li><a href="http://simongriffee.com/notebook/imaginarylines/the-will-to-find-out">The Will to Find Out</a></li>
+            <li><a href="http://simongriffee.com/notebook/washington-dc">Washington DC</a></li>
+            <li><a href="http://simongriffee.com/notebook/spring-cleaning">Spring Cleaning</a></li>
 
+          </ul>
+          <h2>About</h2>
+          <ul>
+            <li><a href="http://simongriffee.com/about/">Photography</a>, <a href="http://hypertexthero.com/about/">Design</a></li>
+            <li><a href="http://www.hypertexthero.com/static/files/SimonGriffee.pdf">Résumé</a></li>
+          </ul>
+          <h2>Elsewhere</h2>
+          <ul>
+            <li><a href="https://dribbble.com/hypertexthero" title="Dribbble.">Dribb</a></li>
+            <li><a href="https://plus.google.com/+simongriffee" title="Google+">Googl</a></li>
+            <li><a href="https://instagram.com/simongriffee" title="Instagram">Insta</a></li>
+            <li><a href="https://twitter.com/simongriffee/" title="Twitter">Twitt</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer block">
+        <div class="box">
+          &#10086; <a href="mailto:simongriffee@gmail.com">simongriffee@gmail.com</a>
+          <br><br><br>
+        </div>
+      </div>
+    </div>
 
+  </body>
 
-        <h2>
-          <a href="/singles/" title="Selected best photographs.">Singles</a>
-        </h2>
-
-				{% comment %}
-				<ul>
-					<li><a href="/singles/corporate.html">Corporate</a></li>
-					<li><a href="/singles/cultural.html">Cultural</a></li>
-					<li><a href="/singles/fashion.html">Fashion</a></li>
-					<li><a href="/singles/fine-art.html">Fine Art</a></li>
-					<li><a href="/singles/landscape.html">Landscape</a></li>
-					<li><a href="/singles/lifestyle.html">Lifestyle</a></li>
-					<li><a href="/singles/motion-music.html">Motion &amp; Music</a></li>
-					<li><a href="/singles/portraits.html">Portraits</a></li>
-					<li><a href="/singles/reportage-street-travel.html">Reportage, Street &amp; Travel</a></li>
-				</ul>
-				{% endcomment %}
-
-        <ul>
-          {% for post in site.posts %}{% if post.category contains 'singles' %}
-          <li><a href="{{ post.url }}" title="See this category.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
-        </ul>
-				
-
-        <h2>
-          <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>
-        </h2>
-
-        <ul>
-          {% for post in site.posts %}{% if post.category contains 'stories' %}
-          <li><a href="{{ post.url }}" title="See this story.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
-        </ul>
-      </div> <!-- /#subheader -->
-	  
-    </div> <!-- /#content -->
-
-    <div id="footer">
-			
-			{% include search.html %}
-      {% include footer.html %}
-    </div> <!-- /#footer -->
-
-  </div> <!-- /#page -->
-  {% include bodyend.html %}
-</body>
 </html>

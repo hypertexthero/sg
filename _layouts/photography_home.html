@@ -1,0 +1,183 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  {% include head.html %}
+  <title>
+    {{ site.name }}
+  </title>
+  <style type="text/css" media="screen">
+    /* homepage custom styles */
+    #subheader a, p.date a {border:0 !important; font-weight:normal !important;}
+    #content {padding:24px; margin:0; max-width:810px; text-align:left !important;}
+    #plateframe {width:580px; float:right; text-align:left !important;}
+    #plateframe img {max-width:780px; text-align:left !important;}
+    #plateframe div.caption img {border:0 !important;}
+    #plateframe a:hover {background:none; border:0;}
+    div.caption {text-align:left !important;}
+    #subheader {width:220px; float:left;}
+    #subheader ul {list-style-type:none; margin:0 0 1em; padding:0; clear:both;}
+    div.homesubnav {font-size:0.9em;}
+    #header {clear:both;}
+    h1#logo {margin-bottom:1em; float:none !important; line-height:1.25em; font-size:1em; font-weight:normal;}
+    h1#logo a {padding:0; font-weight:bold !important;}
+    h2 {margin:0.25em 0 0; font-size:1em; text-transform:uppercase; font-size:0.9em; letter-spacing:0.1em;}
+    h3 {font-size:1em; font-weight:normal;}
+    h3 a {font-weight:normal;}
+    a.go {padding:0 5px; color:#999; font-size:0.9em;}
+    .gogo a {font-weight:bold !important;}
+    a.advance-link {border:0; height:0;}
+    #footer {clear:both; text-align:left; margin-left:244px;}
+    @media (max-width: 1040px) {
+      body, #page, #content, #plateframe, #subheader, div.caption {display:block; position:relative; width:auto !important; min-width:auto !important; clear:both; text-align:center;}
+	
+      h2 {padding:0 5px 0 0;}
+      div.caption, #subheader, #plateframe, #footer {text-align:center; width:100% !important; margin:0 auto; text-align:center !important;}
+      h1#logo {text-align:center;}
+      #content {padding:10px 16px 10px 10px !important; max-width:auto;}
+      #content, #footer {padding:0 !important; margin:0 !important; max-width:auto;}
+      #plateframe {width:auto; margin-bottom:1.5em !important;}
+      div.caption {padding:0 20px !important; width:auto !important;}
+      #plateframe div.caption img {border:0 !important;}
+			{% comment %}
+			#page, #container, #content, #plateframe {width:auto !important; overflow: auto !important;}
+			div#sliderr {overflow-x:scroll; overflow-y:hidden; white-space:nowrap;}
+			div#sliderr img {display:inline !important; margin-right:1em !important;}
+			{% endcomment %}
+    }
+  </style>
+</head>
+<body id="notebook">
+  <div id="page">
+    <div id="content">
+      <div id="plateframe">
+          {% for post in site.posts limit:1 %}
+            {% if post.date_taken %}
+              <a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">
+                  <img {% if post.noborder %}style="border:0 !important;"{% endif %}  src="/images/{{ post.image }}.{% if post.extension %}{{ post.extension }}{% else %}jpg{% endif %}" alt="Permanent link to this Notebook entry." />
+              </a>
+              {% comment %}
+              <div class="caption">
+                <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}, {{ post.location }}, {{ post.date_taken }}</a></h3>
+                <p class="date">
+                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
+                {{ post.content }}
+              </div> <!-- /.caption -->
+              {% endcomment %}
+						
+						{% comment %} For singles {% endcomment %}
+							{% elsif post.homeimg %}
+	              <a href="{{ site.url }}{{ post.url }}" title="See this selection.">
+	                  <img src="{{ post.homeimg }}" alt="See this selection." />
+	              </a>
+								
+                {% comment %}
+		            <div class="caption">
+		              <h3><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this selection.">{{ post.title }}</a></h3>
+		                <p class="date">
+		                  <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this selection."># Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
+										{{ post.intro }}
+		            </div> <!-- /.caption -->
+                {% endcomment %}
+
+							{% else %}
+						
+              <div class="caption">
+                <h3><a style="font-weight:bold;" href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry.">{{ post.title }}</a></h3>
+                  <p class="date">
+                    <i><a href="{{ site.url }}{{ post.url }}" title="Permanent link to this Notebook entry."># Published {{ post.date | date: "%-d %B %Y" }}</a></i></p>
+                  {{ post.content }}
+              </div> <!-- /.caption -->
+            {% endif %}
+          {% endfor %}				
+					
+          <p>{% include hireme.html %}</p>
+      </div> <!-- /#plateframe -->
+      
+      <div id="subheader">
+        <h1 id="logo">
+					<a href="/" title="SimonGriffee.com homepage." style="font-size:1.1em;">Simon Griffee</a>
+					<br>
+					<em>Photography</em>
+          <br>
+          NYC
+				</h1>
+
+        <ul>
+          <li id="nav-about"><a href="/about/" title="Biography of Simon Griffee.">About</a></li>
+          <li><a href="http://hypertexthero.com/work/" title="Hypertexthero.com">Design</a></li>
+          <li id="nav-contact"><a href="/contact/" title="Correspond with Simon.">Contact</a></li>
+          <li id="nav-prints"><a href="/prints/" title="Buy a print or hire me to photograph for you.">Prints &amp; Commissions</a></li>
+          <li>
+            <a href="/notebook/" title="A photographic journal, usually showing recent work.">Notebook</a>
+            {% include home_navigation.html %}
+          </li>
+            {% comment %}
+					<li>
+
+						<!-- Begin MailChimp Signup Form -->
+						<div id="mc_embed_signup" style="font-size:0.9em;">
+						<form action="//simongriffee.us10.list-manage.com/subscribe/post?u=65f6bb039b3c2a16e0a535abb&amp;id=be73afffb0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+						    <div id="mc_embed_signup_scroll">
+							<label for="mce-EMAIL" style="font-weight:normal !important;">Subscribe to <a style="font-weight:bold !important;" href="http://us10.campaign-archive1.com/home/?u=65f6bb039b3c2a16e0a535abb&id=be73afffb0" title="View previous emails.">my mailing list</a> to receive the previous week&rsquo;s notebook entries (usually photographs) by email every Monday. You won&rsquo;t be spammed.</label>
+							<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+						    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups -->
+						    <div style="position: absolute; left: -5000px;"><input type="text" name="b_65f6bb039b3c2a16e0a535abb_be73afffb0" tabindex="-1" value=""></div>
+						    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" ></div>
+						    </div>
+						</form>
+						</div>
+						<!--End mc_embed_signup-->
+
+					</li>
+            {% endcomment %}
+        </ul>
+
+
+
+
+        <h2>
+          <a href="/singles/" title="Selected best photographs.">Singles</a>
+        </h2>
+
+				{% comment %}
+				<ul>
+					<li><a href="/singles/corporate.html">Corporate</a></li>
+					<li><a href="/singles/cultural.html">Cultural</a></li>
+					<li><a href="/singles/fashion.html">Fashion</a></li>
+					<li><a href="/singles/fine-art.html">Fine Art</a></li>
+					<li><a href="/singles/landscape.html">Landscape</a></li>
+					<li><a href="/singles/lifestyle.html">Lifestyle</a></li>
+					<li><a href="/singles/motion-music.html">Motion &amp; Music</a></li>
+					<li><a href="/singles/portraits.html">Portraits</a></li>
+					<li><a href="/singles/reportage-street-travel.html">Reportage, Street &amp; Travel</a></li>
+				</ul>
+				{% endcomment %}
+
+        <ul>
+          {% for post in site.posts %}{% if post.category contains 'singles' %}
+          <li><a href="{{ post.url }}" title="See this category.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
+        </ul>
+				
+
+        <h2>
+          <a href="/stories/" title="Projects, essays, series of photographs.">Stories</a>
+        </h2>
+
+        <ul>
+          {% for post in site.posts %}{% if post.category contains 'stories' %}
+          <li><a href="{{ post.url }}" title="See this story.">{{ post.title }}</a></li>{% else %}{% endif %}{% endfor %}
+        </ul>
+      </div> <!-- /#subheader -->
+	  
+    </div> <!-- /#content -->
+
+    <div id="footer">
+			
+			{% include search.html %}
+      {% include footer.html %}
+    </div> <!-- /#footer -->
+
+  </div> <!-- /#page -->
+  {% include bodyend.html %}
+</body>
+</html>
