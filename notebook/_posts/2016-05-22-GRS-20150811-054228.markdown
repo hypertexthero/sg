@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue Near West 50th Street
+location: New York City
+date_taken: August 2015
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-05-22 22:07:58
+tags: [20 to 30 years, asian, bag, cat, color, fashion, girl, handbag, purse, street, summer]
+image: GRS-20150811-054228
+---

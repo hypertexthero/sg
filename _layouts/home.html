@@ -34,19 +34,29 @@
       img {display:block;}
       .header, .footer {text-align:center;}
       .header .box {padding-bottom:0;}
-      .icons a {padding:5px 10px; border:0; display:none;}
+      .icons a {padding:15px 10px; border:0; display:none; font-size:11px;}
+      :target {
+/*	background:#ffc;*/
+	font-size:1.5em !important;
+/* 100 ms threshold http://stackoverflow.com/a/2547903 */
+  -webkit-transition: all 0.09s ease;
+  	 -moz-transition: all 0.09s ease;
+  	   -o-transition: all 0.09s ease;
+  		-ms-transition: all 0.09s ease;
+			  	 transition:all 0.09s ease;
+}
 
       @media (min-width: 768px) {
         .design { width: 30%;  }
-        .photography { width: 40%; }
-        .writing { width: 30%; }
+        .photography { width: 30%; }
+        .writing { width: 40%; }
         img {width:100%; height:auto;}
       }
       @media (min-width: 300px) {
         img {width:100%; height:auto;}
 
       }
-      @media (max-width:768px) {.icons a {display:inline;}}
+      @media (max-width:768px) {.icons a {display:inline;} .header {padding:10px 0;}}
     </style>
   </head>
 
@@ -56,55 +66,72 @@
 
       <div class="header block">
         <div class="box">
-          <h1>Simon Griffee <span class="icons"><a href="#photography" title="Photography">&cir;</a> <a href="#design" title="Design">&square;</a> <a href="#writing" title="Writing">&triangledown;</a></span></h1>
+          <h1>Simon Griffee <span class="icons"><a href="#photography" title="Photography">Photos</a> <a href="#design">Design</a> <a href="#writing">Writing</a> <a href="#about">About</a> <a href="#contact">Contact</a></span></h1>
         </div>
       </div>
 
 
       <div class="photography block">
         <div class="box">
-          <h2 id="photography">Photography <small><a href="http://simongriffee.com/notebook/">Notebook 2005–2016</a></small></h2>
+          <h2 id="photography"><a href="/photography/">Photography</a> <small><a href="/notebook/">Blog</a>, <a href="https://instagram.com/simongriffee" title="Instagram">Instagram</a>, <a href="http://us10.campaign-archive1.com/home/?u=65f6bb039b3c2a16e0a535abb&id=be73afffb0">mailing list</a>, <a href="/random/" title="Let the stars and math decide.">random photo</a>.</small></h2>
 
           <ul>
             <li>
-              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=22"><img src="http://simongriffee.com/img/Nyc/022-GRS-20150320-162137.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/nyc"><img src="http://simongriffee.com/img/Nyc/022-GRS-20150320-162137.jpg" alt="New York City." title="New York City."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=7"><img src="http://simongriffee.com/img/Nyc/007-GRS-20150217-142910.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/singles/love-longing"><img src="http://simongriffee.com/img/LoveLonging/018-GRS-20150217-142910.jpg" alt="Love and Longing." title="Love and Longing."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=40"><img src="http://simongriffee.com/img/Nyc/040-GRS-20151126-144455.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/salento"><img src="http://simongriffee.com/img/Salento/007-GRS-20140903-155814.jpg" alt="Salento." title="Salento."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/nyc#&gid=1&pid=41"><img src="http://simongriffee.com/img/Nyc/041-GRS-20151007-163402.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/fez-morocco"><img src="http://simongriffee.com/img/FezMorocco/001-GRS-20140206-141926.jpg" alt="Fez, Morocco." title="Fez, Morocco."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/salento#&gid=1&pid=27"><img src="http://simongriffee.com/img/Salento/027-GRS-20140908-115502.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/joshua-tree"><img src="http://simongriffee.com/img/JoshuaTree/006-GRS-20070128-221019.jpg" alt="Joshua Tree." title="Joshua Tree."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/singles/reportage#&gid=1&pid=8"><img src="http://simongriffee.com/img/Reportage/015-GRS-20140504-121413.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/vietname"><img src="http://simongriffee.com/img/Vietnam2010/002-GRS-20100410-165643.jpg" alt="Vietnam." title="Vietnam."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/empire-security#&gid=1&pid=9"><img src="http://simongriffee.com/img/EmpireSecurity/009-GRS-20140503-171951.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/singles/reportage"><img src="http://simongriffee.com/img/Reportage/001-GRS-20151015-100821.jpg" alt="Reportage." title="Reportage."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/the-island#&gid=1&pid=4"><img src="http://simongriffee.com/img/TheIsland/004-GRS-20100710-013930.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/empire-security"><img src="http://simongriffee.com/img/EmpireSecurity/009-GRS-20140503-171951.jpg" alt="Empire Security." title="Empire Security."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/you-and-me#&gid=1&pid=11"><img src="http://simongriffee.com/img/YouAndMe/011-GRS-20111127-142844.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/the-island"><img src="http://simongriffee.com/img/TheIsland/004-GRS-20100710-013930.jpg" alt="The Island." title="The Island."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/monterey-aquarium#&gid=1&pid=2"><img src="http://simongriffee.com/img/MontereyAquarium/002-GRS-20060223-135252.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/you-and-me"><img src="http://simongriffee.com/img/YouAndMe/011-GRS-20111127-142844.jpg" alt="You And Me." title="You and Me."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/stories/journey-through-us#&gid=1&pid=22"><img src="http://simongriffee.com/img/JourneyThroughUs/022-GRS-20050712-211738.jpg" alt="A black and white photograph."></a>
-            </li>
-
-            <li>
-              <a href="http://simongriffee.com/stories/five-days-in-paris#&gid=1&pid=4"><img src="http://simongriffee.com/img/Paris2013/004-GRS-20130511-155108.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/monterey-aquarium"><img src="http://simongriffee.com/img/MontereyAquarium/002-GRS-20060223-135252.jpg" alt="Monterey Aquarium." title="Monterey Aquarium."></a>
             </li>
             <li>
-              <a href="http://simongriffee.com/singles/portraits#&gid=1&pid=43"><img src="http://simongriffee.com/img/Portraits/044-GRS-20111122-174515.jpg" alt="A black and white photograph."></a>
+              <a href="http://simongriffee.com/stories/journey-through-us"><img src="http://simongriffee.com/img/JourneyThroughUs/022-GRS-20050712-211738.jpg" alt="Journey Through US." title="Journey Through US."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/five-days-in-paris"><img src="http://simongriffee.com/img/Paris2013/004-GRS-20130511-155108.jpg" alt="Paris." title="Paris."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/stories/fashion-squad"><img src="http://simongriffee.com/img/FashionSquad/001-GRS-20120616-195403.jpg" alt="Fashion Squad." title="Fashion Squad."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/travel"><img src="http://simongriffee.com/img/Travel/037-GRS-20050621-171314.jpg" alt="Travel." title="Travel."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/wedding-and-reception"><img src="http://simongriffee.com/img/Wedding2013/005-GRS-20130721-204111.jpg" alt="Wedding and Reception." title="Wedding and Reception."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/prague"><img src="http://simongriffee.com/img/Prague/001-GRS-20121225-160349.jpg" alt="Prague." title="Prague."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/cortona"><img src="http://simongriffee.com/img/PassagesCortona/001-GRS-20110728-171939.jpg" alt="Cortona." title="Cortona."></a>
+            </li>
+            <li>
+              <a href="http://simongriffee.com/singles/portraits"><img src="http://simongriffee.com/img/Portraits/044-GRS-20111122-174515.jpg" alt="Portraits."></a>
             </li>
 
 
@@ -115,7 +142,7 @@
 
       <div class="design block">
         <div class="box">
-          <h2 id="design">Design <small><a href="http://hypertexthero.com/">Hypertexthero 2005–2016</a></small></h2>
+          <h2 id="design"><a href="http://hypertexthero.com/">Design</a> <small><a href="http://hypertexthero.com/logbook/">Blog</a>, <a href="https://dribbble.com/hypertexthero">Dribbble</a>.</small></h2>
 
           <ul>
             <li>
@@ -124,7 +151,7 @@
             </li>
             <li>
               <a href="http://hypertexthero.com/work/websites/" title="Various website designs.">
-                <img src="http://hypertexthero.com/static/img/work/websites.jpg" alt="International Plant Protection Convention website redesign." title="International Plant Protection Convention website redesign.">
+                <img src="http://hypertexthero.com/static/img/work/websites.jpg" alt="UX/UI website design work examples." title="UX/UI website design work examples.">
               </a>
               <small>Various <a href="http://hypertexthero.com/work/websites/">UX/UI website design</a> work, including some <a href="http://hypertexthero.com/work/websites/#lightcrafts">wireframe</a> examples.</small>
             </li>
@@ -178,7 +205,20 @@
 
       <div class="writing block">
         <div class="box">
-          <h2 id="writing">Writing <small>And extended quotations, 2005–2016</small></h2>
+          <h2 id="about">About</h2>
+          <ul>
+            <li><a href="http://simongriffee.com/about/">Photos</a>, <a href="http://hypertexthero.com/about/">Design</a></li>
+            <li><a href="http://www.hypertexthero.com/static/files/SimonGriffee.pdf">Résumé</a></li>
+            <li><a href="#contact">Contact</a>
+          </ul>
+          <h2 id="elsewhere">Elsewhere</h2>
+          <ul>
+            <li><a href="https://dribbble.com/hypertexthero" title="Dribbble.">Dribb</a></li>
+            <li><a href="https://plus.google.com/+simongriffee" title="Google+">Googl</a></li>
+            <li><a href="https://instagram.com/simongriffee" title="Instagram">Insta</a></li>
+            <li><a href="https://twitter.com/simongriffee/" title="Twitter">Twitt</a></li>
+          </ul>
+          <h2 id="writing">Writing <small>&amp; extended quotations</small></h2>
           <ul>
             <li><a href="http://simongriffee.com/notebook/editing">Editing</a></li>
             <li><a href="http://hypertexthero.com/logbook/2014/03/cosmos/">Cosmos</a></li>
@@ -250,23 +290,14 @@
             <li><a href="http://simongriffee.com/notebook/spring-cleaning">Spring Cleaning</a></li>
 
           </ul>
-          <h2>About</h2>
-          <ul>
-            <li><a href="http://simongriffee.com/about/">Photography</a>, <a href="http://hypertexthero.com/about/">Design</a></li>
-            <li><a href="http://www.hypertexthero.com/static/files/SimonGriffee.pdf">Résumé</a></li>
-          </ul>
-          <h2>Elsewhere</h2>
-          <ul>
-            <li><a href="https://dribbble.com/hypertexthero" title="Dribbble.">Dribb</a></li>
-            <li><a href="https://plus.google.com/+simongriffee" title="Google+">Googl</a></li>
-            <li><a href="https://instagram.com/simongriffee" title="Instagram">Insta</a></li>
-            <li><a href="https://twitter.com/simongriffee/" title="Twitter">Twitt</a></li>
-          </ul>
         </div>
       </div>
       <div class="footer block">
         <div class="box">
-          &#10086; <a href="mailto:simongriffee@gmail.com">simongriffee@gmail.com</a>
+          <span id="contact">✎ <a href="mailto:simongriffee@gmail.com">simongriffee@gmail.com</a></span>
+          <br><br><br>
+          <br><br><br>
+          <br><br><br>
           <br><br><br>
         </div>
       </div>

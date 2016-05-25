@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue and West 52nd Street
+location: New York City
+date_taken: August 2015
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-05-22 22:00:23
+tags: [anger, boy, bw, gesture, mother, pimple, son, street, veil, woman]
+image: GRS-20150811-053702
+---
