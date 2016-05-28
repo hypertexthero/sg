@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Broadway Near Canal Street
+location: New York City
+date_taken: August 2015
+camera: Leica M8
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-05-24 21:56:41
+tags: [20 to 35 years, arm, color, distance, eyes, face, italian, loader, look, mailman, man, messenger, sidewalk, street, worker]
+image: GRS-20150812-043914
+---
