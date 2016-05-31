@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square Park
+location: New York City
+date_taken: May 2016
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-05-30 21:02:37
+tags: [15 to 20 years, afternoon, bench, boy, bw, distance, girl, heartbreak, love, park, shorts, youth]
+image: GRS-20160527-172711
+---

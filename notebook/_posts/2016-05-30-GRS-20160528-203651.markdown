@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Inwood
+location: New York City
+date_taken: May 2016
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-05-30 20:43:59
+tags: [bark, bw, carved, dark, eye, leaves, light, man, nature, night, stars, tree, trunk]
+image: GRS-20160528-203651
+---
