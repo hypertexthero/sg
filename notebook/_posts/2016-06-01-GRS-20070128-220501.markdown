@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Joshua Tree
+location: California
+date_taken: January 2007
+camera: Canon 5D
+lens: EF 17–40mm f/4L USM
+date: 2016-06-01 22:09:31
+tags: [bush, cloud, constellations, contrail, desert, distance, duotone, landscape, moon, night, rock, sky, smoke, stars]
+image: GRS-20070128-220501
+---
