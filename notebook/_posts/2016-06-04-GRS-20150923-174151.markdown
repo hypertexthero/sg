@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: 5th Avenue
+location: New York City
+date_taken: September 2015
+camera: Leica M9
+lens: Leica Elmarit-M 28mm f/2.8 Asph
+date: 2016-06-04 21:15:34
+tags: [30 to 50 years, arms, belly, bw, expression, fat, flash, man, overweight, running, shirt, stomach, street, walk]
+image: GRS-20150923-174151
+---
