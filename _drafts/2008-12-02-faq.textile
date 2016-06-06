@@ -1,8 +1,8 @@
---- 
+---
 layout: entry
 title: FAQ
 category: prints
-tags: 
+tags:
 - frequently
 - asked
 - questions

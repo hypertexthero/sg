@@ -1,8 +1,8 @@
---- 
+---
 layout: entry
 title: About SimonGriffee.com
 category: about
-tags: 
+tags:
 - simon griffee
 ---
 <!-- <img class="floatright" src="http://simongriffee.com/images/me_camera.jpg" title="Simon Griffee with his camera." alt="Simon Griffee" />-->
@@ -14,12 +14,12 @@ Like many fellow human beings I communicate in one of our oldest languages, draw
 h2. Biography
 
 Born in the South American continent of "planet Earth (See a drawing of Earth made with text, and click on the blue planet to read Star Maker by Olaf Stapledon.)":http://simongriffee.com/earth/.
-Travels and works. Continues to work and travel. 
+Travels and works. Continues to work and travel.
 Currently based in Rome in the Italic Peninsula.
 
 h2(#work). Prints & Commissioned Work
 
-Almost all images found on <a href="http://simongriffee.com">SimonGriffee.com</a> are available as  exhibition-quality prints. Prints are made of carbon pigment ink and cotton paper and signed in verso. Editioned prints are also available. Please "contact me (Go to the contact page.)":/contact/ for prices noting which image you are interested in. 
+Almost all images found on <a href="http://simongriffee.com">SimonGriffee.com</a> are available as  exhibition-quality prints. Prints are made of carbon pigment ink and cotton paper and signed in verso. Editioned prints are also available. Please "contact me (Go to the contact page.)":/contact/ for prices noting which image you are interested in.
 
 To hire me for commissioned work please "send me a message (To the contact page.)":/contact/. I am quite friendly and easy to work with.
 
@@ -37,5 +37,5 @@ h2. Group Exhibition
 
 h2(#copyright). Copyright
 
-Photographs are copyright by Simon Griffee. 
+Photographs are copyright by Simon Griffee.
 All rights reserved.

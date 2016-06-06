@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Amber, Lastorta and Zucchina
+location: Rome, Italy
+date_taken: September 2013
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2016-06-05 22:14:07
+tags: [amber, blanket, cat, girl, lastorta, laughter, smile, sofa, zucchina]
+image: GRS-20130921-231504
+---

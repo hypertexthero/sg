@@ -1,8 +1,7 @@
---- 
+---
 layout: entry
 title: Contact Simon
 category: contact
-tags: []
 
 ---
 <h2>Contact Simon</h2>
@@ -24,7 +23,7 @@ simon--AT--simongriffee--DOT--com
  <div class="iefieldsetbugfix">
  <txp:zem_contact_textarea label="Your Message" /><br />
  <txp:zem_contact_text label="Your Name" size="35" /><br />
- <txp:rah_replace from='type="text"' to='type="email"'> 
+ <txp:rah_replace from='type="text"' to='type="email"'>
  <txp:zem_contact_email label="Your Email" size="35" /><br />
  </txp:rah_replace>
  <txp:zem_contact_submit label="Send" />

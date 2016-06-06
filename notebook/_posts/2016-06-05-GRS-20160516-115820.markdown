@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: East 46th Street and Lexington Avenue
+location: New York City
+date_taken: May 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-06-05 21:21:08
+tags: [20 to 40 years, ambition, bw, cloud, expression, gel, hair, man, reflection, steam, street, suit, tie]
+image: GRS-20160516-115820
+---
