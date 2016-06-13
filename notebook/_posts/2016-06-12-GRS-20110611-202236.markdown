@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Via dei Fori Imperiali
+location: Rome, Italy
+date_taken: June 2011
+camera: Leica M8
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-06-12 19:49:56
+tags: [30 to 65 years, bishop, bw, catholic church, gay, humor, humour, men, persecution, religion, stilts, street, tall, tree]
+image: GRS-20110611-182236
+---

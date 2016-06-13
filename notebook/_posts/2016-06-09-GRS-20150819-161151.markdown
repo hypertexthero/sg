@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Amsterdam Avenue Near 116th Street
+location: New York City
+date_taken: August 2015
+camera: Fuji X100s
+lens: Fujinon 35mm f/2 Asph
+date: 2016-06-09 22:15:32
+tags: [30 to 65 years, black, bw, expression, eyes, fear, flash, man, men, race, road, walk, white]
+image: GRS-20150819-161151
+---
