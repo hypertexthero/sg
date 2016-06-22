@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Bruce in Beacon
+location: New York
+date_taken: June 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-06-14 22:29:07
+tags: [60 to 70 years, beacon, bruce gilden, hat, man, photographer, planks, shore, walk]
+image: GRS-20160612-131440
+---

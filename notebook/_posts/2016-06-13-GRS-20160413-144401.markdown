@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Washington Square South and LaGuardia Place
+location: New York City
+date_taken: April 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-06-13 21:13:31
+tags: [16 to 25 years, bernie sanders, boy, bw, distance, expression, eyes, girl, group, street, youth]
+image: GRS-20160413-144401
+---

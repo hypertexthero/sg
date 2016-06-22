@@ -1,0 +1,13 @@
+--- 
+layout: entry
+category: notebook
+excerpt:
+title: Amber
+location: Howard City, Michigan
+date_taken: June 2016
+camera: Leica M9
+lens: Leitz Summilux 35mm f/1.4
+date: 2016-06-21 00:14:55
+tags: [20 to 35 years, amber, animals, bw, clouds, cows, farm, fence, girl, grass, howard city, plantation, plants, sky]
+image: GRS-20160617-173850
+---
